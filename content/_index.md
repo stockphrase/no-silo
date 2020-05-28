@@ -4,17 +4,16 @@ bookToc: false
 type: docs
 ---
 
+<div style="text-align:center">{{< figure src="/logo.png" >}}</div>
 
-# No Silo
-
-{{< hint danger >}}
+{{< hint note >}}
 
 This site is **under heavy construction** and is not yet ready for use. Mistakes, broken links, and the like should be expected.
 
 {{< /hint >}}
 
 
-[**No Silo**]() is the companion site to Alan C. Taylor's writing courses at Dartmouth College. The site contains `syllabi`, `course materials`, `workshops`, and other related bits and pieces. While we will still use [Canvas](https://canvas.dartmouth.edu) for our assignment workflow, much of the course content may be found here.
+**No Silo** is the companion site to Alan C. Taylor's writing courses at Dartmouth College. The site contains `syllabi`, `course materials`, `workshops`, and other related bits and pieces. While we will still use [Canvas](https://canvas.dartmouth.edu) for our assignment workflow, much of the course content may be found here.
 
 The term `No Silo` stems from a talk I gave to the faculty of the [Institute for Writing and Rhetoric](https://writing-speech.dartmouth.edu) at Dartmouth College in the winter of 2020. The talk was about tearing down information silos and sharing our syllabi, workshops, prompts, and other teacherly artifacts. This site is the natural extension of those ideas.
 
@@ -22,7 +21,7 @@ The term `No Silo` stems from a talk I gave to the faculty of the [Institute for
 
 ## Courses
 
-{{< fa paperclip >}} `Writing Courses`
+[{{< fa paperclip >}}]() `Writing Courses`
 
 {{< details "Writing 2" closed >}}
 
@@ -63,12 +62,10 @@ The term `No Silo` stems from a talk I gave to the faculty of the [Institute for
 
 ## Projects
 
-{{< fa book-open >}} `The Open Handbook`
+[{{< fa book-open >}}]() `The Open Handbook`
 
 
-The `Open Handbook` project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/) and hosted at {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/OpenHandbook). I am in the process of translating the project into [markdown](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. The chapters will slowly appear here on this site as I have time.
-
-- This work is licensed under a Creative Commons [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+The `Open Handbook` project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/) and hosted at {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/OpenHandbook). I am in the process of translating the project into [markdown](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. The code for this site is also stored at {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/no-silo). The chapters will slowly appear here on this site as I have time.
 
 
 {{< details "The Open Handbook" closed >}}

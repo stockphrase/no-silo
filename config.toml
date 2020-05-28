@@ -1,4 +1,3 @@
-# hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://no-silo.com'
 title = 'No Silo'
@@ -69,7 +68,7 @@ googleAnalytics = "UA-167416562-1"
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  # BookEditPath = 'edit/master/exampleSite'
+   BookEditPath = 'edit/master/'
 
   # Configure the date format used on the pages
   # - In git information

@@ -10,10 +10,21 @@ you must alter a source in some way. Generally, these alterations are
 used to satisfy grammar and/or make your writing easier to follow by
 removing or adding words or phrases. 
 
-- To indicate that we have *altered* or *added* words to a source text in our own writing we use **square brackets**: \[ \]
+{{< hint warning >}}
+
+**To alter or add words to a source**
+
+- To indicate that we have *altered* or *added* words to a source text in our own writing we use **square brackets**: \[ \].
+
+{{</hint>}}
+
+{{< hint warning >}}
+
+**To *remove* words from a source**
 
 - To indicate that we have *removed* words from a source text we use **ellipses**---a series of periods to mark where something has been removed from the source.
 
+{{</hint>}}
 These alterations should be used *sparingly*. In fact, you should only
 alter a source if there is no other practical way to include the
 material in a quotation. Overuse of brackets or ellipsis will make your
