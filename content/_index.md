@@ -1,10 +1,10 @@
 ---
 title: No Silo
-bookToc: false
+bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=170 >}}</div>
 
 {{< hint note >}}
 
@@ -19,45 +19,6 @@ The term `No Silo` stems from a talk I gave to the faculty of the [Institute for
 
 ---
 
-## Courses
-
-[{{< fa paperclip >}}]() `Writing Courses`
-
-{{< details "Writing 2" closed >}}
-
-#
-
-## Writing 2/3
-
-**Writing 2** is an introduction to academic writing. The course focuses on how to `acquire knowledge`, `evaluate evidence`, and `articulate arguments`. We will cultivate these critical practices through rigorous group inquiry---by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
-
----
-
-- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
-
-- `Assignments`:    [Essay 1]() | [Essay 2]() | [Essay 3]()
-
-- `Workshops`:    `TBA` | `TBA` | [`TBA`
-
-
-{{< /details >}}
-
-
-{{< details "Writing 3" closed >}}
-
-#
-
-`Writing 3` focuses on academic research. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. The theme for this course examines `post-apocalyptic` fiction, film, and art.
-
----
-
-- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
-
-- `Assignments`:   `TBA`
-
-- `Workshops`:    `TBA` | `TBA` | [`TBA`
-
-{{< /details >}}
 
 
 ## Projects
@@ -65,7 +26,9 @@ The term `No Silo` stems from a talk I gave to the faculty of the [Institute for
 [{{< fa book-open >}}]() `The Open Handbook`
 
 
-The `Open Handbook` project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/) and hosted at {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/OpenHandbook). I am in the process of translating the project into [markdown](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. The code for this site is also stored at {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/no-silo). The chapters will slowly appear here on this site as I have time.
+The `Open Handbook` project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/). I am in the process of translating the project into [.md](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. 
+
+If you would like to collaborate on the project, please contact me. If you know your way around git, you can fork the project on {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/no-silo).
 
 
 {{< details "The Open Handbook" closed >}}
@@ -88,19 +51,74 @@ The `Open Handbook` project is a free, open-source reference handbook that intro
 - 7. [Paragraphs & Topic Sentences](/resources/open-handbook/chapter-7)
 - 8. [Working with Sources](/resources/open-handbook/chapter-8)
 - 9. [Altering Sources](/resources/open-handbook/chapter-9)
-- 10. Plagiarism
-- 11. Documentation of Sources
+- 10. [Plagiarism](/resources/open-handbook/chapter-10)
+- 11. [Documentation of Sources](/resources/open-handbook/chapter-11)
+    - Modern Language Association Style (MLA)
+    - Chicago Style
 - 12. Academic Research
 - 13. Common Sentence Errors
+- 14. [On Style](/resources/open-handbook/chapter-14)
 
+* [Index](/resources/open-handbook/keyword-index)
 
+---
+
+## GitHub Repos
+
+- Open Handbook [LaTeX version](https://github.com/stockphrase/OpenHandbook).
+- Open Handbook [Markdown version](https://github.com/stockphrase/no-silo/tree/master/content/resources/open-handbook).
+
+## Download
 
 | File   |      Download      
 |----------|:-------------:
-| Open Handbook |  [.pdf](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf)
-| Open Handbook |  .tex   
-| Open Handbook |   .md
-
+| Open Handbook | [.pdf](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf)
+| Open Handbook |  .tex
+| Open Handbook |  .md
 
 
 {{< /details >}}
+
+
+## Courses
+
+[{{< fa paperclip >}}]() `Writing Courses`
+
+{{< details "Writing 2" closed >}}
+
+#
+
+## Writing 2/3
+
+
+**Writing 2** is an introduction to academic writing. The course focuses on how to `acquire knowledge`, `evaluate evidence`, and `articulate arguments`. We will cultivate these critical practices through rigorous group inquiry---by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
+
+---
+
+- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
+
+- `Assignments`:    [Essay 1]() | [Essay 2]() | [Essay 3]()
+
+- `Workshops`:    `TBA` | `TBA` | [`TBA`
+
+
+{{< /details >}}
+
+
+{{< details "Writing 3" closed >}}
+
+#
+
+**Writing 3** focuses on academic research. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. The theme for this course examines `post-apocalyptic` fiction, film, and art.
+
+---
+
+- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
+
+- `Assignments`:   `TBA`
+
+- `Workshops`:    `TBA` | `TBA` | [`TBA`
+
+{{< /details >}}
+
+

@@ -4,6 +4,8 @@ bookHidden: true
 title: "8. Working with Sources"
 ---
 
+<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+
 # Working with Sources
 
 > The ugly fact is books are made out of books.

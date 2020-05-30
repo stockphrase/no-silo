@@ -6,7 +6,7 @@ bookHidden: true
 
 
 
-# The Open Handbook
+<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
 
 # Annotation and Critical Reading
 
@@ -33,7 +33,7 @@ summary notes**.
 Annotating texts
 ----------------
 
-Analysis requires breaking an argument down into smaller parts so that
+`Analysis` requires breaking an `argument` down into smaller parts so that
 you can understand how those parts work together to make the whole. The
 best way to begin this process is to annotate texts as you read them by
 using a system of symbols and marginal notes made on the document
@@ -41,25 +41,25 @@ itself. There is no right or wrong way to mark up a text, but you should
 develop a system that you are comfortable with and try to stick with it.
 Writing while you read will help you stay focused and read critically.
 In fact, I would argue that if you are not writing while you read---by
-putting it into your own words through annotation, summary, paraphrase, and quotation---then you are not reading critically at all.
+putting it into your own words through `annotation`, `summary`, `paraphrase`, and `quotation`---then you are not reading critically at all.
 
 Your objective in annotation is to flag the key elements of a piece of
-writing---such as the thesis, argumentative points, and key pieces of
+writing---such as the `thesis`, argumentative points, and key pieces of
 evidence. This kind of work serves two purposes. First, it helps you
 maintain a critical focus as you read. Second, it helps you later if the
 text must be used for study or your own writing.
 
 During my annotations I always flag a number of things. I underline the
-thesis once I find it and I place large dots next to pieces of evidence
-or statements being used to support the thesis. I always place keywords
-or a short statement next to each paragraph, aiming to create a \"micro
-summary\" of the content. I use check marks or exclamation points next
+`thesis` once I find it and I place large dots next to pieces of `evidence`
+or statements being used to support the `thesis`. I always place keywords
+or a short statement next to each `paragraph`, aiming to create a "micro
+summary" of the content. I use check marks or exclamation points next
 to statements that I find important or noteworthy. Sometimes I draw
 arrows to connect parts of the essay that seem related to me in some
 way.
 
-In addition to flagging and summarizing a text's key ideas and
-arguments, I also ask questions in the margins or note places where I
+In addition to flagging and `summarizing` a text's key ideas and
+`arguments`, I also ask questions in the margins or note places where I
 become confused. This is helpful later, on my second reading, since I
 can pay more careful attention to the passages that gave me trouble. I
 also write my thoughts as they occur to me and state objections to
@@ -69,7 +69,7 @@ these sorts of connections is a central feature of the kind of thinking
 and writing you will do in college.
 
 As you can see from the example here to the right, the process of
-annotation keeps me engaged, active, and alertkey components in critical
+annotation keeps me engaged, active, and alert---key components in critical
 thinking.
 
 ![image](https://github.com/stockphrase/OpenHandbook/blob/master/Chapters/images/Annotation1.jpg?raw=true)
@@ -115,9 +115,9 @@ highlighting while reading:
     results in a significant boost to information retention.
 
 -   Finally, highlighting doesn't help you understand the structure of
-    an argumentthe main goal of any critical analysis. Arguments all
+    an `argument`---the main goal of any critical `analysis`. Arguments all
     have a certain structure: there is a main idea supported by a series
-    of claims, reasons, and pieces of supporting evidence. The
+    of `claims`, `reasons`, and pieces of supporting `evidence`. The
     highlighter *fails to reveal this structure*. Flagging key
     structural features of arguments (as described above in the process
     of annotation) will dramatically reduce the time it takes to study
@@ -132,7 +132,7 @@ annotation and critical reading:
 
 -   **Use a symbol system**. Develop a system of symbols to flag
     important aspects of a reading. Mark significant elements within the
-    text such as the thesis, argumentative claims, and evidence. Also
+    text such as the `thesis`, argumentative `claims`, and `evidence`. Also
     note when a text references other texts, authors, or events. Note
     places where you become confused or uncertain; later, in a second
     reading, you can give extra attention to these portions of the text.
@@ -142,7 +142,7 @@ annotation and critical reading:
     conclusions and arguments that he or she presents by making ones of
     your own.
 
--   **Summarize**. Write keywords or make \"microsummaries\" in the
+-   **Summarize**. Write keywords or make "microsummaries" in the
     margins next to each paragraph. Later, you will not have to re-read
     the entire document to find your place. These can be especially
     useful if you later use this text in your own writing.
@@ -152,6 +152,12 @@ annotation and critical reading:
     to bring other texts into dialogue with each other, imagining
     writing and reading as a form of social interaction.
 
----
 
-[{{< fa angle-double-left >}}](/resources/open-handbook/) [{{< fa angle-double-up >}}](/resources/open-handbook/) [{{< fa angle-double-right >}}](/resources/open-handbook/chapter-2/) 
+
+
+
+
+
+
+
+

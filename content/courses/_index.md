@@ -11,15 +11,12 @@ type: docs
 
 {{< details "Writing 2" closed >}}
 
-#
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will require good habits of inquiry, analysis, and communication. We will cultivate
-these critical practices by reading and analyzing a series of demanding texts and articulating responses to them
-in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
+**Writing 2** is an introduction to academic writing. The course focuses on how to `acquire knowledge`, `evaluate evidence`, and `articulate arguments`. We will cultivate these critical practices through rigorous group inquiry---by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
 
 ---
 
-- `Course Materials`: [Syllabus](%/courses/writing-2/syllabus/) | [Readings](https://canvas.dartmouth.edu) | [*The Open Handbook*](/resources/open-handbook/)
+- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
 
 - `Assignments`:    [Essay 1]() | [Essay 2]() | [Essay 3]()
 

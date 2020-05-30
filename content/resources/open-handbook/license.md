@@ -4,7 +4,6 @@ bookHidden: true
 title: "License"
 ---
 
-
 # License
 
 This work is licensed under a [Creative Commons](https://creativecommons.org/) license. 

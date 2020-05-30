@@ -112,10 +112,10 @@ that we will do each week:
 
 -   Before we meet to discuss a reading as a class, each of you will
     carefully read and critically engage the text on your
-    owninterrogating, analyzing, and questioning the arguments, ideas,
+    own---interrogating, analyzing, and questioning the arguments, ideas,
     and assumptions you discover there.
 
--   As you read the text, I ask that you `annotate` itthat is, mark up
+-   As you read the text, I ask that you `annotate` it---that is, mark up
     the text by adding meaningful symbols, marginal notes, and questions
     on the document itself. Bring this annotated copy of the reading
     with you to class to help you engage in the group discussion and
@@ -144,7 +144,7 @@ for class*. Annotation refers to the process of marking up a text by
 adding your own words and symbols to the document itself. There is no
 right or wrong way to mark up a text, but you should develop a system
 that you are comfortable with and try to stick with it. Your objective
-in annotation is to flag the key elements of a piece of writingthe
+in annotation is to flag the key elements of a piece of writing---the
 thesis, argumentative points, and pieces of evidence. In addition, use
 the margins of the text to ask questions, make brief notes, indicate
 confusion, define unfamiliar terms, and make connections to other texts.
@@ -260,7 +260,7 @@ turn them in.
 
 - [ ] Read it carefully. Slow down. Unplug. Take your time.
 
-- [ ] Annotate as you read: make notations, flag important details, askvquestions.
+- [ ] Annotate as you read: make notations, flag important details, ask questions.
 
 - [ ] Practice deep note-taking. Reduce the argument to its essentials. Add your own thoughts/observations/questions.
 

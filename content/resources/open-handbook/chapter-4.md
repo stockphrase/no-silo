@@ -4,9 +4,11 @@ bookHidden: true
 title: "4. The Joy of Reuse (Save Your Work)"
 ---
 
+<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+
 # The Joy of Reuse (Save Your Work)
 
-# Save all your work
+## Save all your work
 
 Most students complete their school work, turn it in to their professor,
 then never think of it again. These efforts then cross the event horizon
@@ -34,7 +36,7 @@ the timereshaping, repurposing, and extending prior efforts. They
 understand that knowledge is cumulative: it accretes and deepens over
 time, often by building on what came before. *This is the joy of reuse*.
 
-# Staying organized
+## Staying organized
 
 
 To retain your work and stay organized, you might use a simple paper
@@ -69,18 +71,7 @@ archive systems to store this typical scholarly work. Here is the first, which I
         </div>
       </div>        
         
-<pre><font color="#398c4d"><b>/</b></font>
-└── <font color="#398c4d"><b>My Documents</b></font>
-    ├── Essay.docx
-    ├── hack-dartmouth.py
-    ├── ideas.docx
-    ├── MyDog_Rex.jpg
-    ├── Nosetalgia.mp3
-    ├── Notes2.doc
-    ├── Notes.doc
-    ├── Revision.docx
-    └── syllabus.pdf
-</pre>
+#
 
 The strategy represented here breaks down very quickly for two reasons.
 First, after a few weeks of accumulating notes, readings, research, and
@@ -110,6 +101,9 @@ a "file or folder should always be able to tell you what it is" (7)
 without actually having to open it. Taking this sound advice to heart,
 we might revise the previous filing strategy like this:
 
+
+<div class="container">
+        <div class="raised-edge">
 <pre>
 <font color="#398c4d"><b>/</b></font>
 └── <font color="#398c4d"><b>My Documents</b></font>
@@ -129,6 +123,11 @@ we might revise the previous filing strategy like this:
         └── 2018-MyDogRex.jpg
 </pre>
 
+ <div class="edge-shadow"></div>
+        </div>
+      </div>    
+
+#
 
 Your system will obviously become far more complex than the simplified
 example presented above. (You might, for example, want to create
@@ -195,7 +194,73 @@ the following:
 
 ### Example README file
 
-![](/resources/open-handbook/README.png)
+
+<div class="container">
+        <div class="raised-edge">
+
+`... /ProjectAlpha/README.md`
+
+---
+
+### RESEARCH PROJECT ALPHA
+
+
+**[Include an short summary of the project here . . .]()**
+
+### Researchers
+
+- Jeff Goldbug: [jeff.g.goldbug19@dartmouth.edu]()
+
+- Alain Frenchy: [alain.frenchy@stanford.edu]()
+
+- Chloe Vinyl-Siding: [chloe.vinyl-siding@gmail.com]()
+
+
+### Data Inventory 
+
+[/ProjectAlpha/Data/]()
+
+-- 201907-EditData.xlsx (data on edits)
+
+-- 201907-EditData.RData (R dataset file)
+
+-- 201907-GrantLetter.docx (Letter to rich foundation)
+
+-- 201907-Visualization.py (Data visualization program)
+
+-- 201910-VisualizationV01.py (Update; bugfix \#14)
+
+-- 201911-VisualizationV02.py (Update; bugfix \#15)
+
+. . . 
+
+### Documents
+
+[/ProjectAlpha/Docs/]()
+
+-- 201910-Bibliography.docx (Project bibliography)
+
+-- 201910-Presentation.pptx (Class presentation)
+
+
+
+### Updates
+
+- 20191012: Updated bibliography entries
+
+- 20191028: Update to visualization program
+
+- 20191103: Update to visualization program
+
+
+ <div class="edge-shadow"></div>
+        </div>
+      </div>    
+
+#
+
+
+
 
 ### File-naming advice
 
@@ -226,6 +291,11 @@ human-readable.
 
 ### A very large file system example
 
+
+
+<div class="container">
+        <div class="raised-edge">
+        
 <pre><font color="#398c4d"><b>/</b></font>
 ├── <font color="#398c4d"><b>Project-Alpha</b></font>
 │   ├── <font color="#398c4d"><b>Data</b></font>
@@ -244,6 +314,11 @@ human-readable.
 └── <font color="#398c4d"><b>Project-Beta</b></font>
 </pre>
 
+ <div class="edge-shadow"></div>
+        </div>
+      </div>    
+
+#
 
 # Back up all your data
 

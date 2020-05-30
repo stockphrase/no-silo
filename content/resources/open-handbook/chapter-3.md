@@ -4,10 +4,9 @@ bookHidden: true
 title: "3. Audience"
 ---
 
-
+<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
 
 # Audience
-
 
 >[A] work of rhetoric is pragmatic; it comes into existence
 for the sake of something beyond itself; it functions ultimately to produce
@@ -27,19 +26,18 @@ with our words. Even a private journal is addressed to a future version of the
 writer's current self. To a large degree these audiences will determine what we say and how we say it.
 
 It is easy to jump too quickly to the immediate purpose of our
-writing\textemdash the idea we want to articulate or the viewpoint we hope to
+writing---the idea we want to articulate or the viewpoint we hope to
 convince others to adopt. In doing so we forget that *how* we say
 something is as important as *what* we say, particularly when we address
 people who don't share our values, culture, or life experiences. The presentation of our
-arguments--the kinds of evidence we use to support it, the words we
+`arguments`--the kinds of evidence we use to support it, the words we
 choose to articulate it---must be tailored for our audience if we hope
 to be successful.
 
-The nature of audiences is often elusive and complex. We may never completely understand the character and motives of our audience members; this imperfect knowledge presents a great challenge for writing arguments. Your audience members may hold views or beliefs that, while quite opaque, greatly determine receptiveness to your message. And in some cases your audience may be completely unknown to you--for example, if you write for the web. Thus, imagining the audience for your message is often not an easy task; it is something that you will have to make a judgment about using whatever evidence you happen to possess at the time. 
+The nature of audiences is often elusive and complex. We may never completely understand the character and motives of our audience members; this imperfect knowledge presents a great challenge for writing arguments. Your audience members may hold views or beliefs that, while quite opaque, greatly determine receptiveness to your message. And in some cases your audience may be completely unknown to you---for example, if you write for the web. Thus, imagining the audience for your message is often not an easy task; it is something that you will have to make a judgment about using whatever evidence you happen to possess at the time. 
 
 Before you write anything, carefully analyze those people whom you desire to
-persuade. To the best of your knowledge, take an inventory of what you know about the audience (or audiences)
-you plan to address in your writing. This analysis should give you 
+persuade. To the best of your knowledge, take an inventory of what you know about the audience (or audiences) you plan to address in your writing. This analysis should give you 
 insight into how best to present your thinking, reasoning, and evidence. You might begin such an audience analysis by asking questions such as these: 
 
 - Who is your audience or audiences? 
@@ -54,7 +52,7 @@ insight into how best to present your thinking, reasoning, and evidence. You mig
 Questions like these can help us imagine the audience we address in
 our writing and gain a sense of the rhetorical situation we face. This kind of
 intelligence will help us make good decisions about many aspects of the writing
-process such as organization, diction, style, and evidence.
+process such as `organization`, `diction`, `style`, and `evidence`.
 
 ## Persuading the Audience
 
@@ -107,7 +105,7 @@ writing. You might wonder: What is "banking"? You mean my credit card company is
 
 {{< fa check >}} **2) In an essay entitled "The 'Banking Concept' of Education," author and educator Paulo Freire argues that a widely practiced form of schooling that he terms "banking education" is oppressive and undemocratic.**
 
-{{< hint info >}}
+{{< hint warning >}}
 **Much better for the audience**
 
 The second sentence, however, attempts to include a much larger

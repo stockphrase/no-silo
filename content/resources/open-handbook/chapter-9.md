@@ -3,6 +3,9 @@ weight: 9
 bookHidden: true
 title: "9. Altering Sources"
 ---
+
+<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+
 # Altering Sources
 
 In your life as a writer you will frequently encounter situations where

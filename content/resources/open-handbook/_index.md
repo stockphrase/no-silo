@@ -3,19 +3,19 @@ weight: 0
 bookFlatSection: true
 ---
 
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+
 # About
 
 [{{< fa book-open >}}](#) `The Open Handbook` 
         
 
-The `Open Handbook` project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/) and hosted at {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/OpenHandbook). I am in the process of translating the project into [markdown](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. The chapters will slowly appear here on this site as I have time.
+The `Open Handbook` project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/). I am in the process of translating the project into [.md](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. 
 
-- This work is licensed under a Creative Commons [`CC BY-NC-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
-
+If you would like to collaborate on the project, please contact me. If you know your way around git, you can fork the project on {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/no-silo).
 
 
 ---
-
 
 ## Table of Contents
 
@@ -33,10 +33,25 @@ The `Open Handbook` project is a free, open-source reference handbook that intro
 - 7. [Paragraphs & Topic Sentences](/resources/open-handbook/chapter-7)
 - 8. [Working with Sources](/resources/open-handbook/chapter-8)
 - 9. [Altering Sources](/resources/open-handbook/chapter-9)
-- 10. Plagiarism
-- 11. Documentation of Sources
+- 10. [Plagiarism](/resources/open-handbook/chapter-10)
+- 11. [Documentation of Sources](/resources/open-handbook/chapter-11)
+    - Modern Language Association Style (MLA)
+    - Chicago Style
 - 12. Academic Research
 - 13. Common Sentence Errors
+- 14. [On Style](/resources/open-handbook/chapter-14)
 
+* [Index](/resources/open-handbook/keyword-index)
 
+## GitHub Repos
 
+- Open Handbook [LaTeX version](https://github.com/stockphrase/OpenHandbook).
+- Open Handbook [Markdown version](https://github.com/stockphrase/no-silo/tree/master/content/resources/open-handbook).
+
+## Downloads
+
+| File   |      Download      
+|----------|:-------------:
+| Open Handbook |  [.pdf](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf)
+| Open Handbook |  [.tex](https://github.com/stockphrase/OpenHandbook)   
+| Open Handbook |   [.md](https://github.com/stockphrase/no-silo/tree/master/content/resources/open-handbook)
