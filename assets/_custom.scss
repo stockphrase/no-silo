@@ -4,24 +4,6 @@
 // @import "plugins/scrollbars";
 
 
-.paper {
-  background: #eeeeee;
-  box-shadow:
-    /* The top layer shadow */
-    0 1px 1px rgba(0,0,0,0.15),
-    /* The second layer */
-    0 10px 0 -5px #eee,
-    /* The second layer shadow */
-    0 10px 1px -4px rgba(0,0,0,0.15),
-     /* The third layer */
-    0 20px 0 -10px #eee,
-    /* The third layer shadow */
-    0 20px 1px -9px rgba(0,0,0,0.15);
-    /* Padding for demo purposes */
-    padding: 20px;
-}
-
-
 /* Source code: WebsiteEdu (https://websiteedu.com) */
 .raised-edge {
     background-color: #f8f9fa;
@@ -62,4 +44,29 @@
     z-index: -1;
 }
 
+
+.mla {
+    padding-left: 40px;
+    text-indent: -40px;
+}
+
+.p2 {
+    padding-left: 50px;
+    text-indent: -40px;
+    line-height: 2; 
+    
+}
+
+
+.highlight {
+    background-color: #fff2ac;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
+}
+
+.alert {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    display: block;
+    padding: 10px;
+}
 

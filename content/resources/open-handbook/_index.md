@@ -43,15 +43,11 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 * [Index](/resources/open-handbook/keyword-index)
 
-## GitHub Repos
 
-- Open Handbook [LaTeX version](https://github.com/stockphrase/OpenHandbook).
-- Open Handbook [Markdown version](https://github.com/stockphrase/no-silo/tree/master/content/resources/open-handbook).
-
-## Downloads
+### Downloads
 
 | File   |      Download      
 |----------|:-------------:
 | Open Handbook |  [.pdf](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf)
-| Open Handbook |  [.tex](https://github.com/stockphrase/OpenHandbook)   
-| Open Handbook |   [.md](https://github.com/stockphrase/no-silo/tree/master/content/resources/open-handbook)
+| Open Handbook |  .tex
+| Open Handbook |   .md

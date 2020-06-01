@@ -13,7 +13,7 @@ This site is **under heavy construction** and is not yet ready for use. Mistakes
 {{< /hint >}}
 
 
-**No Silo** is the companion site to Alan C. Taylor's writing courses at Dartmouth College. The site contains `syllabi`, `course materials`, `workshops`, and other related bits and pieces. While we will still use [Canvas](https://canvas.dartmouth.edu) for our assignment workflow, much of the course content may be found here.
+**No Silo** is the companion site to Alan C. Taylor's courses at Dartmouth College. The site contains `syllabi`, `course materials`, `workshops`, the [`Open Handbook`](/resources/open-handbook), and other related bits and pieces. 
 
 The term `No Silo` stems from a talk I gave to the faculty of the [Institute for Writing and Rhetoric](https://writing-speech.dartmouth.edu) at Dartmouth College in the winter of 2020. The talk was about tearing down information silos and sharing our syllabi, workshops, prompts, and other teacherly artifacts. This site is the natural extension of those ideas.
 
@@ -63,10 +63,6 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 ---
 
-## GitHub Repos
-
-- Open Handbook [LaTeX version](https://github.com/stockphrase/OpenHandbook).
-- Open Handbook [Markdown version](https://github.com/stockphrase/no-silo/tree/master/content/resources/open-handbook).
 
 ## Download
 
