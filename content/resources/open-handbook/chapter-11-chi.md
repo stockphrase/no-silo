@@ -44,7 +44,7 @@ the following settings to format your page:
 
 ## Chicago Notes page formatting
 
-The Chicago style has two ways of approaching citation. In one method, known as `author-date`, references are placed in the text within a parenthesis using the author's last name and the year of the source's publication. The author-date method is common in the sciences and social sciences. A second method is `notes and bibliography`. In this method in-text citations are made using either `footnotes,` which appear at the bottom of a page, or `endnotes,` which appear on a separate **Notes** page at the conclusion of the document. This handbook only presents the `notes and bibliography` method with endnotes.  
+The Chicago style has two ways of approaching citation. In one method, known as `author-date`, references are placed in the text within a parenthesis using the author's last name and the year of the source's publication. The author-date method is common in the sciences and social sciences. A second method is known as `notes and bibliography`. In this method in-text citations are made using either `footnotes,` which appear at the bottom of a page, or `endnotes,` which appear on a separate **Notes** page at the conclusion of the document. This handbook only presents the `notes and bibliography` method with endnotes.  
 
 To set up your **Notes** page properly, follow the rules below:
 
@@ -61,6 +61,20 @@ When setting up the Notes page, use the following rules:
 
 - Indent the first line of an endnote entry with a 1/2-inch tab.
 
+### Making endnote or footnote entries
+
+When making footnotes or endnotes, the Chicago form prescribes a specific strategy designed to lessen the work involved. While this design ultimately means less typing, a number of strict rules must be followed:
+
+- Present the citations in the numerical order as they appear within the text.
+
+- The first time a source is cited, use the *full* Chicago notes form.
+
+- If the same source is used more than once, the *shorthand* version of the Chicago  notes form is used the second (and each subsequent) time. The shorthand version  contains **a)** the author's last name, **b)** a shortened version of the title, and **c)** the page number(s) of the citation.
+
+- If a source is used twice (or more) in a row, the Latin abbreviation "[Ibid.](https://en.wikipedia.org/wiki/Ibid.)" is used along with the page number, rather than the shorthand version of the form. (Ibid. means "in the same place.")
+
+- If a source is used twice (or more) in a row and the citation *is from the same page*, "Ibid." is used by itself without the  page number. 
+
 ### Example:
 
 {{< figure src="/img/chi-notes.png" >}}
@@ -68,7 +82,7 @@ When setting up the Notes page, use the following rules:
 {{< /details >}}
 
 
-## The Bibliography page 
+## Chicago Bibliography page formatting
 
 The Chicago style does not require that you include a bibliography page at the conclusion of your essay; the **Notes** page is often sufficient unless the work is very long or contains a large number of citations. However, your professor may require one. To construct a Chicago bibliography, follow the rules below:
 
@@ -90,11 +104,12 @@ To format a Chicago bibliography page, use the following rules:
 
 - Indent the second (and any subsequent) line of an entry with a 1/2-inch tab. 
 
-### Example Chicago Bibliography page:
+### Example:
 
 {{< figure src="/img/chi-bibpage.png" >}}
 
 {{< /details >}}
+
 
 ## Chicago in-text citations
 
@@ -109,7 +124,7 @@ In the Chicago form, an in-text citation is indicated by a superscript number re
 
 > Recent scholarship on the concept of sovereignty has displayed a remarkable lack of interest in Native peoples.<sup>7</sup>
 
-This in-text reference will correspond to a citation on the **Notes** page at the conclusion of the document, such as this one:
+This in-text reference will correspond to either a footnote at the bottom of the page or an endnote on the **Notes** page at the conclusion of the document. The reference will resemble the one below:
 
 {{< chi-note >}}
 
@@ -121,20 +136,8 @@ This in-text reference will correspond to a citation on the **Notes** page at th
 {{< /details >}}
 
 
-## The Chicago Bibliography
+## Citing your sources in Chicago
 
-
-When making footnotes or endnotes, the Chicago form prescribes a specific strategy designed to lessen the work involved. While this design ultimately means less typing, a number of strict rules must be followed:
-
-- Present the citations in the numerical order as they appear within the text.
-
-- The first time a source is cited, use the *full* Chicago notes form.
-
-- If the same source is used more than once, the *shorthand* version of the Chicago  notes form is used the second (and each subsequent) time. The shorthand version  contains **a)** the author's last name, **b)** a shortened version of the title,  and **c)** the page number(s) of the citation.
-
-- If a source is twice (or more) in a row, the Latin abbreviation "[Ibid.](https://en.wikipedia.org/wiki/Ibid.)" is used along with the page number, rather than the shorthand version of the form. (Ibid. means "in the same place.")
-
-- If a source is used twice (or more) in a row and the citation *is from the same page*, "Ibid." is used by itself without the  page number. 
 
 The following section provides examples for citing sources that are commonly found in academic writing. Both the Notes and Bibliography forms are included. The various forms have been organized into sections on **books**, **periodicals**, **electronic sources**, and **other types of sources** that are less common.
 
