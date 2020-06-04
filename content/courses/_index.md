@@ -11,6 +11,7 @@ type: docs
 
 {{< details "Writing 2" closed >}}
 
+#
 
 **Writing 2** is an introduction to academic writing. The course focuses on how to `acquire knowledge`, `evaluate evidence`, and `articulate arguments`. We will cultivate these critical practices through rigorous group inquiry---by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
 
@@ -30,7 +31,7 @@ type: docs
 
 #
 
-**Writing 3** focuses on academic research. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. The theme for this course examines `post-apocalyptic` fiction, film, and art.
+**Writing 3** focuses on academic research and research writing. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. The theme for this course examines `post-apocalyptic` fiction, film, and art.
 
 ---
 
@@ -51,14 +52,9 @@ type: docs
 
 ## No.
 
-I usually do not take requests for extra comments via email unless there
-is no other possible way a student can meet with me in person.
-`However, I am happy to discuss new drafts with students during office
-hours or at other times by appointment`. Considering how easy it is to
-attach a file to an email, almost every student would seek this
-additional help. As a result, I would be deluged with requests for help,
+I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in person. **However, I am happy to discuss new drafts with students during office
+hours or at other times by appointment**. Considering how easy it is to attach a file to an email, almost every student would seek this additional help. As a result, I would be deluged with requests for help,
 often at the very last minute, making it impossible for me to thoughtfully respond to them all.
-`More significantly, I think this practice also sends the wrong message that I am your personal editor`. That really isn't my job.
 
 {{< /details >}}
 

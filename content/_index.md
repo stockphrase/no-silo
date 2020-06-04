@@ -8,7 +8,7 @@ type: docs
 
 {{< hint note >}}
 
-This site is **under heavy construction** and is not yet ready for use. Mistakes, broken links, and the like should be expected.
+This site is **under construction** and is not yet ready for use. Mistakes, broken links, and the like should be expected.
 
 {{< /hint >}}
 
@@ -53,8 +53,8 @@ If you would like to collaborate on the project, please contact me. If you know 
 - 9. [Altering Sources](/resources/open-handbook/chapter-9)
 - 10. [Plagiarism](/resources/open-handbook/chapter-10)
 - 11. [Documentation of Sources](/resources/open-handbook/chapter-11)
-    - Modern Language Association Style (MLA)
-    - Chicago Style
+- 11a. [Modern Language Association Style (MLA)](/resources/open-handbook/chapter-11-mla)
+- 11b. [Chicago Style](/resources/open-handbook/chapter-11-chi)
 - 12. Academic Research
 - 13. Common Sentence Errors
 - 14. [On Style](/resources/open-handbook/chapter-14)
