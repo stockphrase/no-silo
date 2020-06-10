@@ -1,23 +1,31 @@
 ---
 weight: 4
 bookHidden: true
-title: "3. Audience"
+title: "Audience"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Audience
 
->[A] work of rhetoric is pragmatic; it comes into existence
+---
+
+  <small>
+
+**[A] work of rhetoric is pragmatic; it comes into existence
 for the sake of something beyond itself; it functions ultimately to produce
 action or change in the world; it performs some task. In short, rhetoric is a
 mode of altering reality, not by the direct application of energy to objects,
 but by the creation of discourse which changes reality through the mediation of
 thought and action. The rhetor alters reality by bringing into existence a
 discourse of such a character that the audience, in thought and action, is so
-engaged that it becomes mediator of change (3-4).
+engaged that it becomes mediator of change (3-4).**
 
--- Lloyd F. Bitzer, ["The Rhetorical Situation"](http://www.jstor.org/stable/40593346)
+--- Lloyd F. Bitzer, ["The Rhetorical Situation"](http://www.jstor.org/stable/40593346)
+
+ </small>
+
+---
 
 ## Constructing the Audience
 

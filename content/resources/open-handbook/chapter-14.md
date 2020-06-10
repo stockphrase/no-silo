@@ -1,10 +1,10 @@
 ---
 weight: 14
 bookHidden: true
-title: "14. On Style"
+title: "On Style"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # On Style
 

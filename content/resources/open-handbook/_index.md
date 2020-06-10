@@ -19,11 +19,12 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 ## Table of Contents
 
+* [A note on using this text](/resources/open-handbook/using-this-text)
+
 - i. [Preface](/resources/open-handbook/preface/)
 - ii. [License](/resources/open-handbook/license/)
 - iii. [Acknowledgements](/resources/open-handbook/acknowledgments)
 - iv. [Donations](/resources/open-handbook/donations)
-- v. [A Note on Using this Text](/resources/open-handbook/using-this-text)
 - 1. [Annotation & Critical Reading](/resources/open-handbook/chapter-1/)
 - 2. [Critical Notes](/resources/open-handbook/chapter-2)
 - 3. [Audience](/resources/open-handbook/chapter-3)
@@ -35,19 +36,11 @@ If you would like to collaborate on the project, please contact me. If you know 
 - 9. [Altering Sources](/resources/open-handbook/chapter-9)
 - 10. [Plagiarism](/resources/open-handbook/chapter-10)
 - 11. [Documentation of Sources](/resources/open-handbook/chapter-11)
-    - 11a. [Modern Language Association Style (MLA)](/resources/open-handbook/chapter-11-mla)
+    - 11a. [MLA Style](/resources/open-handbook/chapter-11-mla)
     - 11b. [Chicago Style](/resources/open-handbook/chapter-11-chi)
-- 12. Academic Research
+- 12. [Academic Research](/resources/open-handbook/chapter-12)
 - 13. Common Sentence Errors
 - 14. [On Style](/resources/open-handbook/chapter-14)
 
 * [Index](/resources/open-handbook/keyword-index)
 
-
-### Downloads
-
-| File   |      Download      
-|----------|:-------------:
-| Open Handbook |  [.pdf](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf)
-| Open Handbook |  .tex
-| Open Handbook |   .md

@@ -78,6 +78,10 @@
   </url>
   
   <url>
+    <loc>https://no-silo.com/resources/open-handbook/chapter-12/</loc>
+  </url>
+  
+  <url>
     <loc>https://no-silo.com/resources/open-handbook/chapter-14/</loc>
     <lastmod>2020-05-30T09:33:41-04:00</lastmod>
   </url>
@@ -85,21 +89,6 @@
   <url>
     <loc>https://no-silo.com/resources/open-handbook/chapter-11/</loc>
     <lastmod>2020-06-04T09:53:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://no-silo.com/Assignments/</loc>
-    <lastmod>2020-05-28T09:11:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://no-silo.com/Assignments/essays/</loc>
-    <lastmod>2020-05-28T09:11:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://no-silo.com/Assignments/workshops/</loc>
-    <lastmod>2020-05-28T09:11:29-04:00</lastmod>
   </url>
   
   <url>
@@ -114,12 +103,17 @@
   
   <url>
     <loc>https://no-silo.com/resources/open-handbook/</loc>
-    <lastmod>2020-06-04T09:53:07-04:00</lastmod>
+    <lastmod>2020-06-04T13:58:30-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/resources/working-papers/</loc>
     <lastmod>2020-06-01T13:42:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://no-silo.com/resources/open-handbook/using-this-text/</loc>
+    <lastmod>2020-05-30T09:33:41-04:00</lastmod>
   </url>
   
   <url>
@@ -133,17 +127,16 @@
   
   <url>
     <loc>https://no-silo.com/resources/open-handbook/chapter-11-chi/</loc>
-    <lastmod>2020-06-04T09:53:07-04:00</lastmod>
+    <lastmod>2020-06-04T13:58:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://no-silo.com/about/contact/</loc>
-    <lastmod>2020-05-28T09:11:29-04:00</lastmod>
+    <loc>https://no-silo.com/about/contact/contact/</loc>
   </url>
   
   <url>
     <loc>https://no-silo.com/courses/</loc>
-    <lastmod>2020-06-04T09:53:07-04:00</lastmod>
+    <lastmod>2020-06-04T13:58:30-04:00</lastmod>
   </url>
   
   <url>
@@ -158,16 +151,11 @@
   
   <url>
     <loc>https://no-silo.com/</loc>
-    <lastmod>2020-06-04T09:53:07-04:00</lastmod>
+    <lastmod>2020-06-04T13:58:30-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://no-silo.com/resources/open-handbook/using-this-text/</loc>
-    <lastmod>2020-05-30T09:33:41-04:00</lastmod>
   </url>
   
 </urlset>

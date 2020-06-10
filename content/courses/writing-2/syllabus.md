@@ -1,13 +1,13 @@
 ---
 weight: 1
 bookFlatSection: true
-bookToc: true
+bookToc: false
 bookHidden: true
 title: "Writing 2: Syllabus"
 ---
 
-## Writing 2
-
+# Writing 2
+<!--
 {{< hint info >}}
 
 **Obligatory COVID-19 Message:**
@@ -22,19 +22,21 @@ Use as required.
 
 {{< button href="https://vimeo.com/320228756" >}}Rage Button (NSFW){{< /button >}} --- {{< button href="https://www.youtube.com/watch?v=nkkJgdiR8IA" >}}Soothe Button{{< /button >}} --- {{< button href="https://youtu.be/HxM8Eb_IoFY" >}}Therapy Button{{< /button >}} --- {{< button href="https://www.youtube.com/watch?v=W_aN81SBI3A" >}}Prof's Current Jam{{< /button >}}
 
----
+
+# TODO 
+
+- Get readings w/ embedded fonts: Baker, Percy, Freire.
+- 
+
+
+--->
+
+
 
 ## Course Description 
 
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will require good habits of inquiry, analysis, and communication. We will cultivate
-these critical practices by reading and
-analyzing a series of demanding texts and articulating responses to them
-in the form of essays. Shorter writing assignments will focus on a
-number of skills that are important for taking part in academic
-conversations. Among these are the formal `documentation of sources` and
-the integration of source materials through `summary`, `paraphrase`, and
-`quotation`.
+**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
 
 During the Winter term we will turn our focus to academic research. Our
 libraries hold an impressive array of traditional and electronic search
@@ -52,7 +54,7 @@ statement on the Institute for Writing and Rhetoric website.
 
 ## Required Texts 
 
-- [*The Open Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf) (.pdf), [*Open Handbook*](/resources/open-handbook) (web), by Alan C. Taylor
+- [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
 - Other course readings may be downloaded from [Canvas](https://canvas.dartmouth.edu).
 
 ## Academic Honesty 
@@ -337,6 +339,13 @@ The following assignments comprise your grade for the Fall term:
 
 ## Schedule of Readings and Assignments 
 
+|Date   | Readings                 | Assignments                   | Due
+|:------|:-----------|:------------|:---
+|9.16   |            |Introductions, course objectives, questions. | 
+|9.18   |OH, Ch 1, 2. | *What is education?* [Annotation exercise](). | 
+|9.20   |OH, Ch 3.    |Bring 2 copies of essay to class. Peer workshop. | Essay 1.0
+
+
 [Week One]():
 
 {{< tabs "uniqueid" >}}
@@ -344,12 +353,13 @@ The following assignments comprise your grade for the Fall term:
 
 Week One
 
-* **QOD**: Tell me something you love. Something you hate.
-* 
+|Date   | Text                 | Reading                   | Due
+|:------|:-----------|:------------|:---
+|9.16   |Open Handbook        |Chapters 1, 2. | 
+|9.18   |OH, Ch 1, 2. | *What is education?* [Annotation exercise](). | 
+|9.20   |OH, Ch 3.    |Bring 2 copies of essay to class. Peer workshop. | Essay 1.0
 
-* [Assignment 1]()
-* [Assignment 2]()
-* [Question of the Day]()
+
 
  {{< /tab >}}
 

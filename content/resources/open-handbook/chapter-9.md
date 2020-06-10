@@ -4,7 +4,7 @@ bookHidden: true
 title: "9. Altering Sources"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Altering Sources
 

@@ -4,21 +4,26 @@ bookHidden: true
 title: "7. Paragraphs and Topic Sentences"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Paragraphs & Topic Sentences
 
+---
+  <small>
+  
+**I can remember picking up my father's books before I could read. The
+words themselves were mostly foreign, but I still remember the exact
+moment when I first understood, with a sudden clarity, the purpose of
+a paragraph. I didn't have the vocabulary to say \"paragraph,\" but I
+realized that a paragraph was a fence that held words. The words
+inside a paragraph worked together for a common purpose. They had some
+specific reason for being inside the same fence.**
 
-> I can remember picking up my father's books before I could read. The
-> words themselves were mostly foreign, but I still remember the exact
-> moment when I first understood, with a sudden clarity, the purpose of
-> a paragraph. I didn't have the vocabulary to say \"paragraph,\" but I
-> realized that a paragraph was a fence that held words. The words
-> inside a paragraph worked together for a common purpose. They had some
-> specific reason for being inside the same fence.
->
-> Sherman Alexie, "[Superman and
-> Me](http://articles.latimes.com/1998/apr/19/books/bk-42979)".
+---Sherman Alexie, "[Superman and Me](http://articles.latimes.com/1998/apr/19/books/bk-42979)".
+
+ </small>
+
+---
 
 A paragraph is a unit of text devoted to developing an idea. The idea is
 usually stated in a `topic sentence`. The topic sentence most commonly

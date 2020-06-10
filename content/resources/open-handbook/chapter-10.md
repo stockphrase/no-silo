@@ -4,15 +4,21 @@ bookHidden: true
 title: "10. Plagiarism"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Plagiarism
 
+---
 
-> Perish those who said our good things before we did.
->
-> --Aelius Donatus
+<small>
 
+**Perish those who said our good things before we did.**
+
+--Aelius Donatus
+
+</small>
+
+---
 
 # Definition of plagiarism
 

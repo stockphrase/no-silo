@@ -1,22 +1,27 @@
 ---
 weight: 3
 bookHidden: true
-title: "2. Critical Notes"
+title: "Critical Notes"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Critical Reading
 
+---
+  <small>
 
-> "We believe the best way to work on a difficult text is by rereading
-> . . . but you can also work on the difficult text by writing, by
-> taking possession of the work through sentences and paragraphs of your
-> own, through summary, paraphrase, and quotation, by making another
-> writer's work part of your work" (12).
->
-> Bartholomae and Petrosky, "Introduction." *Ways of Reading: An
-> Anthology for Writers*
+**"We believe the best way to work on a difficult text is by rereading
+. . . but you can also work on the difficult text by writing, by
+taking possession of the work through sentences and paragraphs of your
+own, through summary, paraphrase, and quotation, by making another
+writer's work part of your work" (12).**
+
+--- Bartholomae and Petrosky, "Introduction." *Ways of Reading: An Anthology for Writers*
+
+  </small>
+
+---
 
 ## Taking Critical Notes
 
@@ -36,8 +41,8 @@ dramatically improve your writing.
 These critical summaries are comprised of nothing more than `summary`, `paraphrase`, `quotation`, and your own observations and questions. Quote only the most important, memorable language.
 Summarize or paraphrase the rest in as objective a manner as possible.
 Take great care when summarizing or paraphrasing; if your work is too
-similar to the original text and is used later in your own writing, *you
-may inadvertently commit [`plagiarism`](plagiarism)*, a serious academic offense.
+similar to the original text and is used later in your own writing, you
+may inadvertently commit [`plagiarism`](plagiarism), a serious academic offense.
 Therefore, carefully place the writing of others into your own words and
 [`cite`](#citation) the text and ideas you reference in your notes.
 

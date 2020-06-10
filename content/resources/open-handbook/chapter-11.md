@@ -4,7 +4,7 @@ bookHidden: true
 title: "11. Documentation of Sources"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Documentation of Sources
 

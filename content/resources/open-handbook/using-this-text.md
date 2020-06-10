@@ -1,12 +1,12 @@
 ---
 weight: 0
 bookHidden: true
-title: "v. A note on using this text"
+title: "A note on using this text"
 ---
 
 # Using this Text
 
-Throughout this text I've highlighted important `academic keywords` that will likely be topics of conversation in our course. If the term is discussed at length in another portion of the text, I have highlighted it. There are three types of these highlights in the text, described in the table below:
+Throughout this text I've highlighted important `academic keywords`. There are three types of these highlights in the text, described in the table below:
 
 ## Highlighting & Link Styling
 

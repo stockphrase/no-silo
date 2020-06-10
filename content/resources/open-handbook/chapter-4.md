@@ -1,10 +1,10 @@
 ---
 weight: 5
 bookHidden: true
-title: "4. The Joy of Reuse (Save Your Work)"
+title: "The Joy of Reuse (Save Your Work)"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # The Joy of Reuse (Save Your Work)
 
@@ -32,7 +32,7 @@ that *you save the research, notes, or data that contributed to that
 project as well*. Try, as best you can, to capture *all* of the inputs
 that led to your finished work and save them in some organized way.
 Successful scholars and students return to prior work and research all
-the timereshaping, repurposing, and extending prior efforts. They
+the time---reshaping, repurposing, and extending prior efforts. They
 understand that knowledge is cumulative: it accretes and deepens over
 time, often by building on what came before. *This is the joy of reuse*.
 
@@ -54,8 +54,8 @@ archive systems to store this typical scholarly work. Here is the first, which I
 
 <div class="container">
         <div class="raised-edge">
-  <pre><font color="#398c4d"><b>/</b></font>
-└── <font color="#398c4d"><b>My Documents</b></font>
+  <pre><font color="#859900"><b>/</b></font>
+└── <font color="#859900"><b>My Documents</b></font>
     ├── Essay.docx
     ├── hack-dartmouth.py
     ├── ideas.docx
@@ -105,21 +105,21 @@ we might revise the previous filing strategy like this:
 <div class="container">
         <div class="raised-edge">
 <pre>
-<font color="#398c4d"><b>/</b></font>
-└── <font color="#398c4d"><b>My Documents</b></font>
-    ├── <font color="#398c4d"><b>Courses</b></font>
-    │   ├── <font color="#398c4d"><b>CS1-F20</b></font>
+<font color="#859900"><b>/</b></font>
+└── <font color="#859900"><b>My Documents</b></font>
+    ├── <font color="#859900"><b>Courses</b></font>
+    │   ├── <font color="#859900"><b>CS1-F20</b></font>
     │   │   └── hack-dartmouth.py
-    │   └── <font color="#398c4d"><b>Writing23-F20</b></font>
+    │   └── <font color="#859900"><b>Writing23-F20</b></font>
     │       ├── essay1-draft1-090720.docx
     │       ├── essay1-draft2-91520.docx
     │       ├── notes-Freire-110520.docx
     │       ├── notes-Percy-102820.docx
     │       ├── workshop2-draft1-101720.docx
     │       └── WR23-syllabus.pdf
-    ├── <font color="#398c4d"><b>Music</b></font>
+    ├── <font color="#859900"><b>Music</b></font>
     │   └── Pusha-T-Nosetalgia.mp3
-    └── <font color="#398c4d"><b>Photos</b></font>
+    └── <font color="#859900"><b>Photos</b></font>
         └── 2018-MyDogRex.jpg
 </pre>
 
@@ -194,7 +194,11 @@ the following:
 
 ### Example README file
 
+#
 
+<div style="text-align:center">{{< figure src="/img/README.png" >}}</div>
+
+<!--
 <div class="container">
         <div class="raised-edge">
 
@@ -259,7 +263,7 @@ the following:
 
 #
 
-
+--->
 
 
 ### File-naming advice
@@ -296,9 +300,9 @@ human-readable.
 <div class="container">
         <div class="raised-edge">
         
-<pre><font color="#398c4d"><b>/</b></font>
-├── <font color="#398c4d"><b>Project-Alpha</b></font>
-│   ├── <font color="#398c4d"><b>Data</b></font>
+<pre><font color="#859900"><b>/</b></font>
+├── <font color="#859900"><b>Project-Alpha</b></font>
+│   ├── <font color="#859900"><b>Data</b></font>
 │   │   ├── 201907-WebScraper.py
 │   │   ├── 201910-DataDump01Analysis.docx
 │   │   ├── 201910-DataDump01.xls
@@ -306,12 +310,12 @@ human-readable.
 │   │   ├── 201911-Visualization.rdata
 │   │   ├── 201911-VisualizationV01.rdata
 │   │   └── ...
-│   ├── <font color="#398c4d"><b>Docs</b></font>
+│   ├── <font color="#859900"><b>Docs</b></font>
 │   │   ├── 201908-ProceureManual.docx
 │   │   ├── 201911-PublicTalkPresentation.pptxt
 │   │   └── ...
 │   └── README.md
-└── <font color="#398c4d"><b>Project-Beta</b></font>
+└── <font color="#859900"><b>Project-Beta</b></font>
 </pre>
 
  <div class="edge-shadow"></div>

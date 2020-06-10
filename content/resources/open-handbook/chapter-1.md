@@ -1,25 +1,33 @@
 ---
 weight: 2
-title: "1. Annotation & Critical Reading"
+title: "Annotation & Critical Reading"
 bookHidden: true
 ---
 
 
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Annotation and Critical Reading
 
+---
+  <small>
 
-> There is something predatory, cruel even, about a pen suspended over a
-> text. Like a hawk over a field, it is on the lookout for something
-> vulnerable. Then it is a pleasure to swoop and skewer the victim with
-> the nib's sharp point. The mere fact of holding the hand poised for
-> action changes our attitude to the text. We are no longer passive
-> consumers of a monologue but active participants in a dialogue.
->
-> Tim Parks, \"[A Weapon for
-> Readers](http://www.nybooks.com/blogs/nyrblog/2014/dec/03/weapon-for-readers/)\"
+**There is something predatory, cruel even, about a pen suspended over a
+text. Like a hawk over a field, it is on the lookout for something
+vulnerable. Then it is a pleasure to swoop and skewer the victim with
+the nib's sharp point. The mere fact of holding the hand poised for
+action changes our attitude to the text. We are no longer passive
+consumers of a monologue but active participants in a dialogue.**
+
+--- Tim Parks, "[A Weapon for Readers](http://www.nybooks.com/blogs/nyrblog/2014/dec/03/weapon-for-readers/)"
+
+  </small>
+
+---
+
+
+
 
 In college you will encounter demanding texts of great complexity. You
 will be asked to engage these texts critically and to challenge the
@@ -72,7 +80,7 @@ As you can see from the example here to the right, the process of
 annotation keeps me engaged, active, and alert---key components in critical
 thinking.
 
-![image](https://github.com/stockphrase/OpenHandbook/blob/master/Chapters/images/Annotation1.jpg?raw=true)
+<div style="text-align:center">{{< figure src="/img/Annotation1.jpg" >}}</div>
 
 ## The false allure of the highlighter
 
@@ -81,7 +89,7 @@ with the use of a highlighter. However, I'd like to question this
 practice a bit. Compare the following selection from a student's course
 reading to the annotation practices outlined above:
 
-![](/img/highlighter.png)
+<div style="text-align:center">{{< figure src="/img/highlighter.png" >}}</div>
 
 There are a number of problems worth noting here about the practice of
 highlighting while reading:

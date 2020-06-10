@@ -4,13 +4,20 @@ bookHidden: true
 title: "8. Working with Sources"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
 # Working with Sources
 
-> The ugly fact is books are made out of books.
->
-> --Cormac McCarthy
+---
+<small>
+
+**The ugly fact is books are made out of books.**
+
+--Cormac McCarthy
+
+</small>
+
+---
 
 Academic writing always involves integrating the thinking of others into
 your own writing. There are only three ways that the words and ideas of
