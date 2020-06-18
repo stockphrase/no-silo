@@ -7,12 +7,12 @@ title: "Keyword Index"
 
 # Keyword Index
 
-This is a running list of the academic keywords and internal links within this text. 
+This is a running list of the academic keywords and internal links within this text.
 
 | Keyword   |    Links     
 |:----------|:-------------
 | Altering Sources | [`C8`](/resources/open-handbook/chapter-8/)
-| Analysis | [`C1`](/resources/open-handbook/chapter-1/), [`C6`](http://localhost:1313/resources/open-handbook/chapter-6)
+| Analysis | [`C1`](/resources/open-handbook/chapter-1/), [`C6`](/resources/open-handbook/chapter-6)
 | Annotation | [`C1`](/resources/open-handbook//chapter-1/)
 | Archiving Work | [`C4`](/resources/open-handbook/chapter-4)
 | Argument |  [`C6`](/resources/open-handbook/chapter-6)
@@ -38,4 +38,3 @@ This is a running list of the academic keywords and internal links within this t
 | Signal Phrase|[`C8`](/resources/open-handbook/chapter-8/)
 | Sources|[`C8`](/resources/open-handbook/chapter-8), [`C9`](/resources/open-handbook/chapter-9), [`C11`](/resources/open-handbook/chapter-11/)
 | Summary|[`C8`](/resources/open-handbook/chapter-8)
-

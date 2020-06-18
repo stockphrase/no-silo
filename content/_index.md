@@ -70,18 +70,36 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 #
 
-**Writing 2** is an introduction to academic writing. The course focuses on how to **acquire knowledge**, **evaluate evidence**, **think critically**, and **articulate arguments**. We will cultivate these critical practices through rigorous group ``inquiry``---by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal [`documentation of sources`](/resources/open-handbook/chapter-11/) and the integration of source materials through [`summary`](https://no-silo.com/resources/open-handbook/chapter-8/), [`paraphrase`](https://no-silo.com/resources/open-handbook/chapter-8/), and [`quotation`](https://no-silo.com/resources/open-handbook/chapter-8/).
+#### Writing 2 Course materials
+
+#
+
+Writing 2 is an introduction to academic writing. The course focuses on how to **acquire knowledge**, **evaluate evidence**, **think critically**, and **articulate effective arguments**. We will cultivate these critical practices through rigorous group `inquiry`--- by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal [`documentation of sources`](/resources/open-handbook/chapter-11/) and the integration of source materials through [`summary`](https://no-silo.com/resources/open-handbook/chapter-8/), [`paraphrase`](https://no-silo.com/resources/open-handbook/chapter-8/), and [`quotation`](https://no-silo.com/resources/open-handbook/chapter-8/).
 
 ---
 
-- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
+- [Syllabus](/courses/writing-2/syllabus)
+- [Readings](https://canvas.dartmouth.edu)
+- [*The Open Handbook*](/resources/open-handbook/)
 
-- `Assignments`:    [Essay 1]() | [Essay 2]() | [Essay 3]()
+#### Writing 2 Assignments
 
-- `Workshops`:    `TBA` | `TBA` | [`TBA`
+- Essay 1.0
+- Essay 2.0
+
+#### Writing 2 Workshops
+
+- Argument analysis
+- Argument summary
+- Argument response
+- Considering audience
+- Annotation & critical analysis
+- Signal phrases
+- MLA citation/documentation
 
 
 {{< /details >}}
+
 
 
 {{< details "Writing 3" closed >}}
@@ -92,11 +110,12 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 ---
 
-- `Course Materials`: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | [Open Handbook](/resources/open-handbook/)
+- **Course Materials**: [Syllabus]() | [Readings](https://canvas.dartmouth.edu) | *[The Open Handbook](/resources/open-handbook/)*
 
-- `Assignments`:   `TBA`
+- **Assignments**:    [Essay 1]() | [Essay 2]() | [Essay 3]()
 
-- `Workshops`:    `TBA` | `TBA` | [`TBA`
+- **Workshops**:    `TBA` | `TBA` | `TBA`
+
 
 {{< /details >}}
 

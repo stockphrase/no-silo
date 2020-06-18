@@ -44,7 +44,7 @@ the following settings to format your page:
 
 ## Chicago Notes page formatting
 
-The Chicago style has two ways of approaching citation. In one method, known as `author-date`, references are placed in the text within a parenthesis using the author's last name and the year of the source's publication. The author-date method is common in the sciences and social sciences. A second method is known as `notes and bibliography`. In this method in-text citations are made using either `footnotes,` which appear at the bottom of a page, or `endnotes,` which appear on a separate **Notes** page at the conclusion of the document. This handbook only presents the `notes and bibliography` method with endnotes.  
+The Chicago style has two ways of approaching citation. In one method, known as `author-date`, references are placed in the text within a parenthesis using the author's last name and the year of the source's publication. The author-date method is common in the sciences and social sciences. A second method is known as `notes and bibliography`. In this method, in-text citations are made using either `footnotes,` which appear at the bottom of a page, or `endnotes,` which appear on a separate **Notes** page at the conclusion of the document. *This handbook only presents the `notes and bibliography` method with endnotes.*  
 
 To set up your **Notes** page properly, follow the rules below:
 
@@ -57,21 +57,23 @@ When setting up the Notes page, use the following rules:
 
 - Center the word "Notes" at the top of the page. 
 
+- Place the page number on the right side of each page in the document's header. If instructed to do so by a professor, include your last name before the page number on each page. 
+
 - Single-space the endnotes with a line separating entries. 
 
 - Indent the first line of an endnote entry with a 1/2-inch tab.
 
 ### Making endnote or footnote entries
 
-When making footnotes or endnotes, the Chicago form prescribes a specific strategy designed to lessen the work involved. While this design ultimately means less typing, a number of strict rules must be followed:
+When making footnote or endnote entries, the Chicago form prescribes a specific strategy designed to lessen the work involved. While this design ultimately means less typing, a number of strict rules must be followed:
 
 - Present the citations in the numerical order as they appear within the text.
 
 - The first time a source is cited, use the *full* Chicago notes form.
 
-- If the same source is used more than once, the *shorthand* version of the Chicago  notes form is used the second (and each subsequent) time. The shorthand version  contains **a)** the author's last name, **b)** a shortened version of the title, and **c)** the page number(s) of the citation.
+- If the same source is used more than once, the *shorthand* version of the Chicago notes form is used the second (and each subsequent) time. The shorthand version  contains **a)** the author's last name, **b)** a shortened version of the title, and **c)** the page number(s) of the citation.
 
-- If a source is used twice (or more) in a row, the Latin abbreviation "[Ibid.](https://en.wikipedia.org/wiki/Ibid.)" is used along with the page number, rather than the shorthand version of the form. (Ibid. means "in the same place.")
+- If a source is used twice (or more) *in a row*, the Latin abbreviation "[Ibid.](https://en.wikipedia.org/wiki/Ibid.)" is used along with the page number, rather than the shorthand version of the form. (Ibid. means "in the same place.")
 
 - If a source is used twice (or more) in a row and the citation *is from the same page*, "Ibid." is used by itself without the  page number. 
 
@@ -95,6 +97,8 @@ The Chicago style does not require that you include a bibliography page at the c
 To format a Chicago bibliography page, use the following rules:
 
 - Place the bibliography page after the notes page. 
+
+- Place the page number on the right side of each page in the document's header. If instructed to do so by a professor, include your last name before the page number on each page. 
 
 - Center the word "Bibliography" at the top of the page. 
 
@@ -142,7 +146,7 @@ This in-text reference will correspond to either a footnote at the bottom of the
 The following section provides examples for citing sources that are commonly found in academic writing. Both the Notes and Bibliography forms are included. The various forms have been organized into sections on **books**, **periodicals**, **electronic sources**, and **other types of sources** that are less common.
 
 
-- Click on "Bibliography" or "Notes" to reveal the proper form:
+🔴️ Click on "Bibliography" or "Notes" to reveal the proper form:
 
 ## Citing Books
 
@@ -590,17 +594,6 @@ Cranston, Brian. *Outlooks on Faith and Reason*. 1979. Reprint, New York: Stroke
 ### Article in a reference work, such as a dictionary or encyclopedia:
 
 {{< tabs "dictionary" >}}
-{{< tab "Bibliography" >}} 
-
-<div style="text-align:center">Bibliography</div>
-
-{{< mla-ref >}}
-
-NA, see note...
-
-{{< /mla-ref >}}
-
-{{< /tab >}}
 
 {{< tab "Notes" >}} 
 
@@ -624,17 +617,6 @@ NA, see note...
 ### Sacred texts
 
 {{< tabs "sacred" >}}
-{{< tab "Bibliography" >}} 
-
-<div style="text-align:center">Bibliography</div>
-
-{{< mla-ref >}}
-
-NA, see note.
-
-{{< /mla-ref >}}
-
-{{< /tab >}}
 
 {{< tab "Notes" >}} 
 
@@ -1241,17 +1223,6 @@ Redburn, Marcus. *A Study of Melville's Aesthetics*. PhD diss., Boston Universit
 
 
 {{< tabs "ad" >}}
-{{< tab "Bibliography" >}} 
-
-<div style="text-align:center">Bibliography</div>
-
-{{< mla-ref >}}
-
-NA, see note.
-
-{{< /mla-ref >}}
-
-{{< /tab >}}
 
 {{< tab "Notes" >}} 
 
@@ -1274,17 +1245,7 @@ NA, see note.
 
 
 {{< tabs "---" >}}
-{{< tab "Bibliography" >}} 
 
-<div style="text-align:center">Bibliography</div>
-
-{{< mla-ref >}}
-
-NA, see note.
-
-{{< /mla-ref >}}
-
-{{< /tab >}}
 
 {{< tab "Notes" >}} 
 

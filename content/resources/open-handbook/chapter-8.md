@@ -11,7 +11,7 @@ title: "8. Working with Sources"
 ---
 <small>
 
-**The ugly fact is books are made out of books.**
+The ugly fact is books are made out of books.
 
 --Cormac McCarthy
 
@@ -67,32 +67,30 @@ how your views relate to the views of the other writers you present.
 
 ## How do you construct a signal phrase?
 
--   `Use the author's name`. The first time you mention an author,
+-   **Use the author's name**. The first time you mention an author,
     include the author's full name, the title of his or her work, and
     perhaps a brief statement indicating the author's credentials. Once
     you have introduced an author in your paper, only use his or her
     last name if you mention him or her again.
 
--   `Use a strong verb to characterize what the author has done.` The list below has possible selections. Be sure to pick a verb that most precisely describes the author's intent or action. For example:
+-   **Use a strong verb to characterize what the author has done**. The list below has possible selections. Be sure to pick a verb that most precisely describes the author's intent or action. For example:
 
-{{< hint warning >}}
+> asserts, argues, believes, claims, emphasizes, insists, observes, reports, suggests, acknowledges, admires, agrees, corroborates, endorses, extols, praises, verifies, illustrates, expands on, rejects, complicates, contends, contradicts, denies, disagrees, refutes, questions, warns, proposes, implores, exhorts, demands, calls for, recommends, urges, advocates, wonders, asks, rejects, encourages.
 
-asserts, argues, believes, claims, emphasizes, insists, observes, reports, suggests, acknowledges, admires, agrees, corroborates, endorses, extols, praises, verifies, illustrates, expands on, rejects, complicates, contends, contradicts, denies, disagrees, refutes, questions, warns, proposes, implores, exhorts, demands, calls for, recommends, urges, advocates, wonders, asks, rejects, encourages.
 
-{{</hint>}}
 
 ## Example of a signal phrase use
 
-  
+
 Here is an example of a student properly using signal phrases and
 citations to indicate borrowings from other sources:
 
 
 <div class="container">
         <div class="raised-edge">
-        
+
 **[Student Essay]**
-        
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A number of scholarly views exist that attempt to explain the nature and origins of Taoist religious practices. <mark>In his book *The Tao Practice*, scholar Rico Burgerton argues</mark> that "Taoism emerged during a period
 of unprecedented struggle, deprivation, and suffering in the fourth
 century BCE" (89). <mark>This historical condition, he explains,</mark> resulted in religious and cultural practices and
@@ -108,7 +106,7 @@ both views are problematic . . .
           <div class="edge-shadow"></div>
         </div>
       </div>
-      
+
 ##
 
 Notice here how the author of this paragraph uses signal phrases and citations to distinguish his voice from the two source texts he is using. The student announces
@@ -118,9 +116,7 @@ borrowing with a citation. The paragraph concludes with the student transitionin
 
 We can represent this important tactic with the following formula:
 
-- `signal phrase` + `borrowed text/idea` + `citation`.
-
-Memorize this. Burn it into your memory. Practice it. 
+- **signal phrase + borrowed text/idea + citation**.
 
 
 # Quotation
@@ -180,22 +176,22 @@ original language is best.
 
 ## What should I avoid?
 
--   `Avoid excessive use of quotation`. If you quote too often it can
+-   **Avoid excessive use of quotation**. If you quote too often it can
     make it appear that you have not fully read or understood the source
     material. It may also make your writing appear lazy and thoughtless.
 
--   `Avoid excessive use of block quotation`. Block quotations should
+-   **Avoid excessive use of block quotation**. Block quotations should
     be rare; reserve them for special language that you believe cannot
     be summarized or paraphrased. Try instead to use a mixture of
     quotation, paraphrase, and selective quotation to integrate the
     source material into your writing.
 
--   `Avoid inserting a quote within your writing without providing your
-    commentary or explanation`. Explain to your audience what your
+-   **Avoid inserting a quote within your writing without providing your
+    commentary or explanation**. Explain to your audience what your
     quotes mean and connect them to your broader argument so that the
     reader will understand how to interpret them.
 
--   `Avoid inserting quotations without signal phrases`. Quotations
+-   **Avoid inserting quotations without signal phrases**. Quotations
     should be introduced and woven into your own writing. They should
     rarely stand alone.
 
@@ -239,7 +235,7 @@ the foreseeable future (238).
       </div>
 
 
-## Sample quotations from the source text: 
+## Sample quotations from the source text:
 
 -   In a recent essay, scientist E.O. Wilson considers a dark truth
     about humanity: "we are dismantling a support system that is too
@@ -333,7 +329,7 @@ Conquest*](http://libcat.dartmouth.edu/record=b1422593~S1).
       </div>
 
 
-## Sample summary from the source text: 
+## Sample summary from the source text:
 
 - As Patricia Nelson Limerick argues in *The Legacy of Conquest*,
 historians have falsely assumed that literate societies with vibrant
@@ -408,10 +404,10 @@ Conquest*](http://libcat.dartmouth.edu/record=b1422593~S1).
  <div class="edge-shadow"></div>
         </div>
       </div>
-      
+
 ##
-      
-## Sample paraphrase from the source text: 
+
+## Sample paraphrase from the source text:
 
 - In *The Legacy of Conquest*, Patricia Nelson Limerick argues that
 during the early part of the last century the disciplines of
@@ -423,5 +419,3 @@ characterized by mythological worldviews and superstitious beliefs; on
 the other hand, historians improperly assumed that literate cultures
 were filled with individuals who only used reason and evidence to
 guide their thinking (35).
-
-

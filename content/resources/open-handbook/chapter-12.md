@@ -12,7 +12,7 @@ status: under-revision
 # Academic Research
 
 ---
-   <small>**You are right to be wary. There is much bullshit. Be wary of me too, because I may be wrong. Make up your own mind after you evaluate all the evidence and logic.**
+   <small>You are right to be wary. There is much bullshit. Be wary of me too, because I may be wrong. Make up your own mind after you evaluate all the evidence and logic.
 
    ---Mark Rippetoe
    
@@ -78,8 +78,7 @@ The moves you make in these conversations will take many forms. We
 might, for example, take the idea of one scholar and build on it in some
 way---perhaps by extending it to a new context. Or, we might offer a new
 interpretation of the meaning of a particular film, historical event, or
-scientific experiment, distinguishing our view from the ones that already exist. During this process of articulating our own
-views, we often find ourselves in conflict with the thinking of others.
+scientific experiment, distinguishing our view from the ones that already exist. During this process of articulating our own views, we often find ourselves in conflict with the thinking of others.
 As a result, we will often contribute to the conversation by expressing the reasons
 why we disagree in part or in whole with one or more of the other
 individuals in the conversation. On the other hand, we may also choose to bring
@@ -90,7 +89,17 @@ might say or argue has a context that must be considered. Thus, every academic p
 argue an original point or idea, it will also show how that idea emerges
 from a preexisting conversation.
 
-## The Research Question
+## The Research Topic
+
+<!--- Faculty often forget how deeply challenging it is to do academic research. Most of us are old, and we've been researching in libraries for decades. We know our way around a library; we have memorized at least one citation style be rote; complex, high-order cognitive operations like synthesis come naturally to us. In short, we know a lot of stuff. But that knowledge can be a handicap for our teaching---we often assume too much on behalf of our students. For them, the knowledge and skills we practice are not only difficult, they are mysteries. So it is good for us to occasionally recall how deeply challenging this all is. I do remember the day that my 18-year-old self stood in a large research library, my face burning red with embarrassment because I hadn't a clue how to begin. 
+
+Research is, like most things in life, something that you must do in order to learn. Mistakes and confusion are great teachers. But it is nice when there is someone you can ask for help when things get really tough. 
+
+
+
+Most of the texts on the market designed to help students with research-based writing are rather dishonest. They present academic research and research writing as a linear "process," an orderly list of steps that one must go through to begin and successfully complete a research essay or project. This misleading narrative generally begins with the formulation of a question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. It is true that all these things must happen to make a research paper; the problem is that the description of the process in books presents an idealized and simplistic description of how a research project comes to be, develops, and concludes. The truth of the matter is that academic research is rarely a linear "process"; rather, it is a messy, elliptical, disorganized, frequently frustrating but also surprising and exhilarating one. More like real life.
+
+--->
 
 Discovering your own research topic can be an overwhelming experience.
 With so many things to choose from, finding a narrow focus is often
@@ -116,23 +125,12 @@ focus many, many times. You will frequently encounter dead ends; but you
 will also experience the thrill of serendipitous discovery that will
 take you down a path you would have never considered.
 
-
-## Finding A Topic
-
-<!-- 
-
-## This ain't easy
-
-Faculty who teach research often forget how deeply challenging it is to do academic research. Most of us are old, and we've been researching in libraries for decades. 
-
-We've forgotten how many challenges we faced as novice researchers. However, I 
-remember the day that my 18-year-old self stood in a large research library, my
-face burning red with embarrassment because I hadn't a clue how to begin. 
-
-Research is, like most things in life, something that you must do in order to  learn. Mistakes and confusion are great teachers. But it is nice when there is someone you can ask for help when things get really tough. 
+- One important thing to note here is to not confuse a research *topic* with a research *question*. The
+research topic is just a general field of inquiry, a subject that you want to begin exploring. This stage of early research is designed to provoke a specific question or problem that you want to explore in more depth. 
 
 
--->
+## Finding A Research Topic
+
 
 ### Exploring Topics with Subject Searches
 
@@ -439,7 +437,7 @@ imagine a scholarly article about the "intelligence" of using certain
 "artificial" sweeteners in food for children. This is not an article that is relevant for your research.
 
 To avoid this problem, you can instruct your search engine to perform
-what is known as an **exact phrase search**. This is performed by
+what is known as an `exact phrase search`. This is performed by
 placing quotation marks around the exact words you are searching for. By
 searching for "artificial intelligence" your search results will only
 contain items that have that exact phrase within the document or title.
@@ -465,6 +463,12 @@ Similarly, if you only search for wom**an**, you will potentially miss out on
 the all the texts that mention wom**en**. However, using the wild card
 asterisk you will search both terms simultaneously, gathering all the
 relevant results.
+
+ To illustrate, look at these two searches on the JSTOR database:
+
+- [Iraq and manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (14,863 results)
+
+- [Iraq and manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (30,868 results) 👀️
 
 {{< /details >}} 
 
@@ -649,12 +653,12 @@ If those are not practicable, use these test criteria:
 
 ## The Oxford English Dictionary
 
-The [OED](http://www.oed.com/) is, without question, the greatest and
+The [OED](https://search.library.dartmouth.edu/view/action/uresolver.do?operation=resolveService&package_service_id=4424727860005706&institutionId=5706&customerId=5705) is, without question, the greatest and
 most complete dictionary ever created. As an historical dictionary, the
 OED systematically traces the etymology of words in the English
-language. [Etymology](http://en.wikipedia.org/wiki/Etymology) is \"the
+language. [Etymology](http://en.wikipedia.org/wiki/Etymology) is "the
 study of the history of words, their origins, and how their form and
-meaning have changed over time.\" Thus, with the OED you can see when a
+meaning have changed over time." Thus, with the OED you can see when a
 word entered or exited the English language and how its meaning evolved
 over time.
 

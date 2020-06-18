@@ -14,7 +14,7 @@ $border-radius: $padding-4 !default;
 // Grayscale
 $white: #ffffff !default;
 $gray-100: #f8f9fa !default;
-$gray-200: #DFEAEC !default; // highlites #e9ecef / #DFEAEC
+$gray-200: #f7f7f8 !default; // highlites #e9ecef / #DFEAEC
 $gray-300: #dee2e6 !default;
 $gray-400: #ced4da !default;
 $gray-500: #adb5bd !default;
@@ -24,8 +24,8 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$color-link: #c88014 !default; //#708B75
-$color-visited-link: #c88014 !default;
+$color-link: #859900 !default; //#708B75
+$color-visited-link: #859900 !default;
 
 $body-background: white !default;
 $body-font-color: $black !default;
@@ -44,7 +44,7 @@ $mobile-breakpoint: $menu-width + $body-min-width * 1.2 + $toc-width !default;
 $hint-colors: (
   info: #6bf,
   warning: #3e8f51,
-  danger: #e9ecef,
+  danger: #bf0606,
   note: #877f6f
 ) !default;
 

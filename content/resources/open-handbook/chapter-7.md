@@ -10,14 +10,14 @@ title: "7. Paragraphs and Topic Sentences"
 
 ---
   <small>
-  
-**I can remember picking up my father's books before I could read. The
+
+I can remember picking up my father's books before I could read. The
 words themselves were mostly foreign, but I still remember the exact
 moment when I first understood, with a sudden clarity, the purpose of
 a paragraph. I didn't have the vocabulary to say \"paragraph,\" but I
 realized that a paragraph was a fence that held words. The words
 inside a paragraph worked together for a common purpose. They had some
-specific reason for being inside the same fence.**
+specific reason for being inside the same fence.
 
 ---Sherman Alexie, "[Superman and Me](http://articles.latimes.com/1998/apr/19/books/bk-42979)".
 
@@ -83,9 +83,9 @@ theorist Paulo Freire. According the the author, the film's central
 character, Max Fischer, fails to live up to the standards for education
 that Freire articulates.
 
-### An incoherent paragraph: 
 
-{{< hint danger >}}
+{{< details "An incoherent paragraph" open >}}
+#
 
 Liberation education culminates in an effort to change the world.
 However, according to Freire, this change must embrace a communitarian
@@ -95,21 +95,22 @@ understand Freire's imperatives on community, dialogue and consensus.
 The views, ideas, and values held by a community are used to change the
 world, not one individual's desire. Rather than shape the world *with*
 others, Max insists on altering the world for himself alone.
-This site is **under construction** and is not ready for use. Mistakes, broken links, and the like should be expected.
-
-{{< /hint >}}
 
 
-The `topic sentence` of the paragraph does not represent the
+{{< /details >}}
+
+
+- The `topic sentence` of the paragraph does not represent the
     true nature of the paragraph. The paragraph is about Max's failure
     to embrace a core idea expressed by Freire; however, the topic
     sentence suggests the paragraph will only discuss something called
     "liberation education." Further, the paragraph's sentences are not
     presented in a helpful or logical order.
 
-### Revised paragraph:
 
-{{< hint info >}}
+{{< details "Revised paragraph" open >}}
+#
+
 
 Although Freire argues that liberation education culminates in an effort
 to change the world, Max Fischer's efforts in this regard fail to
@@ -124,9 +125,9 @@ insistence on community, dialogue, and consensus. Rather than shape the
 world *with* others, as Freire recommends, Max insists on altering the
 world for himself alone.
 
-{{< /hint >}}
+{{< /details >}}
 
-This revised paragraph uses the `topic sentence` to announce
+- This revised paragraph uses the `topic sentence` to announce
     that the passage will focus on how Max Fischer fails to live up to a
     standard expressed by Freire. This new topic sentence reflects the
     nature of the paragraph much more faithfully. Furthermore, the

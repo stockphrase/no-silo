@@ -6,16 +6,16 @@ title: "Critical Notes"
 
 <div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
 
-# Critical Reading
+# Critical Notes
 
 ---
   <small>
 
-**"We believe the best way to work on a difficult text is by rereading
+"We believe the best way to work on a difficult text is by rereading
 . . . but you can also work on the difficult text by writing, by
 taking possession of the work through sentences and paragraphs of your
 own, through summary, paraphrase, and quotation, by making another
-writer's work part of your work" (12).**
+writer's work part of your work" (12).
 
 --- Bartholomae and Petrosky, "Introduction." *Ways of Reading: An Anthology for Writers*
 
@@ -23,7 +23,7 @@ writer's work part of your work" (12).**
 
 ---
 
-## Taking Critical Notes
+## Taking critical notes
 
 
 One objective of the annotations described in the previous chapter is to
@@ -78,14 +78,13 @@ large [research](/resources/open-handbook/chapter-12) projects. As I describe in
 being a scholar---or just a great student---involves reusing and re-purposing
 prior work and information.
 
-{{< hint note >}}
+## How to take in-class notes
 
-[Some research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf)
-suggests that taking notes by hand, [rather than using a computer](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/),
-aids memory and improves student performance.
+You might want to take your notes on paper. [Some research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) suggests that taking notes by hand, [rather than using a computer](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/), aids memory and improves student performance:
 
-{{< /hint >}}
+>Obviously it is advantageous to draft more complete notes that precisely capture the course content and allow for a verbatim review of the material at a later date.  Only it isn’t.  New research by Pam Mueller and Daniel Oppenheimer demonstrates that students who write out their notes on paper actually learn more.  Across three experiments, Mueller and Oppenheimer had students take notes in a classroom setting and then tested students on their memory for factual detail, their conceptual understanding of the material, and their ability to synthesize and generalize the information.  Half of the students were instructed to take notes with a laptop, and the other half were instructed to write the notes out by hand.  As in other studies, students who used laptops took more notes.  In each study, however, those who wrote out their notes by hand had a stronger conceptual understanding and were more successful in applying and integrating the material than those who used took notes with their laptops.
 
+- Of course, as you know well, we are all different with unique strengths and challenges. So this advice may not be appropriate for everyone.
 
 ## Critical notes strategies
 
@@ -115,5 +114,3 @@ some strategies or principles that may guide your efforts:
     later use. You might use a series of organized folders on your
     computer or some kind of filing system in manila folders. Whatever
     works best for you.
-
-

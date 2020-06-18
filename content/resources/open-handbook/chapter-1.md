@@ -13,12 +13,12 @@ bookHidden: true
 ---
   <small>
 
-**There is something predatory, cruel even, about a pen suspended over a
+There is something predatory, cruel even, about a pen suspended over a
 text. Like a hawk over a field, it is on the lookout for something
 vulnerable. Then it is a pleasure to swoop and skewer the victim with
 the nib's sharp point. The mere fact of holding the hand poised for
 action changes our attitude to the text. We are no longer passive
-consumers of a monologue but active participants in a dialogue.**
+consumers of a monologue but active participants in a dialogue.
 
 --- Tim Parks, "[A Weapon for Readers](http://www.nybooks.com/blogs/nyrblog/2014/dec/03/weapon-for-readers/)"
 
@@ -159,13 +159,3 @@ annotation and critical reading:
     the course or your broader reading experience. Develop the capacity
     to bring other texts into dialogue with each other, imagining
     writing and reading as a form of social interaction.
-
-
-
-
-
-
-
-
-
-

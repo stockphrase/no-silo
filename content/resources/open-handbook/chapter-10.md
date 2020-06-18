@@ -12,7 +12,7 @@ title: "10. Plagiarism"
 
 <small>
 
-**Perish those who said our good things before we did.**
+Perish those who said our good things before we did.
 
 --Aelius Donatus
 
@@ -44,15 +44,15 @@ for more information on academic dishonesty and a description of its severe cons
 
 
 While plagiarism appears in many forms and degrees, we may broadly
-classify them in three categories: 
+classify them in three categories:
 
-- the wholesale copying of another's essay or project 
+1. the wholesale copying of another's essay or project
 
-- the adoption of certain phrases or words from another text without proper attribution (also known as "patchwriting")
+2. the adoption of certain phrases or words from another text without proper attribution (also known as "patchwriting")
 
-- the paraphrase of another's writing without proper attribution or citation.
+3. the paraphrase of another's writing without proper attribution or citation.
 
-Below you will find examples of these three categories of plagiarism, each one plagiarizing a passage taken from Patricia Nelson Limerick's
+Below you will find examples of these three categories of plagiarism, each one using a passage from Patricia Nelson Limerick's
 1987 book, *The Legacy of Conquest*:
 
 <div class="container">
@@ -89,10 +89,10 @@ unacceptable whether it occurs by mistake or design. Care must be taken
 when taking notes and typing quotations to avoid representing the words
 of other authors as your own:
 
->As we all know, <mark>when academic territories were parceled out in the early twentieth century, anthropology got the tellers of tales and history got the keepers of written records.</mark> This made historians <mark>assume that literacy, the modern state, and the commercial world had produced a different sort of creature entirely---humans less inclined to put myth over reality, more inclined to measure their beliefs by the standard of accuracy and practicality.</mark> 
+>As we all know, <mark>when academic territories were parceled out in the early twentieth century, anthropology got the tellers of tales and history got the keepers of written records.</mark> This made historians <mark>assume that literacy, the modern state, and the commercial world had produced a different sort of creature entirely---humans less inclined to put myth over reality, more inclined to measure their beliefs by the standard of accuracy and practicality.</mark>
 
 - This passage fails to use quotation marks to indicate borrowed language.
-- It additionally fails to cite the source of the borrowed language. 
+- It additionally fails to cite the source of the borrowed language.
 
 
 ## Patchwriting
@@ -102,7 +102,7 @@ note-taking or drafting process. Using patches of a source text is
 perfectly reasonable; however, make sure that quotation marks are used
 and citations are given:
 
-> When the <mark>academic territories were parceled out in the early 1900s</mark>, the disciplines <mark>diverged</mark>. This made the differences that human beings had with regard to literacy <mark>assume an undeserved significance</mark>. By <mark>overdrawing this disciplinary boundary</mark>, historians began to believe that the subjects they studied were <mark>less inclined to put myth over reality</mark> and more likely <mark>to measure their beliefs</mark> through the excellent standards of <mark>accuracy and practicality</mark> (Limerick 35). 
+> When the <mark>academic territories were parceled out in the early 1900s</mark>, the disciplines <mark>diverged</mark>. This made the differences that human beings had with regard to literacy <mark>assume an undeserved significance</mark>. By <mark>overdrawing this disciplinary boundary</mark>, historians began to believe that the subjects they studied were <mark>less inclined to put myth over reality</mark> and more likely <mark>to measure their beliefs</mark> through the excellent standards of <mark>accuracy and practicality</mark> (Limerick 35).
 
 - While this student does acknowledge the source she is borrowing from, she fails to enclose words and phrases that come directly from the text.
 
@@ -125,4 +125,4 @@ he came up with these ideas and arguments himself:
 > with individuals who only used reason and evidence to guide their
 > thinking.
 
-- This is an excellent [`paraphrase`](/resources/open-handbook/chapter-8) of the text. But it is still plagiarism unless you cite it appropriately. 
+- This is an excellent [`paraphrase`](/resources/open-handbook/chapter-8) of the text. But it is still plagiarism unless you cite it appropriately.
