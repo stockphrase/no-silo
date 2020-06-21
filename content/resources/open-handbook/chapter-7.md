@@ -87,7 +87,7 @@ that Freire articulates.
 {{< details "An incoherent paragraph" open >}}
 #
 
-Liberation education culminates in an effort to change the world.
+> Liberation education culminates in an effort to change the world.
 However, according to Freire, this change must embrace a communitarian
 philosophy. This is what Max Fischer fails to understand. Max is keen to
 change the world, shaping it to his needs and wants, but he fails to
@@ -112,7 +112,7 @@ others, Max insists on altering the world for himself alone.
 #
 
 
-Although Freire argues that liberation education culminates in an effort
+> Although Freire argues that liberation education culminates in an effort
 to change the world, Max Fischer's efforts in this regard fail to
 embrace the philosophy of community that Freire demands. While Freire
 beckons us to become "transformers of the world" (73), he insists

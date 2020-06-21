@@ -43,7 +43,7 @@ To retain your work and stay organized, you might use a simple paper
 system made up of manila folders. Or you might use a hierarchical folder
 system on your computer organized by class, project, or term.
 Alternatively, you might embrace a powerful bibliographic manager like
-[Zotero](www.zotero.org). Whatever you choose, create a system for
+[Zotero](https://www.zotero.org/). Whatever you choose, create a system for
 staying organized and stick with it.
 
 ## A poor file-saving strategy
@@ -78,7 +78,7 @@ First, after a few weeks of accumulating notes, readings, research, and
 other important documents, a system with no hierarchically organized
 folders becomes a confusing and unhelpful jumble. Secondly, the choices
 for naming the files actively resist discovery and recognition. What,
-for example, is the subject of `Notes.docx`? What class was it from? What lecture? What project were these notes taken for? Of the many essays you wrote
+for example, is the subject of `Notes.docx`? What class was it from? What lecture? Of the many essays you wrote
 last term, which one is `Essay.docx`? And `Revision.docx` is a revision of what, precisely? A year from now you won't remember, but you may very well care at that time. Unfortunately, the folder into which you've dumped these files will have swelled to a debilitating size that will disrupt any attempt to make use of your hard work.
 
 ## A better file-saving strategy
@@ -130,8 +130,8 @@ we might revise the previous filing strategy like this:
 #
 
 Your system will obviously become far more complex than the simplified
-example presented above. (You might, for example, want to create
-subfolders within a class to further organize your files). However, the
+example presented above. You might, for example, want to create
+subfolders within a class to further organize your files. However, the
 key features of a good filing system are detectable here: 1) there is a
 logical structure to the organization, using course names and file types
 to determine the names of the folders and 2) the naming convention for
@@ -142,8 +142,8 @@ system makes sense.
 
 ## Very large filing systems
 
-Most students would be fine if they use the simple filing system
-described above, where folders are determined by course or term. But if
+Most students will find the simple filing system
+described above adequate for their needs. But if
 you have an expectation of a very large file system, or if you plan to
 share a file system with other researchers, you should consider a
 slightly different approach. Large collections of files are quite

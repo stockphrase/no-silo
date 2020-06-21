@@ -11,36 +11,24 @@ title: "What should students be able to do?"
 # What should students be able to do?
 
 
-- **``Analysis:``** Students should be able to tear arguments down to the studs, revealing the text's purpose and structure of support--thesis, claims, evidence, logic. Students should not be passive consumers of texts, but active and critical interrogators of them. Students should also be able to bring the same sort of critical analysis described above to bear on images, spaces, cultural artifacts, and performances of various sorts.
+- **Analysis**. Students should be able to tear arguments down to the studs, revealing a text's purpose, structure, and support. This involves identifying a text's `thesis`, `claims`, `evidence`, `reasons`, and `assumptions`.
 
-- **`Summary:`** Students should be able to accurately represent the ideas and arguments of other writers in abbreviated form, using their own words and sentence structures, to an audience who is unfamiliar with the text.
+- **Active readers**. Students should not be passive consumers of texts, but active and critical interrogators of what they read. They should recognize specious reasoning and rhetorical manipulation.
 
-- **`Paraphrase:`** Students should be able to accurately present the ideas and statements of other writers using their own sentence structures and words to an audience who is unfamiliar with the text.
+- **Summary**. Students should be able to accurately re-present the ideas and arguments of other writers *in abbreviated form* to an audience who is unfamiliar with the text using words and sentence structures of their own manufacture.
 
-- **`Quotation:`** Students should be able to artfully include the exact words of other writers in their own writing and know when quotation is helpful and appropriate.
+- **Paraphrase**. Students should be able to accurately re-present the ideas and statements of other writers to an audience who is unfamiliar with the text using words and sentence structures of their own manufacture.
 
-- **`Critical thinking:`** Students should be able to think critically about the thinking of other writers, then assess the value of these arguments using arguments of their own.
+- **Quotation** Students should be able to artfully include the exact words of other writers in their own writing and know when quotation is helpful and appropriate.
 
-- **`Theoretical analysis:`** Students should be able to make use of the arguments made by others by applying these found ideas or arguments to new contexts.
+- **Critical thinking**. Students should be able to think critically about the arguments presented by other writers, then assess the value of these arguments using arguments and reasons of their own. Students should also be able to bring this same sort of critical analysis described to bear on images, spaces, cultural artifacts, and performances of various sorts.
 
-- **`Evaluate evidence:`** Students should be able to critically analyze the evidence used to support arguments, evaluating its suitability, accuracy, and value.
+- **Theoretical analysis**. Students should be able to make use of the arguments made by others by applying these found ideas to new contexts.
 
-- **`Make arguments:`** Students should be able to make effective arguments that use claims and evidence to support a main idea to an audience.
+- **Evaluate evidence**. Students should be able to critically analyze the evidence used to support arguments, evaluating its suitability and accuracy.
 
-- **`Audience awareness:`** Students should be able to think clearly about those people they hope to address and persuade with their argument and make appropriate rhetorical choices so as to make their best case.
+- **Make arguments**. Students should be able to make effective arguments that use claims and evidence to support a main idea.
 
-- **`Take part in academic conversations:`** Students should be able to enter academic conversations in their writing. This ability encompasses a) academic research skills; b) the proper use of signal phrases, summary, paraphrase, and quotation; c) proper documentation of sources; d) an awareness about what is actually relevant point of debate.
+- **Audience awareness**. Students should be able to think clearly about those people they hope to address and persuade with their arguments and then make appropriate rhetorical choices so as to make their best case.
 
-
-| Skill   |   Description     
-|----------|-------------
-| Analysis | Students should be able to read an argument, then tear it down to the studs, revealing the writing's purpose and structure of support. Students should adopt a particular attitude toward the text such that they are not passive consumers, but active and critical interrogators. This attitude requires an ability to boil arguments down to a) a thesis or central claim; b) a series of supporting claims that are used to promote the thesis to the audience; c) evidence of various sorts that are used to support the claims and, through them, the thesis. Students should also be able to bring the same sort of critical analysis described above to bear on images, spaces, performances of various sorts.
-| Summary | Students should be able to accurately summarize the ideas and arguments of other writers in their own words and sentence structures to an audience who is unfamiliar with the text.
-| Paraphrase | Students should be able to paraphrase the ideas and statements of other writers using their own sentence structure and words to an audience who is unfamiliar with the text.
-| Quotation | Students should be able to artfully include the exact words of other writers in their own writing and know when quotation is appropriate.
-| Critical thinking |  Students should be able to think critically about the thinking of other writers, then assess the value of these arguments using arguments of their own.
-| Theoretical analysis    | Students should be able to make use of the arguments made by others by applying these found ideas or arguments to new contexts.
-| Evaluate evidence | Students should be able to critically analyze the evidence used to support arguments, evaluating its suitability, accuracy, and value.
-| Make arguments |Students should be able to make effective arguments that use claims and evidence to support a main idea to an audience.
-| Audience awareness | Students should be able to think clearly about those people they hope to address and persuade with their argument and make appropriate rhetorical choices to make their best case.
-| Take part in academic conversations | Students should be able to enter academic conversations in their writing. This ability encompasses a) academic research skills; b) the use of signal phrases, summary, paraphrase, and quotation; c) proper documentation of sources; d) a meta awareness about what is actually relevant point of debate.
+- **Take part in academic conversations**. Students should be able to enter academic conversations in their writing. This ability encompasses a) academic research skills; b) the proper use of signal phrases, summary, paraphrase, and quotation; c) proper documentation of sources; d) an awareness about what is actually a relevant point of debate.

@@ -19,7 +19,7 @@ Writing 2 is an introduction to academic writing. The course focuses on how to *
 
 #### Writing 2 Course materials
 
-- [Syllabus](/courses/writing-2/syllabus)
+- Syllabus: [.pdf](/docs/2019F.pdf), [.tex](/docs/2019F.tex)
 - [Readings](https://canvas.dartmouth.edu)
 - [*The Open Handbook*](/resources/open-handbook/)
 

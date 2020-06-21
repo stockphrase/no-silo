@@ -5,7 +5,7 @@ bookToC: false
 
 ## Contact
 
-- {{< fa globe >}} [Web](https://alan-taylor.org) | {{< fa laptop-medical >}} [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09) | {{< fa envelope >}} [Email](mailto:contact@alan-taylor.org)
+- {{< fa laptop-medical >}} [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09) | {{< fa envelope >}} [Email](mailto:contact@alan-taylor.org)
 
 - `#Nerds`: {{< fa key >}} [PGP](/pgp/Alan.c.Taylor.asc) | {{< fa fingerprint >}} PGP Fingerprint:
 

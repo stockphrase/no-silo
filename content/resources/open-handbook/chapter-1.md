@@ -26,9 +26,6 @@ consumers of a monologue but active participants in a dialogue.
 
 ---
 
-
-
-
 In college you will encounter demanding texts of great complexity. You
 will be asked to engage these texts critically and to challenge the
 thinking and conclusions of others. You will also have to retain an
@@ -52,8 +49,8 @@ In fact, I would argue that if you are not writing while you read---by
 putting it into your own words through `annotation`, `summary`, `paraphrase`, and `quotation`---then you are not reading critically at all.
 
 Your objective in annotation is to flag the key elements of a piece of
-writing---such as the `thesis`, argumentative points, and key pieces of
-evidence. This kind of work serves two purposes. First, it helps you
+writing---such as the `thesis`, `claims`, `reasons`, and key pieces of
+`evidence`. This kind of work serves two purposes. First, it helps you
 maintain a critical focus as you read. Second, it helps you later if the
 text must be used for study or your own writing.
 
@@ -66,7 +63,7 @@ to statements that I find important or noteworthy. Sometimes I draw
 arrows to connect parts of the essay that seem related to me in some
 way.
 
-In addition to flagging and `summarizing` a text's key ideas and
+In addition to flagging and `summarizing` a text's key ideas, claims, and
 `arguments`, I also ask questions in the margins or note places where I
 become confused. This is helpful later, on my second reading, since I
 can pay more careful attention to the passages that gave me trouble. I

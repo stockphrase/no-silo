@@ -6,9 +6,9 @@ type: docs
 
 <div style="text-align:center">{{< figure src="/logo.png" width=250 >}}</div>
 
-**No Silo** is the companion site to Alan C. Taylor's courses at Dartmouth College. The site contains syllabi, course materials, workshops, the [`Open Handbook`](/resources/open-handbook), and other related bits and pieces. 
+No Silo is the companion site to Alan C. Taylor's courses at Dartmouth College. The site contains syllabi, course materials, workshops, the [`Open Handbook`](/resources/open-handbook), and other related bits and pieces.
 
-The idea for this site came from a talk I gave to the faculty of the [Institute for Writing and Rhetoric](https://writing-speech.dartmouth.edu) at Dartmouth College in the winter of 2020 about creating an open-source culture among our faculty by sharing syllabi, workshops, prompts, and other teacherly artifacts. This site is the natural extension of those ideas.
+The idea for this site came from a talk I gave to the faculty of the [Institute for Writing and Rhetoric](https://writing-speech.dartmouth.edu) at Dartmouth College in the winter of 2020 about tearing down information silos and creating an open-source culture among our faculty. 
 
 *This site is currently under construction. Mistakes, broken links and the like should be expected*.
 
@@ -21,7 +21,7 @@ The idea for this site came from a talk I gave to the faculty of the [Institute 
 [{{< fa book-open >}}]() `The Open Handbook`
 
 
-The *Open Handbook* project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/). I am in the process of translating the project into [markdown](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. 
+The *Open Handbook* project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/). I am in the process of translating the project into [markdown](https://daringfireball.net/projects/markdown/) files so that I can include it on this website.
 
 If you would like to collaborate on the project, please contact me. If you know your way around git, you can fork the project on {{< fa code-branch >}} [GitHub](https://github.com/stockphrase/no-silo).
 
@@ -70,24 +70,23 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 #
 
-#### Writing 2 Course materials
-
-#
-
 Writing 2 is an introduction to academic writing. The course focuses on how to **acquire knowledge**, **evaluate evidence**, **think critically**, and **articulate effective arguments**. We will cultivate these critical practices through rigorous group `inquiry`--- by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal [`documentation of sources`](/resources/open-handbook/chapter-11/) and the integration of source materials through [`summary`](https://no-silo.com/resources/open-handbook/chapter-8/), [`paraphrase`](https://no-silo.com/resources/open-handbook/chapter-8/), and [`quotation`](https://no-silo.com/resources/open-handbook/chapter-8/).
 
 ---
 
-- [Syllabus](/courses/writing-2/syllabus)
+**Course Materials**
+
+- Syllabus: [.pdf](/docs/2019F.pdf), [.tex](/docs/2019F.tex)
 - [Readings](https://canvas.dartmouth.edu)
 - [*The Open Handbook*](/resources/open-handbook/)
 
-#### Writing 2 Assignments
+**Writing 2 Assignments**
 
 - Essay 1.0
 - Essay 2.0
+- Essay 3.0
 
-#### Writing 2 Workshops
+**Writing 2 Workshops**
 
 - Argument analysis
 - Argument summary
@@ -99,8 +98,6 @@ Writing 2 is an introduction to academic writing. The course focuses on how to *
 
 
 {{< /details >}}
-
-
 
 {{< details "Writing 3" closed >}}
 
@@ -118,5 +115,3 @@ Writing 2 is an introduction to academic writing. The course focuses on how to *
 
 
 {{< /details >}}
-
-

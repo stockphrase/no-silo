@@ -21,8 +21,8 @@ fact, each discipline has a  preferred style. The humanities use MLA, psychology
 uses APA, history and other social sciences use Chicago. There are many others.
 As you begin to specialize in a particular field of study, you will be required
 to master the citation style used by your discipline. This brief handbook,
-however, will only introduce you to two of the most common styles: [MLA](/resources/open-handbook/chapter-11-mla) and
-[Chicago](/resources/open-handbook/chapter-11-chi/).
+however, will only introduce you to two of the most common styles: [`MLA`](/resources/open-handbook/chapter-11-mla) and
+[`Chicago`](/resources/open-handbook/chapter-11-chi/).
 
 Although citation formats differ significantly, they all have two primary
 components:  `in-text citations` and a `bibliography`. As

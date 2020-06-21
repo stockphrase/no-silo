@@ -85,7 +85,7 @@ When a [`quotation`](/resources/open-handbook/chapter-8/) runs more than four ty
 ## MLA in-text citations
 
 The MLA style uses `parenthetical citations` within a document to indicate the author and
-page number of sources. Each time a source is used in your text, the author's name and the page number of the source are placed in a parenthesis within your document. These in-text citations correspond to a full bibliographic entry for the source located in the essay's Works Cited page at the conclusion of the essay. 
+page number of sources. Each time a source is used in your text, the author's name and the page number of the source are placed in a parenthesis within your document. These in-text citations correspond to a full bibliographic entry for the source located in the essay's `Works Cited` page at the conclusion of the essay. 
 
 {{< details "MLA In-text Citations" closed >}} 
 

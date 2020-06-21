@@ -21,12 +21,12 @@ The ugly fact is books are made out of books.
 
 Academic writing always involves integrating the thinking of others into
 your own writing. There are only three ways that the words and ideas of
-others may appear in your writing: [summary](summary), [paraphrase](paraphrase), and
-[quotation](quotation). Writing an academic paper requires a mastery of all
+others may appear in your writing: [`summary`](/resources/open-handbook/chapter-6), [`paraphrase`](/resources/open-handbook/chapter-6), and
+[`quotation`](/resources/open-handbook/chapter-6). Writing an academic paper requires a mastery of all
 three skills. It is critical to always give credit to the other authors
 whose ideas or words you borrow. Failing to do so may result in the
-accusation of [plagiarism](#plagiarism). The way scholars avoid
-plagiarism is by using `signal phrases` and [citations](#citation).
+accusation of [plagiarism](/resources/open-handbook/chapter-10/). The way scholars avoid
+plagiarism is by using `signal phrases` and [`citations`](/resources/open-handbook/chapter-11).
 
 
 # Using signal phrases
@@ -37,10 +37,10 @@ Signal phrases are words that tell your readers that you are borrowing
 text or ideas from a source. The borrowed material could be quoted,
 summarized, or paraphrased. The signal phrase, as the name suggests,
 tells your reader that you are about to begin borrowing; after you have
-presented the borrowed material, conclude with a [citation](#citation) to tell
+presented the borrowed material, conclude with a [citation](/resources/open-handbook/chapter-11) to tell
 your reader that the borrowing has concluded. Using signal phrases and
 citations to bookend your borrowings from other texts helps you avoid
-[plagiarism](#plagiarism), organize your writing, and help your readers understand
+[plagiarism](/resources/open-handbook/chapter-10), organize your writing, and help your readers understand
 how your views relate to the views of the other writers you present.
 
 ## Why use them?
@@ -48,8 +48,8 @@ how your views relate to the views of the other writers you present.
 -   They make it clear when you are transitioning from your own ideas
     and writing to the ideas and writing of others and back again.
 
--   They make it clear when you have begun to [paraphrase](#paraphrase) or
-    [summarize](#summary). Unlike quotations, paraphrases and summaries are not
+-   They make it clear when you have begun to `paraphrase` or
+    `summarize`. Unlike `quotations`, paraphrases and summaries are not
     formatted with quotation marks; therefore, it is difficult for
     readers to know when or where you have begun to paraphrase or
     summarize unless you include signal phrases and citations.
@@ -63,7 +63,7 @@ how your views relate to the views of the other writers you present.
     reader.
 
 -   Using these signal phrases will help you to avoid
-    [plagiarism](#plagiarism).
+    [`plagiarism`](/resources/open-handbook/chapter-10).
 
 ## How do you construct a signal phrase?
 
@@ -99,7 +99,7 @@ beliefs that valued asceticism and practiced detachment from desire
 was largely a creation of the 17th-century, a time of relative
 prosperity, radical socio-political change, and modernization in China
 (5). Taoist asceticism was actually a *rejection* of this tumultuous
-cultural transformationan expression of nostalgia for a simpler time
+cultural transformation---an expression of nostalgia for a simpler time
 in the ancient Chinese past (22). But which is the correct answer? Did
 Taoism emerge in a time of poverty or a time of plenty? In my view,
 both views are problematic . . .
@@ -109,7 +109,7 @@ both views are problematic . . .
 
 ##
 
-Notice here how the author of this paragraph uses signal phrases and citations to distinguish his voice from the two source texts he is using. The student announces
+Notice here how the author of this paragraph uses `signal phrases` and `citations` to distinguish his voice from the two source texts he is using. The student announces
 that he is borrowing words or ideas (in the form of quotations, summary,
 or paraphrase) with a signal phrase and the author's name, then bookends the
 borrowing with a citation. The paragraph concludes with the student transitioning from the source texts to his own thoughts, posing a series of questions that he will try to answer in the reminder of the paper. *This move is a foundational building block of all academic writing*. This is one of the more important skills to master for success in academic writing contexts.
@@ -128,7 +128,7 @@ writing. While quotation is a critical element of all academic writing,
 you must be judicious in its use. Only quote when the rhetorical
 situation requires it. The overuse of quotation can make you appear lazy
 or lacking in confidence. That said, there are moments when quotations
-are entirely justified. For example:
+are entirely justified and useful. For example:
 
 -   When you are interpreting literature such as a poem or novel, the
     specific language used in the text is the subject of your essay.
@@ -136,11 +136,11 @@ are entirely justified. For example:
     words* chosen by the author for his or her literary work. It is
     critical in these instances to use quotations from the literary text
     and then explain what those words mean to your audience---a process
-    known as "[close reading](#closereadingessay)" in literary studies.
+    known as `"close reading"` in literary studies.
 
 -   When you are making an argument it is often helpful to use the words
     of known authorities to help make your case. While you may not be a
-    doctor, a physicist, or professional journalist, you may use their
+    doctor, physicist, or professional journalist, you may use their
     words and arguments to help give credibility to your ideas. While
     using the exact words of these important authorities can be
     rhetorically effective, make sure to use them prudently. If your
@@ -159,20 +159,18 @@ are entirely justified. For example:
     summarized without altering the meaning and effect of the legal
     language.
 
-For most other circumstances, [summary](#summary) or [paraphrase](#paraphrase) of the
-original language is best.
+For most other circumstances, `summary` or `paraphrase` of the original language is best.
 
 ## How do I integrate quoted material?
 
--   Use a [signal phrase](#signalphrase) to introduce the quoted passage.
+-   Use a `signal phrase` to introduce the quoted passage.
 
 -   Use quotation marks.
 
--   Provide a [citation](#citation) in your chosen format, such as MLA or
+-   Provide a `citation` in your chosen format, such as MLA or
     Chicago.
 
--   If necessary, use [ellipsis](#ellipsis) or [brackets](#brackets) to alter the
-    source, satisfy grammar, or provide clarifying information.
+-   If necessary, use [`ellipsis`](/resources/open-handbook/chapter-9) or [`brackets`](/resources/open-handbook/chapter-9) to alter the source, satisfy grammar, or provide clarifying information.
 
 ## What should I avoid?
 
@@ -342,14 +340,14 @@ superstition (35).
 Think of paraphrase as a translation from English into English. It
 involves taking language from a source, putting it into your own words,
 and arranging it within your own original sentence structure(s). Unlike
-[summary](#summary), which aims to reduce or distill an idea, a paraphrase
+`summary`, which aims to reduce or distill an idea, a paraphrase
 should be similar in length to the original passage.
 
 ## Why are paraphrases important?
 
 Accurate paraphrase demonstrates mastery of your source materials and
 indicates an author who is in control of his or her own writing and
-thinking. Whereas excessive [quotation](#quotation) may reveal an uncertain or
+thinking. Whereas excessive `quotation` may reveal an uncertain or
 tentative author, paraphrase demonstrates control and confidence.
 However, ensure that your paraphrases do justice to the original, or
 risk compromising your authority with your readers.
@@ -358,8 +356,8 @@ risk compromising your authority with your readers.
 
 -   Like summaries, paraphrases do not use quotation marks. As a result,
     you must take care to indicate to your readers that you are
-    borrowing from the work of others with a [signal phrase](#signalphrase) and
-    [citation](#citation). As you move from your own writing to the paraphrase
+    borrowing from the work of others with a `signal phrase` and
+    [`citation`](/resources/open-handbook/chapter-11). As you move from your own writing to the paraphrase
     of others, use a signal phrase to indicate this transition.
 
 -   End the paraphrase with an appropriate citation.
@@ -369,9 +367,9 @@ risk compromising your authority with your readers.
 -   **Avoid plagiarizing**. Remember, paraphrased material is still
     borrowed material, even though you have put it in your own words.
     Make sure that any paraphrased material is introduced with a
-    [signal phrase](#signalphrase) and concluded with a [citation](#citation).
+    `signal phrase` and concluded with a [`citation`](/resources/open-handbook/chapter-11).
 
--   **Avoid patchwriting.** [patchwriting](#patchwriting) is a process of merely
+-   **Avoid patchwriting.** [`patchwriting`](/resources/open-handbook/chapter-10) is a process of merely
     changing a word or a phrase here or there from the original text and
     presenting the result as your own writing. Instead, ensure that you
     use your own words and sentence structure in your paraphrase.

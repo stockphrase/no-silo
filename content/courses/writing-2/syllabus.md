@@ -1,12 +1,10 @@
 ---
 weight: 1
 bookFlatSection: true
-bookToc: true
+bookToc: false
 bookHidden: true
 title: "Writing 2: Syllabus"
 ---
-
-
 
 <!--
 {{< hint info >}}
@@ -17,18 +15,15 @@ The pandemic is total bullshit. We're all struggling through this. But here we a
 
 {{< /hint >}}
 
-Use as required. 
+Use as required.
 
 ---
 
 {{< button href="https://vimeo.com/320228756" >}}Rage Button (NSFW){{< /button >}} --- {{< button href="https://www.youtube.com/watch?v=nkkJgdiR8IA" >}}Soothe Button{{< /button >}} --- {{< button href="https://youtu.be/HxM8Eb_IoFY" >}}Therapy Button{{< /button >}} --- {{< button href="https://www.youtube.com/watch?v=W_aN81SBI3A" >}}Prof's Current Jam{{< /button >}}
 
-
-# TODO 
+# TODO
 
 - Get readings w/ embedded fonts: Baker, Percy, Freire.
-- 
-
 
 --->
 
@@ -37,7 +32,7 @@ Use as required.
 
 # Writing 2
 
-## Course Description 
+## Course Description
 
 **Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
 
@@ -50,12 +45,12 @@ fundamental to your undergraduate training, regardless of your chosen
 field of study. In consideration of its importance, we will spend a
 significant amount of time learning how to use our library effectively.
 
-## Required Texts 
+## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
 - Other course readings may be downloaded from [Canvas](https://canvas.dartmouth.edu)
 
-## Academic Honesty 
+## Academic Honesty
 
 
 All work submitted in this course must be your own and be written
@@ -63,7 +58,7 @@ exclusively for this course. The use of sources (ideas, quotations,
 paraphrase) must be properly documented. Please read the [Academic Honor
 Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of plagiarism. If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
-## Attendance 
+## Attendance
 
 Regular attendance is expected. Bracketing religious observance, severe
 illness, or personal tragedy, **no more than three unexcused absences** in a
@@ -74,7 +69,7 @@ reduction in GPA to failure of the course. If you have a religious
 observance that conflicts with your participation in the course, please
 meet with me beforehand to discuss appropriate accommodations.
 
-## Papers 
+## Papers
 
 You will submit three formal essays and several smaller writing
 assignments in response to our readings and class discussions. The
@@ -96,7 +91,7 @@ will be explained in greater detail throughout the course of the term.
     to meet with me during office hours (or by appointment) to go over
     your writing or discuss your ideas.
 
-## Reading, Thinking, Discussing, Reflecting, Writing 
+## Reading, Thinking, Discussing, Reflecting, Writing
 
 
 Each week of this course follows a relatively predictable pattern.
@@ -147,7 +142,7 @@ in college, the ability to rigorously annotate texts is perhaps the most
 helpful and important skill you can develop. Further advice and caveats
 about annotation may be found in the [*Open Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf).
 
-### 2) Critical Reading Notes 
+### 2) Critical Reading Notes
 
 
 Create an electronic document for composing critical notes. Take
@@ -167,9 +162,9 @@ the process of reading.
     notes, read the chapters entitled "Annotation & Critical Reading"
     and \"Critical Notes\" in the [*Open
     Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf).
-  
 
-### 3) Reading Response Posts 
+
+### 3) Reading Response Posts
 
 
 Before we meet to discuss a new course text, write a critical response
@@ -188,7 +183,7 @@ principles to consider as you craft your posts:
 
 -   **Good posts may seek to take issue with some of the thinking put
     forth in the reading**. However, a good post doesn't just say "I
-    agree with X\" or \"I disagree with Y." Instead, *explicit reasons
+    agree with X" or "I disagree with Y." Instead, *explicit reasons
     are stated* and *explanations are made* that challenge or support
     the writer's ideas. As you will discover, part of this class
     involves learning to take responsibility for your claims and
@@ -203,8 +198,7 @@ principles to consider as you craft your posts:
 
 -   **Good posts may ask questions or express confusion**. Ignorance or
     confusion is not something to be feared. As Henry David Thoreau
-    [once
-    argued](https://www.gutenberg.org/files/1022/1022-h/1022-h.htm),
+    [once argued](https://www.gutenberg.org/files/1022/1022-h/1022-h.htm),
     ignorance is often more useful than positive knowledge: confusion
     generates questions; questions inspire inquiry; inquiry produces
     knowledge and more interesting questions. Although you are free to
@@ -244,7 +238,7 @@ often talk about these on Fridays and I may periodically ask to you to
 turn them in.
 
 <!---
-## Typical Weekly Workflow and Checklist 
+## Typical Weekly Workflow and Checklist
 
 
 - [ ] Locate the new reading for the upcoming week in
@@ -278,7 +272,7 @@ ePortfolio, visit the login page at
 [journeys.dartmouth.edu](https://journeys.dartmouth.edu/). Use your
 NetID credentials to log in.
 
---->
+
 
 ## Computer Policy
 
@@ -287,6 +281,8 @@ I ask that you `do not use laptops or tablets` in class to take notes
 or reference the course readings. If you require some kind of
 technological accommodation that runs counter to this policy, please
 discuss this with me as soon as possible.
+
+--->
 
 ## Help With Your Writing
 
@@ -299,7 +295,7 @@ writing and plan revision. If you require further help, the
 peer tutoring on all phases of the writing processfrom generating ideas
 to formal citation.
 
-## Students With Disabilities 
+## Students With Disabilities
 
 
 All students are entitled to full access to this course, regardless of
@@ -312,7 +308,7 @@ authorized services, students must show the originally signed SAS
 Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive
 academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
 
-## Grading Breakdown 
+## Grading Breakdown
 
 
 The following assignments comprise your grade for the Fall term:
@@ -327,13 +323,13 @@ The following assignments comprise your grade for the Fall term:
 
 
 
-## Schedule of Readings and Assignments 
+## Schedule of Readings and Assignments
 
 ## Week One
 
 |Date   | Readings                 | Assignments / Questions                  | Due
 |:------|:-----------|:------------|:---
-|9.16   |           |Introductions, course objectives, questions. | 
+|9.16   |           |Introductions, course objectives, questions. |
 |9.18   |<ul><li>[*Open Handbook*, Chapter 1](/resources/open-handbook/chapter-1)</li><li>[*Open Handbook*, Chapter 2](/resources/open-handbook/chapter-2)</li></ul> | *What is education?*  | [In-class annotation exercise]().
 |9.20   |OH, Ch 3.    |Bring 2 copies of essay to class. Peer workshop. | Essay 1.0
 
@@ -341,28 +337,24 @@ The following assignments comprise your grade for the Fall term:
 ## Week One
 
 {{< tabs "Week-One" >}}
-{{< tab "9.14" >}} 
+{{< tab "9.14" >}}
 
 ### Course Introduction
 
-- Let's meet each other and curse Covid-19.
-- Review the syllabus and main contours of the class.
-- Some time for questions.
+Introductions, questions, complaining about COVID-19.
 
 
 {{< /tab >}}
 
-{{< tab "9.16" >}} 
+{{< tab "9.16" >}}
 
 ### Reading
 
-* *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
-* *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
-* [Question of the Day]()
+* *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1) and ["Critical Notes"](/resources/open-handbook/chapter-2)
 
 {{< /tab >}}
 
-{{< tab "9.18" >}} # [Readings]() 
+{{< tab "9.18" >}}
 
 Blah blah filler stuff.
 
@@ -371,11 +363,10 @@ Blah blah filler stuff.
 * [Question of the Day]()
 {{< /tab >}}
 
-{{< tab "📎️ Due" >}} 
+{{< tab "📎️ Due" >}}
 
 * Essay One: Turn in to Canvas
 
 
 
 {{< /tab >}}
-
