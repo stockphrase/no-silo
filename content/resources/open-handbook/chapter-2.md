@@ -42,9 +42,9 @@ These critical summaries are comprised of nothing more than [`summary`](/resourc
 Summarize or paraphrase the rest in as objective a manner as possible.
 Take great care when summarizing or paraphrasing; if your work is too
 similar to the original text and is used later in your own writing, you
-may inadvertently commit [`plagiarism`](plagiarism), a serious academic offense.
+may inadvertently commit [`plagiarism`](/resources/open-handbook/chapter-10), a serious academic offense.
 Therefore, carefully place the writing of others into your own words and
-[`cite`](#citation) the text and ideas you reference in your notes.
+[`cite`](/resources/open-handbook/chapter-11) the text and ideas you reference in your notes.
 
 As you write this critical outline you will not only try to reduce the
 main points of the argument, you will also ask questions and make
@@ -54,7 +54,7 @@ for doing so. You might see a logical inconsistency or want the author
 to provide more evidence for his or her claims. You might make a note to
 perform some research at the library or on the Internet on an unfamiliar
 concept or event mentioned in the argument. Ultimately, however, you
-will want to determine if the [`argument`]((/resources/open-handbook/chapter-6) you have read is persuasive and
+will want to determine if the [`argument`](/resources/open-handbook/chapter-6) you have read is persuasive and
 provide the reasons why.
 
 At the end of this process, you should have a simplified---but objective

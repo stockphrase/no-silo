@@ -13,7 +13,7 @@ type: docs
 
 #
 
-Writing 2 is an introduction to academic writing. The course focuses on how to **acquire knowledge**, **evaluate evidence**, **think critically**, and **articulate effective arguments**. We will cultivate these critical practices through rigorous group `inquiry`--- by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal [`documentation of sources`](/resources/open-handbook/chapter-11/) and the integration of source materials through [`summary`](https://no-silo.com/resources/open-handbook/chapter-8/), [`paraphrase`](https://no-silo.com/resources/open-handbook/chapter-8/), and [`quotation`](https://no-silo.com/resources/open-handbook/chapter-8/).
+`Writing 2` is an introduction to academic writing. The course focuses on how to **acquire knowledge**, **evaluate evidence**, **think critically**, and **articulate effective arguments**. We will cultivate these critical practices through rigorous group `inquiry`--- by reading and analyzing a series of demanding texts and responding to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal [`documentation of sources`](/resources/open-handbook/chapter-11/) and the integration of source materials through [`summary`](https://no-silo.com/resources/open-handbook/chapter-8/), [`paraphrase`](https://no-silo.com/resources/open-handbook/chapter-8/), and [`quotation`](https://no-silo.com/resources/open-handbook/chapter-8/).
 
 ---
 
@@ -46,7 +46,7 @@ Writing 2 is an introduction to academic writing. The course focuses on how to *
 
 #
 
-Writing 3 focuses on academic research. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. The theme for this course examines `post-apocalyptic` fiction, film, and art.
+`Writing 3` focuses on academic research. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. The theme for this course examines `post-apocalyptic` fiction, film, and art.
 
 ---
 
@@ -108,6 +108,6 @@ I must be fair to all of my students. If I give an extension to one student, the
 #
 ## Yes and No.
 
-I do not have a formalized rubric to explain the exact nature of the A, B, C, D, and F essay. However, my handbook does [discuss the characteristics of all good academic writing](/resources/open-handbook/chapter-5).
+I do not have a formalized rubric to explain the exact nature of the A, B, C, D, and F essay. However, my handbook does [`discuss the characteristics of all good academic writing`](/resources/open-handbook/chapter-5).
 
 
