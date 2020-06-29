@@ -27,7 +27,7 @@ writer's work part of your work" (12).
 
 
 One objective of the annotations described in the previous chapter is to
-help you create a `critical outline` during a subsequent reading. The
+help you create a **critical outline** during a subsequent reading. The
 objective in the critical outline is to boil the entire argument down to
 its essence, without losing any significant detail. The name of the game
 here is *reduction*: taking something complex and unwieldy and turning it
@@ -38,13 +38,13 @@ that you will perform these tasks almost unconsciously as you read.
 These critical notes will be indispensable study aids. They will also
 dramatically improve your writing.
 
-These critical summaries are comprised of nothing more than [`summary`](/resources/open-handbook/chapter-8), [`paraphrase`](/resources/open-handbook/chapter-8), [`quotation`](/resources/open-handbook/chapter-8), and your own observations and questions. Quote only the most important, memorable language.
+These critical summaries are comprised of nothing more than [**summary**](/resources/open-handbook/chapter-8), [**paraphrase**](/resources/open-handbook/chapter-8), [**quotation**](/resources/open-handbook/chapter-8), and your own observations and questions. Quote only the most important, memorable language.
 Summarize or paraphrase the rest in as objective a manner as possible.
 Take great care when summarizing or paraphrasing; if your work is too
 similar to the original text and is used later in your own writing, you
-may inadvertently commit [`plagiarism`](/resources/open-handbook/chapter-10), a serious academic offense.
+may inadvertently commit [**plagiarism**](/resources/open-handbook/chapter-10), a serious academic offense.
 Therefore, carefully place the writing of others into your own words and
-[`cite`](/resources/open-handbook/chapter-11) the text and ideas you reference in your notes.
+[**cite**](/resources/open-handbook/chapter-11) the text and ideas you reference in your notes.
 
 As you write this critical outline you will not only try to reduce the
 main points of the argument, you will also ask questions and make
@@ -54,7 +54,7 @@ for doing so. You might see a logical inconsistency or want the author
 to provide more evidence for his or her claims. You might make a note to
 perform some research at the library or on the Internet on an unfamiliar
 concept or event mentioned in the argument. Ultimately, however, you
-will want to determine if the [`argument`](/resources/open-handbook/chapter-6) you have read is persuasive and
+will want to determine if the [**argument**](/resources/open-handbook/chapter-6) you have read is persuasive and
 provide the reasons why.
 
 At the end of this process, you should have a simplified---but objective
@@ -70,11 +70,11 @@ understanding of the text's claims and weaknesses while also activating
 your long-term memory.
 
 Finally, to be a successful student and scholar, you will need to
-[`preserve your notes`](/resources/open-handbook/chapter-4/) for later use. You might use a series of organized
+[**preserve your notes**](/resources/open-handbook/chapter-4/) for later use. You might use a series of organized
 folders on your computer or some kind of filing system in manila
 folders. Whatever works best for you. Retaining all of this hard work
 will be of great importance to you later, particularly as you engage in
-large [`research`](/resources/open-handbook/chapter-12) projects. As I describe in the next chapter,
+large [**research**](/resources/open-handbook/chapter-12) projects. As I describe in the next chapter,
 being a scholar---or just a great student---involves reusing and re-purposing
 prior work and information.
 
@@ -92,7 +92,7 @@ Developing a process for making critical notes is perhaps the most
 important new habit you will need to be successful in college. Here are
 some strategies or principles that may guide your efforts:
 
--   **Reduce**. Use [`summary`](/resources/open-handbook/chapter-8), [`paraphrase`](/resources/open-handbook/chapter-8), [`quotation`](/resources/open-handbook/chapter-8), to reduce an argument to its bare bones.
+-   **Reduce**. Use [**summary**](/resources/open-handbook/chapter-8), [**paraphrase**](/resources/open-handbook/chapter-8), [**quotation**](/resources/open-handbook/chapter-8), to reduce an argument to its bare bones.
 
 -   **Engage**. Grapple with the ideas and arguments in the text. Ask
     questions and make observations. You should note the argumentative
@@ -102,13 +102,13 @@ some strategies or principles that may guide your efforts:
     You might make a note to perform some research on an unfamiliar
     word, concept, or event mentioned in the argument.
 
--   **Protect yourself**. Be scrupulous when you [`summarize`](/resources/open-handbook/chapter-8) and [`paraphrase`](/resources/open-handbook/chapter-8) source materials in your notes by ensuring that you
+-   **Protect yourself**. Be scrupulous when you [**summarize**](/resources/open-handbook/chapter-8) and [**paraphrase**](/resources/open-handbook/chapter-8) source materials in your notes by ensuring that you
     use your own language and sentence structure. A lazy mistake at this
-    stage may cost you dearly later if you inadvertently [`plagiarize`](/resources/open-handbook/chapter-10)
+    stage may cost you dearly later if you inadvertently [**plagiarize**](/resources/open-handbook/chapter-10)
     material. Don't forget to meticulously cite the page numbers of all
     the information you include in your notes.
 
--   **Save your work.** You will need to create a system for [`organizing and retaining these annotations and notes`](/resources/open-handbook/chapter-4) for
+-   **Save your work.** You will need to create a system for [**organizing and retaining these annotations and notes**](/resources/open-handbook/chapter-4) for
     later use. You might use a series of organized folders on your
     computer or some kind of filing system in manila folders. Whatever
     works best for you.

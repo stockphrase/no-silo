@@ -109,7 +109,7 @@ and citations are given:
 ## Paraphrase without attribution
 
 The following paraphrase would be perfectly acceptable were it to have a
-[`signal phrase`](/resources/open-handbook/chapter-8) and a [`citation`](/resources/open-handbook/chapter-11) indicating that the ideas were taken
+[**signal phrase**](/resources/open-handbook/chapter-8) and a [**citation**](/resources/open-handbook/chapter-11) indicating that the ideas were taken
 from another author's work. Even though no language was taken directly
 from the source text, *the ideas must be attributed to the author* from
 whom they were borrowed. As it stands now, the author is declaring that
@@ -125,4 +125,6 @@ he came up with these ideas and arguments himself:
 > with individuals who only used reason and evidence to guide their
 > thinking.
 
-- This is an excellent [`paraphrase`](/resources/open-handbook/chapter-8) of the text. But it is still plagiarism unless you cite it appropriately.
+- This is an excellent [**paraphrase**](/resources/open-handbook/chapter-8) of the text. But it is still plagiarism unless you cite it appropriately.
+
+

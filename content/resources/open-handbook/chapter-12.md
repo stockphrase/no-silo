@@ -707,12 +707,12 @@ for critically examining your sources:
 
 Now that you have some research materials in front of you, either at the
 library or at home, it's time to make them useful to you. Before placing
-source materials in your essay, [take good notes](/resources/open-handbook/chapter-2) by using [summary](/resources/open-handbook/chapter-8/),
-[paraphrase](/resources/open-handbook/chapter-8/), and judicious [quotation](/resources/open-handbook/chapter-8/) to take ownership of the
+source materials in your essay, [`take good notes`](/resources/open-handbook/chapter-2) by using [`summary`](/resources/open-handbook/chapter-8/),
+[`paraphrase`](/resources/open-handbook/chapter-8/), and judicious [`quotation`](/resources/open-handbook/chapter-8/) to take ownership of the
 source materials. Ensure that you cite appropriately and that your
 summaries and paraphrases use your own original language. This
 intermediary step before writing the essay saves you time and helps you
-avoid [plagiarism](/resources/open-handbook/chapter-10/).
+avoid [`plagiarism`](/resources/open-handbook/chapter-10/).
 
 ### Raid the bibliography
 

@@ -21,12 +21,12 @@ The ugly fact is books are made out of books.
 
 Academic writing always involves integrating the thinking of others into
 your own writing. There are only three ways that the words and ideas of
-others may appear in your writing: [`summary`](/resources/open-handbook/chapter-6), [`paraphrase`](/resources/open-handbook/chapter-6), and
-[`quotation`](/resources/open-handbook/chapter-6). Writing an academic paper requires a mastery of all
+others may appear in your writing: [**summary**](/resources/open-handbook/chapter-6), [**paraphrase**](/resources/open-handbook/chapter-6), and
+[**quotation**](/resources/open-handbook/chapter-6). Writing an academic paper requires a mastery of all
 three skills. It is critical to always give credit to the other authors
 whose ideas or words you borrow. Failing to do so may result in the
-accusation of [plagiarism](/resources/open-handbook/chapter-10/). The way scholars avoid
-plagiarism is by using `signal phrases` and [`citations`](/resources/open-handbook/chapter-11).
+accusation of [**plagiarism**](/resources/open-handbook/chapter-10/). The way scholars avoid
+plagiarism is by using `signal phrases` and [**citations**](/resources/open-handbook/chapter-11).
 
 
 # Using signal phrases
@@ -37,10 +37,10 @@ Signal phrases are words that tell your readers that you are borrowing
 text or ideas from a source. The borrowed material could be quoted,
 summarized, or paraphrased. The signal phrase, as the name suggests,
 tells your reader that you are about to begin borrowing; after you have
-presented the borrowed material, conclude with a [citation](/resources/open-handbook/chapter-11) to tell
+presented the borrowed material, conclude with a [**citation**](/resources/open-handbook/chapter-11) to tell
 your reader that the borrowing has concluded. Using signal phrases and
 citations to bookend your borrowings from other texts helps you avoid
-[plagiarism](/resources/open-handbook/chapter-10), organize your writing, and help your readers understand
+[**plagiarism**](/resources/open-handbook/chapter-10), organize your writing, and help your readers understand
 how your views relate to the views of the other writers you present.
 
 ## Why use them?
@@ -63,7 +63,7 @@ how your views relate to the views of the other writers you present.
     reader.
 
 -   Using these signal phrases will help you to avoid
-    [`plagiarism`](/resources/open-handbook/chapter-10).
+    [**plagiarism**](/resources/open-handbook/chapter-10).
 
 ## How do you construct a signal phrase?
 
@@ -98,10 +98,10 @@ beliefs that valued asceticism and practiced detachment from desire
 (12). However, other historians disagree. <mark>In his "Up and Down of the Tao," Li Chang argues</mark> that Taoism as we know it
 was largely a creation of the 17th-century, a time of relative
 prosperity, radical socio-political change, and modernization in China
-(5). Taoist asceticism was actually a *rejection* of this tumultuous
+(5). <mark>According to this view</mark>, Taoist asceticism was actually a *rejection* of this tumultuous
 cultural transformation---an expression of nostalgia for a simpler time
 in the ancient Chinese past (22). But which is the correct answer? Did
-Taoism emerge in a time of poverty or a time of plenty? In my view,
+Taoism emerge in a time of poverty or a time of plenty? <mark>In my view,</mark>
 both views are problematic . . .
           <div class="edge-shadow"></div>
         </div>
@@ -170,7 +170,7 @@ For most other circumstances, `summary` or `paraphrase` of the original language
 -   Provide a `citation` in your chosen format, such as MLA or
     Chicago.
 
--   If necessary, use [`ellipsis`](/resources/open-handbook/chapter-9) or [`brackets`](/resources/open-handbook/chapter-9) to alter the source, satisfy grammar, or provide clarifying information.
+-   If necessary, use [**ellipsis**](/resources/open-handbook/chapter-9) or [**brackets**](/resources/open-handbook/chapter-9) to alter the source, satisfy grammar, or provide clarifying information.
 
 ## What should I avoid?
 
@@ -192,19 +192,6 @@ For most other circumstances, `summary` or `paraphrase` of the original language
 -   **Avoid inserting quotations without signal phrases**. Quotations
     should be introduced and woven into your own writing. They should
     rarely stand alone.
-
-## What if the original quotation has an error?
-
-Occasionally you will want to quote a text that contains an error of
-some sort. Perhaps the author used the wrong word or there is a
-misspelling or grammatical error. In these cases, you may want to
-indicate to your readers that the error exists in the original text and
-is not a sloppy accident of your own making. To communicate this to your
-readers, use the Latin term *sic*, or "thus," next to the offending
-word or error. For example:
-
--   According to the report, "The children were told to make there
-    \[sic\] beds" (98).
 
 ## Example of a quotation
 
@@ -250,6 +237,52 @@ the foreseeable future (238).
     understand or replace (Wilson 238).
 
 
+## What if the original quotation has an error?
+
+Occasionally you will want to quote a text that contains an error of
+some sort. Perhaps the author used the wrong word or there is a
+misspelling or grammatical error. In these cases, you may want to
+indicate to your readers that the error exists in the original text and
+is not a sloppy accident of your own making. To communicate this to your
+readers, use the Latin term *sic*, or "thus," next to the offending
+word or error. For example:
+
+-   According to the report, "The children were told to make there
+    \[sic\] beds" (98).
+    
+## How do I quote someone else's quotation?
+
+
+Occasionally you will discover a quotation in someone’s writing that you would like to use in your own writing. These are known as `indirect quotations`. How do you cite that?
+
+Let’s look at an example. Imagine that you discover the following paragraph on page 77 of a scholarly article written by John Mackey:
+
+>Chimene Keitner discusses the question of the rule of law within the novel *Ramona*, arguing that this text “illustrates the tensions and misunderstandings that can arise when people from different communities find themselves in situations of jurisdictional overlap” (54). She maintains that the fact that the Señora views the Land Commission’s takings of her property as “theft” is indicative that at least two distinct understandings of the rule of law are operating (57).
+
+### MLA
+
+If you want to borrow the Chimene Keitner quotation, you would write the following:
+
+>Scholar Chimene Keitner persuasively argues that the Señora’s plight demonstrates the “tensions and misunderstandings that can arise when people from different communities find themselves in situations of jurisdictional overlap” (qtd. in Mackey 77).
+
+* Place John Mackey’s article in your bibliography, not Keitner’s.
+
+### Chicago
+
+Here is the corresponding Chicago form for indirect quotations:
+
+>Scholar Chimene Keitner persuasively argues that the Señora’s plight demonstrates the “tensions and misunderstandings that can arise when people from different communities find themselves in situations of jurisdictional overlap.” ³
+
+* In your notes page, give the author and publication information of the source quoted followed by the source where you found the quote. For example:
+
+{{< chi-note >}}
+
+3\. Chimene Keitner, “The Challenge of Building Inter-Communal Rule of Law in Helen Hunt Jackson’s *Ramona*,” *Law and Literature*, 15, no. 1 (2003): 54, quoted in John Mackey, *The California Novel* (Boston: Stone and Branch Books, 2012), 77.
+
+{{< /chi-note >}}
+
+
+
 # Summary
 
 In a summary you present the ideas of another writer in a condensed
@@ -268,13 +301,13 @@ provide readers with background information or historical context. It is
 also used to explain complex scholarly conversations that the writer
 plans to engage with his or her essay. An excellent summary of this
 broader scholarly conversation goes far to establish you as a
-knowledgeable authority with your readerssomeone whose views should be
+knowledgeable authority with your readers---someone whose views should be
 trusted and considered. Summary is particularly useful when we make use
 of secondary sources in our writing. If we want to use or introduce
 another source in our own writing, we use summary to inform our audience
 about the arguments and ideas contained within it in an abbreviated
 form. We also make significant use of summary in the complex work of
-[](#synthesis), where we explain how two or more texts relate to one
+[**synthesis**](/resources/open-handbook/chapter-6), where we explain how two or more texts relate to one
 another.
 
 ## How do I incorporate summaries?
@@ -282,11 +315,11 @@ another.
 -   Since summaries do not use quotation marks, you must take care to
     indicate to your readers that you are borrowing from the work of
     others. This is primarily accomplished through the use of a
-    [](#signalphrase) and a citation. Think of the signal phrase and the
+    `signal phrase` and a [**citation**](/resources/open-handbook/chapter-11). Think of the signal phrase and the
     citation as a way to bookend a borrowing from a source. The signal
     phrase alerts readers that you are about to borrow from another
-    text; the [](#citation) is used to show that the borrowing has
-    concluded. An appropriate [](#citation) always notes the page(s)
+    text; the citation is used to show that the borrowing has
+    concluded. An appropriate citation always notes the page(s)
     summarized.
 
 ## What should I avoid?
@@ -294,8 +327,8 @@ another.
 -   **Avoid plagiarizing**. Remember, summarized material is still
     borrowed material, even though you have greatly condensed it and put
     it entirely in your own words. Make sure that any summarized
-    material is introduced with a [](#signalphrase) and concluded with a
-    [](#citation).
+    material is introduced with a `signal phrase` and concluded with a
+    [**citation**](/resources/open-handbook/chapter-11).
 
 ## Example of a summary
 
@@ -357,7 +390,7 @@ risk compromising your authority with your readers.
 -   Like summaries, paraphrases do not use quotation marks. As a result,
     you must take care to indicate to your readers that you are
     borrowing from the work of others with a `signal phrase` and
-    [`citation`](/resources/open-handbook/chapter-11). As you move from your own writing to the paraphrase
+    [**citation**](/resources/open-handbook/chapter-11). As you move from your own writing to the paraphrase
     of others, use a signal phrase to indicate this transition.
 
 -   End the paraphrase with an appropriate citation.
@@ -367,9 +400,9 @@ risk compromising your authority with your readers.
 -   **Avoid plagiarizing**. Remember, paraphrased material is still
     borrowed material, even though you have put it in your own words.
     Make sure that any paraphrased material is introduced with a
-    `signal phrase` and concluded with a [`citation`](/resources/open-handbook/chapter-11).
+    `signal phrase` and concluded with a [**citation**](/resources/open-handbook/chapter-11).
 
--   **Avoid patchwriting.** [`patchwriting`](/resources/open-handbook/chapter-10) is a process of merely
+-   **Avoid patchwriting.** [**patchwriting**](/resources/open-handbook/chapter-10) is a process of merely
     changing a word or a phrase here or there from the original text and
     presenting the result as your own writing. Instead, ensure that you
     use your own words and sentence structure in your paraphrase.

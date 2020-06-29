@@ -38,9 +38,9 @@ summary notes**.
 Annotating texts
 ----------------
 
-`Analysis` requires breaking an `argument` down into smaller parts so that
+`Analysis` involves breaking an `argument` down into smaller parts so that
 you can understand how those parts work together to make the whole. The
-best way to begin this process is to annotate texts as you read them by
+best way to begin the process of analysis is to annotate texts as you read them by
 using a system of symbols and marginal notes made on the document
 itself. There is no right or wrong way to mark up a text, but you should
 develop a system that you are comfortable with and try to stick with it.
@@ -60,7 +60,7 @@ or statements being used to support the `thesis`. I always place keywords
 or a short statement next to each `paragraph`, aiming to create a "micro
 summary" of the content. I use check marks or exclamation points next
 to statements that I find important or noteworthy. Sometimes I draw
-arrows to connect parts of the essay that seem related to me in some
+arrows or reference other page numbers to connect parts of an essay that seem related to me in some
 way.
 
 In addition to flagging and `summarizing` a text's key ideas, claims, and
@@ -156,3 +156,4 @@ annotation and critical reading:
     the course or your broader reading experience. Develop the capacity
     to bring other texts into dialogue with each other, imagining
     writing and reading as a form of social interaction.
+    

@@ -131,9 +131,9 @@ comparing and contrasting their views.
 
 Synthesis is very textual in nature: *you must show explicit textual
 evidence for each of the claims you attribute to the authors*.
-Using [`summary`](/resources/open-handbook/chapter-6), [`paraphrase`](/resources/open-handbook/chapter-6), and [`quotation`](/resources/open-handbook/chapter-6), compare and
+Using [**summary**](/resources/open-handbook/chapter-6), [**paraphrase**](/resources/open-handbook/chapter-6), and [**quotation**](/resources/open-handbook/chapter-6), compare and
 contrast the authors' positions. Make sure to cite each of these
-appropriately. Use clear [`signal phrases`]() to transition between your
+appropriately. Use clear [**signal phrases**]() to transition between your
 presentations of the various author's ideas or works.
 
 # Analysis/Close Reading
@@ -191,7 +191,7 @@ models that are important for that discipline.
 # Research
 
 
-A [research](#academicresearch) paper requires you to draw on outside sources in
+A [**research**](/resources/open-handbook/chapter-12) paper requires you to draw on outside sources in
 addition to your own thinking. Research writing often includes many of
 the kinds of writing described above. Indeed, research writing involves
 a coordination of all of the previously mentioned skills and rhetorical
@@ -204,11 +204,11 @@ conversation that existed long before you appeared. When you write, you
 must remain mindful of the conversations that came before and nestle
 your views within those that already exist. In short, you must
 demonstrate that your ideas have a *context*. This is where
-[`research`](/resources/open-handbook/chapter-12) comes into play. Before you can responsibly offer
+[**research**](/resources/open-handbook/chapter-12) comes into play. Before you can responsibly offer
 your views, you must know what the critical conversation is, what
 arguments are being made, and what questions are important (or
 irrelevant) to the debate.
 
-Properly done, [`research`](http://localhost:1313/resources/open-handbook/chapter-12) ensures that what you write is a true contribution to the ongoing discussion, and not a pointless
+Properly done, [**research**](/resources/open-handbook/chapter-12) ensures that what you write is a true contribution to the ongoing discussion, and not a pointless
 exercise in repetition. The whole point, after all, is to move the
 scholarly conversation further down the road, not endlessly spin our wheels.

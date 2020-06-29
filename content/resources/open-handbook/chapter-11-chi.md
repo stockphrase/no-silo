@@ -393,7 +393,7 @@ Graves, Thomas. "The History of our National Anthem." In *An American Voice: A C
 
 {{< chi-note >}}
 
-13/. Thomas Graves, "The History of our National Anthem," in *An American Voice: A Collection of America's Finest Essays*, ed. Eric Foner (Boston: McKinley and Smith, 2011), 77-88.
+13\. Thomas Graves, "The History of our National Anthem," in *An American Voice: A Collection of America's Finest Essays*, ed. Eric Foner (Boston: McKinley and Smith, 2011), 77-88.
 
 {{< /chi-note >}}
 
