@@ -25,7 +25,7 @@ others may appear in your writing: [**summary**](/resources/open-handbook/chapte
 [**quotation**](/resources/open-handbook/chapter-6). Writing an academic paper requires a mastery of all
 three skills. It is critical to always give credit to the other authors
 whose ideas or words you borrow. Failing to do so may result in the
-accusation of [**plagiarism**](/resources/open-handbook/chapter-10/). The way scholars avoid
+accusation of [**plagiarism**](/resources/open-handbook/chapter-10). The way scholars avoid
 plagiarism is by using `signal phrases` and [**citations**](/resources/open-handbook/chapter-11).
 
 

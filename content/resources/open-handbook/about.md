@@ -1,6 +1,9 @@
 ---
-weight: 0
+weight: 2
 bookFlatSection: true
+bookToc: true
+title: + Open Handbook
+type: docs
 ---
 
 <div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>

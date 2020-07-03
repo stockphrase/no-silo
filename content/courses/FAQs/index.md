@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 bookFlatSection: true
 bookToc: true
 bookHidden: false
@@ -14,9 +14,9 @@ title: "+ FAQs"
 
 ## No.
 
-I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in person. **However, I am happy to discuss new drafts with students during office
-hours or at other times by appointment**. Considering how easy it is to attach a file to an email, almost every student would seek this additional help. As a result, I would be deluged with requests for help,
-often at the very last minute, making it impossible for me to thoughtfully respond to them all.
+I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in an office hour or at some other scheduled time. Considering how easy it is to attach a file to an email, almost every student would seek this additional help. As a result, I would be deluged with requests for help, often at the very last minute, making it impossible for me to thoughtfully respond to them all.
+
+- **However, I am happy to discuss new drafts with students during [office hours](/about/contact) or at other times by appointment**. 
 
 {{< /details >}}
 

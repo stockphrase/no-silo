@@ -8,7 +8,7 @@ title: "What should students be able to do?"
 
 # What should students be able to do?
 
-Some years ago historian William Cronon asked "What does it mean to be a liberally educated person?" Cronon answers his own query by elaborating [ten characteristics of the "liberally educated" person](https://www.williamcronon.net/writing/only_connect.html). It's a really good list. You should read it. 
+Many years ago historian William Cronon asked "What does it mean to be a liberally educated person?" Answering his own query, Cronon elaborates [ten characteristics of the "liberally educated" person](https://www.williamcronon.net/writing/only_connect.html). It's a really good list. You should read it. 
 
 Here is my own list, focusing on competencies and skills in the rhetorical arts:
 
@@ -30,6 +30,6 @@ Here is my own list, focusing on competencies and skills in the rhetorical arts:
 
 9. **`They remain vulnerable to new ideas & information.`** Students should know that they don't know everything---that there are other ways of seeing and knowing that they may not even know exist. Some of these ideas and views may be deeply challenging or even incommensurable with their own deeply held views and beliefs. Yet, students should be able to cultivate a spirit of openness, generosity, and understanding---an intellectual and emotional vulnerability to new ideas and the experiences of others. This is not a facile nihilism, but an openness to discovery. 
 
-10. **`They perform research.`** 
+10. **`They inquire.`** 
 
-
+At the conclusion of his list, Cronon offered a caveat that I think is very wise. He says that his question and answer are ultimately rather misleading, because it "suggests that one can somehow take a group of courses, or accumulate a certain number of credits, or undergo an obligatory set of learning experiences, and emerge liberally educated at the end of the process. Nothing could be further from the truth. A liberal education is not something any of us ever achieve; it is not a state. Rather, it is a way of living in the face of our own ignorance, a way of groping toward wisdom in full recognition of our own folly, a way of educating ourselves without any illusion that our educations will ever be complete."
