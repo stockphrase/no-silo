@@ -41,7 +41,7 @@ type: docs
 
 - [ ] [Argument analysis](/courses/workshops/argument-analysis) 
 - [ ] [Argument summary](/courses/workshops/argument-summary) 
-- [ ] [Argument synthesis](/courses/workshops#argument-synthesis)
+- [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
 - [ ] Argument response 
 - [ ] Rhetorical analysis 
 - [ ] Considering audience
@@ -52,7 +52,7 @@ type: docs
 
 ---
 
-- Peer Review Workshops
+- [ ] [Peer Review](/courses/workshops/peer-review)
 
 
 {{< /tab >}}
