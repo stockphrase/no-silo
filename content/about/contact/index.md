@@ -5,20 +5,20 @@ bookToC: false
 
 ## Contact
 
-- {{< fa laptop-medical >}} [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09) | {{< fa envelope >}} [Email](mailto:contact@alan-taylor.org)
+{{< fa laptop-medical >}} [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09) | {{< fa envelope >}} [Email](mailto:alan.c.taylor@dartmouth.edu) |{{< fa key >}} [PGP](/pgp/Alan.c.Taylor.asc) 
 
-- `#Nerds`: {{< fa key >}} [PGP](/pgp/Alan.c.Taylor.asc) | {{< fa fingerprint >}} PGP Fingerprint:
+{{< fa fingerprint >}} PGP Fingerprint:
 
-    `A14D 400A 810B CB92 F903`
+`A14D 400A 810B CB92 F903`
 
-    `8773 035F 719F 2B4C 40F0`
+`8773 035F 719F 2B4C 40F0`
 
 
 ## Office
 
-- ``Location``: 37 Dewey Field Road, Room 224.
+``Location``: 37 Dewey Field Road, Room 224.
 
-- `Hours`: TBA and by [Appointment](https://calendly.com/alantaylor).
+`Hours`: TBA and by [Appointment](https://calendly.com/alantaylor).
 
 {{< fa exclamation-triangle >}} Due to the `COVID-19` fiasco, my office hours for Fall 2020 will be held in my {{< fa laptop-medical >}} [virtual office](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09).
 

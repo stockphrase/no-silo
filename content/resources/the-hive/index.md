@@ -6,12 +6,12 @@ bookHidden: false
 title: "+ The Hive"
 ---
 
-[<div style="text-align:center">{{< figure src="/img/hivemind-8.png" width=300 >}}</div>](https://canvas.dartmouth.edu)
+[<div style="text-align:center">{{< figure src="/img/hivemind-7.png" width=300 >}}</div>](https://canvas.dartmouth.edu)
 
 
-## The Hive
+# The Hive
 
-[**The Hive**](https://canvas.dartmouth.edu) is a shared repository containing notes, ideas, and questions about our course readings. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. With luck (and some effort), `The Hive` will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
+[**The Hive**](https://canvas.dartmouth.edu) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The "hive mind" is capable of discovering and uncovering far more than any one individual. With luck, `The Hive` will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
 
 Our objective for `The Hive` is to explore meaning, discover argumentative structure, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.
 
@@ -19,7 +19,7 @@ Our objective for `The Hive` is to explore meaning, discover argumentative struc
 
 You might contribute to `The Hive` by doing some of the following tasks:
 
-1. Help create a simplified version of the argument structure by presenting an ordered list of argumentative claims, reasons, and evidence. 
+1. Help create a simplified version of the text's argumentative structure by presenting an ordered list of claims, reasons, and evidence. 
 
 2. Ask a question about a difficult passage in the text or offer an answer one posed by another student.
 
@@ -33,13 +33,45 @@ You might contribute to `The Hive` by doing some of the following tasks:
 
 ## Cite your work
 
-During this process, cite yourself to identify your contributions to the hive using a tag formed from your initials. For example, here is a truncated contribution with my initials:
+Although I don't imagine honeybees do this, I ask you to cite your individual contributions as you add additional cells to `The Hive's` honeycomb. You may do this by creating a tag based on your initials. For example, I will be [@AT](). As you contribute ideas, questions, observations, or flag key portions of the text's argument, don't forget to credit yourself for your work. This will help us later, in case we'd like to thank you, discuss your idea, or cite you in our own writing.
+
+## Example page
+
+Here is a mockup of a page in `The Hive` dedicated to our first reading. It might resemble the following at an early stage of development:
+
+#
+
+<div class="container">
+        <div class="raised-edge">
+
+<div style="text-align:center">{{< figure src="/img/hivemind-7.png" width=130 >}}</div>
 
 ---
 
-- [@AT](): I notice that the term "sovereign" (72, 77, 88, 89) is used throughout this piece of writing, but in a very unusual way. For example, the first mention . . .
+**COURSE READING: Nicholson Baker, "Changes of Mind"**
 
 ---
+
+### Argument outline
+
+**Thesis:** ...
+- Claim 1.
+- Claim 2.
+- Claim 3.
+- ...
+
+---
+
+### Discussion
+
+- [@RB](): I notice that the Baker keeps utilizing a series of very strange metaphors throughout his piece that are designed to help us understand something curious about the human mind that we have perhaps never considered before. Specifically, ...
+- [@JB](): The story about the **shoe on the bus** was completely incomprehensible to me. Did anyone understand the point of this? How is it related to Baker's broader argument? Is it evidence for one of his claims? I'm lost here.
+- [@MK](): Yeah [@JB](), that story about the bus was confusing, but I think what Baker is doing with this story does illustrate a central premise of his piece that ...
+          <div class="edge-shadow"></div>
+        </div>
+      </div>
+
+#
 
 
 

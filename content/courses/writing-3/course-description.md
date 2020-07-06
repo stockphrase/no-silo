@@ -35,7 +35,7 @@ The theme for this course is `post-apocalyptic` fiction, film, and art.
 
 {{< /tab >}}
 
-{{< tab "Workshops & Lectures" >}} 
+{{< tab "Workshops" >}} 
 
 #
 

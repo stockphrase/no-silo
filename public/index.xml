@@ -57,7 +57,7 @@ You are free to share (copy and redistribute the material in any medium or forma
       <guid>https://no-silo.com/courses/writing-2/student-skills/</guid>
       <description>What should students be able to do? Many years ago historian William Cronon asked &amp;ldquo;What does it mean to be a liberally educated person?&amp;rdquo; Answering his own query, Cronon elaborates ten characteristics of the &amp;ldquo;liberally educated&amp;rdquo; person. It&amp;rsquo;s a really good list. You should read it.
 Here is my own list, focusing on competencies and skills in the rhetorical arts:
-  They analyze. Analysis involves breaking a complex thing down into smaller parts so that you can understand how those parts work together to make a whole (or fail to do so).</description>
+  They analyze. Analysis involves breaking a complex thing down into smaller parts so that you can understand how those parts work together to form a whole (or fail to do so).</description>
     </item>
     
     <item>
@@ -88,8 +88,7 @@ If you would like to collaborate on the project, please contact me.</description
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/resources/the-hive/</guid>
-      <description>The Hive The Hive is a shared repository containing notes, ideas, and questions about our course readings. We will build this resource together as a class&amp;mdash;sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. With luck (and some effort), The Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
-Our objective for The Hive is to explore meaning, discover argumentative structure, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.</description>
+      <description>The Hive The Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class&amp;mdash;sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The &amp;ldquo;hive mind&amp;rdquo; is capable of discovering and uncovering far more than any one individual. With luck, The Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.</description>
     </item>
     
     <item>
@@ -108,16 +107,6 @@ Our objective for The Hive is to explore meaning, discover argumentative structu
       
       <guid>https://no-silo.com/resources/open-handbook/chapter-1/</guid>
       <description>Annotation and Critical Reading   There is something predatory, cruel even, about a pen suspended over a text. Like a hawk over a field, it is on the lookout for something vulnerable. Then it is a pleasure to swoop and skewer the victim with the nib&amp;rsquo;s sharp point. The mere fact of holding the hand poised for action changes our attitude to the text. We are no longer passive consumers of a monologue but active participants in a dialogue.</description>
-    </item>
-    
-    <item>
-      <title>&#43; Workshops</title>
-      <link>https://no-silo.com/courses/workshops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://no-silo.com/courses/workshops/</guid>
-      <description>Workshops &amp;amp; Lectures This term we will do a series of workshops designed to learn and practice various skills needed for academic writing and research.
-Purpose The purpose of these workshops is largely diagnostic; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with as a writer. Think of these workshops as tools for self-assessment&amp;mdash;you will use them to gain insight into your own abilities and create a plan for improvement.</description>
     </item>
     
     <item>
@@ -278,13 +267,14 @@ I&amp;rsquo;m not happy. You&amp;rsquo;re not happy. Let&amp;rsquo;s just try to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/about/contact/</guid>
-      <description>Contact      Zoom |  Email
-  #Nerds:  PGP |  PGP Fingerprint:
+      <description>Contact    Zoom |  Email |  PGP
+  PGP Fingerprint:
 A14D 400A 810B CB92 F903
 8773 035F 719F 2B4C 40F0
-  Office   Location: 37 Dewey Field Road, Room 224.
-  Hours: TBA and by Appointment.
-    Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held in my  virtual office.</description>
+Office Location: 37 Dewey Field Road, Room 224.
+Hours: TBA and by Appointment.
+  Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held in my  virtual office.
+Map  </description>
     </item>
     
     <item>
@@ -306,6 +296,27 @@ A14D 400A 810B CB92 F903
       <description>Acknowledgments Thanks to my friends and colleagues at Dartmouth College&amp;mdash;especially Mark Koch, Doug Moody, Colleen Lannon, Sarah B. Smith, Jed Dobson, and Nick Van Kley.
 Thanks also to the Dartmouth College Library and the Dartmouth Center for the Advancement of Learning who generously sponsored this Open Educational Resource project during the summer of 2019.
  This book is dedicated to Abel and Hayden.  </description>
+    </item>
+    
+    <item>
+      <title>Argument Analysis</title>
+      <link>https://no-silo.com/courses/workshops/argument-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/courses/workshops/argument-analysis/</guid>
+      <description>Argument Analysis Workshop Relying on your annotations, critical notes, and our discussion of the text, construct an outline of Nicholson Baker&amp;rsquo;s &amp;ldquo;Changes of Mind&amp;rdquo; essay.
+Your focus here is on the essay&amp;rsquo;s argumentative structure. Baker is a very playful writer, so there is a lot of silliness and verbal excess here. This makes it challenging to distinguish an argumentative claim from his examples, stories, and evidence. Your job is to carefully sift through this essay, isolating the arguments and presenting them as a stripped-down, organized list of statements.</description>
+    </item>
+    
+    <item>
+      <title>Argument Summary</title>
+      <link>https://no-silo.com/courses/workshops/argument-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/courses/workshops/argument-summary/</guid>
+      <description>Argument Summary Workshop Write a summary of Nicholson Baker’s argument in “Changes of Mind” that is no more than 250 words.
+Include all of Baker’s argumentative claims or assertions. Leave nothing out. Put nothing extra in. Remain objective. Do not tell the audience your opinions or how you feel about Baker&amp;rsquo;s writing or argument. Just give us the facts.
+  Don’t forget to provide MLA-formatted citations indicating the page number(s) of the points you summarize.</description>
     </item>
     
     <item>
