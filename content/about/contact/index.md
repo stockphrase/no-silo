@@ -13,14 +13,15 @@ bookToC: false
 
 `8773 035F 719F 2B4C 40F0`
 
+---
 
 ## Office
 
-``Location``: 37 Dewey Field Road, Room 224.
+{{< fa map-marker-alt >}} 37 Dewey Field Road, room 224.
 
-`Hours`: TBA and by [Appointment](https://calendly.com/alantaylor).
+{{< fa clock >}} TBA and by appointment.
 
-{{< fa exclamation-triangle >}} Due to the `COVID-19` fiasco, my office hours for Fall 2020 will be held in my {{< fa laptop-medical >}} [virtual office](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09).
+Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held via [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09).
 
 ## Map
 

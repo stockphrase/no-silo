@@ -39,12 +39,6 @@ The theme for this course is `post-apocalyptic` fiction, film, and art.
 
 #
 
-#### Purpose of workshops
-
-The purpose of these workshops is largely *diagnostic*; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with as a writer. Think of these workshops as tools for self-assessment—you will use them to gain insight into your own abilities and create a plan for improvement. Significantly, you may revise these workshops as many times as you wish; thus, every student should get 100% on each of these assignments. To me, the grade is not important; what matters is that you become more proficient writers and thinkers.
-
----
-
 #### Research lectures
 
 

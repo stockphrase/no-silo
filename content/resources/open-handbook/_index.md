@@ -1,6 +1,6 @@
 ---
-weight: 2
-bookFlatSection: true
+weight: 1
+bookFlatSection: false
 bookToc: true
 title: + Open Handbook
 type: docs
@@ -22,7 +22,8 @@ If you would like to collaborate on the project, please contact me. If you know 
 
 ## Table of Contents
 
-* [A note on using this text](/resources/open-handbook/using-this-text)
+* [A brief note on using this text](/resources/open-handbook/using-this-text).
+* [The core competencies of the rhetorical arts](core-competencies).
 
 - i. [Preface](/resources/open-handbook/preface/)
 - ii. [License](/resources/open-handbook/license/)
@@ -42,7 +43,7 @@ If you would like to collaborate on the project, please contact me. If you know 
     - 11a. [MLA Style](/resources/open-handbook/chapter-11-mla)
     - 11b. [Chicago Style](/resources/open-handbook/chapter-11-chi)
 - 12. [Academic Research](/resources/open-handbook/chapter-12)
-- 13. Common Sentence Errors
+- 13. [Common Sentence Errors](/resources/open-handbook/chapter-13)
 - 14. [On Style](/resources/open-handbook/chapter-14)
 
 * [Index](/resources/open-handbook/keyword-index)

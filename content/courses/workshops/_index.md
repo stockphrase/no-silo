@@ -10,15 +10,9 @@ type: docs
 
 This term we will do a series of workshops designed to learn and practice various skills needed for academic writing and research. 
 
+The purpose of these workshops is often largely diagnostic; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with as a writer. Think of them as tools for learning and self-assessment---you may use them to gain insight into your own abilities and create a plan for improvement. 
+
 {{< tabs "Workshops" >}}
-
-{{< tab "Purpose" >}} 
-
-#### Purpose
-
-The purpose of these workshops is largely diagnostic; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with or don't yet know. Think of them as tools for learning and self-assessment---you may use them to gain insight into your own abilities and create a plan for improvement. Significantly, *you may revise these workshops as many times as you wish*; thus, every student may get 100% on each workshop. 
-
-{{< /tab >}}
 
 {{< tab "Writing 2" >}} 
 
@@ -105,6 +99,10 @@ The purpose of these workshops is largely diagnostic; they will not, of themselv
 
 
 {{< /tab >}}
+
+
+{{< tab "Video lectures" >}} 
+
 
 
 

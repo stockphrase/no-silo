@@ -5,9 +5,6 @@ bookToc: true
 title: "About Me"
 ---
 
-
-# About Me
-
 <div style="text-align:center">{{< figure src="/img/me.jpg" >}}</div>
 
 I grew up on a mountain swallowed up by [kudzu](https://en.wikipedia.org/wiki/Kudzu) just across the river from Chattanooga, Tennessee.  

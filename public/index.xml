@@ -50,17 +50,6 @@ You are free to share (copy and redistribute the material in any medium or forma
     </item>
     
     <item>
-      <title>What should students be able to do?</title>
-      <link>https://no-silo.com/courses/writing-2/student-skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://no-silo.com/courses/writing-2/student-skills/</guid>
-      <description>What should students be able to do? Many years ago historian William Cronon asked &amp;ldquo;What does it mean to be a liberally educated person?&amp;rdquo; Answering his own query, Cronon elaborates ten characteristics of the &amp;ldquo;liberally educated&amp;rdquo; person. It&amp;rsquo;s a really good list. You should read it.
-Here is my own list, focusing on competencies and skills in the rhetorical arts:
-  They analyze. Analysis involves breaking a complex thing down into smaller parts so that you can understand how those parts work together to form a whole (or fail to do so).</description>
-    </item>
-    
-    <item>
       <title>Writing 2: Syllabus</title>
       <link>https://no-silo.com/courses/writing-2/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -72,23 +61,12 @@ The pandemic is total bullshit. We&amp;rsquo;re all struggling through this. But
     </item>
     
     <item>
-      <title>&#43; Open Handbook</title>
-      <link>https://no-silo.com/resources/open-handbook/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://no-silo.com/resources/open-handbook/about/</guid>
-      <description>About    The Open Handbook
-The Open Handbook project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in LaTeX. I am in the process of translating the project into .md files so that I can include it on this website.
-If you would like to collaborate on the project, please contact me.</description>
-    </item>
-    
-    <item>
       <title>&#43; The Hive</title>
-      <link>https://no-silo.com/resources/the-hive/</link>
+      <link>https://no-silo.com/resources/hive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://no-silo.com/resources/the-hive/</guid>
-      <description>The Hive The Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class&amp;mdash;sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The &amp;ldquo;hive mind&amp;rdquo; is capable of discovering and uncovering far more than any one individual. With luck, The Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.</description>
+      <guid>https://no-silo.com/resources/hive/</guid>
+      <description>Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class&amp;mdash;sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The &amp;ldquo;hive mind&amp;rdquo; is capable of discovering and uncovering far more than any one individual. With luck, the Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.</description>
     </item>
     
     <item>
@@ -201,10 +179,10 @@ If you would like to collaborate on the project, please contact me.</description
     
     <item>
       <title>&#43; FAQs</title>
-      <link>https://no-silo.com/courses/FAQs/</link>
+      <link>https://no-silo.com/resources/FAQs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://no-silo.com/courses/FAQs/</guid>
+      <guid>https://no-silo.com/resources/FAQs/</guid>
       <description>Course FAQs May I email you my essay for extra comments?  No. I always give each essay draft a full set of written comments. And I&amp;rsquo;m committed to meet with any student who would like to go over them. However, I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in an office hour or at some other scheduled time.</description>
     </item>
     
@@ -241,13 +219,13 @@ Scholars avoid plagiarism and give credit to the thinking and writing of others 
     
     <item>
       <title>Common Sentence Errors</title>
-      <link>https://no-silo.com/resources/open-handbook/chapter-15/</link>
+      <link>https://no-silo.com/resources/open-handbook/chapter-13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://no-silo.com/resources/open-handbook/chapter-15/</guid>
+      <guid>https://no-silo.com/resources/open-handbook/chapter-13/</guid>
       <description>Common Sentence Errors A statistical study of student writing performed in 1988 by scholars Andrea Lunsford and Robert Connors demonstrated that virtually 100% student writing mistakes are limited to 20 formal errors. Eliminating these errors in your writing therefore offers the quickest path to error-free prose.
 1. Missing comma after an introductory element Introductory words or clauses are usually set off with a comma:
-   Similarly Freire argues that memorization is dehumanizing.</description>
+      Similarly Freire argues that memorization is dehumanizing.</description>
     </item>
     
     <item>
@@ -271,9 +249,9 @@ I&amp;rsquo;m not happy. You&amp;rsquo;re not happy. Let&amp;rsquo;s just try to
   PGP Fingerprint:
 A14D 400A 810B CB92 F903
 8773 035F 719F 2B4C 40F0
-Office Location: 37 Dewey Field Road, Room 224.
-Hours: TBA and by Appointment.
-  Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held in my  virtual office.
+ Office   37 Dewey Field Road, room 224.
+  TBA and by appointment.
+Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held via Zoom.
 Map  </description>
     </item>
     
@@ -304,8 +282,8 @@ Thanks also to the Dartmouth College Library and the Dartmouth Center for the Ad
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/courses/workshops/argument-analysis/</guid>
-      <description>1. Argument Analysis Workshop Relying on your annotations, critical notes, and our discussion of the text, construct an outline of the argument found in Nicholson Baker&amp;rsquo;s &amp;ldquo;Changes of Mind&amp;rdquo; essay.
-Your focus here is on the essay&amp;rsquo;s argumentative structure. What is the main conclusion, or conclusions, that Baker wants you to accept? We might call these conclusions his thesis. What supporting claims does he make to support this conclusion?
+      <description>Argument Analysis  Relying on your annotations, critical notes, and our discussions of the text, construct an outline of the argument found in Nicholson Baker&amp;rsquo;s &amp;ldquo;Changes of Mind&amp;rdquo; essay.
+Your focus in this assignment is on the essay&amp;rsquo;s argumentative structure. What is the main conclusion that Baker wants you to accept? We can call this central claim his thesis. What other claims does he make to support this conclusion?
 Baker is a very playful writer; there is a lot of silliness and verbal excess in the essay.</description>
     </item>
     
@@ -315,8 +293,8 @@ Baker is a very playful writer; there is a lot of silliness and verbal excess in
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/courses/workshops/argument-summary/</guid>
-      <description>2. Argument Summary Workshop Write a summary of Nicholson Baker’s argument in “Changes of Mind” that is no more than 250 words.
-Include all of Baker’s argumentative claims or assertions. Leave nothing out. Put nothing extra in. Remain objective. Do not tell the audience your opinions or how you feel about Baker&amp;rsquo;s writing or argument. Just give us the facts.
+      <description>Argument Summary Workshop  Write a summary of Nicholson Baker’s argument in “Changes of Mind” that is no more than 250 words.
+Include all of Baker’s argumentative claims or assertions. Leave nothing out. Put nothing extra in. Remain objective: don&amp;rsquo;t tell the audience your opinions or how you feel about Baker&amp;rsquo;s writing or argument. Just give us the facts.
   Don’t forget to provide MLA-formatted citations indicating the page number(s) of the points you summarize.</description>
     </item>
     
@@ -326,7 +304,7 @@ Include all of Baker’s argumentative claims or assertions. Leave nothing out. 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/courses/workshops/argument-synthesis/</guid>
-      <description>Argument Synthesis What is synthesis? As the name suggests, synthesis essays focus on combining and connecting. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments or ideas relate to one another.
+      <description>Argument Synthesis  What is synthesis? As the name suggests, synthesis involves combining and connecting. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments relate to each another.
 Students attempting synthesis for the first time often make the mistake of organizing their essays by source. For example, they will introduce two authors in their introduction, summarize Author A for a few paragraphs, summarize Author B for a few paragraphs, then conclude the essay by noting the broad similarities and differences in the two authors’ thinking.</description>
     </item>
     
@@ -339,6 +317,16 @@ Students attempting synthesis for the first time often make the mistake of organ
       <description>Chicago Style Chicago document formatting When setting up your word processor for an Chicago-formatted document, use the following settings to format your page:
 Chicago Page Formatting    Use one-inch margins on all sides of the document.
   Place the page number on the right side of each page in the document&amp;rsquo;s header. If instructed to do so by a professor, include your last name before the page number on each page.</description>
+    </item>
+    
+    <item>
+      <title>Core Competencies in the Rhetorical Arts</title>
+      <link>https://no-silo.com/resources/open-handbook/core-competencies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/resources/open-handbook/core-competencies/</guid>
+      <description>Core Competencies in the Rhetorical Arts Many years ago, historian William Cronon described the ten characteristics of a &amp;ldquo;liberally educated&amp;rdquo; person. It&amp;rsquo;s a really good list. You should read it.
+Here is my own list, focusing on the core competencies of the rhetorical arts. As I see it, the following are the most critical skills for successful writing and thinking in an academic context. None of these things is particularly easy to master, if such a thing is actually possible.</description>
     </item>
     
     <item>

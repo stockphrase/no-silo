@@ -6,17 +6,19 @@ bookToc: true
 type: docs
 ---
 
-# 1. Argument Analysis Workshop
-
-Relying on your [annotations](/resources/open-handbook/chapter-1), [critical notes](/resources/open-handbook/chapter-2), and our discussion of the text, construct an outline of the argument found in Nicholson Baker's "Changes of Mind" essay.
-
-Your focus here is on the essay's *argumentative structure*. What is the main conclusion, or conclusions, that Baker wants you to accept? We might call these conclusions his `thesis`. What supporting claims does he make to support this conclusion? 
-
-Baker is a very playful writer; there is a lot of silliness and verbal excess in the essay. This makes it challenging to distinguish argumentative claims from his examples, stories, and other forms of evidence. Your job is to carefully sift through this essay, isolating the arguments and presenting them as a stripped-down, organized list of bulleted statements. 
+# Argument Analysis 
 
 ---
 
-{{< fa bullseye >}} [View or submit the assignment in Canvas](https://canvas.dartmouth.edu)
+Relying on your annotations, critical notes, and our discussions of the text, construct an outline of the argument found in Nicholson Baker's "Changes of Mind" essay.
+
+Your focus in this assignment is on the essay's *argumentative structure*. What is the main conclusion that Baker wants you to accept? We can call this central claim his `thesis`. What other claims does he make to support this conclusion?
+
+Baker is a very playful writer; there is a lot of silliness and verbal excess in the essay. This makes it challenging to distinguish argumentative claims from his examples, metaphors, illustrations, stories, and other forms of evidence. Your job is to carefully sift through the essay to isolate the arguments, then present them as a stripped-down, organized list of bulleted statements. 
+
+---
+
+{{< fa bullseye >}} [View the assignment in Canvas](https://canvas.dartmouth.edu)
 
 <!---
 

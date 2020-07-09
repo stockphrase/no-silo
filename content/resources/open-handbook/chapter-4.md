@@ -266,14 +266,14 @@ the following:
 --->
 
 
-### File-naming advice
+## File-naming advice
 
 Avoid using spaces or underscores in the naming of folders, as some
 computer systems or programs will have difficulty with them. Instead,
 use CamelCase and dashes to make the folder and file names more
 human-readable.
 
-### Naming top-level project folders
+## Naming top-level project folders
 
 - `/ProjectAlpha` Project name in CamelCase.
 
@@ -281,7 +281,7 @@ human-readable.
 
 - `/ProjectAlpha-AT` Author initials may be included, if needed.
 
-### Naming files
+## Naming files
 
 - `FileName.docx` A prototypical example.
 
@@ -293,7 +293,7 @@ human-readable.
 
 - `201912-FileNameDraft-AT` Include initials at the end of the file, if needed.
 
-### A very large file system example
+## A very large file system example
 
 
 
@@ -324,7 +324,7 @@ human-readable.
 
 #
 
-# Back up all your data
+## Back up all your data
 
 
 All of this hard work of organizing will be for nothing, however, if you
