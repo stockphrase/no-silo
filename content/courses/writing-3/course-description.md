@@ -6,9 +6,11 @@ bookToc: true
 type: docs
 ---
 
-## Writing 3
+<div style="text-align:center">{{< figure src="/img/wr3.png" width=200 >}}</div>
 
-**Writing 3** focuses on academic `research`. Our libraries have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. 
+# Writing 3
+
+**Writing 3** focuses on academic `research`. Our [libraries](https://library.dartmouth.edu) have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. 
 
 The theme for this course is `post-apocalyptic` fiction, film, and art.
 

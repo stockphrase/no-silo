@@ -6,6 +6,10 @@ bookToc: true
 type: docs
 ---
 
+
+<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+
+
 # Workshops & Lectures
 
 This term we will do a series of workshops designed to learn and practice various skills needed for academic writing and research. 

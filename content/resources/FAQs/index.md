@@ -6,6 +6,8 @@ bookHidden: false
 title: "+ FAQs"
 ---
 
+<div style="text-align:center">{{< figure src="/img/faq.png" width=150 >}}</div>
+
 ## Course FAQs
 
 {{< details "May I email you my essay for extra comments?" >}}
