@@ -49,7 +49,7 @@ type: docs
 - [ ] Considering audience
 - [ ] Annotation & critical analysis
 - [ ] Signal phrases
-- [ ] MLA citation/documentation
+- [ ] [MLA documentation](/courses/workshops/mla-documentation)
 
 
 ---

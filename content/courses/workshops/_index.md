@@ -30,7 +30,7 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 - [ ] Considering audience
 - [ ] Annotation & critical analysis
 - [ ] Signal phrases
-- [ ] MLA citation/documentation
+- [ ] [MLA documentation](/courses/workshops/mla-documentation)
 
 ---
 
