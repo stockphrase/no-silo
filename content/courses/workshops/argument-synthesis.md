@@ -6,7 +6,6 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=200 >}}</div>
 
 # Argument Synthesis
 

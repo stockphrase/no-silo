@@ -22,15 +22,18 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 #### Writing 2
 
+- [ ] [Annotation]()
 - [ ] [Argument analysis](/courses/workshops/argument-analysis) 
 - [ ] [Argument summary](/courses/workshops/argument-summary) 
 - [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
 - [ ] Argument response 
+- [ ] [MLA documentation](/courses/workshops/documentation)
+- [ ] [Working with sources](/courses/workshops/altering-sources)
 - [ ] Rhetorical analysis 
 - [ ] Considering audience
 - [ ] Annotation & critical analysis
 - [ ] Signal phrases
-- [ ] [MLA documentation](/courses/workshops/mla-documentation)
+
 
 ---
 

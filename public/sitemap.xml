@@ -19,12 +19,12 @@
   
   <url>
     <loc>https://no-silo.com/courses/writing-2/course-description/</loc>
-    <lastmod>2020-07-06T14:59:43-04:00</lastmod>
+    <lastmod>2020-07-10T13:38:07-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/about/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T10:03:47-04:00</lastmod>
   </url>
   
   <url>
@@ -44,7 +44,7 @@
   
   <url>
     <loc>https://no-silo.com/courses/writing-3/course-description/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T10:03:47-04:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://no-silo.com/courses/workshops/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T13:38:07-04:00</lastmod>
   </url>
   
   <url>
@@ -104,7 +104,7 @@
   
   <url>
     <loc>https://no-silo.com/resources/FAQs/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T10:03:47-04:00</lastmod>
   </url>
   
   <url>
@@ -159,17 +159,17 @@
   
   <url>
     <loc>https://no-silo.com/courses/workshops/argument-analysis/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T10:03:47-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/courses/workshops/argument-summary/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T10:03:47-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/courses/workshops/argument-synthesis/</loc>
-    <lastmod>2020-07-09T14:48:05-04:00</lastmod>
+    <lastmod>2020-07-10T10:03:47-04:00</lastmod>
   </url>
   
   <url>
@@ -192,6 +192,10 @@
   </url>
   
   <url>
+    <loc>https://no-silo.com/courses/workshops/documentation/</loc>
+  </url>
+  
+  <url>
     <loc>https://no-silo.com/resources/open-handbook/chapter-11-mla/</loc>
     <lastmod>2020-06-21T14:14:16-04:00</lastmod>
   </url>
@@ -202,12 +206,20 @@
   </url>
   
   <url>
+    <loc>https://no-silo.com/courses/workshops/sentence-variety/</loc>
+  </url>
+  
+  <url>
     <loc>https://no-silo.com/courses/workshops/peer-review/</loc>
     <lastmod>2020-07-06T14:59:43-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://no-silo.com/courses/workshops/altering-sources/</loc>
   </url>
   
 </urlset>
