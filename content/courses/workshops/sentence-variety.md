@@ -6,13 +6,14 @@ bookToc: true
 type: docs
 ---
 
+<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+
 # Sentence Variety
 
-Integrating quotations from other sources is an important part of academic writing. Often, stu dent writers who write sentences well in their own voice have difficulty when they try to weave
-the voices of others into their prose. I also find that most students have developed a particular
-strategy or formula for quotation that they use over and over again as a kind of crutch. In the re-
-cent batch of essays, I saw that many of you habitually rely on the same sentence structure when
-introducing a quotation from a source. This structure resembles the following:
+---
+
+Integrating quotations from other sources is an important part of academic writing. Often, student writers who write sentences well in their own voice have difficulty when they try to weave
+the voices of others into their prose. I also find that most students have developed a particular strategy or formula for quotation that they use over and over again as a kind of crutch. In the recent batch of essays, I saw that many of you habitually rely on the same sentence structure when introducing a quotation from a source. This structure resembles the following:
 
 >According to Dr. Taylor, “all your quotes are made the same way” (89).
 
@@ -27,56 +28,64 @@ of becoming a better writer is understanding that you have the authority to chop
 and alter quotations to serve your purposes so long as you do not misrepresent the thinking or
 arguments of others.
 
-A few examples:
+# A few examples
+
 Let’s examine few examples based on this passage from George Orwell’s famous essay entitled “A
 Hanging”:
-It was about forty yards to the gallows. I watched the bare brown back of the prisoner
+
+>It was about forty yards to the gallows. I watched the bare brown back of the prisoner
 marching in front of me. He walked clumsily with his bound arms, but quite steadily,
 with that bobbing gait of the Indian who never straightens his knees. At each step his
 muscles slid neatly into place, the lock of hair on his scalp danced up and down, his
 feet printed themselves on the wet gravel. And once, in spite of the men who gripped
 him by each shoulder, he stepped slightly aside to avoid a puddle on the path.
 It is curious, but till that moment I had never realized what it means to destroy a
-healthy, conscious man. When I saw the prisoner step aside to avoid the puddle, I sawthe mystery, the unspeakable wrongness, of cutting a life short when it is in full tide.
+healthy, conscious man. When I saw the prisoner step aside to avoid the puddle, I sawt he mystery, the unspeakable wrongness, of cutting a life short when it is in full tide.
 This man was not dying, he was alive just as we were alive. All the organs of his body
-were working—bowels digesting food, skin renewing itself, nails growing, tissues
+were working---bowels digesting food, skin renewing itself, nails growing, tissues
 forming—all toiling away in solemn foolery. His nails would still be growing when
 he stood on the drop, when he was falling through the air with a tenth of a second
-to live. His eyes saw the yellow gravel and the grey walls, and his brain still remem-
-bered, foresaw, reasoned—reasoned even about puddles. He and we were a party of
+to live. His eyes saw the yellow gravel and the grey walls, and his brain still remembered, foresaw, reasoned---reasoned even about puddles. He and we were a party of
 men walking together, seeing, hearing, feeling, understanding the same world; and
-in two minutes, with a sudden snap, one of us would be gone—one mind less, one
+in two minutes, with a sudden snap, one of us would be gone---one mind less, one
 world less. (47)
+
 The following sentences all express the same meaning; however, they use a variety of sentence
 structures to accomplish that goal:
+
 1. “It is curious,” Orwell relates, as the hanging party approaches the gallows and the prisoner
 tries to avoid stepping in a puddle, “but till that moment I had never realized what it means
 to destroy a healthy, conscious man” (47).
+
 2. Orwell finds it “curious” that it was only after viewing a condemned prisoner avoid getting
 wet on the way to his death that he “realized what it means to destroy a healthy, conscious
 man” (47).
-3. In his essay, Orwell reveals a “curious” truth: he “never realized what it means to destroy
+
+3. Orwell reveals a “curious” truth: he “never realized what it means to destroy
 a healthy, conscious man” until he watched a condemned prisoner “[step] slightly aside to
 avoid a puddle” on the way to the gallows (47).
+
 4. By moving “slightly aside to avoid a puddle,” a condemned man makes George Orwell sud-
-denly realize a “curious” truth—“what it means to destroy a healthy, conscious man” (47).
+denly realize a “curious” truth---“what it means to destroy a healthy, conscious man” (47).
+
 5. As the condemned man approaches the gallows and steps slightly aside to avoid a puddle,
 Orwell observes: “It is curious, but till that moment I had never realized what it means to
 destroy a healthy, conscious man” (47).
-Workshop Exercise:
+
+# Workshop Exercise
+
 This second passage is taken from Richard Hofstadter’s famous essay entitled “The Paranoid Style
-in American Politics,” which was published in Harper’s Magazine in 1964. In the essay, Hofstadter
+in American Politics,” which was published in *Harper’s Magazine* in 1964. In the essay, Hofstadter
 analyzes the over-blown rhetoric and paranoid psychology of a certain political type:
-The paranoid spokesman sees the fate of conspiracy in apocalyptic terms—he traf-
-fics in the birth and death of whole worlds, whole political orders, whole systems of
+
+>The paranoid spokesman sees the fate of conspiracy in apocalyptic terms—he traffics in the birth and death of whole worlds, whole political orders, whole systems of
 human values. He is always manning the barricades of civilization. He constantly
 lives at a turning point. Like religious millennialists he expresses the anxiety of those
 who are living through the last days and he is sometimes disposed to set a date for the
 apocalypse. (77)
-In the example sentence below I have summarized the meaning of the passage. Rewrite this sen-
-tence eight times, using a variety of sentences structures and quotations from the Hofstadter
-2passage. Use the previous sentences for inspiration.
-Example:
-1. Hofstadtler argues that the paranoid politician and the religious fundamentalist both have
-rhetorical excess and exaggeration in common (77).
-3
+
+In the example sentence below I have summarized the meaning of the passage. Rewrite this sentence eight times, using a variety of sentences structures and quotations from the Hofstadter passage. Use the previous sentences for inspiration.
+
+
+1. Hofstadtler argues that the paranoid politician and the religious fundamentalist both have rhetorical excess and exaggeration in common (77).
+

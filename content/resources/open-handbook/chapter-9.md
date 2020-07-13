@@ -4,9 +4,11 @@ bookHidden: true
 title: "9. Altering Sources"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Altering Sources
+
+---
 
 In your life as a writer you will frequently encounter situations where you must alter a source quotation in some way. Generally, these alterations are used to satisfy grammar or make your writing easier to follow by removing or adding words or phrases. 
 

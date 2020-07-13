@@ -6,8 +6,9 @@ bookToc: true
 type: docs
 ---
 
+<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
 
-# Documentation
+# MLA Documentation
 
 ---
 

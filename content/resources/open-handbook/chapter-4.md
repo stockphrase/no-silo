@@ -4,9 +4,11 @@ bookHidden: true
 title: "The Joy of Reuse (Save Your Work)"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
-# The Joy of Reuse (Save Your Work)
+# The Joy of Reuse
+
+---
 
 ## Save all your work
 

@@ -4,9 +4,11 @@ bookHidden: true
 title: "11. Documentation of Sources"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Documentation of Sources
+
+---
 
 Accurately documenting sources is a vital aspect of any process of inquiry. If
 you fail to  properly document your sources, your readers will be unable to

@@ -4,10 +4,11 @@ bookHidden: true
 title: "6. Types of College Writing"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Types of College Writing
 
+---
 
 Most students are trained in high school to write what is known as a
 `five-paragraph essay`---a form of writing containing an introduction, three

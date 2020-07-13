@@ -5,8 +5,11 @@ bookToc: true
 title: "Core Competencies in the Rhetorical Arts"
 ---
 
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
+
 # Core Competencies in the Rhetorical Arts
 
+---
 
 Many years ago, historian William Cronon described the [ten characteristics of a "liberally educated" person](https://www.williamcronon.net/writing/only_connect.html). It's a really good list. You should read it. 
 

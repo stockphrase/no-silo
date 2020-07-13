@@ -4,7 +4,11 @@ bookHidden: true
 title: "Common Sentence Errors"
 ---
 
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
+
 # Common Sentence Errors
+
+---
 
 A [statistical study of student writing](http://www.jstor.org/stable/357695) performed in 1988 by scholars Andrea Lunsford and Robert Connors demonstrated that virtually 100% student writing mistakes are limited to 20 formal errors. Eliminating these errors in your writing therefore offers the quickest path to error-free prose.
 

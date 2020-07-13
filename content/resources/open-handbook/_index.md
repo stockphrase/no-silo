@@ -6,7 +6,7 @@ title: + Open Handbook
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # About
 

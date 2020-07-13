@@ -6,6 +6,7 @@ bookToc: true
 type: docs
 ---
 
+<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
 
 # Peer Review Work
 
@@ -13,17 +14,17 @@ type: docs
 
 ## Step I: Make a basic outline
 
-Construct a brief outline of your partner's essay by listing the main idea contained in each paragraph. Your focus should be on the paper's *argumentative structure*, so concentrate on identifying the essay's `thesis` and the supporting `claims.` Approach each paragraph as if it were a single unit of meaning. For the moment, the paragraph is all that exists: what claim does it make? what is its purpose? Try, as best you can, to state the main idea of each paragraph in a single sentence. 
+Construct a brief outline of your partner's essay by listing the main idea contained in each paragraph. Your focus should be on the paper's *argumentative structure*, so concentrate on identifying the essay's `thesis` and the supporting `claims.` Approach each paragraph as if it were a single unit of meaning. What claim does it make? What is its purpose? Try, as best you can, to state the main idea of each paragraph in a single sentence. 
 
 The radically simplified version of the essay that results from this process may help expose logical weaknesses or problems with organization; at the same time, a simplified outline often inspires new ideas for the revision or expansion of the essay.
 
-- If more than one claim is detected in a paragraph, it is often a sign that the paragraph lacks `focus`. Place *all* the claims you detect from a paragraph in the outline, but indicate that paragraphs with multiple claims may be a problem in a note to its author.
+- If more than one claim is detected in a paragraph, it is often a sign that the paragraph lacks `focus`. Place *all* the claims you detect from a paragraph in the outline, but flag the paragraphs with multiple claims in a note to the author as they may require revision.
 
 - If the paragraph does not present an overtly argumentative claim of some sort, try to characterize its purpose in the essay. For example, a paragraph may provide `background information` to help the audience understand the context of the essay's argument.
 
 - If there is no clear claim or purpose detectable in the paragraph, make a note of this confusion in the outline.
 
-- It is helpful if you number the paragraphs for ease of reference: P1, P2, etc.
+- It is helpful if you number the paragraphs for ease of reference: P1, P2, and so on.
 
 ---
 

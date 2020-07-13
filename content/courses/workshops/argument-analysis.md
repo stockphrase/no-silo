@@ -6,6 +6,7 @@ bookToc: true
 type: docs
 ---
 
+<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
 
 # Argument Analysis 
 
@@ -13,7 +14,7 @@ type: docs
 
 Relying on your annotations, critical notes, and our discussions of the text, construct an outline of the argument found in Nicholson Baker's "Changes of Mind" essay.
 
-Your focus in this assignment is on the essay's *argumentative structure*. What is the main conclusion that Baker wants you to accept? We can call this central claim his `thesis`. What other claims does he make to support this conclusion?
+Your focus in this assignment is on the essay's *argumentative structure*. What is the main conclusion that Baker wants you to accept? We can call this central claim his `thesis`. What other supporting claims does he make to bolster this conclusion?
 
 Baker is a very playful writer; there is a lot of silliness and verbal excess in the essay. This makes it challenging to distinguish argumentative claims from his examples, metaphors, illustrations, stories, and other forms of evidence. Your job is to carefully sift through the essay to isolate the arguments, then present them as a stripped-down, organized list of bulleted statements. 
 

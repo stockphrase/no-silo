@@ -6,7 +6,7 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/wr2.png" width=200 >}}</div>
+<div style="text-align:center">{{< figure src="/img/wr2.png" width=150 >}}</div>
 
 # Writing 2
 

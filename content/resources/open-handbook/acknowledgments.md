@@ -3,6 +3,7 @@ bookHidden: true
 title: "Acknowledgments"
 ---
 
+
 # Acknowledgments
 
 Thanks to my friends and colleagues at Dartmouth College---especially Mark Koch, Doug Moody, Colleen Lannon, Sarah B. Smith, Jed Dobson, and Nick Van Kley.

@@ -3,9 +3,11 @@ bookHidden: true
 title: "Chicago Documentation Style"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Chicago Style
+
+---
 
 ## Chicago document formatting
 
@@ -739,7 +741,7 @@ McKinley, Robert. "Cat Saved from Dog." *New York Times*, October 28, 2000, earl
 {{< /tabs >}}
 
 
-- If there is no section or edition information, end with the year of publication.\end{itemize}
+- If there is no section or edition information, end with the year of publication.
 
 ### A review
 

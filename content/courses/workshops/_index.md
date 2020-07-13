@@ -6,15 +6,13 @@ bookToc: true
 type: docs
 ---
 
-
 <div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
-
 
 # Workshops & Lectures
 
 This term we will do a series of workshops designed to learn and practice various skills needed for academic writing and research. 
 
-The purpose of these workshops is often largely diagnostic; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with as a writer. Think of them as tools for learning and self-assessment---you may use them to gain insight into your own abilities and create a plan for improvement. 
+The purpose of these workshops is often largely diagnostic; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with as a writer and alert you to things you don't yet know. Think of them as tools for learning and self-assessment---you may use them to gain insight into your own abilities and create a plan for improvement. 
 
 {{< tabs "Workshops" >}}
 
@@ -22,13 +20,13 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 #### Writing 2
 
-- [ ] [Annotation]()
+- [ ] [Annotation](/courses/workshops/annotation) 
 - [ ] [Argument analysis](/courses/workshops/argument-analysis) 
 - [ ] [Argument summary](/courses/workshops/argument-summary) 
 - [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
 - [ ] Argument response 
 - [ ] [MLA documentation](/courses/workshops/documentation)
-- [ ] [Working with sources](/courses/workshops/altering-sources)
+- [ ] [Altering sources](/courses/workshops/altering-sources)
 - [ ] Rhetorical analysis 
 - [ ] Considering audience
 - [ ] Annotation & critical analysis

@@ -4,6 +4,7 @@ bookHidden: true
 title: "Keyword Index"
 ---
 
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Keyword Index
 

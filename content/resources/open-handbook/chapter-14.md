@@ -4,10 +4,11 @@ bookHidden: true
 title: "On Style"
 ---
 
-<div style="text-align:center">{{< figure src="/logo.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # On Style
 
+---
 
 I don't usually talk about style with students, or teach it in any way. But some of the best advice on style I've ever read came from Gary Provost's *100 Ways to Improve Your Writing*:
 
