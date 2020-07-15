@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-bookToc: false
+bookToc: true
 bookHidden: true
 title: "Writing 2: Syllabus"
 ---
@@ -330,27 +330,53 @@ The following assignments comprise your grade for the Fall term:
 |Date   | Readings                 | Assignments / Questions                  | Due
 |:------|:-----------|:------------|:---
 |9.16   |           |Introductions, course objectives, questions. |
-|9.18   |<ul><li>[*Open Handbook*, Chapter 1](/resources/open-handbook/chapter-1)</li><li>[*Open Handbook*, Chapter 2](/resources/open-handbook/chapter-2)</li></ul> | *What is education?*  | [In-class annotation exercise]().
-|9.20   |OH, Ch 3.    |Bring 2 copies of essay to class. Peer workshop. | Essay 1.0
+|9.18   |[*Open-Handbook Ch 1*](/resources/open-handbook/chapter-1), [*Open-Handbook Ch. 2*](/resources/open-handbook/chapter-2)| *What is education?*  | [In-class annotation exercise]().
+|9.20   |[OH  3](/resources/open-handbook/chapter-3)    | | 
 
 
 ## Week One
 
+#### M 9.14 / Course orientation
+
+{{< fa question-circle >}} Question of the day
+- Hatin' on Covid-19
+- Review: syllabus, course policies, websites
+- Questions
+
+#### W 9.16 / What is education?
+
+{{< fa question-circle >}} Question of the day
+- {{< fa bullhorn >}} [Discussion](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09): What is education? What is its purpose?
+
+#### Readings
+- {{< fa folder-open >}}*Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
+- {{< fa folder-open >}}*Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
+
+
+
+
+
 {{< tabs "Week-One" >}}
 {{< tab "9.14" >}}
 
-### Course Introduction
+### Course orientation
 
-Introductions, questions, complaining about COVID-19.
-
+- *Question of the Day*: Something you love/hate? 
+- Hatin' on Covid-19
+- Review: syllabus, course policies, online content
+- Questions
 
 {{< /tab >}}
 
 {{< tab "9.16" >}}
 
-### Reading
+- [Discussion](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09): What is education? What is its purpose?
 
-* *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1) and ["Critical Notes"](/resources/open-handbook/chapter-2)
+#### Readings
+- *Read*: *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
+- *Read*: *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
+
+
 
 {{< /tab >}}
 

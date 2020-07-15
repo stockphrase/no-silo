@@ -76,7 +76,7 @@ deepening of the question.
 ## Example paragraphs
 
 This paragraph is part of a larger student essay performing a
-theoretical analysis of Wes Anderson's 1998 film
+[theoretical analysis](/resources/open-handbook/chapter-6#theoretical-writing) of Wes Anderson's 1998 film
 [*Rushmore*](http://en.wikipedia.org/wiki/Rushmore_%28film%29). The
 essay uses theoretical ideas borrowed from Brazilian educational
 theorist Paulo Freire. According the the author, the film's central

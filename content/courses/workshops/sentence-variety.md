@@ -17,12 +17,14 @@ the voices of others into their prose. I also find that most students have devel
 
 >According to Dr. Taylor, “all your quotes are made the same way” (89).
 
-This sentence is correct in every way. However, it is important to develop some flexibility with respect to quotations. If you rely on only one sentence structure, your writing will
+This sentence is correct in every way. However, it is important to develop some flexibility with respect to quotations. If you rely on a single strategy for quotation, your writing will
 be repetitive and bland. Further, you will often discover that the words you would like to quote will
 not easily fit into the structure illustrated above. Attempting to cram this borrowed language into
 your trusted, familiar structure will result in awkward and ungrammatical sentences. However,
 if you develop an ability to form sentences with a variety of sentence structures, you will never
-have this problem. My belief is that most of you rely on this structure because you assume that
+have this problem. 
+
+My guess is that most of you rely on this structure because you assume that
 the words of others must be presented in the precise order that they appear in the original. Part
 of becoming a better writer is understanding that you have the authority to chop up, reorder,
 and alter quotations to serve your purposes so long as you do not misrepresent the thinking or
@@ -84,7 +86,7 @@ lives at a turning point. Like religious millennialists he expresses the anxiety
 who are living through the last days and he is sometimes disposed to set a date for the
 apocalypse. (77)
 
-In the example sentence below I have summarized the meaning of the passage. Rewrite this sentence eight times, using a variety of sentences structures and quotations from the Hofstadter passage. Use the previous sentences for inspiration.
+In the example sentence below, I have summarized the meaning of the passage. Rewrite this same meaning seven additional times, using a variety of sentences structures and quotations from the Hofstadter passage. It might be helpful to use some of my example sentences above for inspiration.
 
 
 1. Hofstadtler argues that the paranoid politician and the religious fundamentalist both have rhetorical excess and exaggeration in common (77).

@@ -42,7 +42,7 @@ Here is a mockup of a page in the Hive dedicated to our first reading. It might 
 <div class="container">
         <div class="raised-edge">
 
-<div style="text-align:center">{{< figure src="/img/hive3.png" width=300 >}}</div>
+<div style="text-align:center">{{< figure src="/img/hive3.png" width=100 >}}</div>
 
 ---
 

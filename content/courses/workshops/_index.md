@@ -27,6 +27,7 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 - [ ] Argument response 
 - [ ] [MLA documentation](/courses/workshops/documentation)
 - [ ] [Altering sources](/courses/workshops/altering-sources)
+- [ ] [Sentence variety](/courses/workshops/sentence-variety)
 - [ ] Rhetorical analysis 
 - [ ] Considering audience
 - [ ] Annotation & critical analysis
@@ -106,7 +107,7 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 {{< /tab >}}
 
 
-{{< tab "Video lectures" >}} 
+{{< tab "Lectures" >}} 
 
 
 

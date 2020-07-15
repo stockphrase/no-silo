@@ -89,7 +89,15 @@ citations to indicate borrowings from other sources:
 <div class="container">
         <div class="raised-edge">
 
-**[Student Essay]**
+Joe Student 
+
+English 120
+
+Prof. Taylor
+
+Oct. 28, 2012
+
+<div style="text-align:center"> Origins of Taoism: A Fake Essay </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A number of scholarly views exist that attempt to explain the nature and origins of Taoist religious practices. <mark>In his book *The Tao Practice*, scholar Rico Burgerton argues</mark> that "Taoism emerged during a period
 of unprecedented struggle, deprivation, and suffering in the fourth
@@ -200,7 +208,7 @@ Let's imagine that the following is the source text that you would like to quote
 <div class="container">
         <div class="raised-edge">
 
-**[Source Text]**
+<div style="text-align:center">{{< figure src="/img/source.png" width=100 >}}</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At the heart of the environmentalist worldview is the conviction that
 human physical and spiritual health depends on sustaining the planet in
@@ -337,7 +345,7 @@ Let's imagine that the following is the source text that you would like to summa
 <div class="container">
         <div class="raised-edge">
 
-**[Source Text]**
+<div style="text-align:center">{{< figure src="/img/source.png" width=100 >}}</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When academic territories were parceled out in the early twentieth
 century, anthropology got the tellers of tales and history got the
@@ -414,7 +422,7 @@ Let's imagine that the following is the source text that you would like to parap
 <div class="container">
         <div class="raised-edge">
 
-**[Source Text]**
+<div style="text-align:center">{{< figure src="/img/source.png" width=100 >}}</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When academic territories were parceled out in the early twentieth
 century, anthropology got the tellers of tales and history got the
