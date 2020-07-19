@@ -19,6 +19,17 @@
     </item>
     
     <item>
+      <title>Test</title>
+      <link>https://no-silo.com/courses/writing-2/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/courses/writing-2/test/</guid>
+      <description>Outside of the tabs environment, this works as expected:
+    Question of the Day: Something you love/hate?  But inside tabs environment, this breaks the line:
+9.14 Course orientation  Item one Item two    This is a test. </description>
+    </item>
+    
+    <item>
       <title>Writing 2: Syllabus</title>
       <link>https://no-silo.com/courses/writing-2/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

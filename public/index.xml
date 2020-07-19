@@ -50,6 +50,17 @@ You are free to share (copy and redistribute the material in any medium or forma
     </item>
     
     <item>
+      <title>Test</title>
+      <link>https://no-silo.com/courses/writing-2/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/courses/writing-2/test/</guid>
+      <description>Outside of the tabs environment, this works as expected:
+    Question of the Day: Something you love/hate?  But inside tabs environment, this breaks the line:
+9.14 Course orientation  Item one Item two    This is a test. </description>
+    </item>
+    
+    <item>
       <title>Writing 2: Syllabus</title>
       <link>https://no-silo.com/courses/writing-2/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -245,7 +256,7 @@ I&amp;rsquo;m not happy. You&amp;rsquo;re not happy. Let&amp;rsquo;s just try to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/about/contact/</guid>
-      <description>Contact    Zoom |  Email |  PGP
+      <description>Contact    [Zoom] |  Email |  PGP
   PGP Fingerprint:
 A14D 400A 810B CB92 F903
 8773 035F 719F 2B4C 40F0
@@ -282,7 +293,7 @@ Thanks also to the Dartmouth College Library and the Dartmouth Center for the Ad
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/courses/workshops/annotation/</guid>
-      <description>Annotation  Not yet. Hold on.</description>
+      <description>Annotation  In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment, you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the annotation of texts.</description>
     </item>
     
     <item>
@@ -291,7 +302,7 @@ Thanks also to the Dartmouth College Library and the Dartmouth Center for the Ad
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://no-silo.com/courses/workshops/argument-analysis/</guid>
-      <description>Argument Analysis  Relying on your annotations, critical notes, and our discussions of the text, construct an outline of the argument found in Nicholson Baker&amp;rsquo;s &amp;ldquo;Changes of Mind&amp;rdquo; essay.
+      <description>Argument Analysis  Assignment Relying on your annotations, critical notes, and our discussions of the text, construct an outline of the argument found in Nicholson Baker&amp;rsquo;s &amp;ldquo;Changes of Mind&amp;rdquo; essay.
 Your focus in this assignment is on the essay&amp;rsquo;s argumentative structure. What is the main conclusion that Baker wants you to accept? We can call this central claim his thesis. What other supporting claims does he make to bolster this conclusion?</description>
     </item>
     

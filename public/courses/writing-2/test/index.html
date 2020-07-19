@@ -4,13 +4,17 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Tags" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://no-silo.com/tags/" />
+<meta name="description" content="Outside of the tabs environment, this works as expected:
+    Question of the Day: Something you love/hate?  But inside tabs environment, this breaks the line:
+9.14 Course orientation  Item one Item two    This is a test. ">
+<meta name="theme-color" content="#FFFFFF"><meta property="og:title" content="Test" />
+<meta property="og:description" content="Outside of the tabs environment, this works as expected:
+    Question of the Day: Something you love/hate?  But inside tabs environment, this breaks the line:
+9.14 Course orientation  Item one Item two    This is a test. " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://no-silo.com/courses/writing-2/test/" />
 
-<title>Tags | No Silo</title>
+<title>Test | No Silo</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.490bc1aa584342efb1bb4a8274f5328d6e9727b000959c204343389f30782e06.css" integrity="sha256-SQvBqlhDQu&#43;xu0qCdPUyjW6XJ7AAlZwgQ0M4nzB4LgY=">
@@ -26,7 +30,6 @@ if (!doNotTrack) {
 }
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
-<link rel="alternate" type="application/rss+xml" href="https://no-silo.com/tags/index.xml" title="No Silo" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -278,7 +281,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>Tags</strong>
+  <strong>Test</strong>
 
   <label for="toc-control">
     <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
@@ -290,29 +293,7 @@ https://github.com/alex-shpak/hugo-book
     <input type="checkbox" class="hidden" id="toc-control" />
     <aside class="hidden clearfix">
       
-  <nav>
-  <ul>
-  
-    
-    <li class="book-section-flat">
-      <strong>Categories</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
-    
-    <li class="book-section-flat">
-      <strong>Tags</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
-  </ul>
-</nav>
+  <nav id="TableOfContents"></nav>
 
 
     </aside>
@@ -322,10 +303,32 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-<article class="markdown">
-  <h1>Tags</h1>
+  <article class="markdown"><p>Outside of the tabs environment, this works as expected:</p>
+<ul>
+<li>
+
   
-  
+  <script defer src="/css/all.js"></script>
+
+<i class="fas  fa-question-circle "></i>
+ <em>Question of the Day</em>: Something you love/hate?</li>
+</ul>
+<p>But inside tabs environment, this breaks the line:</p>
+
+
+
+
+<div class="book-tabs"><input type="radio" class="hidden" name="tabs-Week-One" id="tabs-Week-One-0" checked="checked" />
+  <label for="tabs-Week-One-0">9.14</label>
+  <div class="book-tabs-content markdown-inner"><h3 id="course-orientation">Course orientation</h3>
+<ul>
+<li>Item one</li>
+<li>Item two</li>
+<li></li>
+</ul>
+<p><i class="fas  fa-question-circle "></i>
+This is a test.</div></div>
+
 </article>
  
       
@@ -337,6 +340,13 @@ https://github.com/alex-shpak/hugo-book
 
 
 
+
+  <div>
+    <a class="flex align-center" href="https://github.com/stockphrase/no-silo/edit/main//content/courses/writing-2/test.md" target="_blank" rel="noopener">
+      <img src="/svg/edit.svg" class="book-icon" alt="Edit" />
+      <span>Edit this page</span>
+    </a>
+  </div>
 
 </div>
 
@@ -354,29 +364,7 @@ https://github.com/alex-shpak/hugo-book
     
     <aside class="book-toc">
       
-  <nav>
-  <ul>
-  
-    
-    <li class="book-section-flat">
-      <strong>Categories</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
-    
-    <li class="book-section-flat">
-      <strong>Tags</strong>
-      <ul>
-      
-      </ul>
-    </li>
-    
-  
-  </ul>
-</nav>
+  <nav id="TableOfContents"></nav>
 
  
     </aside>

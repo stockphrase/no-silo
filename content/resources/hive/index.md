@@ -10,14 +10,15 @@ title: "+ Hive"
  
 # What is Hive?
 
-[**Hive**](https://canvas.dartmouth.edu) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The "[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)" is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
+[**Hive**](https://dartmouth.enterprise.slack.com/) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The "[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)" is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
 
+Hive is a Slack workstation; you will all receive an invitation to join the workstation at the beginning of the term.
 
 ## How to contribute
 
-You might contribute to the Hive by doing some of the following tasks:
+You might contribute to Hive by doing some of the following tasks:
 
-- Help create a simplified version of the text's argumentative structure by presenting an ordered list of claims, reasons, and evidence. 
+- Help create a simplified version of the text's argumentative structure by presenting an ordered list of claims, reasons, and evidence in the Google Doc associated with each reading. 
 
 - Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
 
@@ -29,13 +30,17 @@ You might contribute to the Hive by doing some of the following tasks:
 
 - Constructively question, respond, or correct the ideas or work of another student.
 
+<!--
+
 ## Cite your work
 
 Although I don't imagine honeybees do this, I ask you to cite your individual contributions as you add additional cells to the `Hive's` honeycomb. You may do this by creating a tag based on your initials. For example, I will be [@AT](). As you contribute ideas, questions, observations, or flag key portions of the text's argument, don't forget to credit yourself for your work. This will help us later, in case we'd like to thank you, discuss your idea, or cite you in our own writing.
 
+--->
+
 ## Example page
 
-Here is a mockup of a page in the Hive dedicated to our first reading. It might resemble the following at an early stage of development:
+Inside the Hive workstation, you will find links to a Google Doc dedicated to each of our readings. These documents may be used to take detailed notes on the reading. Here is a mockup of a page in the Hive dedicated to our first reading. It might resemble the following at an early stage of development:
 
 #
 
@@ -52,7 +57,7 @@ Here is a mockup of a page in the Hive dedicated to our first reading. It might 
 
 ### Argument outline
 
-**Thesis:** ...
+**Thesis:** Baker's central argument is that . . .
 - Claim 1.
 - Claim 2.
 - Claim 3.

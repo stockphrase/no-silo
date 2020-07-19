@@ -5,7 +5,7 @@ bookToC: false
 
 ## Contact
 
-{{< fa laptop-medical >}} [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09) | {{< fa envelope >}} [Email](mailto:alan.c.taylor@dartmouth.edu) |{{< fa key >}} [PGP](/pgp/Alan.c.Taylor.asc) 
+{{< fa laptop-medical >}} [Zoom] | {{< fa envelope >}} [Email](mailto:alan.c.taylor@dartmouth.edu) |{{< fa key >}} [PGP](/pgp/Alan.c.Taylor.asc) 
 
 {{< fa fingerprint >}} PGP Fingerprint:
 
@@ -21,7 +21,7 @@ bookToC: false
 
 {{< fa clock >}} TBA and by appointment.
 
-Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held via [Zoom](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09).
+Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held via [Zoom]().
 
 ## Map
 

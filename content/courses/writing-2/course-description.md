@@ -43,20 +43,24 @@ type: docs
 
 #### List of workshops
 
+- [ ] [Annotation & critical analysis](/courses/workshops/annotation) 
 - [ ] [Argument analysis](/courses/workshops/argument-analysis) 
 - [ ] [Argument summary](/courses/workshops/argument-summary) 
 - [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
 - [ ] Argument response 
+- [ ] [MLA documentation](/courses/workshops/documentation)
+- [ ] [Altering sources](/courses/workshops/altering-sources)
+- [ ] [Sentence variety](/courses/workshops/sentence-variety)
 - [ ] Rhetorical analysis 
 - [ ] Considering audience
-- [ ] Annotation & critical analysis
 - [ ] Signal phrases
-- [ ] [MLA documentation](/courses/workshops/mla-documentation)
 
 
 ---
 
 - [ ] [Peer Review](/courses/workshops/peer-review)
+
+
 
 
 {{< /tab >}}

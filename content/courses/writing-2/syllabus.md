@@ -50,6 +50,15 @@ significant amount of time learning how to use our library effectively.
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
 - Other course readings may be downloaded from [Canvas](https://canvas.dartmouth.edu)
 
+## Important Links
+
+| Link       | Purpose         
+|:------------- |:-------------
+|[No Silo](https://no-silo.com) | Course website, syllabus, assignment prompts, the [Open Handbook](https://no-silo.com/resources/open-handbook).
+|[Canvas](https://canvas.dartmouth.edu) | Find the course readings, submit assignments, contact others.
+|[Hive](https://dartmouth.enterprise.slack.com/) | A Slack workstation for sharing notes, ideas, questions.
+
+
 ## Academic Honesty
 
 
@@ -93,34 +102,21 @@ will be explained in greater detail throughout the course of the term.
 
 ## Reading, Thinking, Discussing, Reflecting, Writing
 
-
-Each week of this course follows a relatively predictable pattern.
-Mondays and Wednesdays are discussion days, where we commonly examine a
-reading together in class; Fridays are workshop days, where we learn and
-practice certain critical skills that are used in academic writing and
-conversations. Here is a list of the typical assignments and activities
-that we will do each week:
+Here is a list of the typical assignments and activities that we will do each week:
 
 - Before we meet to discuss a reading as a class, each of you will carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
--   As you read, I ask that you [`annotate`](/resources/open-handbook/chapter-1/) the text---that is, mark up
+-   As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up
     the text by adding meaningful symbols, marginal notes, and questions
     on the document itself. Bring this annotated copy of the reading
     with you to class to help you engage in the group discussion and
-    analysis.
+    analysis. *This requires that you print out the text before you begin reading it.*
 
--   After annotating the text, take [`critical notes`](/resources/open-handbook/chapter-2/) on it. These
-    notes will be valuable to you later, when you write your essays.
+-   After annotating the text, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
--   After annotating and taking notes, post a `critical response` to
-    the text on the discussion forum in
-    [Canvas](https://canvas.dartmouth.edu). Attach your critical notes
-    to the response post you submit in Canvas.
+-   After annotating and taking notes, contribute to [Hive](/resources/hive), our open-source repository of notes, ideas, and questions about our course readings.
 
--   Finally, write a `reflective journal entry` each week that catalogs your thoughts and ideas for the week.
-
-The following four numbered sections explain each of these assignments
-in more detail:
+The following three numbered sections explain each of these assignments in more detail:
 
 ### 1) Annotating Texts
 
@@ -164,80 +160,27 @@ the process of reading.
     Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf).
 
 
-### 3) Reading Response Posts
+### 3) Contribute to Hive
 
 
-Before we meet to discuss a new course text, write a critical response
-and post it to our online discussion forum in
-[Canvas](https://canvas.dartmouth.edu). The post should discuss ideas,
-arguments, or questions that arise from the reading(s). These are
-writing and thinking exercises, not polished essays; however, I do
-expect that your posts will grapple with the readings in an intelligent
-way and demonstrate a great deal of thought and care. Here are some
-principles to consider as you craft your posts:
+Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The “hive mind” is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
 
--   **Good posts do not merely summarize**; rather, they should seek to
-    *evaluate* and *engage* the writer's claims or ideas. Use your posts
-    to try to come to grips with the reading's ideas (or some aspect of
-    them).
+You might contribute to Hive by doing some of the following tasks:
 
--   **Good posts may seek to take issue with some of the thinking put
-    forth in the reading**. However, a good post doesn't just say "I
-    agree with X" or "I disagree with Y." Instead, *explicit reasons
-    are stated* and *explanations are made* that challenge or support
-    the writer's ideas. As you will discover, part of this class
-    involves learning to take responsibility for your claims and
-    arguments. This can only be done by providing reasons for the views
-    you hold.
-
--   **Good posts might alternatively attempt to forge a connection with
-    another reading by demonstrating a relationship between the ideas or
-    arguments involved**. For example, how might Author A respond to
-    Author B? How do their views compare? Can their views be reconciled?
-    Be specific. Show evidence.
-
--   **Good posts may ask questions or express confusion**. Ignorance or
-    confusion is not something to be feared. As Henry David Thoreau
-    [once argued](https://www.gutenberg.org/files/1022/1022-h/1022-h.htm),
-    ignorance is often more useful than positive knowledge: confusion
-    generates questions; questions inspire inquiry; inquiry produces
-    knowledge and more interesting questions. Although you are free to
-    pose questions in your posts, you should also make good efforts to
-    answer them. Questions exist to drive us toward answers, not leave
-    us spinning our wheels.
-
--   **Good posts are not sloppy and demonstrate a high degree of care**.
-
--   **Good posts avoid narcissism**. Don't make everything about you or
-    something that happened to you. While you will of course draw on
-    your own experiences, your focus should be on the text(s).
-
--   **Good posts are not derivative**. By this I mean that your post
-    should be original and not a parasite clinging to the work of other
-    students. Demand that everyone contribute their unique and
-    individual perspective to our discourse community. Posts that
-    clearly derive their very lifeblood from other posts should be met
-    with hostility by the class. One way to avoid this problem is to
-    post your response before reading the work of others. This does not
-    mean that you should avoid responding to the thoughts of your
-    colleagues. You should feel free to disagree or question the ideas
-    of others (including your professor). This behavior is actually
-    healthy for our discourse community.
+>- Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
+>
+>- Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
+>
+>- Define difficult vocabulary.
+>
+>- Quote a portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
+>
+>- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
+>
+>- Constructively question, respond, or correct the ideas or work of another student.
 
 
-### 4) End-of-Week Journal Reflection
 
-
-Create an electronic document for use as a journal. By Friday each week,
-compose a reflective post in that document that looks back over the
-week's reading and discussions. What is your big takeaway for this week?
-What was the most meaningful thing you heard, thought, or read? *It is
-perfectly fine if your entry deals with things other than this course*.
-Write as much as you like, but submit at least a half a page. We'll
-often talk about these on Fridays and I may periodically ask to you to
-turn them in.
-
-<!---
 ## Typical Weekly Workflow and Checklist
 
 
@@ -250,39 +193,10 @@ turn them in.
 
 - [ ] Practice deep note-taking. Reduce the argument to its essentials. Add your own thoughts/observations/questions.
 
-- [ ] On the night before a new reading is due to be discussed, post a reading response to [Canvas](https://canvas.dartmouth.edu) and attach your critical notes file to it.
+- [ ] After doing the above, contribute your thoughts, ideas, and questions to [Hive](https://dartmouth.enterprise.slack.com).
 
 - [ ] Before class on Friday, write a reflective journal entry that takes stock of the week.
 
-## ePortfolios
-
-
-A large [body of academic
-research](http://www.opensourcewriting.org/opensourcewriting/wp-content/uploads/ePortfolios.pdf)
-indicates that students who curate their academic performances over time
-and periodically revisit them experience measurable benefits in learning
-and development. For this reason, the
-[DartWrite](https://writing-speech.dartmouth.edu/dartwrite) program
-provides every incoming student with a WordPress blog for use as an
-ePortfolio. This portfolio is yours. You own it. You may design it in
-any way you choose. You may post anything you like thereyour writing,
-photography, reflections, whatever. We will talk more throughout the
-term about these ePortfolios and how they may be used. To access your
-ePortfolio, visit the login page at
-[journeys.dartmouth.edu](https://journeys.dartmouth.edu/). Use your
-NetID credentials to log in.
-
-
-
-## Computer Policy
-
-
-I ask that you `do not use laptops or tablets` in class to take notes
-or reference the course readings. If you require some kind of
-technological accommodation that runs counter to this policy, please
-discuss this with me as soon as possible.
-
---->
 
 ## Help With Your Writing
 
@@ -325,74 +239,128 @@ The following assignments comprise your grade for the Fall term:
 
 ## Schedule of Readings and Assignments
 
-## Week One
 
-|Date   | Readings                 | Assignments / Questions                  | Due
-|:------|:-----------|:------------|:---
-|9.16   |           |Introductions, course objectives, questions. |
-|9.18   |[*Open-Handbook Ch 1*](/resources/open-handbook/chapter-1), [*Open-Handbook Ch. 2*](/resources/open-handbook/chapter-2)| *What is education?*  | [In-class annotation exercise]().
-|9.20   |[OH  3](/resources/open-handbook/chapter-3)    | | 
+{{< details "Week One" >}}
 
+# 
 
-## Week One
+---
 
-#### M 9.14 / Course orientation
+### Monday, 9.14 
 
-{{< fa question-circle >}} Question of the day
-- Hatin' on Covid-19
+---
+
+#### ``+ In-class work``
+
+- Question of the day
 - Review: syllabus, course policies, websites
-- Questions
+- Time for questions.
 
-#### W 9.16 / What is education?
+#### ``+ Assignments``
 
-{{< fa question-circle >}} Question of the day
-- {{< fa bullhorn >}} [Discussion](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09): What is education? What is its purpose?
+- *What is education? What is its purpose?* Do some thinking and note-taking on these
+questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
-#### Readings
-- {{< fa folder-open >}}*Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
-- {{< fa folder-open >}}*Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
+---
 
+### Wednesday, 9.16
 
+---
 
+#### `+ Readings`
 
+- *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
+- *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
 
-{{< tabs "Week-One" >}}
-{{< tab "9.14" >}}
+#### ``+ In-class work``
+- Question of the day
+- Discuss readings
+- [Annotation Workshop](/courses/workshops/annotation)
 
-### Course orientation
+#### `+ Discussion`
 
-- *Question of the Day*: Something you love/hate? 
-- Hatin' on Covid-19
-- Review: syllabus, course policies, online content
-- Questions
+- *What is education? What is its purpose?*
 
-{{< /tab >}}
+#### `+ Assignments`
 
-{{< tab "9.16" >}}
+{{< fa bullseye >}} [Essay 1.0](https://canvas.dartmouth.edu) View assignment on Canvas.
 
-- [Discussion](https://dartmouth.zoom.us/j/3365639545?pwd=L0JsOU9xcHZPSE1LYjBQWnduckZEdz09): What is education? What is its purpose?
+---
 
-#### Readings
-- *Read*: *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
-- *Read*: *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
+### Friday, 9.18 
 
+---
 
+#### `+ Readings`
+- *Open Handbook*, ["Joy of Reuse"](/resources/open-handbook/chapter-4)
 
-{{< /tab >}}
+#### ``+ In-class work``
 
-{{< tab "9.18" >}}
+- [Peer Review](/courses/workshops/peer-review/) of essay drafts.
 
-Blah blah filler stuff.
+#### `+ Due`
+{{< fa certificate >}} [Essay 1.0](https://canvas.dartmouth.edu)  Submit draft of "What is education?" essay to Canvas.
 
-* [Assignment 1]()
-* [Assignment 2]()
-* [Question of the Day]()
-{{< /tab >}}
-
-{{< tab "📎️ Due" >}}
-
-* Essay One: Turn in to Canvas
+{{< /details >}}
 
 
 
-{{< /tab >}}
+{{< details "Week Two" >}}
+#
+
+### Monday, 9.21
+
+---
+
+
+
+### Wednesday, 9.23
+
+---
+
+### Friday, 9.25
+
+----
+
+- Peer Review of Essay over weekend.
+
+M Go over your partner's essay one-on-one.
+W Revise essay based on feedback.
+F Submit Essay 1.1 to Canvas.
+
+{{< /details >}}
+
+{{< details "Week Three" >}}
+
+- R Baker, Changes of Mind
+
+- M Meet to discuss reading.
+- W Meet to discuss reading.
+
+- F [Argument Analysis](/courses/workshops/argument-analysis) workshop.
+
+* Summary Workshop Assignment
+
+
+{{< /details >}}
+
+{{< details "Week Four" >}}
+{{< /details >}}
+
+{{< details "Week Five" >}}
+{{< /details >}}
+
+{{< details "Week Six" >}}
+{{< /details >}}
+
+{{< details "Week Seven" >}}
+{{< /details >}}
+
+{{< details "Week Eight" >}}
+{{< /details >}}
+
+{{< details "Week Nine" >}}
+{{< /details >}}
+
+
+
