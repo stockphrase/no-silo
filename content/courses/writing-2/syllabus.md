@@ -283,7 +283,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Assignments`
 
-{{< fa bullseye >}} [Essay 1.0](https://canvas.dartmouth.edu) View assignment on Canvas.
+{{< fa bullseye >}} [Essay 1.0](/courses/writing-2/essay-1). View the assignment prompt.
 
 ---
 
@@ -361,6 +361,5 @@ F Submit Essay 1.1 to Canvas.
 
 {{< details "Week Nine" >}}
 {{< /details >}}
-
 
 
