@@ -216,11 +216,11 @@ quotations. For example:
 
 {{< mla-ref >}}
 
-San, Rathanak. <mark>*Escaping Vietnam*</mark>. Peach Publishing, 1988.
+San, Rathanak. <span class="highlight">*Escaping Vietnam*</span>. Peach Publishing, 1988.
 
-Taylor, James. <mark>"The Indian Matter of Charles Brockden Brown's Writings."</mark> *American Literature*, vol. 45, no. 6, 1998, pp. 432-45.
+Taylor, James. <span class="highlight">"The Indian Matter of Charles Brockden Brown's Writings."</span> *American Literature*, vol. 45, no. 6, 1998, pp. 432-45.
 
-<mark>"Say My Name."</mark> *Breaking Bad*, created by Vince Gilligan, performance by Brian Cranston, season 5, episode 7, AMC, 2012.
+<span class="highlight">"Say My Name."</span> *Breaking Bad*, created by Vince Gilligan, performance by Brian Cranston, season 5, episode 7, AMC, 2012.
 
 {{< /mla-ref >}}
 
@@ -255,9 +255,9 @@ and a work in a collection of essays:
 
 {{< mla-ref >}}
 
-Taylor, James. "The Indian Matter of Charles Brockden Brown's Writings." <mark>*American Literature*</mark>, vol. 45, no. 6, 1998, pp. 432-45.
+Taylor, James. "The Indian Matter of Charles Brockden Brown's Writings." <span class="highlight">*American Literature*</span>, vol. 45, no. 6, 1998, pp. 432-45.
 
-Cranston, William. "My Famous Donkey." <mark>*Short Stories of East Tennessee*</mark>, edited by Jax Ridley, East Tennessee State P, 2011, pp. 77-90.
+Cranston, William. "My Famous Donkey." <span class="highlight">*Short Stories of East Tennessee*</span>, edited by Jax Ridley, East Tennessee State P, 2011, pp. 77-90.
 
 {{< /mla-ref >}}
 
@@ -265,7 +265,7 @@ Some sources have multiple containers. This is often true for electronic sources
 
 {{< mla-ref >}}
 
-Taylor, James. "The Indian Matter of Charles Brockden Brown's Writings." <mark>*American Literature*</mark>, vol. 45, no. 6, 1998, pp. 432-45. <mark>*JSTOR*</mark>, www.jstor.org/stable/8759038475.
+Taylor, James. "The Indian Matter of Charles Brockden Brown's Writings." <span class="highlight">*American Literature*</span>, vol. 45, no. 6, 1998, pp. 432-45. <span class="highlight">*JSTOR*</span>, www.jstor.org/stable/8759038475.
 
 {{< /mla-ref >}}
 
@@ -307,13 +307,13 @@ illustrated below.
 
 {{< mla-ref >}}
 
-Anderson, Wes. *Rushmore*. 1998. Performance by Bill Murray and Jason Schwartzman, <mark>director's cut</mark>, Buena Vista International, 2017.
+Anderson, Wes. *Rushmore*. 1998. Performance by Bill Murray and Jason Schwartzman, <span class="highlight">director's cut</span>, Buena Vista International, 2017.
 
-*The Bible*. <mark>Authorized King James Version</mark>, Oxford UP, 1998.
+*The Bible*. <span class="highlight">Authorized King James Version</span>, Oxford UP, 1998.
 
-David, Gray. *Blister in the Sun: A Day in the Life of an Aging Rock Star*. <mark>Revised ed.</mark>, Primer Publishing, 1993.
+David, Gray. *Blister in the Sun: A Day in the Life of an Aging Rock Star*. <span class="highlight">Revised ed.</span>, Primer Publishing, 1993.
 
-Smith, John. *Raising Arizona*. <mark>3rd ed.</mark>, Primer Publishing, 1993.
+Smith, John. *Raising Arizona*. <span class="highlight">3rd ed.</span>, Primer Publishing, 1993.
 
 {{< /mla-ref >}}
 
@@ -336,7 +336,7 @@ Journal articles are often collected together in volumes and numbered issues:
 
 
 {{< mla-ref >}}
-Taylor, James. "The Indian Matter of Charles Brockden Brown's Writings." *American Literature*, <mark>vol. 45, no. 6</mark>, 1998, pp. 432-45.
+Taylor, James. "The Indian Matter of Charles Brockden Brown's Writings." *American Literature*, <span class="highlight">vol. 45, no. 6</span>, 1998, pp. 432-45.
 {{< /mla-ref >}}
 
 
@@ -344,7 +344,7 @@ Some journals do not collect issues into numbered volumes; instead, they only pu
 
 
 {{< mla-ref >}}
-Clampers, Smitty. "Genocide in South America." *Journal of Violence*, <mark>no. 7</mark>, 1990, pp. 221-75.
+Clampers, Smitty. "Genocide in South America." *Journal of Violence*, <span class="highlight">no. 7</span>, 1990, pp. 221-75.
 {{< /mla-ref >}}
 
 
@@ -352,7 +352,7 @@ When books are too large to be published as a single text, they are organized in
 
 
 {{< mla-ref >}}
-Smith, Jeb. *A History of American Serial Killers*. <mark>Vol. 6</mark>, Samford UP, 2012.
+Smith, Jeb. *A History of American Serial Killers*. <span class="highlight">Vol. 6</span>, Samford UP, 2012.
 {{< /mla-ref >}}
 
 ---
@@ -366,7 +366,7 @@ which will be the first few pages of the text:
 
 
 {{< mla-ref >}}
-Lund, Frank. *The Gravest of Errors*. <mark>Indiana UP</mark>, 2012.
+Lund, Frank. *The Gravest of Errors*. <span class="highlight">Indiana UP</span>, 2012.
 {{< /mla-ref >}}
 
 
@@ -376,7 +376,7 @@ the bottom of a homepage or on "About" or "Contact" pages:
 
 
 {{< mla-ref >}}
-Teeter, Graham. "My Time Alone in Vietnam, a Travel Tale." *Narratives from the Edge*, <mark>Society of World Geographers and Adventurers</mark>, www.edgenarratives.com/teeter.
+Teeter, Graham. "My Time Alone in Vietnam, a Travel Tale." *Narratives from the Edge*, <span class="highlight">Society of World Geographers and Adventurers</span>, www.edgenarratives.com/teeter.
 {{< /mla-ref >}}
 
 
@@ -386,7 +386,7 @@ the primary responsibility for production:
 
 
 {{< mla-ref >}}
-Anderson, Wes. *Rushmore*. Performance by Bill Murray and Jason Schwartzman, <mark>Buena Vista International<mark>, 1998.
+Anderson, Wes. *Rushmore*. Performance by Bill Murray and Jason Schwartzman, <span class="highlight">Buena Vista International</span>, 1998.
 {{< /mla-ref >}}
 
 
@@ -435,7 +435,7 @@ The location of a source largely refers to a source's page number, or numbers. H
 
 
 {{< mla-ref >}}
-Tate, Justin. "Ordering Wine in Paris." *An American's Guide to French Cuisine*, U of Tennessee P, 1989, <mark>pp. 45-61</mark>.
+Tate, Justin. "Ordering Wine in Paris." *An American's Guide to French Cuisine*, U of Tennessee P, 1989, <span class="highlight">pp. 45-61</span>.
 {{< /mla-ref >}}
 
 
@@ -445,7 +445,7 @@ If the source is only on a single page, use `p.` rather than `pp.` to indicate t
 
 
 {{< mla-ref >}}
-Grisham, Wyatt. "A Soccer Mom's Lament." *Sports and Parenting*, 28 Oct. 2017, <mark>www.sandp.org/soccermomslament</mark>.
+Grisham, Wyatt. "A Soccer Mom's Lament." *Sports and Parenting*, 28 Oct. 2017, <span class="highlight">www.sandp.org/soccermomslament</span>.
 {{< /mla-ref >}}
 
 
@@ -454,7 +454,7 @@ URLs can be challenging to present because of their length or mutable nature. If
 
 - A material object or work of art:
 
-Wayins, Brill. *Lone Pine Tree*. 2001, <mark>Hood Museum of Art, Hanover</mark>.
+Wayins, Brill. *Lone Pine Tree*. 2001, <span class="highlight">Hood Museum of Art, Hanover</span>.
 
 **Note**: *In previous versions of the style, MLA required the city of the publisher to be included. This is no longer a requirement of the style.*
 

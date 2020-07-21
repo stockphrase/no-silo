@@ -40,12 +40,11 @@ time, often by building on what came before. *This is the joy of reuse*.
 
 ## Staying organized
 
-
 To retain your work and stay organized, you might use a simple paper
 system made up of manila folders. Or you might use a hierarchical folder
 system on your computer organized by class, project, or term.
 Alternatively, you might embrace a powerful bibliographic manager like
-[Zotero](https://www.zotero.org/). Whatever you choose, create a system for
+[Zotero](https://www.zotero.org/). Or you could get really nuts and create an actual database for storing your stuff. Whatever you choose, create a system for
 staying organized and stick with it.
 
 ## A poor file-saving strategy
@@ -96,7 +95,7 @@ class, or project. There are pluses and minuses to any organizational
 schema, but changing things up later is difficult, so choose wisely.
 
 Perhaps the most critical step in the construction of your scholarly
-archive is to adopt a **strict naming convention** for your folders and
+archive is to adopt a strict `naming convention` for your folders and
 files. Keep in mind sociologist Kieran Healy's [helpful
 advice](https://kieranhealy.org/files/papers/plain-person-text.pdf) that
 a "file or folder should always be able to tell you what it is" (7)
@@ -112,7 +111,7 @@ we might revise the previous filing strategy like this:
     ├── <font color="#859900"><b>Courses</b></font>
     │   ├── <font color="#859900"><b>CS1-F20</b></font>
     │   │   └── hack-dartmouth.py
-    │   └── <font color="#859900"><b>Writing23-F20</b></font>
+    │   └── <font color="#859900"><b>Writing2-F20</b></font>
     │       ├── essay1-draft1-090720.docx
     │       ├── essay1-draft2-91520.docx
     │       ├── notes-Freire-110520.docx
@@ -133,7 +132,8 @@ we might revise the previous filing strategy like this:
 
 Your system will obviously become far more complex than the simplified
 example presented above. You might, for example, want to create
-subfolders within a class to further organize your files. However, the
+subfolders within a class to further organize your files. Or you might elect to
+organize your folders by year and term. Whatever you decide, the
 key features of a good filing system are detectable here: 1) there is a
 logical structure to the organization, using course names and file types
 to determine the names of the folders and 2) the naming convention for
@@ -339,10 +339,10 @@ own initiative; instead, you should embrace some kind of [regular,
 automated system](https://www.jwz.org/blog/2007/09/psa-backups/) to
 ensure your work will survive any tragedy.
 
--   At some point in the future you will boot up your laptop and it will
+{{< fa skull-crossbones >}} At some point in the future you will boot up your laptop and it will
     begin smoking, or be infected by ransomware, or display the
     [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death). You will
     have no backups. As you cry salty tears you will remember reading
     these words and not doing anything about it.
     
-    ``I told you so``.
+**I told you so.**

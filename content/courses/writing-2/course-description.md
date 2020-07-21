@@ -20,16 +20,17 @@ type: docs
 {{< tab "Materials" >}} 
 
 
-- [Syllabus](/docs/2019F.pdf) 
+- [Syllabus](/courses/writing-2/wr2-syllabus) 
 - [Course Readings](https://canvas.dartmouth.edu)
 - [*The Open Handbook*](/resources/open-handbook/)
+
 
  {{< /tab >}}
 
 {{< tab "Assignments" >}} 
 
 
-- [ ] [Essay 1.0]()
+- [ ] [Essay 1.0](/courses/writing-2/essay-1)
 - [ ] [Essay 2.0]()
 - [ ] [Essay 3.0]()
 

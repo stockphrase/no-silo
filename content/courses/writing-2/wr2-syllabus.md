@@ -6,7 +6,8 @@ bookHidden: true
 title: "Writing 2: Syllabus"
 ---
 
-<!--
+
+<!---
 {{< hint info >}}
 
 **Obligatory COVID-19 Message:**
@@ -19,16 +20,11 @@ Use as required.
 
 ---
 
-{{< button href="https://vimeo.com/320228756" >}}Rage Button (NSFW){{< /button >}} --- {{< button href="https://www.youtube.com/watch?v=nkkJgdiR8IA" >}}Soothe Button{{< /button >}} --- {{< button href="https://youtu.be/HxM8Eb_IoFY" >}}Therapy Button{{< /button >}} --- {{< button href="https://www.youtube.com/watch?v=W_aN81SBI3A" >}}Prof's Current Jam{{< /button >}}
-
-# TODO
-
-- Get readings w/ embedded fonts: Baker, Percy, Freire.
+{{< button href="https://vimeo.com/320228756" >}}Rage Button (NSFW){{< /button >}}  {{< button href="https://www.youtube.com/watch?v=nkkJgdiR8IA" >}}Soothe Button{{< /button >}} {{< button href="https://youtu.be/HxM8Eb_IoFY" >}}Therapy Button{{< /button >}}  {{< button href="https://www.youtube.com/watch?v=W_aN81SBI3A" >}}Prof's Current Jam{{< /button >}}
 
 --->
 
-
-[<div style="text-align:center">{{< figure src="/img/HazClass.jpg" title="Meet Your Professor" width=400 >}}</div>](/about)
+[<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about)
 
 # Writing 2
 
@@ -56,7 +52,7 @@ significant amount of time learning how to use our library effectively.
 |:------------- |:-------------
 |[No Silo](https://no-silo.com) | Course website, syllabus, assignment prompts, the [Open Handbook](https://no-silo.com/resources/open-handbook).
 |[Canvas](https://canvas.dartmouth.edu) | Find the course readings, submit assignments, contact others.
-|[Hive](https://dartmouth.enterprise.slack.com/) | A Slack workstation for sharing notes, ideas, questions.
+|[Hive](https://dartmouth.enterprise.slack.com/) | A shared Google drive for collaborative work.
 
 
 ## Academic Honesty
@@ -104,7 +100,7 @@ will be explained in greater detail throughout the course of the term.
 
 Here is a list of the typical assignments and activities that we will do each week:
 
-- Before we meet to discuss a reading as a class, each of you will carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
+- Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
 -   As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up
     the text by adding meaningful symbols, marginal notes, and questions
@@ -114,11 +110,11 @@ Here is a list of the typical assignments and activities that we will do each we
 
 -   After annotating the text, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
--   After annotating and taking notes, contribute to [Hive](/resources/hive), our open-source repository of notes, ideas, and questions about our course readings.
+-   After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
 The following three numbered sections explain each of these assignments in more detail:
 
-### 1) Annotating Texts
+### I. Annotating Texts
 
 
 Rather than use a laptop or tablet to read our course readings, *I ask
@@ -138,7 +134,7 @@ in college, the ability to rigorously annotate texts is perhaps the most
 helpful and important skill you can develop. Further advice and caveats
 about annotation may be found in the [*Open Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf).
 
-### 2) Critical Reading Notes
+### II. Critical Reading Notes
 
 
 Create an electronic document for composing critical notes. Take
@@ -160,7 +156,7 @@ the process of reading.
     Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf).
 
 
-### 3) Contribute to Hive
+### III. Contribute to Hive
 
 
 Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The “hive mind” is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
@@ -179,7 +175,7 @@ You might contribute to Hive by doing some of the following tasks:
 >
 >- Constructively question, respond, or correct the ideas or work of another student.
 
-
+<!--
 
 ## Typical Weekly Workflow and Checklist
 
@@ -197,6 +193,7 @@ You might contribute to Hive by doing some of the following tasks:
 
 - [ ] Before class on Friday, write a reflective journal entry that takes stock of the week.
 
+--->
 
 ## Help With Your Writing
 
@@ -233,7 +230,7 @@ The following assignments comprise your grade for the Fall term:
 | Essay Two     | 30%      
 | Essay Three   | 30%
 | Workshops     | 10%
-| Online Posts  | 10%     
+| Participation  | 10%     
 
 
 
@@ -246,7 +243,7 @@ The following assignments comprise your grade for the Fall term:
 
 ---
 
-### Monday, 9.14 
+### // Monday, 9.14 
 
 ---
 
@@ -263,7 +260,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ---
 
-### Wednesday, 9.16
+### // Wednesday, 9.16
 
 ---
 
@@ -273,33 +270,31 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
 
 #### ``+ In-class work``
-- Question of the day
+- [Question of the day](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
 - Discuss readings
 - [Annotation Workshop](/courses/workshops/annotation)
-
-#### `+ Discussion`
-
-- *What is education? What is its purpose?*
+- Discussion: *What is education? What is its purpose?*
 
 #### `+ Assignments`
 
-{{< fa bullseye >}} [Essay 1.0](/courses/writing-2/essay-1). View the assignment prompt.
+- <i class="fa fa-calendar-alt"></i> [Essay 1.0](/courses/writing-2/essay-1) assignment
 
 ---
 
-### Friday, 9.18 
+### // Friday, 9.18 
 
 ---
 
 #### `+ Readings`
-- *Open Handbook*, ["Joy of Reuse"](/resources/open-handbook/chapter-4)
+- *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
 #### ``+ In-class work``
 
-- [Peer Review](/courses/workshops/peer-review/) of essay drafts.
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will use Canvas to connect you with another student and electronically exchange essays.
 
 #### `+ Due`
-{{< fa certificate >}} [Essay 1.0](https://canvas.dartmouth.edu)  Submit draft of "What is education?" essay to Canvas.
+
+- <i class="fa fa-bullseye"></i> **Essay 1.0 due**. Make any final revisions after peer review and then [submit your first draft to Canvas by 10pm](https//canvas.dartmouth.edu). I will comment on these essays and return them in a week's time. You will revise again afterward for a grade. 
 
 {{< /details >}}
 
@@ -308,43 +303,101 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 {{< details "Week Two" >}}
 #
 
-### Monday, 9.21
+### // Monday, 9.21
 
 ---
 
+#### `+ Readings`
+
+- Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
+    - [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing)
+
+#### ``+ In-class work``
+
+- Question of the day
+- Discuss reading and Hive submissions
 
 
-### Wednesday, 9.23
+### // Wednesday, 9.23
 
 ---
 
-### Friday, 9.25
+#### ``+ In-class work``
+
+- Question of the day
+- Discuss Baker and Hive submissions
+
+
+### // Friday, 9.25
 
 ----
 
-- Peer Review of Essay over weekend.
+#### `+ Readings`
 
-M Go over your partner's essay one-on-one.
-W Revise essay based on feedback.
-F Submit Essay 1.1 to Canvas.
+- *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
+- *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
+
+#### ``+ In-class work``
+
+- Friday soapbox
+- <i class="fa fa-certificate"></i> [Argument analysis](/courses/workshops/argument-analysis) workshop
+
+#### `+ Assignments`
+- <i class="fa fa-calendar-alt"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
 
 {{< /details >}}
 
 {{< details "Week Three" >}}
+#
 
-- R Baker, Changes of Mind
+### // Monday, 9.28
 
-- M Meet to discuss reading.
-- W Meet to discuss reading.
+#### `+ Readings`
+- Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
+    - [Hive page](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing) for Percy reading
+    
+#### ``+ In-class work``
 
-- F [Argument Analysis](/courses/workshops/argument-analysis) workshop.
+- Question of the day
+- Discuss Percy reading
 
-* Summary Workshop Assignment
+### // Wednesday, 9.30
 
+#### ``+ In-class work``
+
+- Question of the day
+- Discuss Percy reading
+
+### // Friday, 10.2
+
+#### `+ Readings`
+
+- *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9)
+- *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla)
+
+#### `+ Assignments`
+
+
+#### `+ Due`
+
+- <i class="fa fa-bullseye"></i> [Argument summary](/courses/workshops/argument-summary/) workshop due
 
 {{< /details >}}
 
 {{< details "Week Four" >}}
+#
+
+#### `+ Readings`
+
+
+#### ``+ In-class work``
+
+- Question of the day
+
+
+#### `+ Assignments`
+#### `+ Due`
+
 {{< /details >}}
 
 {{< details "Week Five" >}}

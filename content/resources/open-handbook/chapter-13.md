@@ -30,13 +30,13 @@ Introductory words or clauses are usually set off with a comma:
 
 ### 2. Wrong word
 
-- >{{< fa times >}}  The workmen assembled at the <mark>cite</mark>.
+- >{{< fa times >}}  The workmen assembled at the <span class="highlight">cite</span>.
 
 - >{{< fa check >}}  The workmen assembled at the site.
 
 ---
 
-- >{{< fa times >}}  I have a bad case of <mark>ammonia</mark>.
+- >{{< fa times >}}  I have a bad case of <span class="highlight">ammonia</span>.
 
 - >{{< fa check >}}   I have a bad case of pneumonia.
 
@@ -64,7 +64,7 @@ Missing documentation for a quotation, summary, or paraphrase of another text ma
 
 ### 5. Spelling error
 
-- >{{< fa times >}}  I <mark>definately</mark> will be there.
+- >{{< fa times >}}  I <<span class="highlight">definately</span> will be there.
 
 - >{{< fa check >}}  I definitely will be there.
 
@@ -175,7 +175,7 @@ the people are seen as a single unit or a group of individuals:
 ### 13. Missing or misplaced possessive apostrophe
 
 
-- >{{< fa times >}} The Baker Hill farm stand is proud to offer <mark>it's</mark> vegetables for sale now.
+- >{{< fa times >}} The Baker Hill farm stand is proud to offer <span class="highlight">it's</span> vegetables for sale now.
 
 - >{{< fa check >}} The Baker Hill farm stand is proud to offer its vegetables for sale now.
 

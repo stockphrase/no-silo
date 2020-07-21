@@ -21,7 +21,7 @@ bookToC: false
 
 {{< fa clock >}} TBA and by appointment.
 
-Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held via [Zoom]().
+Due to the COVID-19 fiasco, my office hours for Fall 2020 will be held via Zoom.
 
 ## Map
 

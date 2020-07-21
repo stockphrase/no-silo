@@ -924,17 +924,7 @@ Reagan, John. "The Judo Champion Parent." *Parenthood Online*. The Parent Instit
 
 
 {{< tabs "online-reference" >}}
-{{< tab "Bibliography" >}} 
 
-<div style="text-align:center">Bibliography</div>
-
-{{< mla-ref >}}
-
-NA, see note.
-
-{{< /mla-ref >}}
-
-{{< /tab >}}
 
 {{< tab "Notes" >}} 
 
@@ -1093,7 +1083,7 @@ James, Brian. "The New War on Terror." *Slate*, June 20, 2012. Accessed November
 
 {{< mla-ref >}}
 
-Tate, Larry. "Spontaneous Order." *I Hate What You Just Said* (blog). February 11, 2011. Accessed May 12, 2013. http://www.ihatewhatyoujustsaid.com/2011/02/11/spontaneous-order/.
+Tate, Larry. "Spontaneous Order." *I Hate What You Just Said* (blog). February 11, 2011. Accessed May 12, 2013. http://www.ihwyjs.com/order/.
 
 {{< /mla-ref >}}
 
@@ -1105,7 +1095,7 @@ Tate, Larry. "Spontaneous Order." *I Hate What You Just Said* (blog). February 1
 
 {{< chi-note >}}
 
-12\. Larry Tate, "Spontaneous Order," *I Hate What You Just Said* blog, February 11, 2011, accessed May 12, 2013, http://www.ihatewhatyoujustsaid.com/2011/02/11/spontaneous-order/.
+12\. Larry Tate, "Spontaneous Order," *I Hate What You Just Said* blog, February 11, 2011, accessed May 12, 2013, http://www.ihwyjs.com/order/.
 
 {{< /chi-note >}}
 
@@ -1118,17 +1108,7 @@ Tate, Larry. "Spontaneous Order." *I Hate What You Just Said* (blog). February 1
 
 
 {{< tabs "email" >}}
-{{< tab "Bibliography" >}} 
 
-<div style="text-align:center">Bibliography</div>
-
-{{< mla-ref >}}
-
-NA, see note.
-
-{{< /mla-ref >}}
-
-{{< /tab >}}
 
 {{< tab "Notes" >}} 
 
