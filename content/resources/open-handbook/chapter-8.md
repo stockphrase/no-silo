@@ -99,17 +99,17 @@ Oct. 28, 2012
 
 <div style="text-align:center"> Origins of Taoism: A Fake Essay </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A number of scholarly views exist that attempt to explain the nature and origins of Taoist religious practices. <mark>In his book *The Tao Practice*, scholar Rico Burgerton argues</mark> that "Taoism emerged during a period
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A number of scholarly views exist that attempt to explain the nature and origins of Taoist religious practices. <span class="highlight">In his book *The Tao Practice*, scholar Rico Burgerton argues</span> that "Taoism emerged during a period
 of unprecedented struggle, deprivation, and suffering in the fourth
-century BCE" (89). <mark>This historical condition, he explains,</mark> resulted in religious and cultural practices and
+century BCE" (89). <span class="highlight">This historical condition, he explains,</span> resulted in religious and cultural practices and
 beliefs that valued asceticism and practiced detachment from desire
-(12). However, other historians disagree. <mark>In his "Up and Down of the Tao," Li Chang argues</mark> that Taoism as we know it
+(12). However, other historians disagree. <span class="highlight">In his "Up and Down of the Tao," Li Chang argues</span> that Taoism as we know it
 was largely a creation of the 17th-century, a time of relative
 prosperity, radical socio-political change, and modernization in China
-(5). <mark>According to this view</mark>, Taoist asceticism was actually a *rejection* of this tumultuous
+(5). <span class="highlight">According to this view</span>, Taoist asceticism was actually a *rejection* of this tumultuous
 cultural transformation---an expression of nostalgia for a simpler time
 in the ancient Chinese past (22). But which is the correct answer? Did
-Taoism emerge in a time of poverty or a time of plenty? <mark>In my view,</mark>
+Taoism emerge in a time of poverty or a time of plenty? <span class="highlight">In my view,</span>
 both views are problematic . . .
           <div class="edge-shadow"></div>
         </div>
@@ -124,7 +124,7 @@ borrowing with a citation. The paragraph concludes with the student transitionin
 
 We can represent this important tactic with the following formula:
 
-- **signal phrase + borrowed text/idea + citation**.
+- <span class="highlight">**signal phrase + borrowed text/idea + citation**.</span>
 
 
 # Quotation

@@ -339,7 +339,7 @@ own initiative; instead, you should embrace some kind of [regular,
 automated system](https://www.jwz.org/blog/2007/09/psa-backups/) to
 ensure your work will survive any tragedy.
 
-{{< fa skull-crossbones >}} At some point in the future you will boot up your laptop and it will
+> {{< fa bomb >}} At some point in the future you will boot up your laptop and it will
     begin smoking, or be infected by ransomware, or display the
     [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death). You will
     have no backups. As you cry salty tears you will remember reading

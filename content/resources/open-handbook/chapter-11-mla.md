@@ -61,7 +61,7 @@ Works Cited page, use the following rules:
 {{< /details >}}
 
 
-When a [`quotation`](/resources/open-handbook/chapter-8/) runs more than four typed lines, use a `block quote`. A block quote is a freestanding block of quoted words, set apart from the rest of the text. When formatting block quotes in MLA, use the following rules:
+When a [**quotation**](/resources/open-handbook/chapter-8/) runs more than four typed lines, use a `block quote`. A block quote is a freestanding block of quoted words, set apart from the rest of the text. When formatting block quotes in MLA, use the following rules:
 
 {{< details "MLA Block Quote Formatting" closed >}}
 
@@ -150,7 +150,6 @@ it provides a method for citing any type of source, even those that do not yet e
 
 The MLA core elements below are listed in the order they should appear in your own bibliography. The proper punctuation that should follow each element is also provided. Thus, you will begin the entry with the author(s) name, followed by a period. Then the title of the work will be provided, followed by a period. Then the title of the container, followed by a comma. And so on. If one of these core elements does not apply to your source, skip it and move to the next one until you have been through the entire list of elements. 
 
-* *Note that some sources will have more than one container*. If so, you will have to proceed through the second table listed below to complete your bibliographic entry:
 
 | Core Element   | Concluding Punctuation     
 |:----------|:-------------
@@ -164,7 +163,8 @@ The MLA core elements below are listed in the order they should appear in your o
 | Publication Date | ,
 | Location (pages, paragraphs URL or DOI)  | .
 
-- *Some sources have more than one "container." If so, continue to the next table to construct your bibliographic entry*:
+
+- <span class="highlight">*Note that some sources will have more than one container*.</span> If so, you will have to proceed through the second table listed below to complete your bibliographic entry:
 
 | Core Element   | Concluding Punctuation     
 |:----------|:-------------

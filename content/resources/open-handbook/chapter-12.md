@@ -707,12 +707,12 @@ for critically examining your sources:
 
 Now that you have some research materials in front of you, either at the
 library or at home, it's time to make them useful to you. Before placing
-source materials in your essay, [`take good notes`](/resources/open-handbook/chapter-2) by using [`summary`](/resources/open-handbook/chapter-8/),
-[`paraphrase`](/resources/open-handbook/chapter-8/), and judicious [`quotation`](/resources/open-handbook/chapter-8/) to take ownership of the
+source materials in your essay, [**take good notes**](/resources/open-handbook/chapter-2) by using [**summary**](/resources/open-handbook/chapter-8/),
+[**paraphrase**](/resources/open-handbook/chapter-8/), and judicious [**quotation**](/resources/open-handbook/chapter-8/) to take ownership of the
 source materials. Ensure that you cite appropriately and that your
 summaries and paraphrases use your own original language. This
 intermediary step before writing the essay saves you time and helps you
-avoid [`plagiarism`](/resources/open-handbook/chapter-10/).
+avoid [**plagiarism**](/resources/open-handbook/chapter-10/).
 
 ### Raid the bibliography
 
@@ -744,5 +744,5 @@ some very promising electronic alternatives. This bibliographic software
 can maintain a record of your sources, help you take notes, and even
 produce perfectly formatted bibliography pages for your essays.
 
-I recommend that you use [Zotero](http://zotero.org) if you are interested in an electronic reference manager. It is free, open-source, and integrates with our library. There are other options that cost money. For Mac users, there is [Bookends](http://www.sonnysoftware.com/). PC users may consider [Biblioscape](http://www.biblioscape.com).
+I recommend that you use [Zotero](http://zotero.org) if you are interested in an electronic reference manager. It is free, open-source, and integrates with our library well. There are other options that cost money. For Mac users, there is [Bookends](http://www.sonnysoftware.com/). PC users may consider [Biblioscape](http://www.biblioscape.com).
 

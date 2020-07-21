@@ -31,7 +31,7 @@ This is a running list of the academic keywords and internal links within this t
 | Paragraphs | [`C7`](/resources/open-handbook/chapter-7/)
 | Paraphrase | [`C8`](/resources/open-handbook/chapter-8/)
 | Patchwriting|[`C10`](/resources/open-handbook/chapter-7/)
-| Peer Review|[`link`]
+| Peer Review|[`WS`](/courses/workshops/peer-review/)
 | Plagiarism|[`C7`](/resources/open-handbook/chapter-7/)
 | Quotation|[`C8`](/resources/open-handbook/chapter-8)
 | Research|[`C12`](/resources/open-handbook/chapter-12/)

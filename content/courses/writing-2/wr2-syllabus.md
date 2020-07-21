@@ -50,7 +50,7 @@ significant amount of time learning how to use our library effectively.
 
 | Link       | Purpose         
 |:------------- |:-------------
-|[No Silo](https://no-silo.com) | Course website, syllabus, assignment prompts, the [Open Handbook](https://no-silo.com/resources/open-handbook).
+|[No Silo](https://no-silo.com) | Course website, syllabus, assignment prompts, the [*Open Handbook*](https://no-silo.com/resources/open-handbook).
 |[Canvas](https://canvas.dartmouth.edu) | Find the course readings, submit assignments, contact others.
 |[Hive](https://dartmouth.enterprise.slack.com/) | A shared Google drive for collaborative work.
 
@@ -83,8 +83,8 @@ theoretical analysis. The exact nature and objective of each assignment
 will be explained in greater detail throughout the course of the term.
 
 -   **Formatting**: During the fall term papers must be submitted in the
-    [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago
-    style](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
+    [**MLA style**](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [**Chicago
+    style**](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
 
 -   **Late Papers**: Late papers will receive *a full letter grade
     deduction* for each day late.
@@ -102,13 +102,13 @@ Here is a list of the typical assignments and activities that we will do each we
 
 - Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
--   As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up
+-   As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
     the text by adding meaningful symbols, marginal notes, and questions
     on the document itself. Bring this annotated copy of the reading
     with you to class to help you engage in the group discussion and
     analysis. *This requires that you print out the text before you begin reading it.*
 
--   After annotating the text, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
+-   After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
 -   After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
@@ -159,7 +159,9 @@ the process of reading.
 ### III. Contribute to Hive
 
 
-Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The “hive mind” is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
+Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
+
+Our objective for Hive is to explore meaning, discover argumentative structure, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “hive mind” is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
 You might contribute to Hive by doing some of the following tasks:
 
@@ -232,12 +234,21 @@ The following assignments comprise your grade for the Fall term:
 | Workshops     | 10%
 | Participation  | 10%     
 
+## Syllabus Symbol Legend
+
+| Symbol       | Meaning         
+| :-------------: |:-------------
+| [<i class="fa fa-calendar-alt">]()    | A new assignment          
+| [<i class="fa fa-wrench">]()      | Workshop assignment, in-class or for homework   
+| [<i class="fa fa-bullseye">]()    | Due date for an assignment
+| [<i class="fab fa-forumbee">]()     | Make a submission to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive) about a reading
+| [<i class="fa fa-code-branch">]()  | Peer work, in pairs or groups. 
 
 
 ## Schedule of Readings and Assignments
 
 
-{{< details "Week One" >}}
+{{< details "Week One" open >}}
 
 # 
 
@@ -272,8 +283,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 - [Question of the day](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
 - Discuss readings
-- [Annotation Workshop](/courses/workshops/annotation)
-- Discussion: *What is education? What is its purpose?*
+- <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation)
+- <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
 
 #### `+ Assignments`
 
@@ -300,7 +311,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 
 
-{{< details "Week Two" >}}
+{{< details "Week Two" open >}}
 #
 
 ### // Monday, 9.21
@@ -310,7 +321,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-    - [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing)
 
 #### ``+ In-class work``
 
@@ -340,21 +351,21 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 
 - Friday soapbox
-- <i class="fa fa-certificate"></i> [Argument analysis](/courses/workshops/argument-analysis) workshop
+- <i class="fa fa-wrench"></i> [Argument analysis](/courses/workshops/argument-analysis) workshop
 
 #### `+ Assignments`
-- <i class="fa fa-calendar-alt"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
+- <i class="fa fa-wrench"></i> <i class="fa fa-calendar-alt"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
 
 {{< /details >}}
 
-{{< details "Week Three" >}}
+{{< details "Week Three" open >}}
 #
 
 ### // Monday, 9.28
 
 #### `+ Readings`
 - Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
-    - [Hive page](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing) for Percy reading
+- <i class="fab fa-forumbee"></i> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
     
 #### ``+ In-class work``
 
@@ -377,6 +388,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Assignments`
 
+- <i class="fa fa-wrench"></i> [Altering sources](/courses/workshops/argument-summary/) workshop
 
 #### `+ Due`
 
@@ -411,6 +423,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Eight" >}}
 {{< /details >}}
+
 
 {{< details "Week Nine" >}}
 {{< /details >}}

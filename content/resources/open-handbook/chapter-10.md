@@ -89,7 +89,7 @@ unacceptable whether it occurs by mistake or design. Care must be taken
 when taking notes and typing quotations to avoid representing the words
 of other authors as your own:
 
->As we all know, <mark>when academic territories were parceled out in the early twentieth century, anthropology got the tellers of tales and history got the keepers of written records.</mark> This made historians <mark>assume that literacy, the modern state, and the commercial world had produced a different sort of creature entirely---humans less inclined to put myth over reality, more inclined to measure their beliefs by the standard of accuracy and practicality.</mark>
+>As we all know, <span class="highlight">when academic territories were parceled out in the early twentieth century, anthropology got the tellers of tales and history got the keepers of written records.</span> This made historians <span class="highlight">assume that literacy, the modern state, and the commercial world had produced a different sort of creature entirely---humans less inclined to put myth over reality, more inclined to measure their beliefs by the standard of accuracy and practicality.</span>
 
 - This passage fails to use quotation marks to indicate borrowed language.
 - It additionally fails to cite the source of the borrowed language.
@@ -102,7 +102,7 @@ note-taking or drafting process. Using patches of a source text is
 perfectly reasonable; however, make sure that quotation marks are used
 and citations are given:
 
-> When the <mark>academic territories were parceled out in the early 1900s</mark>, the disciplines <mark>diverged</mark>. This made the differences that human beings had with regard to literacy <mark>assume an undeserved significance</mark>. By <mark>overdrawing this disciplinary boundary</mark>, historians began to believe that the subjects they studied were <mark>less inclined to put myth over reality</mark> and more likely <mark>to measure their beliefs</mark> through the excellent standards of <mark>accuracy and practicality</mark> (Limerick 35).
+> When the <span class="highlight">academic territories were parceled out in the early 1900s</span>, the disciplines <span class="highlight">diverged</span>. This made the differences that human beings had with regard to literacy <span class="highlight">assume an undeserved significance</span>. By <span class="highlight">overdrawing this disciplinary boundary</span>, historians began to believe that the subjects they studied were <span class="highlight">less inclined to put myth over reality</span> and more likely <span class="highlight">to measure their beliefs</span> through the excellent standards of <span class="highlight">accuracy and practicality</span> (Limerick 35).
 
 - While this student does acknowledge the source she is borrowing from, she fails to enclose words and phrases that come directly from the text.
 
