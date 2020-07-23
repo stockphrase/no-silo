@@ -8,7 +8,9 @@ type: docs
 
 <div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
 
-# MLA Documentation
+# Working with Sources
+
+## Documentation, quotation, summary, paraphrase
 
 ---
 
@@ -24,6 +26,8 @@ Accurately documenting sources is a vital aspect of any process of inquiry. If y
 1. Use a signal phrase with the author’s name to introduce a quotation from this text and then cite according to MLA.
 2. Use a signal phrase *without* the author's name to introduce a quotation and then cite according to MLA. 
 3. Use a signal phrase with the author’s name, *summarize* this entire passage in your own words, and then cite according to MLA. Use no quotations. Think carefully about your audience: if they have not read this piece, how should you explain things to them so that they will understand?
-4. Summarize this entire passage in your own words without using the author’s name and then cite according to MLA. Briefly quote language or terms to give the reader a sense of the "flavor" of Baker's paragraph.Think carefully about your audience: if they have not read this piece, how should you explain things to them so that they will understand?
+4. *Paraphrase* this entire passage in your own words without using the author’s name and then cite according to MLA. Briefly quote language or terms to give the reader a sense of the "flavor" of Baker's paragraph.Think carefully about your audience: if they have not read this piece, how should you explain things to them so that they will understand?
 5. Quote from this passage using the MLA block quote format, then cite according to MLA.
+
+
 

@@ -26,7 +26,7 @@ Use as required.
 
 [<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about)
 
-# Writing 2
+# Writing 2: What is Education?
 
 ## Course Description
 
@@ -171,7 +171,7 @@ You might contribute to Hive by doing some of the following tasks:
 >
 >- Define difficult vocabulary.
 >
->- Quote a portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
+>- Flag a key portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
 >
 >- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
 >
@@ -210,7 +210,6 @@ to formal citation.
 
 ## Students With Disabilities
 
-
 All students are entitled to full access to this course, regardless of
 disability. If you have a disability and anticipate needing
 accommodations in this course, please contact me as soon as possible to
@@ -234,21 +233,22 @@ The following assignments comprise your grade for the Fall term:
 | Workshops     | 10%
 | Participation  | 10%     
 
-## Syllabus Symbol Legend
+## Symbol Legend
 
 | Symbol       | Meaning         
 | :-------------: |:-------------
-| [<i class="fa fa-calendar-alt">]()    | A new assignment          
-| [<i class="fa fa-wrench">]()      | Workshop assignment, in-class or for homework   
-| [<i class="fa fa-bullseye">]()    | Due date for an assignment
-| [<i class="fab fa-forumbee">]()     | Make a submission to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive) about a reading
-| [<i class="fa fa-code-branch">]()  | Peer work, in pairs or groups. 
+| [<i class="fa fa-calendar-alt">](/courses/writing-2/wr2-syllabus/#symbol-legend)    | A new major assignment          
+| [<i class="fa fa-wrench">](/courses/writing-2/wr2-syllabus/#symbol-legend)      | Workshop assignment
+| [<i class="fa fa-bullseye">](/courses/writing-2/wr2-syllabus/#symbol-legend)    | Assignment due
+| [<i class="fab fa-forumbee">](/courses/writing-2/wr2-syllabus/#symbol-legend)     | Contribute to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
+| [<i class="fa fa-code-branch">](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Peer work, in pairs or groups 
+| [<i class="fa fa-bullhorn"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | Group discussion via Zoom
 
 
 ## Schedule of Readings and Assignments
 
 
-{{< details "Week One" open >}}
+{{< details "Week One" >}}
 
 # 
 
@@ -281,8 +281,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
 
 #### ``+ In-class work``
-- [Question of the day](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
-- Discuss readings
+- <i class="fa fa-question-circle"></i> [Question of the day](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
+- <i class="fa fa-bullhorn"></i> Discuss readings
 - <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
 
@@ -301,6 +301,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
+- <i class="fa fa-box-open"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will use Canvas to connect you with another student and electronically exchange essays.
 
 #### `+ Due`
@@ -311,7 +312,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 
 
-{{< details "Week Two" open >}}
+{{< details "Week Two" >}}
 #
 
 ### // Monday, 9.21
@@ -321,7 +322,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing "After reading, annotating, and taking notes on the reading, post your ideas to the Hive. Read and engage the work of your peers.") 
+
 
 #### ``+ In-class work``
 
@@ -343,48 +345,45 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ----
 
-#### `+ Readings`
-
-- *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
-- *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
 
 #### ``+ In-class work``
 
-- Friday soapbox
+- <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-wrench"></i> [Argument analysis](/courses/workshops/argument-analysis) workshop
 
 #### `+ Assignments`
-- <i class="fa fa-wrench"></i> <i class="fa fa-calendar-alt"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
+- <i class="fa fa-wrench"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
 
 {{< /details >}}
 
-{{< details "Week Three" open >}}
+{{< details "Week Three" >}}
 #
 
 ### // Monday, 9.28
 
 #### `+ Readings`
-- Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
-    
+- *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
+- *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
+
+
 #### ``+ In-class work``
 
-- Question of the day
-- Discuss Percy reading
+- <i class="fa fa-wrench"></i> [Working with sources](/courses/workshops/working-sources/) workshop
+
 
 ### // Wednesday, 9.30
 
 #### ``+ In-class work``
 
-- Question of the day
-- Discuss Percy reading
+- <i class="fa fa-code-branch"></i> Peer review of [argument summary](/courses/workshops/argument-summary) workshop. We will break up into groups and exchange our summaries of the Baker essay with each other 
 
 ### // Friday, 10.2
 
 #### `+ Readings`
 
+- *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
 - *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9)
-- *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla)
+
 
 #### `+ Assignments`
 
@@ -393,39 +392,127 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Due`
 
 - <i class="fa fa-bullseye"></i> [Argument summary](/courses/workshops/argument-summary/) workshop due
+- <i class="fa fa-bullseye"></i> Essay 1 due. [Submit final draft to Canvas]()
 
 {{< /details >}}
 
-{{< details "Week Four" >}}
+{{< details "Week Four" open >}}
 #
 
+### // Monday, 10.5
+
 #### `+ Readings`
-
-
+- Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
+- <i class="fab fa-forumbee"></i> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
+    
 #### ``+ In-class work``
 
-- Question of the day
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading
 
 
 #### `+ Assignments`
+
 #### `+ Due`
+
+### // Wednesday, 10.7
+
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading
+
+### // Friday, 10.9
 
 {{< /details >}}
 
 {{< details "Week Five" >}}
+#
+
+### // Monday, 10.12 
+### // Wednesday, 10.14
+### // Friday, 10.16
+
+
+#### `+ Readings`
+
+- Paulo Freire, "The Banking Concept of Education"
+
+#### ``+ In-class work``
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-bullhorn"></i> Discuss Freire reading
+
+#### `+ Assignments`
+
+
+
+#### `+ Due`
+
+- <i class="fa fa-bullseye"></i> 
+- <i class="fa fa-bullseye"></i> 
+
+
 {{< /details >}}
 
 {{< details "Week Six" >}}
+#
+
+### // Monday, 
+### // Wednesday,
+### // Friday,
+
+#### ``+ In-class work``
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-wrench"></i> [Argument synthesis](/courses/workshops/argument-synthesis/) workshop
+
+
+#### `+ Readings`
+
+#### `+ Assignments`
+
+- <i class="fa fa-calendar-alt"></i> [Essay 2](/courses/writing-2/essay-2)
+
+#### `+ Due`
+
+- <i class="fa fa-bullseye"></i> 
+- <i class="fa fa-bullseye"></i> 
+
 {{< /details >}}
 
 {{< details "Week Seven" >}}
+#
+
+#### `+ Readings`
+
+- Wes Anderson, *Rushmore*
+
+#### `+ Assignments`
+
+#### `+ Due`
+
+- <i class="fa fa-bullseye"></i> 
+- <i class="fa fa-bullseye"></i> 
+
 {{< /details >}}
 
 {{< details "Week Eight" >}}
+#
+
+#### `+ Readings`
+
+#### `+ Assignments`
+
+#### `+ Due`
+
+- <i class="fa fa-bullseye"></i> 
+- <i class="fa fa-bullseye"></i> 
+
+
 {{< /details >}}
 
 
 {{< details "Week Nine" >}}
+#
+- Final revisions! 
+
 {{< /details >}}
 
 

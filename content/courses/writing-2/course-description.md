@@ -24,15 +24,14 @@ type: docs
 - [Course Readings](https://canvas.dartmouth.edu)
 - [*The Open Handbook*](/resources/open-handbook/)
 
-
  {{< /tab >}}
 
 {{< tab "Assignments" >}} 
 
 
-- [ ] [Essay 1.0](/courses/writing-2/essay-1)
-- [ ] [Essay 2.0]()
-- [ ] [Essay 3.0]()
+- [ ] [Essay 1](/courses/writing-2/essay-1)
+- [ ] [Essay 2](/courses/writing-2/essay-2)
+- [ ] [Essay 3](/courses/writing-2/essay-3)
 
 
 {{< /tab >}}
@@ -44,18 +43,15 @@ type: docs
 
 #### List of workshops
 
-- [ ] [Annotation & critical analysis](/courses/workshops/annotation) 
+- [ ] [Altering sources](/courses/workshops/altering-sources)
+- [ ] [Annotation](/courses/workshops/annotation) 
 - [ ] [Argument analysis](/courses/workshops/argument-analysis) 
 - [ ] [Argument summary](/courses/workshops/argument-summary) 
 - [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
-- [ ] Argument response 
-- [ ] [MLA documentation](/courses/workshops/documentation)
-- [ ] [Altering sources](/courses/workshops/altering-sources)
-- [ ] [Sentence variety](/courses/workshops/sentence-variety)
-- [ ] Rhetorical analysis 
 - [ ] Considering audience
-- [ ] Signal phrases
-
+- [ ] Rhetorical analysis 
+- [ ] [Sentence variety](/courses/workshops/sentence-variety)
+- [ ] [Working with sources](/courses/workshops/working-sources)
 
 ---
 

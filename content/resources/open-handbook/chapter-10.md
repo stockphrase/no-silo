@@ -58,7 +58,7 @@ Below you will find examples of these three categories of plagiarism, each one u
 <div class="container">
         <div class="raised-edge">
 
-**[Source Text]**
+<div style="text-align:center">{{< figure src="/img/source.png" width=100 >}}</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When academic territories were parceled out in the early twentieth
 century, anthropology got the tellers of tales and history got the

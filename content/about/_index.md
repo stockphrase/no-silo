@@ -25,11 +25,3 @@ I'm a mildly accomplished computer nerd.
 
 I have two adorable little kids who never let me get a full night's sleep but are probably the best thing that ever happened to me.  
 
-
-## Alan Taylors I am not:
-
-- I am not [Alan Taylor](https://en.wikipedia.org/wiki/Alan_Taylor_(director)).
-- I am not [Alan Taylor](https://en.wikipedia.org/wiki/Alan_Taylor_(historian)).
-- I am not [Alan Taylor](https://www.theatlantic.com/author/alan-taylor/).
-- I am not [Alan Taylor](https://www.alantaylor.com/).
-
