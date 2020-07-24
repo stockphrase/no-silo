@@ -11,9 +11,9 @@ title: "About Me"
 
 I grew up on a mountain swallowed up by [kudzu](https://en.wikipedia.org/wiki/Kudzu) just across the river from Chattanooga, Tennessee. 
 
-In college I was an English and philosophy major; in graduate school I studied nineteenth-century American literature, culture, and history. I'm interested in backcountry settlements in the early republic and conflicts between Native peoples and settlers. I spent several years examining the history of land surveying from the early republic through the nineteenth century. I found that surveying and cartography was a critical technology in the territorial expansion of the United States. 
+In college I studied English and philosophy; in graduate school I studied nineteenth-century American literature, culture, and history. I'm interested in backcountry settlements in the early republic and conflicts between Native peoples and settlers. 
 
-Mostly, I teach writing and research to first-year students.
+Mostly, I teach writing and research courses for first-year students at Dartmouth College.
 
 I'm very interested in open-source software and culture. I'm a fan of Canonical's [Ubuntu](https://ubuntu.com) and System 76's [Pop OS](https://pop.system76.com/). I'm particularly enthused by the [Pandoc](https://pandoc.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), and [Hugo](https://gohugo.io/) projects. 
 
