@@ -244,6 +244,8 @@ academic adjustments and services, you should contact the SAS office. All inquir
 | [<i class="fab fa-forumbee">](/courses/writing-2/wr2-syllabus/#symbol-legend)     | Contribute to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
 | [<i class="fa fa-code-branch">](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Peer work, in pairs or groups 
 | [<i class="fa fa-bullhorn"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | Group discussion via Zoom
+| [<i class="fa fa-book-open"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | A reading from the *Open Handbook*
+| [<i class="fa fa-question-circle"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | The Question of the Day™
 
 
 ## Schedule of Readings and Assignments
@@ -261,7 +263,7 @@ academic adjustments and services, you should contact the SAS office. All inquir
 
 #### ``+ In-class work``
 
-- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - Review: syllabus, course policies, websites
 - Time for questions.
 
@@ -279,11 +281,11 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 
-- *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
-- *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
 
 #### ``+ In-class work``
-- <i class="fa fa-question-circle"></i> [Question of the day](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
+- <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
 - <i class="fa fa-bullhorn"></i> Discuss readings
 - <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation) (print out worksheet before class)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
@@ -314,7 +316,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 
 
-{{< details "Week Two" open >}}
+{{< details "Week Two" >}}
 #
 
 ### // Monday, 9.21
@@ -323,22 +325,23 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 
-- Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
+- <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
 - <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
 
 
 #### ``+ Independent work``
 
-- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page for the reading. Read and engage the work of your peers there as well.
+- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*.
 
 
 ### // Wednesday, 9.23
 
+#### ``+ In-class work``
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Baker reading
+
 ---
-
-#### ``+ Independent work``
-
-- Re-read Baker and contribute again to the [Hive](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) page
 
 
 ### // Friday, 9.25
@@ -348,8 +351,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fa fa-question-circle"></i> Question of the day
-- <i class="fa fa-bullhorn"></i> Discuss Baker reading
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> [Argument analysis workshop](/courses/workshops/argument-analysis)
 
 #### `+ Assignments`
@@ -357,14 +359,14 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< /details >}}
 
-{{< details "Week Three" >}}
+{{< details "Week Three" open >}}
 #
 
 ### // Monday, 9.28
 
 #### `+ Readings`
-- *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
-- *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
 
 
 #### ``+ In-class work``
@@ -382,8 +384,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 
-- *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
-- *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9)
 
 
 #### `+ Assignments`
@@ -403,7 +405,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### // Monday, 10.5
 
 #### `+ Readings`
-- Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
+- <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
 - <i class="fab fa-forumbee"></i> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
     
 #### ``+ Independent work``
@@ -413,24 +415,24 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### // Wednesday, 10.7
 
-- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading
 
 ### // Friday, 10.9
 
-- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading
 
 
 {{< /details >}}
 
-{{< details "Week Five" >}}
+{{< details "Week Five" open >}}
 #
 
 ### // Monday, 10.12 
 
 #### `+ Readings`
-- Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
+- <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
 - <i class="fab fa-forumbee"></i> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
 
 #### ``+ Independent work``
@@ -440,23 +442,15 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### // Wednesday, 10.14
 
-- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 
 ### // Friday, 10.16
 
-
-#### `+ Readings`
-
-- Paulo Freire, "The Banking Concept of Education"
-
 #### ``+ In-class work``
-- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
-
-#### `+ Assignments`
-
-
+- <i class="fa fa-wrench"></i> [Argument synthesis](/courses/workshops/argument-synthesis/) workshop
 
 #### `+ Due`
 
@@ -474,7 +468,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### // Friday,
 
 #### ``+ In-class work``
-- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> [Argument synthesis](/courses/workshops/argument-synthesis/) workshop
 
 
@@ -496,7 +490,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 
-- Wes Anderson, *Rushmore*
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) Film is in the "Media" section of Canvas.
 
 #### `+ Assignments`
 
