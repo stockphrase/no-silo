@@ -20,8 +20,9 @@ Your focus in this assignment is on the essay's *argumentative structure*. What 
 
 Baker is a very playful writer; there is a lot of silliness and verbal excess in the essay. This makes it challenging to distinguish argumentative claims from his examples, metaphors, illustrations, stories, and other forms of evidence. Your job is to carefully sift through the essay to isolate the arguments, then present them as an organized list of bulleted statements. 
 
+---
 
-- <i class="fa fa-bullseye"></i> [View or submit this assignment in Canvas](https://canvas.dartmouth.edu).
+<i class="fa fa-bullseye"></i> [View or submit this assignment in Canvas](https://canvas.dartmouth.edu).
 
 
 

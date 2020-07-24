@@ -28,3 +28,7 @@ Although Freire argues that liberation education culminates in a a collective ef
 There are numerous examples of Max's selfish failure to engage in the types of communication that Freire recommends. For example, [blah, blah, blah].
 
 --->
+
+---
+
+<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).

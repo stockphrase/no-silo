@@ -26,3 +26,7 @@ After answering these questions exhaustively, write an essay that examines the r
 
 *Note*: Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using summary, paraphrase and quotation, compare and contrast the authors’ positions; make sure to cite each of these appropriately. Use clear signal phrases to transition between your presentations of the various author’s ideas or works.
 We will do some work during upcoming workshops to think about structure, content, and strategies for writing.
+
+---
+
+<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).

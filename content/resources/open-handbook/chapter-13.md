@@ -185,6 +185,7 @@ the people are seen as a single unit or a group of individuals:
 
 - >{{< fa check >}} The Sonics' best player is Ubaldo Jimenez.
 
+
 ### 14. It's / Its error
 
 **It's** is a contraction and means "it is" or "it has." **Its** is

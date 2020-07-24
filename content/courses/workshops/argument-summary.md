@@ -31,4 +31,6 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 - Sure, why not? You may choose to use your own words to explain the ideas of another writer. It is occasionally quite valuable to offer the exact words of another writer. But that is not necessary the case here. The important thing is that you accurately communicate the thinking of another writer under the assigned word count. 
 
-{{< fa bullseye >}} [View the assignment in Canvas](https://canvas.dartmouth.edu)
+---
+
+<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).

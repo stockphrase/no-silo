@@ -96,4 +96,6 @@ handbook to find consensus.
 - *What’s the big take-away?* What is the single biggest thing that the author should
 concentrate on in his or her revision?
 
+---
 
+<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).

@@ -32,6 +32,9 @@ Since you have likely never engaged a text in such a manner, here are some strat
 
 ## Workshop
 
-As you read the paragraph in the document linked to below, practice annotating it as if it were a paragraph from one of your course readings. What sorts of marks will you make on the text? What will you flag? What questions will you ask? 
+As you read the paragraph in the document linked to below, practice annotating it as if it were a paragraph from one of your course readings. What sorts of marks will you make on the text? What will you flag as important? What marginal notes will you write? What questions will you ask? 
 
-- {{< fa bullseye >}} Annotate this paragraph, excerpted from [Douglass S. Massey and Nancy A. Denton's "The Continuing Causes of Segregation."](/docs/Annotation-Exercise.docx)
+| Download       | Source         
+| :-------------: |:-------------
+|<i class="fa fa-download "></i> [Workshop](/docs/Annotation-Exercise.docx)    | *From*: Douglass S. Massey and Nancy A. Denton’s “The Continuing Causes of Segregation." *The Blackwell City Reader*. Edited by Gary Bridge and Sophie Watson, Wiley-Blackwell, 2010.  
+

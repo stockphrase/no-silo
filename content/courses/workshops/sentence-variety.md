@@ -91,3 +91,7 @@ In the example sentence below, I have summarized the meaning of the passage. Rew
 
 1. Hofstadtler argues that the paranoid politician and the religious fundamentalist both have rhetorical excess and exaggeration in common (77).
 
+---
+
+<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).
+

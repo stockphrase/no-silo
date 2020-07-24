@@ -197,6 +197,19 @@ You might contribute to Hive by doing some of the following tasks:
 
 --->
 
+## Grading Breakdown
+
+
+The following assignments comprise your grade for the Fall term:
+
+| Assignment       | Percentage         
+| ------------- |:-------------
+| Essay One     | 20%           
+| Essay Two     | 30%      
+| Essay Three   | 30%
+| Workshops     | 10%
+| Participation  | 10%    
+
 ## Help With Your Writing
 
 
@@ -219,19 +232,7 @@ Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has
 authorized services, students must show the originally signed SAS
 Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive
 academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
-
-## Grading Breakdown
-
-
-The following assignments comprise your grade for the Fall term:
-
-| Assignment       | Percentage         
-| ------------- |:-------------
-| Essay One     | 20%           
-| Essay Two     | 30%      
-| Essay Three   | 30%
-| Workshops     | 10%
-| Participation  | 10%     
+ 
 
 ## Symbol Legend
 
@@ -260,7 +261,7 @@ The following assignments comprise your grade for the Fall term:
 
 #### ``+ In-class work``
 
-- Question of the day
+- <i class="fa fa-question-circle"></i> Question of the day
 - Review: syllabus, course policies, websites
 - Time for questions.
 
@@ -269,6 +270,7 @@ The following assignments comprise your grade for the Fall term:
 - *What is education? What is its purpose?* Do some thinking and note-taking on these
 questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
+- <i class="fa fa-calendar-alt"></i> [Essay 1.0](/courses/writing-2/essay-1) assignment
 ---
 
 ### // Wednesday, 9.16
@@ -283,12 +285,12 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> [Question of the day](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
 - <i class="fa fa-bullhorn"></i> Discuss readings
-- <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation)
+- <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation) (print out worksheet before class)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
 
 #### `+ Assignments`
 
-- <i class="fa fa-calendar-alt"></i> [Essay 1.0](/courses/writing-2/essay-1) assignment
+
 
 ---
 
@@ -312,7 +314,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 
 
-{{< details "Week Two" >}}
+{{< details "Week Two" open >}}
 #
 
 ### // Monday, 9.21
@@ -322,23 +324,21 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing "After reading, annotating, and taking notes on the reading, post your ideas to the Hive. Read and engage the work of your peers.") 
+- <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
 
 
-#### ``+ In-class work``
+#### ``+ Independent work``
 
-- Question of the day
-- Discuss reading and Hive submissions
+- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page for the reading. Read and engage the work of your peers there as well.
 
 
 ### // Wednesday, 9.23
 
 ---
 
-#### ``+ In-class work``
+#### ``+ Independent work``
 
-- Question of the day
-- Discuss Baker and Hive submissions
+- Re-read Baker and contribute again to the [Hive](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) page
 
 
 ### // Friday, 9.25
@@ -348,11 +348,12 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fa fa-box-open"></i> Friday soapbox
-- <i class="fa fa-wrench"></i> [Argument analysis](/courses/workshops/argument-analysis) workshop
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-bullhorn"></i> Discuss Baker reading
+- <i class="fa fa-wrench"></i> [Argument analysis workshop](/courses/workshops/argument-analysis)
 
 #### `+ Assignments`
-- <i class="fa fa-wrench"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
+- <i class="fa fa-wrench"></i> [Argument summary workshop](/courses/workshops/argument-summary/)
 
 {{< /details >}}
 
@@ -368,7 +369,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fa fa-wrench"></i> [Working with sources](/courses/workshops/working-sources/) workshop
+- <i class="fa fa-wrench"></i> [Working with sources workshop](/courses/workshops/working-sources/)
 
 
 ### // Wednesday, 9.30
@@ -405,15 +406,10 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
 - <i class="fab fa-forumbee"></i> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
     
-#### ``+ In-class work``
+#### ``+ Independent work``
 
-- <i class="fa fa-question-circle"></i> Question of the day
-- <i class="fa fa-bullhorn"></i> Discuss Percy reading
+- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page for the reading. Read and engage the work of your peers there as well.
 
-
-#### `+ Assignments`
-
-#### `+ Due`
 
 ### // Wednesday, 10.7
 
@@ -422,13 +418,31 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### // Friday, 10.9
 
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading
+
+
 {{< /details >}}
 
 {{< details "Week Five" >}}
 #
 
 ### // Monday, 10.12 
+
+#### `+ Readings`
+- Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
+- <i class="fab fa-forumbee"></i> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
+
+#### ``+ Independent work``
+
+- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page for the reading. Read and engage the work of your peers there as well.
+
+
 ### // Wednesday, 10.14
+
+- <i class="fa fa-question-circle"></i> Question of the day
+- <i class="fa fa-bullhorn"></i> Discuss Freire reading
+
 ### // Friday, 10.16
 
 
