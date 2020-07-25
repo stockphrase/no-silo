@@ -6,7 +6,7 @@ bookHidden: true
 title: "Essay One"
 ---
 
-# Essay 1: Argument
+## Essay 1: Argument
 
 ---
 

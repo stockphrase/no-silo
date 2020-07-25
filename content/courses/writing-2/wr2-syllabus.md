@@ -301,11 +301,11 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ---
 
 #### `+ Readings`
-- *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
 #### ``+ In-class work``
 
-- <i class="fa fa-box-open"></i> Friday Soapbox
+- <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will use Canvas to connect you with another student and electronically exchange essays.
 
 #### `+ Due`
@@ -339,7 +339,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Baker reading
+- <i class="fa fa-bullhorn"></i> Discuss Baker reading & Hive submissions
 
 ---
 
@@ -351,11 +351,12 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-wrench"></i> [Argument analysis workshop](/courses/workshops/argument-analysis)
+- <i class="fa fa-box-open"></i> Friday soapbox
+- <i class="fa fa-bullhorn"></i> Discuss Baker reading & Hive submissions
+- <i class="fa fa-wrench"></i> [Argument analysis workshop](/courses/workshops/argument-analysis) 
 
 #### `+ Assignments`
-- <i class="fa fa-wrench"></i> [Argument summary workshop](/courses/workshops/argument-summary/)
+- <i class="fa fa-wrench"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
 
 {{< /details >}}
 
@@ -371,7 +372,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fa fa-wrench"></i> [Working with sources workshop](/courses/workshops/working-sources/)
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-wrench"></i> [Working with sources](/courses/workshops/working-sources/) workshop
 
 
 ### // Wednesday, 9.30
@@ -379,6 +381,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 
 - <i class="fa fa-code-branch"></i> Peer review of [argument summary](/courses/workshops/argument-summary) workshop. We will break up into groups and exchange our summaries of the Baker essay with each other 
+- Review answers to <i class="fa fa-wrench"></i> [Working with sources](/courses/workshops/working-sources/) workshop
 
 ### // Friday, 10.2
 
@@ -388,9 +391,10 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9)
 
 
-#### `+ Assignments`
+#### `+ In-class work`
 
-- <i class="fa fa-wrench"></i> [Altering sources](/courses/workshops/argument-summary/) workshop
+- <i class="fa fa-box-open"></i> Friday soapbox
+- <i class="fa fa-wrench"></i> [Altering sources](/courses/workshops/altering-sources/) workshop
 
 #### `+ Due`
 
@@ -416,12 +420,12 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### // Wednesday, 10.7
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Percy reading
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 
 ### // Friday, 10.9
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Percy reading
+- <i class="fa fa-box-open"></i> Friday soapbox
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 
 
 {{< /details >}}
@@ -448,40 +452,41 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### // Friday, 10.16
 
 #### ``+ In-class work``
-- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 - <i class="fa fa-wrench"></i> [Argument synthesis](/courses/workshops/argument-synthesis/) workshop
-
-#### `+ Due`
-
-- <i class="fa fa-bullseye"></i> 
-- <i class="fa fa-bullseye"></i> 
-
-
-{{< /details >}}
-
-{{< details "Week Six" >}}
-#
-
-### // Monday, 
-### // Wednesday,
-### // Friday,
-
-#### ``+ In-class work``
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-wrench"></i> [Argument synthesis](/courses/workshops/argument-synthesis/) workshop
-
-
-#### `+ Readings`
 
 #### `+ Assignments`
 
 - <i class="fa fa-calendar-alt"></i> [Essay 2](/courses/writing-2/essay-2)
 
-#### `+ Due`
+{{< /details >}}
 
-- <i class="fa fa-bullseye"></i> 
-- <i class="fa fa-bullseye"></i> 
+{{< details "Week Six" open >}}
+#
+
+### // Monday, 
+
+#### ``+ In-class work``
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-wrench"></i> Continue work on argument synthesis workshop
+
+
+### // Wednesday,
+
+#### ``+ In-class work``
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-wrench"></i> Continue work on argument synthesis workshop
+
+### // Friday,
+
+#### ``+ In-class work``
+- <i class="fa fa-box-open"></i> Friday soapbox
+
+#### `+ Due`
+- <i class="fa fa-bullseye"></i> Essay 2.0 Due
+- <i class="fa fa-code-branch"></i> [Peer Review] of Essay 2.
+
 
 {{< /details >}}
 

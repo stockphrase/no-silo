@@ -1,5 +1,5 @@
 ---
-title: MLA Documentation
+title: Working with Sources
 bookHidden: true
 bookFlatSection: false
 bookToc: true

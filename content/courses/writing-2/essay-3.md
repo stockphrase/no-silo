@@ -6,7 +6,7 @@ bookHidden: true
 title: "Essay Three"
 ---
 
-# Essay Three: Theoretical Analysis
+## Essay Three: Theoretical Analysis
 
 ---
 
@@ -16,7 +16,7 @@ But what might Paulo Freire argue about Max's behavior as a human being and a sc
 
 Taking what you know of Freire's thinking in "The 'Banking' Concept of Education," write a theoretical analysis of Wes Anderson's *Rushmore*.
 
-Use Freire's essay as as theoretical lens. You will have to work hard to provide your audience proper context---explanations of Freire's ideas and arguments which you will then use as a means of interpreting *Rushmore*. Imagine that your audience has not read Freire's essay. What ideas, arguments and terms from Freire's essay will you need to carefully explain so that the audience will understand how they may be used to arrive at a new understanding of the film?
+Use Freire's essay as as theoretical lens. You will have to work hard to provide your audience proper context---explanations of Freire's ideas and arguments which you will then use as a means of interpreting *Rushmore*. Imagine that your audience has not read Freire's essay. What ideas, arguments, and terms from Freire's essay will you need to carefully explain so that the audience will understand how they may be used to arrive at a new understanding of the film?
 
 <!---
 

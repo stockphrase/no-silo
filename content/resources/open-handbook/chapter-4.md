@@ -113,7 +113,7 @@ we might revise the previous filing strategy like this:
     │   │   └── hack-dartmouth.py
     │   └── <font color="#859900"><b>Writing2-F20</b></font>
     │       ├── essay1-draft1-090720.docx
-    │       ├── essay1-draft2-91520.docx
+    │       ├── essay1-draft2-091520.docx
     │       ├── notes-Freire-110520.docx
     │       ├── notes-Percy-102820.docx
     │       ├── workshop2-draft1-101720.docx
