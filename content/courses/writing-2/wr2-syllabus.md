@@ -241,17 +241,18 @@ academic adjustments and services, you should contact the SAS office. All inquir
 | [<i class="fa fa-calendar-alt">](/courses/writing-2/wr2-syllabus/#symbol-legend)    | A new major assignment          
 | [<i class="fa fa-wrench">](/courses/writing-2/wr2-syllabus/#symbol-legend)      | Workshop assignment
 | [<i class="fa fa-bullseye">](/courses/writing-2/wr2-syllabus/#symbol-legend)    | Assignment due
-| [<i class="fab fa-forumbee">](/courses/writing-2/wr2-syllabus/#symbol-legend)     | Contribute to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
+| [<i class="fab fa-forumbee">](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Contribute to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
 | [<i class="fa fa-code-branch">](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Peer work, in pairs or groups 
 | [<i class="fa fa-bullhorn"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | Group discussion via Zoom
 | [<i class="fa fa-book-open"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | A reading from the *Open Handbook*
 | [<i class="fa fa-question-circle"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | The Question of the Day™
+| [<i class="fa fa-comments"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | Conferences with professor 
 
 
 ## Schedule of Readings and Assignments
 
 
-{{< details "Week One" >}}
+{{< details "Week One" open >}}
 
 # 
 
@@ -310,7 +311,9 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Due`
 
-- <i class="fa fa-bullseye"></i> **Essay 1.0 due**. Make any final revisions after peer review and then [submit your first draft to Canvas by 10pm](https//canvas.dartmouth.edu). I will comment on these essays and return them in a week's time. You will revise again afterward for a grade. 
+{{< hint info >}} 
+- <i class="fa fa-bullseye"></i> **Essay 1 draft due**. | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+{{< /hint >}} 
 
 {{< /details >}}
 
@@ -326,7 +329,9 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
+- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
+- <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive Page on Baker](h) 
+
 
 
 #### ``+ Independent work``
@@ -353,10 +358,10 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading & Hive submissions
-- <i class="fa fa-wrench"></i> [Argument analysis workshop](/courses/workshops/argument-analysis) 
+- <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
 
 #### `+ Assignments`
-- <i class="fa fa-wrench"></i> [Argument summary](/courses/workshops/argument-summary/) workshop
+- <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
 
 {{< /details >}}
 
@@ -373,15 +378,15 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-wrench"></i> [Working with sources](/courses/workshops/working-sources/) workshop
+- <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/) workshop
 
 
 ### // Wednesday, 9.30
 
 #### ``+ In-class work``
-
-- <i class="fa fa-code-branch"></i> Peer review of [argument summary](/courses/workshops/argument-summary) workshop. We will break up into groups and exchange our summaries of the Baker essay with each other 
-- Review answers to <i class="fa fa-wrench"></i> [Working with sources](/courses/workshops/working-sources/) workshop
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary). 
+- Review answers to <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
 
 ### // Friday, 10.2
 
@@ -394,12 +399,15 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ In-class work`
 
 - <i class="fa fa-box-open"></i> Friday soapbox
-- <i class="fa fa-wrench"></i> [Altering sources](/courses/workshops/altering-sources/) workshop
+- <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/) workshop
 
 #### `+ Due`
+{{< hint info >}} 
 
-- <i class="fa fa-bullseye"></i> [Argument summary](/courses/workshops/argument-summary/) workshop due
-- <i class="fa fa-bullseye"></i> Essay 1 due. [Submit final draft to Canvas]()
+- <i class="fa fa-bullseye"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/) | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+- <i class="fa fa-bullseye"></i> **Essay 1 final due** | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+
+{{< /hint >}} 
 
 {{< /details >}}
 
@@ -410,7 +418,9 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>D</sup>  [Hive page for Percy](d)    
+    
     
 #### ``+ Independent work``
 
@@ -437,7 +447,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
-- <i class="fab fa-forumbee"></i> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for Freire](d)
 
 #### ``+ Independent work``
 
@@ -454,7 +465,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ In-class work``
 - <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
-- <i class="fa fa-wrench"></i> [Argument synthesis](/courses/workshops/argument-synthesis/) workshop
+- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 1](/courses/workshops/argument-synthesis/)
 
 #### `+ Assignments`
 
@@ -469,66 +480,89 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-wrench"></i> Continue work on argument synthesis workshop
+- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 2](/courses/workshops/argument-synthesis/)
 
 
 ### // Wednesday, 10.21
 
 #### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-wrench"></i> Continue work on argument synthesis workshop
+- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 3](/courses/workshops/argument-synthesis/)
 
 ### // Friday, 10.23
 
 #### ``+ In-class work``
 - <i class="fa fa-box-open"></i> Friday soapbox
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2.
 
 #### `+ Due`
-- <i class="fa fa-bullseye"></i> Essay 2.0 Due
-- <i class="fa fa-code-branch"></i> [Peer Review] of Essay 2.
 
+{{< hint info >}}
+- <i class="fa fa-bullseye"></i> **Essay 2 draft due** | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+
+{{< /hint >}}
 
 {{< /details >}}
 
-{{< details "Week Seven" >}}
+{{< details "Week Seven" open >}}
 #
 ### // Monday, 10.26
 
 #### `+ Readings`
 
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) Film is in the "Media" section of Canvas.
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu). Film is in the "Media" section of Canvas.
+- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Rushmore](c)
+- <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for Rushmore](d)
+
+#### ``+ Independent work``
+
+- View, annotate, and take critical notes on the film, then post your contributions to the Hive page for the reading. Read and engage the work of your peers there as well.
 
 #### `+ Assignments`
 - <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
-#### `+ Due`
+### // Wednesday, 10.28
 
-- <i class="fa fa-bullseye"></i> 
-- <i class="fa fa-bullseye"></i> 
+#### ``+ Independent work``
 
-### // Friday, 10.28
+- Work on Essay 3 drafts individually. Prepare for Friday group discussion on film and essay drafts.
+
 ### // Friday, 10.30
 
+- <i class="fa fa-bullhorn"></i> Discuss *Rushmore* film and theoretical essay drafts.
+- <i class="fa fa-wrench"></i> Essay 3 workshop
 
 {{< /details >}}
 
 {{< details "Week Eight" open>}}
 #
 ### // Monday, 11.2
-### // Wednesday, 11.4
 
 
-### // Friday, 11.6
+#### `+ In-class work`
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3.
 
-#### `+ Readings`
-
-#### `+ Assignments`
 
 #### `+ Due`
 
-- <i class="fa fa-bullseye"></i> Essay 2.1 Final draft.
-- <i class="fa fa-bullseye"></i> 
+{{< hint info >}}
+- <i class="fa fa-bullseye"></i> **Essay 3.0 draft due** |  <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
 
+
+{{< / hint >}}
+
+### // Wednesday, 11.4
+
+- Drafting and revising work on Essay 2
+
+### // Friday, 11.6
+
+#### `+ Due`
+
+{{< hint info >}}
+- <i class="fa fa-bullseye"></i> **Essay 2 final due**. |  <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+{{< /hint >}}
 
 {{< /details >}}
 
@@ -537,10 +571,15 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #
 ### // Monday, 11.9
 
-- Essay 3.0 due?
+- <i class="fa fa-comments"></i> Conferences
 
-### // Friday, 11.11
+### // Wednesday, 11.11
+
+- <i class="fa fa-comments"></i> Conferences
+
 ### // Friday, 11.13
+
+- <i class="fa fa-comments"></i> Conferences
 
 {{< /details >}}
 
@@ -548,10 +587,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #
 ### // Monday, 11.16
 
+- <i class="fa fa-bullseye"></i> **Essay 3 final due** |  <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
 
 {{< /details >}}
 
-**November 30, Monday -- Final Examination period begins**
-**December 3, Thursday -- Scheduled Final Examinations end**
-**December 4, Friday -- Final Examination period ends**
-- <i class="fa fa-bullseye"></i> Exams: Final paper due in exams?
