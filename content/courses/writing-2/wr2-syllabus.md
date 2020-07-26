@@ -465,20 +465,20 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 {{< details "Week Six" open >}}
 #
 
-### // Monday, 
+### // Monday, 10.19
 
 #### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> Continue work on argument synthesis workshop
 
 
-### // Wednesday,
+### // Wednesday, 10.21
 
 #### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> Continue work on argument synthesis workshop
 
-### // Friday,
+### // Friday, 10.23
 
 #### ``+ In-class work``
 - <i class="fa fa-box-open"></i> Friday soapbox
@@ -492,22 +492,33 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Seven" >}}
 #
+### // Monday, 10.26
 
 #### `+ Readings`
 
 - <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) Film is in the "Media" section of Canvas.
 
 #### `+ Assignments`
+- <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
 #### `+ Due`
 
 - <i class="fa fa-bullseye"></i> 
 - <i class="fa fa-bullseye"></i> 
 
+### // Friday, 10.28
+### // Friday, 10.30
+
+
 {{< /details >}}
 
-{{< details "Week Eight" >}}
+{{< details "Week Eight" open>}}
 #
+### // Monday, 11.2
+### // Wednesday, 11.4
+
+
+### // Friday, 11.6
 
 #### `+ Readings`
 
@@ -515,7 +526,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Due`
 
-- <i class="fa fa-bullseye"></i> 
+- <i class="fa fa-bullseye"></i> Essay 2.1 Final draft.
 - <i class="fa fa-bullseye"></i> 
 
 
@@ -524,8 +535,23 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Nine" >}}
 #
-- Final revisions! 
+### // Monday, 11.9
+
+- Essay 3.0 due?
+
+### // Friday, 11.11
+### // Friday, 11.13
 
 {{< /details >}}
 
+{{< details "Week Ten" >}}
+#
+### // Monday, 11.16
 
+
+{{< /details >}}
+
+**November 30, Monday -- Final Examination period begins**
+**December 3, Thursday -- Scheduled Final Examinations end**
+**December 4, Friday -- Final Examination period ends**
+- <i class="fa fa-bullseye"></i> Exams: Final paper due in exams?
