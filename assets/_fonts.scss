@@ -41,7 +41,18 @@
        url('fonts/roboto-mono-v6-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+/* Rock Salt*/
+@font-face {
+  font-family: 'Rock Salt';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Rock Salt'), local('RockSalt-Regular'),
+       url('fonts/RockSalt-Regular.ttf') /* Chrome 26+, Opera 23+, Firefox 39+ */
+
+}
+
 
 body {
   font-family: 'Lato', sans-serif;
@@ -50,3 +61,5 @@ body {
 code {
   font-family: 'Lato', sans-serif;
 }
+
+/*@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');*/

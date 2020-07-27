@@ -236,12 +236,13 @@ academic adjustments and services, you should contact the SAS office. All inquir
 
 ## Symbol Legend
 
-| Symbol       | Meaning         
+| Symbol       | Note         
 | :-------------: |:-------------
 | [<i class="fa fa-calendar-alt">](/courses/writing-2/wr2-syllabus/#symbol-legend)    | A new major assignment          
 | [<i class="fa fa-wrench">](/courses/writing-2/wr2-syllabus/#symbol-legend)      | Workshop assignment
 | [<i class="fa fa-bullseye">](/courses/writing-2/wr2-syllabus/#symbol-legend)    | Assignment due
-| [<i class="fab fa-forumbee">](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Contribute to [Hive](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
+| [<i class="fas fa-cloud-upload-alt"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | Upload assignment to Canvas 
+| [<i class="fab fa-forumbee"> ](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Contribute to [Hive <sup>7,</sup><sup>8</sup>](courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
 | [<i class="fa fa-code-branch">](/courses/writing-2/wr2-syllabus/#symbol-legend)  | Peer work, in pairs or groups 
 | [<i class="fa fa-bullhorn"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | Group discussion via Zoom
 | [<i class="fa fa-book-open"></i>](/courses/writing-2/wr2-syllabus/#symbol-legend) | A reading from the *Open Handbook*
@@ -312,7 +313,9 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Due`
 
 {{< hint info >}} 
-- <i class="fa fa-bullseye"></i> **Essay 1 draft due**. | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+#### <i class="fa fa-bullseye"></i> Essay 1 Draft Due
+- [<i class="fas fa-cloud-upload-alt"></i>](https://canvas.dartmouth.edu) [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
+
 {{< /hint >}} 
 
 {{< /details >}}
@@ -329,8 +332,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
-- <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive Page on Baker](h) 
+    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
+    - <i class="fab fa-forumbee"></i> <sup>8</sup> [Hive Page on Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
 
 
 
@@ -403,11 +406,18 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Due`
 {{< hint info >}} 
+####  <i class="fa fa-bullseye"></i> Argument Summary Workshop Due
 
-- <i class="fa fa-bullseye"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/) | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
-- <i class="fa fa-bullseye"></i> **Essay 1 final due** | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
-{{< /hint >}} 
+{{< /hint >}}
+
+{{< hint info >}}
+####  <i class="fa fa-bullseye"></i> Essay One Final Due
+
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+{{< /hint >}}
+ 
 
 {{< /details >}}
 
@@ -418,8 +428,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>D</sup>  [Hive page for Percy](d)    
+    - <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
+    - <i class="fab fa-forumbee"></i> <sup>D</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
     
     
 #### ``+ Independent work``
@@ -447,8 +457,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
-- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for Freire](d)
+    - <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
+    - <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for Freire](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
 
 #### ``+ Independent work``
 
@@ -466,6 +476,9 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 1](/courses/workshops/argument-synthesis/)
+    - <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
+    - <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
+
 
 #### `+ Assignments`
 
@@ -498,7 +511,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Due`
 
 {{< hint info >}}
-- <i class="fa fa-bullseye"></i> **Essay 2 draft due** | <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+#### <i class="fa fa-bullseye"></i> Essay 2 Draft Due
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< /hint >}}
 
@@ -510,9 +524,9 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu). Film is in the "Media" section of Canvas.
-- <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for Rushmore](c)
-- <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for Rushmore](d)
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu)  (1998). Film is in the "Media" section of Canvas.
+    - <i class="fab fa-forumbee"></i> <sup>C</sup> [Hive page for *Rushmore*](c)
+    - <i class="fab fa-forumbee"></i> <sup>D</sup> [Hive page for *Rushmore*](d)
 
 #### ``+ Independent work``
 
@@ -547,7 +561,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Due`
 
 {{< hint info >}}
-- <i class="fa fa-bullseye"></i> **Essay 3.0 draft due** |  <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+#### <i class="fa fa-bullseye"></i> Essay 3 Draft Due
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 
 {{< / hint >}}
@@ -561,7 +576,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Due`
 
 {{< hint info >}}
-- <i class="fa fa-bullseye"></i> **Essay 2 final due**. |  <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+#### <i class="fa fa-bullseye"></i> Essay 2 Final Due
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 {{< /hint >}}
 
 {{< /details >}}
@@ -587,7 +603,13 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #
 ### // Monday, 11.16
 
-- <i class="fa fa-bullseye"></i> **Essay 3 final due** |  <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas @ 10pm]()
+{{< hint info >}}
+#### <i class="fa fa-bullseye"></i> Essay 3 Final Due
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+
+{{< / hint >}}
+
+
 
 {{< /details >}}
 
