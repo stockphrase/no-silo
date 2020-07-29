@@ -98,4 +98,7 @@ concentrate on in his or her revision?
 
 ---
 
-<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
+
+
+

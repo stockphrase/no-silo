@@ -10,7 +10,7 @@ title: "Essay Three"
 
 ---
 
-Max has an insatiable appetite for extracurricular activities: fencing, bee-keeping, yankee racers, calligraphy, backgammon, theater, and on and on and on. These projects and clubs are a form of self-improvement---kinds of sovereign inquiry---but they completely dwarf his responsibilities in the traditional disciplines of formal education: geometry, history, English, etc. According to Dr. Guggenheim, Max is "one of the worst students" at Rushmore Academy.
+Max Fischer has an insatiable appetite for extracurricular activities: fencing, bee-keeping, yankee racers, calligraphy, backgammon, theater, and on and on and on. These projects and clubs are a form of self-improvement---kinds of sovereign inquiry---but they completely dwarf his responsibilities in the traditional disciplines of formal education: geometry, history, English, etc. According to Dr. Guggenheim, Max is "one of the worst students" at Rushmore Academy.
 
 But what might Paulo Freire argue about Max's behavior as a human being and a scholar? Is Max a dramatization of Freire's ideal student? Or would Freire critique Max's methods?
 

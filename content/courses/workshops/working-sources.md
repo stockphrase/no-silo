@@ -24,7 +24,7 @@ But citation is not the most difficult aspect of working with source texts. One 
 <div class="container">
         <div class="raised-edge">
 
-<div style="text-align:center">{{< figure src="/img/source.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/img/source.png" width=90 >}}</div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why is it almost impossible to gaze directly at the Grand Canyon under these circumstances and see it for what it is—as one picks up a strange object from one's back yard and gazes directly at it? It is almost impossible because the Grand Canyon, the thing as it is, has been appropriated by the symbolic complex which has already been formed in the sightseer's mind. Seeing the canyon under approved circumstances is seeing the symbolic complex head on. The thing is no longer the thing as it confronted the Spaniard; it is rather that which has already been formulated—by picture postcard, geography book, tourist folders, and the words Grand Canyon. As a result of this preformulation, the source of the sightseer's pleasure undergoes a shift. Where the wonder and delight of the Spaniard arose from his penetration of the thing itself, from a progressive discovery of depths, patterns, colors, shadows, etc., now the sightseer measures his satisfaction by the degree to which the canyon conforms to the preformed complex.
 
@@ -47,5 +47,8 @@ But citation is not the most difficult aspect of working with source texts. One 
 
 ---
 
-<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).
+<!---
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
+--->
+
 

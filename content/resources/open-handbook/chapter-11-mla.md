@@ -98,17 +98,17 @@ The MLA style parenthetical citations primarily take two forms:
 **1.** One form is used when the source you are citing *is named or understood* by your audience: 
 > According to scholar James Frey, "Each American consumes five pounds of ice cream annually" (78).
 
-- In this first sentence the author is referred to only as a generic "scholar." To give the reader information on which scholar is being cited, Frey's name is included in the parenthetical citation.
+- In this first sentence the author is specifically named. If the author is clear from the context, only the page number must be placed within the parenthetical citation. 
 
 
 **2.** The other form is used when the author being cited is *unknown or unclear* based on the context:
-> According to scholar James Frey, "Each American consumes five pounds of ice cream annually" (78).
+> Researchers have reported that "Each American consumes five pounds of ice cream annually" (Frey 78).
 
-- In the second example the author describes the *report*, not its author; as a result, the student has included Frey's name to the citation to indicate whose report is being referenced.
+- In the second example the student author uses a generic term "researchers" that does not help identify a specific source or author; as a result, the student has included Frey's name in the citation to indicate whose research is being referenced.
 
 The in-text citations described above will comprise virtually all of your citations. However, there are a few circumstances when the in-text citations will require a different approach.
 
-**3.** For media that has a `runtime`---like film, television, or music---MLA requires that you cite a timestamp within your in-text citations. Use colons to separate hours, minutes, and seconds. For example:
+**3.** For media that has a `runtime`---like film, television, or music---MLA now requires that you cite a timestamp within your in-text citations. Use colons to separate hours, minutes, and seconds. For example, this citation is of a film:
 
 > According to Rushmore Academy's headmaster, Max is "probably the worst student" at the school (04:04-07).
 
@@ -141,7 +141,7 @@ guidance on every type of source extremely challenging.
 The new handbook replaces the creation of an ever-growing list of source
 types with a set of universal guidelines that may be used to formulate a
 citation for any type of source. These guidelines are referred to as the
-"core elements." The promise of this new approach to the MLA bibliography is that 
+"core elements." The promise of this new approach is that 
 it provides a method for citing any type of source, even those that do not yet exist.
 
 {{< details "Using the core elements" >}}
@@ -163,8 +163,9 @@ The MLA core elements below are listed in the order they should appear in your o
 | Publication Date | ,
 | Location (pages, paragraphs URL or DOI)  | .
 
+## Some sources have multiple containers
 
-- <span class="highlight">*Note that some sources will have more than one container*.</span> If so, you will have to proceed through the second table listed below to complete your bibliographic entry:
+[<i class="fa fa-exclamation-circle"></i>]() <span class="highlight">*Note that some sources will have more than one container*.</span> If so, you will have to proceed through the second table listed below (adding it to the end of the entry you made using the table above) to complete your bibliographic entry:
 
 | Core Element   | Concluding Punctuation     
 |:----------|:-------------
@@ -185,7 +186,7 @@ The MLA core elements below are listed in the order they should appear in your o
 
 The first element of a citation is the author's name. Since the MLA
 bibliography is organized alphabetically by the author's last name,
-begin your citations with the author's last name, followed by a comma,
+begin your citations with the author's last name followed by a comma,
 then the author's first name. If a middle name or initial are supplied,
 include those after the first name in the entry. Conclude the author
 element with a period. Sources will often have multiple authors. In

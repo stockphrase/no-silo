@@ -6,7 +6,7 @@ bookHidden: false
 title: "+ Hive"
 ---
 
-[<div style="text-align:center">{{< figure src="/img/hive3.png" width=150 >}}</div>](https://canvas.dartmouth.edu)
+[<div style="text-align:center">{{< figure src="/img/hive-7.png" width=150 >}}</div>](https://canvas.dartmouth.edu)
  
 # What is Hive?
 
@@ -47,7 +47,7 @@ Inside the Hive workstation, you will find links to a Google Doc dedicated to ea
 <div class="container">
         <div class="raised-edge">
 
-<div style="text-align:center">{{< figure src="/img/hive3.png" width=100 >}}</div>
+<div style="text-align:center">{{< figure src="/img/hive-7.png" width=120 >}}</div>
 
 ---
 

@@ -39,5 +39,8 @@ Much as you did in a previous workshop, map out all of these connections between
 
 ---
 
-{{< fa bullseye >}} [View the assignment in Canvas](https://canvas.dartmouth.edu)
+<!---
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
+--->
+
 

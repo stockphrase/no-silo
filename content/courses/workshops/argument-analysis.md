@@ -22,17 +22,8 @@ Baker is a very playful writer; there is a lot of silliness and verbal excess in
 
 ---
 
-<i class="fa fa-bullseye"></i> [View or submit this assignment in Canvas](https://canvas.dartmouth.edu).
-
-
-
 <!---
-
-## Key terms in the analysis of arguments
-
-- **Thesis**: An idea, stated as an assertion, that is the organizing focus of a piece of writing.
-- **Claim**: An idea, stated as an assertion, that provides support to the thesis.
-- **Reason**: An idea that functions as support another idea. It answers the question "Why?"
-- **Evidence**: Things that serve as support for reasons and claims: facts, testimony, statistics, stories, examples, etc.
-
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 --->
+
+

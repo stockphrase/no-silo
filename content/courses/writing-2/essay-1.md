@@ -14,8 +14,8 @@ What is education? What is its purpose? Write an essay exploring these questions
 
 ## Format and length
 
-- No more than 3 pages.
-- MLA format.
+- No more than 3 pages
+- Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 
 ## Special requirement
 
@@ -23,4 +23,4 @@ What is education? What is its purpose? Write an essay exploring these questions
 
 ---
 
-<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
