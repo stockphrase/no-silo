@@ -10,7 +10,7 @@ title: "Essay Two"
 
 ---
 
-Percy and Freire, each in their own way, ask us to consider the problem of authority within educational systems or experiences. Write an essay that **synthesizes** their thinking, explaining how they both investigate the nature of this problem, examine its consequences, and offer solutions.
+Percy and Freire, each in their own way, ask us to consider the problem of authority within educational systems or experiences. Write an essay that `synthesizes` their thinking, explaining how they both investigate the nature of this problem, examine its consequences, and offer solutions.
 
 As the name suggests, synthesis essays focus on combining and connecting. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments or ideas relate to one another.
 
@@ -24,9 +24,11 @@ To begin a synthesis, ask yourself the following questions about the readings yo
 
 After answering these questions exhaustively, write an essay that examines the relationship between the various authors’ arguments, comparing and contrasting their views.
 
-*Note*: Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using summary, paraphrase and quotation, compare and contrast the authors’ positions; make sure to cite each of these appropriately. Use clear signal phrases to transition between your presentations of the various author’s ideas or works.
+{{< hint info >}}
+<i class="fas fa-exclamation-triangle"></i> Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using summary, paraphrase and quotation, compare and contrast the authors’ positions; make sure to cite each of these appropriately. Use clear signal phrases to transition between your presentations of the various author’s ideas or works.
 We will do some work during upcoming workshops to think about structure, content, and strategies for writing.
+{{< /hint >}}
 
 ---
 
-<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)

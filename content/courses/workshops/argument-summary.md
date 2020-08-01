@@ -17,7 +17,7 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 - Don’t forget to provide [MLA-formatted](/resources/open-handbook/chapter-11-mla) citations indicating the page number(s) of the points you summarize. Use the [*Open Handbook*](/resources/open-handbook/chapter-8) for help crafting appropriate signal phrases.
 
-- Work in groups of three to discuss which elements of Baker’s essay should be included within the summary. Use this time to distinguish assertions and claims from examples and metaphors.
+- Work in groups of three to discuss which elements of Baker’s essay should be included within the summary. Use this time to distinguish `assertions` & `claims` from `examples` & `metaphors.` Given the word limit in this assignment, you should focus on presenting the former pair and not the latter pair.
 
 - Your work in the [argument analysis workshop](/courses/workshops/argument-analysis) should be very helpful to you. Although you may work with your partners to decide what to include in the summary, please write your own.
 

@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment, you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the **annotation** of texts.
+In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment, you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the `annotation` of texts.
 
 ## What is annotation?
 

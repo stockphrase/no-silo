@@ -27,16 +27,18 @@ writer's work part of your work" (12).
 
 
 One objective of the annotations described in the previous chapter is to
-help you create a **critical outline** during a subsequent reading. The
+help you create a `critical outline` during a subsequent reading. The
 objective in the critical outline is to boil the entire argument down to
-its essence, without losing any significant detail. The name of the game
-here is *reduction*: taking something complex and unwieldy and turning it
-into something small and useful for study or your own writing. There is
+its essence, without losing any significant detail. The focus here should be on
+*reduction*: taking something complex and unwieldy and turning it
+into something small and useful for study or your own writing. You are an information miner, 
+removing only the valuable materials from a pile of ore. There is
 a real art to this, and you will become better and faster at this as you
 practice. Over time, you will train your mind to operate in such a way
 that you will perform these tasks almost unconsciously as you read.
 These critical notes will be indispensable study aids. They will also
-dramatically improve your writing.
+dramatically improve your writing since key information, important passages, and
+significant quotations from the text will be easily accessible to you with minimal recovery efforts.
 
 These critical summaries are comprised of nothing more than [**summary**](/resources/open-handbook/chapter-8), [**paraphrase**](/resources/open-handbook/chapter-8), [**quotation**](/resources/open-handbook/chapter-8), and your own observations and questions. Quote only the most important, memorable language.
 Summarize or paraphrase the rest in as objective a manner as possible.
@@ -62,10 +64,10 @@ and accurate---version of the essay that has been ruthlessly cut down to
 its bare essentials as well as a number of critical observations,
 questions, and ideas that have emerged in your process of reading. By
 the time you reach this stage and read over your notes, you will have
-taken great strides toward mastering the information or argument. Of
+taken great strides toward understanding the information or argument. Of
 course, if the text is difficult, you may have to repeat the process
 until you have a breakthrough. I cannot emphasize enough how helpful and
-important this process is. It will help you come to a greater
+important this process is. It will help you arrive at a greater
 understanding of the text's claims and weaknesses while also activating
 your long-term memory.
 

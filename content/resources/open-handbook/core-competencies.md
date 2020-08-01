@@ -25,7 +25,7 @@ Here is my own list, focusing on the core competencies of the rhetorical arts. A
 
 ---
 
-2. **`They read actively and think critically.`** Students should not be passive consumers of texts, but *active and critical interrogators* of what they read. Students should be able to think critically about the arguments and evidence presented by other writers---assessing the value of these arguments and the suitability of the evidence. Students should recognize specious reasoning and sophistry when they see it. They should ask probing questions of the ideas and arguments they encounter, insisting that each argument earn its conclusions. Active, critical readers imagine the experience of reading as a dialogue, a conversation that we have with other people through the medium of text.
+2. **`They read actively and think critically.`** Students should not be passive consumers of texts, but *active and critical interrogators* of what they read. Students should be able to think critically about the arguments and evidence presented by other writers by assessing their value and suitability. Students should recognize specious reasoning and sophistry when they see it. They should ask probing questions of the ideas and arguments they encounter, insisting that each argument earn its conclusions. Active, critical readers imagine the experience of reading as a dialogue, a conversation that we have with other people through the medium of text.
 
 ---
 
@@ -45,7 +45,7 @@ Here is my own list, focusing on the core competencies of the rhetorical arts. A
 
 ---
 
-7. **`They demonstrate audience awareness.`** Students should be able to think clearly about the audience they hope to address and persuade with their writing, then make appropriate rhetorical choices so as to make the best possible case. An awareness of the audience will often lead an author to thoughtfully provide appropriate contextualizing information designed to help orient and prepare readers before launching directly into an argument. This might involve defining obscure jargon, explaining the historical context, synthesizing elements of the larger academic conversation, revealing the credentials of a quoted authority, etc. 
+7. **`They demonstrate audience awareness.`** Students should be able to think clearly about the audience they hope to address and persuade with their writing, then make appropriate rhetorical choices so as to make the best possible case. An awareness of the audience will often lead a writer to thoughtfully provide appropriate contextualizing information designed to help orient and prepare readers. This might involve defining obscure jargon, explaining the historical context, synthesizing elements of the larger academic conversation, revealing the credentials of a quoted authority, etc. 
 
 ---
 
@@ -53,7 +53,7 @@ Here is my own list, focusing on the core competencies of the rhetorical arts. A
 
 ---
 
-9. **`They remain vulnerable to new ideas and information.`** Students should know that they don't know everything---that there are other ways of seeing and understanding that they may not even know exist. Some of these ideas and views may be deeply challenging to their own deeply held views and beliefs---they may, in fact, be utterly incommensurable. Yet, students should be able to cultivate a spirit of openness, generosity, and understanding---an intellectual and emotional vulnerability to new ideas and the experiences of others. This is not a facile nihilism, but an openness to discovery and a recognition of one's own fallibility and ignorance. 
+9. **`They remain vulnerable to new ideas and information.`** Students should know that they don't know everything---that there are other ways of seeing and understanding that they may not even know exist. Some of these ideas and views may be deeply challenging to their own deeply held ones. They may, in fact, be utterly incommensurable. Yet, students should be able to cultivate a spirit of openness, generosity, and understanding---an intellectual and emotional vulnerability to new ideas and the experiences of others. This is not a facile nihilism, but an openness to discovery and a recognition of one's own fallibility and ignorance. 
 
 ---
 

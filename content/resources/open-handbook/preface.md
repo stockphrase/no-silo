@@ -9,7 +9,7 @@ title: "I. Preface"
 College students are commonly required to purchase handbooks for use in
 their writing courses. These reference texts introduce students to the
 conventions of academic writing and often include chapters on `academic
-research`, `critical thinking`, `grammar`, and `formal citation`.
+research,` `critical thinking,` `grammar,` and `formal citation.`
 
 The knowledge contained in these texts is indispensable. However, most
 handbooks on the market today are bloated in both content and price (I

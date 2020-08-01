@@ -7,28 +7,17 @@ title: "Writing 2: Syllabus"
 ---
 
 
-<!---
-{{< hint info >}}
-
-**Obligatory COVID-19 Message:**
-
-The pandemic is total bullshit. We're all struggling through this. But here we are. We might as well try to make the best of it.
-
-{{< /hint >}}
-
-Use as required.
-
----
-
-{{< button href="https://vimeo.com/320228756" >}}Rage Button (NSFW){{< /button >}}  {{< button href="https://www.youtube.com/watch?v=nkkJgdiR8IA" >}}Soothe Button{{< /button >}} {{< button href="https://youtu.be/HxM8Eb_IoFY" >}}Therapy Button{{< /button >}}  {{< button href="https://www.youtube.com/watch?v=W_aN81SBI3A" >}}Prof's Current Jam{{< /button >}}
-
---->
-
 [<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about)
+
 
 # Writing 2: What is Education?
 
 ## Course Description
+
+<!---
+{{< button href="https://www.youtube.com/watch?v=W_aN81SBI3A" >}}Prof's Current Jam 1 {{< /button >}}
+{{< button href="https://www.youtube.com/watch?v=yAv5pLO37mE" >}}Prof's Current Jam 2 {{< /button >}}
+--->
 
 **Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
 
@@ -71,7 +60,7 @@ single term will be acceptable for this course. *This policy applies to
 regular class meetings, assigned X hours, and TA meetings*. Four or more
 unexcused absences may result in repercussions ranging from significant
 reduction in GPA to failure of the course. If you have an event that conflicts with participation in the course, please
-meet with me beforehand to discuss appropriate accommodations.
+contact me beforehand to discuss appropriate accommodations.
 
 ## Papers
 
@@ -90,9 +79,8 @@ will be explained in greater detail throughout the course of the term.
 
 -   **Revisions**: It is my practice to return essay drafts to you
     within one week. Afterward, you will have a minimum of one week to
-    revise your writing. During this two-week revision cycle, I am happy
-    to look at your drafts at any stage of development. Please feel free
-    to meet with me during office hours (or by appointment) to go over
+    revise your writing. During this two-week revision cycle please feel free
+    to drop by my office hours (or make an appointment) to go over
     your writing or discuss your ideas.
 
 ## Typical Weekly Workflow
@@ -105,7 +93,7 @@ Here is a list of the typical assignments and activities that we will do each we
     the text by adding meaningful symbols, marginal notes, and questions
     on the document itself. Bring this annotated copy of the reading
     with you to class to help you engage in the group discussion and
-    analysis. *This requires that you print out the text before you begin reading it.*
+    analysis. <i class="fas fa-exclamation-triangle"></i> ***Note**: This requires that you print out the text before you begin reading it.*
 
 -   After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
@@ -123,18 +111,18 @@ adding your own words and symbols to the document itself. There is no
 right or wrong way to mark up a text, but you should develop a system
 that you are comfortable with and try to stick with it. Your objective
 in annotation is to flag the key elements of a piece of writing---the
-thesis, argumentative points, and pieces of evidence. In addition, use
+`thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use
 the margins of the text to ask questions, make brief notes, indicate
 confusion, define unfamiliar terms, and make connections to other texts.
 This kind of work serves two purposes: first, it helps you maintain a
 critical focus as you read; second, it helps you later if the text must
 be used for study or your own writing. If you plan on being successful
 in college, the ability to rigorously annotate texts is perhaps the most
-helpful and important skill you can develop. Further advice and caveats
-about annotation may be found in the [*Open Handbook*](https://github.com/stockphrase/OpenHandbook/raw/master/Open%20Handbook.pdf).
+helpful and important skill you can develop.
 
 {{< hint info >}}
-- Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
+- Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the [*Open Handbook*](/resources/open-handbook).
+
     
 {{< /hint >}}
 
@@ -170,7 +158,7 @@ Hive is an open-source repository containing notes, ideas, and questions about o
 
 {{< /hint >}}
 
-Our objective for Hive is to explore meaning, discover argumentative structure, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “hive mind” is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
+Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “hive mind” is capable of discovering and uncovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
 You might contribute to Hive by doing some of the following tasks:
 
@@ -595,7 +583,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Ten" >}}
 #
-### // Monday, 11.16
+### <i class="fas fa-star-of-life"></i> Monday, 11.16
 
 {{< hint info >}}
 #### <i class="fa fa-bullseye"></i> Essay 3 Final Due

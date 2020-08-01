@@ -12,20 +12,21 @@ type: docs
 
 ---
 
-Integrating quotations from other sources is an important part of academic writing. However, doing so is rarely a simple process of cutting and pasting the words from another source into your document. For example:
+Integrating quotations from other sources is an important part of academic writing. However, doing so is rarely a simple process of cutting and pasting the words from a source into your own document. Instead, you will routinely encounter challenges in the quotation of a source that threaten the clarity and correctness of your prose. For example:
 
-- What do you do when you writing in the present tense and the source material you are quoting uses the past tense? 
+- *What do you do when you writing in the present tense and the source material you are quoting uses the past tense?* Simply pasting these words in without alteration will lead to odd shifts in tense. 
 
-- What if the sentence you want to quote contains extraneous words or phrases that are a distraction from your intended purpose? 
+- *What if the sentence you want to quote contains extraneous words or phrases that are a distraction from your intended purpose?* Leaving these extra words or phrases in the quotation may lead your readers to become confused or bored.  
 
-- What if a term in your quotation needs some sort of clarification so that your audience will understand what meaning you intend? 
+- *What if a term in your quotation needs some sort of clarification so that your audience will understand what meaning you intend?* Left unremarked, your readers may miss the point of your ideas or become confused.
 
-- What if you need to change the capitalization of a letter in the source text after placing it within the context of your writing?
+- *What if you need to change the capitalization of a letter in the source text after placing it within the context of your writing?* Leaving this unchanged would violate the rules of capitalization and make you appear sloppy or uncaring. 
 
-Issues such as these are a common problem in academic writing. So, what do you do? 
+Issues such as these are a common problem in academic writing since the use of sources is so central to the enterprise. *So, what do you do?*
 
-This exercise will introduce you to *ellipsis* and *brackets* which are used to alter source material during quotation. 
+This exercise will introduce you to `ellipsis` and `brackets` which are used to alter source material during quotation. These are important tools to control as you take part in academic conversations.  
 
+## Source Text
 
 {{< details "Source Text" open >}}
 #
@@ -38,18 +39,18 @@ This exercise will introduce you to *ellipsis* and *brackets* which are used to 
 
 ## Workshop
 
-Using the source text provided above, write the sentences or paragraphs assigned below. For help with ellipsis, brackets, quotation, and paraphrase, read the chapter in the *Open Handbook* on [altering sources](/resources/open-handbook/chapter-8). 
+Using the source text provided above, write the sentences or paragraphs assigned below. For help with `ellipsis,` `brackets,` `quotation,` and `paraphrase,` read the chapters in the *Open Handbook* on [altering sources](/resources/open-handbook/chapter-9) and [working with sources](/resources/open-handbook/chapter-8). 
 
-1. Write a sentence involving a quotation from the passage, use ellipsis to show an omission, then cite according to MLA. The ellipsis must be for an omission in the *middle* of a single sentence. 
-2. Quote a portion of this passage using ellipsis to show an omission, then cite according to MLA. The ellipsis *must remove the ending of one sentence and the beginning of another*. 
-3. Use square *brackets* in a quotation to give the reader clarifying information, then cite according to MLA. 
-4. Use square *brackets* in a quotation to alter capitalization.
-
-
-5. Write a complete *paraphrase* of this text. Think of paraphrase as a translation from English into English---express the same ideas as another writer but use your own words and sentence structure. Cite in MLA accordingly.
+1. Write a sentence involving a quotation from the passage, use `ellipsis` to show an omission, then cite according to MLA. The ellipsis must be for an omission in the *middle* of a single sentence. 
+2. Quote a portion of this passage using `ellipsis` to show an omission, then cite according to MLA. The ellipsis *must remove the ending of one sentence and the beginning of another*. 
+3. Use `brackets` in a quotation to give the reader clarifying information, then cite according to MLA. 
+4. Use `brackets` in a quotation to alter capitalization.
 
 
-6. Rewrite your *paraphrase*, but this time integrate some of the author’s language (in the form of short quotations) that you feel is significant or memorable. Cite in MLA accordingly.
+5. Write a complete `paraphrase` of this text. Think of paraphrase as a translation from English into English---express the same ideas as another writer but use your own words and sentence structure. In this paraphrase, consider that your audience may not have read the essay from which this quotation was excerpted. What sorts of context should you provide to help them understand? Cite in MLA accordingly.
+
+
+6. Rewrite your `paraphrase`, but this time integrate some of the author’s language (in the form of short quotations) that you feel is significant or memorable. Cite in MLA accordingly.
 
 
 ---
