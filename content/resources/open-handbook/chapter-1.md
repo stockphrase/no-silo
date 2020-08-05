@@ -8,17 +8,17 @@ bookHidden: true
 
 <div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
-# Annotation and Critical Reading
+# Chapter One: Annotation and Critical Reading
 
 ---
   <small>
 
-"There is something predatory, cruel even, about a pen suspended over a
+There is something predatory, cruel even, about a pen suspended over a
 text. Like a hawk over a field, it is on the lookout for something
 vulnerable. Then it is a pleasure to swoop and skewer the victim with
 the nib's sharp point. The mere fact of holding the hand poised for
 action changes our attitude to the text. We are no longer passive
-consumers of a monologue but active participants in a dialogue."
+consumers of a monologue but active participants in a dialogue.
 
 --- Tim Parks, "[A Weapon for Readers](http://www.nybooks.com/blogs/nyrblog/2014/dec/03/weapon-for-readers/)"
 

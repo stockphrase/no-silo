@@ -32,8 +32,8 @@ arguments of others.
 
 # A few examples
 
-Let’s examine few examples based on this passage from George Orwell’s famous essay entitled “A
-Hanging”:
+Let’s examine few examples based on this passage from George Orwell’s famous essay entitled [“A
+Hanging”](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/a-hanging/):
 
 >It was about forty yards to the gallows. I watched the bare brown back of the prisoner
 marching in front of me. He walked clumsily with his bound arms, but quite steadily,
@@ -51,6 +51,7 @@ to live. His eyes saw the yellow gravel and the grey walls, and his brain still 
 men walking together, seeing, hearing, feeling, understanding the same world; and
 in two minutes, with a sudden snap, one of us would be gone---one mind less, one
 world less. (47)
+
 
 The following sentences all express the same meaning; however, they use a variety of sentence
 structures to accomplish that goal:

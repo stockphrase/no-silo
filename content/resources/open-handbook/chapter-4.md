@@ -6,7 +6,7 @@ title: "The Joy of Reuse (Save Your Work)"
 
 <div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
-# The Joy of Reuse
+# Chapter Four: The Joy of Reuse
 
 ---
 
@@ -36,15 +36,17 @@ that led to your finished work and save them in some organized way.
 Successful scholars and students return to prior work and research all
 the time---reshaping, repurposing, and extending prior efforts. They
 understand that knowledge is cumulative: it accretes and deepens over
-time, often by building on what came before. *This is the joy of reuse*.
+time, often by building on what came before. 
+
+*This is the joy of reuse*.
 
 ## Staying organized
 
 To retain your work and stay organized, you might use a simple paper
-system made up of manila folders. Or you might use a hierarchical folder
+system made up of manila folders or large 3-ring binders. Or you might use a hierarchical folder
 system on your computer organized by class, project, or term.
 Alternatively, you might embrace a powerful bibliographic manager like
-[Zotero](https://www.zotero.org/). Or you could get really nuts and create an actual database for storing your stuff. Whatever you choose, create a system for
+[Zotero](https://www.zotero.org/). Whatever you choose, create a system for
 staying organized and stick with it.
 
 ## A poor file-saving strategy
@@ -180,7 +182,7 @@ the following:
 
 -   Descriptions of file versions, if they are revised in some way.
 
--   If there are multiple subfolders (as in the example at right), those
+-   If there are multiple subfolders (as in the example below), those
     folder paths should be clearly indicated to show their location and
     contents.
 
@@ -272,7 +274,7 @@ the following:
 
 Avoid using spaces or underscores in the naming of folders, as some
 computer systems or programs will have difficulty with them. Instead,
-use CamelCase and dashes to make the folder and file names more
+use CamelCase and/or dashes to make the folder and file names more
 human-readable.
 
 ## Naming top-level project folders
@@ -313,7 +315,7 @@ human-readable.
 │   │   ├── 201911-VisualizationV01.rdata
 │   │   └── ...
 │   ├── <font color="#859900"><b>Docs</b></font>
-│   │   ├── 201908-ProceureManual.docx
+│   │   ├── 201908-ProcedureManual.docx
 │   │   ├── 201911-PublicTalkPresentation.pptxt
 │   │   └── ...
 │   └── README.md
@@ -339,7 +341,7 @@ own initiative; instead, you should embrace some kind of [regular,
 automated system](https://www.jwz.org/blog/2007/09/psa-backups/) to
 ensure your work will survive any tragedy.
 
-> {{< fa bomb >}} At some point in the future you will boot up your laptop and it will
+> <i class="fas fa-bomb"></i> At some point in the future you will boot up your laptop and it will
     begin smoking, or be infected by ransomware, or display the
     [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death). You will
     have no backups. As you cry salty tears you will remember reading

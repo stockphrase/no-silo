@@ -19,7 +19,7 @@ title: "Writing 2: Syllabus"
 {{< button href="https://www.youtube.com/watch?v=yAv5pLO37mE" >}}Prof's Current Jam 2 {{< /button >}}
 --->
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
+**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary,` `paraphrase,` and `quotation.`
 
 During the Winter term we will turn our focus to academic research. Our
 libraries hold an impressive array of traditional and electronic search
@@ -223,7 +223,7 @@ academic adjustments and services, you should contact the SAS office. All inquir
 | <i class="fa fa-bullseye">   | Assignment due
 | <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas 
 | <i class="fab fa-forumbee">  | Contribute to [Hive](/courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
-| <i class="fa fa-code-branch"> | Peer work, in pairs or groups 
+| <i class="fas fa-code-branch"> | Peer work, in pairs or groups 
 | <i class="fa fa-bullhorn"></i> | Group discussion via Zoom
 | <i class="fa fa-book-open"></i> | A reading from the *Open Handbook*
 | <i class="fa fa-question-circle"></i> | The Question of the Day™

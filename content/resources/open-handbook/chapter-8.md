@@ -37,11 +37,11 @@ Signal phrases are words that tell your readers that you are borrowing
 text or ideas from a source. The borrowed material could be quoted,
 summarized, or paraphrased. The signal phrase, as the name suggests,
 tells your reader that you are about to begin borrowing; after you have
-presented the borrowed material, conclude with a [**citation**](/resources/open-handbook/chapter-11) to tell
-your reader that the borrowing has concluded. Using signal phrases and
+presented the borrowed material, the concluding [**citation**](/resources/open-handbook/chapter-11) tells
+the reader that the borrowing has concluded. Using signal phrases and
 citations to bookend your borrowings from other texts helps you avoid
 [**plagiarism**](/resources/open-handbook/chapter-10), organize your writing, and help your readers understand
-how your views relate to the views of the other writers you present.
+how your views relate to the views of the other writers you present in your writing.
 
 ## Why use them?
 
@@ -120,11 +120,11 @@ both views are problematic . . .
 Notice here how the author of this paragraph uses `signal phrases` and `citations` to distinguish his voice from the two source texts he is using. The student announces
 that he is borrowing words or ideas (in the form of quotations, summary,
 or paraphrase) with a signal phrase and the author's name, then bookends the
-borrowing with a citation. The paragraph concludes with the student transitioning from the source texts to his own thoughts, posing a series of questions that he will try to answer in the reminder of the paper. *This move is a foundational building block of all academic writing*. This is one of the more important skills to master for success in academic writing contexts.
+borrowing with a citation. The paragraph concludes with the student transitioning from the source texts to his own thoughts, posing a series of questions that he will try to answer in the reminder of the paper. *The moves on display here are the foundational building blocks of all academic writing*. This is one of the more important skills to master for success in academic writing contexts.
 
 We can represent this important tactic with the following formula:
 
-- <span class="highlight">**signal phrase + borrowed text/idea + citation**.</span>
+- <span class="highlight">**Signal phrase + borrowed text/idea + citation**.</span>
 
 
 # Quotation

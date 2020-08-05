@@ -12,14 +12,14 @@ title: "Audience"
 
   <small>
 
-"[A] work of rhetoric is pragmatic; it comes into existence
+[A] work of rhetoric is pragmatic; it comes into existence
 for the sake of something beyond itself; it functions ultimately to produce
 action or change in the world; it performs some task. In short, rhetoric is a
 mode of altering reality, not by the direct application of energy to objects,
 but by the creation of discourse which changes reality through the mediation of
 thought and action. The rhetor alters reality by bringing into existence a
 discourse of such a character that the audience, in thought and action, is so
-engaged that it becomes mediator of change" (3-4).
+engaged that it becomes mediator of change (3-4).
 
 --- Lloyd F. Bitzer, ["The Rhetorical Situation"](http://www.jstor.org/stable/40593346)
 
@@ -46,7 +46,7 @@ The nature of audiences is often elusive and complex. We may never completely un
 
 Before you write anything, carefully analyze those people whom you desire to
 persuade. To the best of your knowledge, take an inventory of what you know about the audience (or audiences) you plan to address in your writing. This analysis should give you
-insight into how best to present your thinking, reasoning, and evidence. You might begin such an audience analysis by asking questions such as these:
+insight into how best to present your thinking, reasoning, and evidence. You might begin an audience analysis by asking questions such as these:
 
 - Who is your audience or audiences?
 - What are their values?
@@ -85,7 +85,7 @@ any rhetorical missteps that may alienate your readers.
 ## Addressing a broad audience
 
 In college your audience will most often be your professor and fellow class
-members. However, when you write you should learn to address a broader, general audience.
+members. However, when you write you should learn to address a more general audience.
 This means that you will not take certain things for granted as you write and ensure
 that you provide good contextual information designed to help your readers gain clear understanding.
 
@@ -99,7 +99,7 @@ sentences:
 
 **1. As we talked about in class, Freire argues that banking can be undemocratic and oppressive.**
 
-[<i class="fas fa-times"></i>]() `Explanation`: This sentence assumes that the audience knows certain things, namely Paulo Freire, his essay, and class discussions. However, writing the sentence in this way excludes everyone who is not taking part in
+- [<i class="fas fa-times"></i>]() `Explanation`: This sentence assumes that the audience knows certain things, namely Paulo Freire, his essay, and class discussions. However, writing the sentence in this way excludes everyone who is not taking part in
 this particular class. Imagine the confusion you would experience after reading
 this sentence if you had not taken part in the discussion of this piece of
 writing. You might wonder: What is "banking"? You mean my credit card company is oppressing me? Who is this Freire guy? Is he some authority I should trust? Where did he make this argument?
@@ -109,8 +109,8 @@ writing. You might wonder: What is "banking"? You mean my credit card company is
 
 **2. In an essay entitled "The 'Banking Concept' of Education," Brazilian educator Paulo Freire argues that a widely practiced form of schooling that he terms "banking education" is oppressive and undemocratic.**
 
-[<i class="fas fa-check"></i>]() `Explanation`: The second sentence attempts to include a much larger
-audience by carefully introducing important contextual information. By
+- [<i class="fas fa-check"></i>]() `Explanation`: The second sentence attempts to include a much larger
+audience by carefully introducing important context. By
 providing the author's full name, his profession, the essay title, and the
 definition of key terms, the audience will feel they are being addressed by
 the writing, rather than excluded. Further, they will gain important contextual

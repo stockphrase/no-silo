@@ -13,8 +13,8 @@ title: "6. Types of College Writing"
 Most students are trained in high school to write what is known as a
 `five-paragraph essay`---a form of writing containing an introduction, three
 paragraphs of support, and a summary conclusion. In that it encourages
-students to think about `introductions`, `structure`, `organization`,
-`paragraphing`, `evidence`, and `reasoning`, the five-paragraph essay is good
+students to think about `introductions,` `structure,` `organization,`
+`paragraphing,` `evidence,` and `reasoning,` the five-paragraph essay is good
 training for novice writers. However, this particular rhetorical form is
 *extremely* limiting: only certain, rather paltry, thoughts and ideas
 may be placed within a five paragraph structure.
@@ -68,10 +68,11 @@ terms and write from your own perspective.
 
 While a response paper allows you to write about something you choose,
 your effort should not be an impressionistic one where you only talk
-about your personal feelings---what you like or dislike about the text.
+about your personal feelings---what you like or dislike about the subject of your response.
 Rather, you should seek to *evaluate* and *engage* the claims and ideas
-you find in the text. Thus, a response is always argumentative in nature
-in that you will make claims and use reasoning and evidence as support.
+you find in the text or the meanings you discover in the film, artwork, cultural practice
+or other artifact. Thus, *a response is always argumentative in nature
+in that you will make claims and use reasoning and evidence as support*.
 
 Your response may seek to take issue with some of the thinking or
 reasoning put forth in the reading. However, a good response doesn't
@@ -101,8 +102,8 @@ As the name suggests, synthesis essays emphasize *combining* and
 audience the ways in which two or more arguments or ideas relate to one
 another.
 
-Rather than try to summarize the essays separately, a synthesis will
-attempt to discover the various things that the authors discuss---the
+Rather than try to summarize two or more things separately, a synthesis will
+attempt to discover the various things that the authors or texts discuss---the
 questions, ideas, and arguments they have in common---then present those
 things in an organized and meaningful way. Thus, your objective in a
 synthesis is to bring two or more distinct sources into a relationship
@@ -129,13 +130,6 @@ readings you plan to synthesize:
 Answering these questions *exhaustively* will help you write an essay that
 examines the relationship(s) between the various authors' arguments,
 comparing and contrasting their views.
-
-Synthesis is very textual in nature: *you must show explicit textual
-evidence for each of the claims you attribute to the authors*.
-Using [**summary**](/resources/open-handbook/chapter-6), [**paraphrase**](/resources/open-handbook/chapter-6), and [**quotation**](/resources/open-handbook/chapter-6), compare and
-contrast the authors' positions. Make sure to cite each of these
-appropriately. Use clear [**signal phrases**]() to transition between your
-presentations of the various author's ideas or works.
 
 # Analysis/Close Reading
 
@@ -193,7 +187,7 @@ models that are important for that discipline.
 
 
 A [**research**](/resources/open-handbook/chapter-12) paper requires you to draw on outside sources in
-addition to your own thinking. Research writing often includes many of
+addition to your own thinking in the service of an argument. Research writing often includes many of
 the kinds of writing described above. Indeed, research writing involves
 a coordination of all of the previously mentioned skills and rhetorical
 modes. For example, your research paper may involve one or more

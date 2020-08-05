@@ -22,13 +22,13 @@ Annotation refers to the process of making meaningful marks on a text as you rea
 
 Since you have likely never engaged a text in such a manner, here are some strategies that you might consider as you develop a process for annotation and critical reading:
 
-- *Use a symbol system*. Develop a system of symbols to flag important aspects of a reading. Mark significant elements within the text such as the thesis, argumentative claims, and evidence. Also note when a text references other texts, authors, or events. Note places where you become confused or uncertain; later, in a second reading, you can give extra attention to these portions of the text.
+- **Use a symbol system**. Develop a system of symbols to flag important aspects of a reading. Mark significant elements within the text such as the thesis, argumentative claims, and evidence. Also note when a text references other texts, authors, or events. Note places where you become confused or uncertain; later, in a second reading, you can give extra attention to these portions of the text.
 
-- *Interrogate the text*. Be ruthless. Be rigorous. Ask questions back to the author in the margins of the text. Challenge the conclusions and arguments that he or she presents by making ones of your own.
+- **Interrogate the text**. Be ruthless. Be rigorous. Ask questions back to the author in the margins of the text. Challenge the conclusions and arguments that he or she presents by making ones of your own.
 
-- *Summarize*. Write keywords or make “microsummaries” in the margins next to each paragraph. Later, you will not have to re-read the entire document to find your place. These can be especially useful if you later use this text in your own writing.
+- **Summarize**. Write keywords or make “microsummaries” in the margins next to each paragraph. Later, you will not have to re-read the entire document to find your place. These can be especially useful if you later use this text in your own writing.
 
-- *Connect*. Find connections between the reading and others within the course or your broader reading experience. Develop the capacity to bring other texts into dialogue with each other, imagining writing and reading as a form of social interaction.
+- **Connect**. Find connections between the reading and others within the course or your broader reading experience. Develop the capacity to bring other texts into dialogue with each other, imagining writing and reading as a form of social interaction.
 
 ## Workshop
 

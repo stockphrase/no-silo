@@ -6,16 +6,16 @@ title: "Critical Notes"
 
 <div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
-# Critical Notes
+# Chapter Two: Critical Notes
 
 ---
   <small>
 
-"We believe the best way to work on a difficult text is by rereading
+We believe the best way to work on a difficult text is by rereading
 . . . but you can also work on the difficult text by writing, by
 taking possession of the work through sentences and paragraphs of your
 own, through summary, paraphrase, and quotation, by making another
-writer's work part of your work" (12).
+writer's work part of your work (12).
 
 --- Bartholomae and Petrosky, "Introduction." *Ways of Reading: An Anthology for Writers*
 
@@ -23,16 +23,15 @@ writer's work part of your work" (12).
 
 ---
 
-## Taking critical notes
+### Taking critical notes
 
 
 One objective of the annotations described in the previous chapter is to
 help you create a `critical outline` during a subsequent reading. The
 objective in the critical outline is to boil the entire argument down to
-its essence, without losing any significant detail. The focus here should be on
+its essence, without losing any significant detail. The focus, then, is on
 *reduction*: taking something complex and unwieldy and turning it
-into something small and useful for study or your own writing. You are an information miner, 
-removing only the valuable materials from a pile of ore. There is
+into something small and useful for study or your own writing. There is
 a real art to this, and you will become better and faster at this as you
 practice. Over time, you will train your mind to operate in such a way
 that you will perform these tasks almost unconsciously as you read.

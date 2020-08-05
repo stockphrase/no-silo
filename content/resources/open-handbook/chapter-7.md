@@ -70,8 +70,7 @@ Most commonly, topic sentences are strong, declarative statements that
 make a claim. The sentences that follow the topic sentence in the
 paragraph are used to support that claim. However, a topic sentence may
 also be a question. In this case, the sentences that follow the topic
-sentence are used to move toward a conclusion or further development or
-deepening of the question.
+sentence are used to move toward a conclusion or further develop the question.
 
 ## Example paragraphs
 

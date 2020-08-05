@@ -76,6 +76,7 @@ College should be a series of experiences through which you *gain ownership over
 {{< /details >}}
 
 
+
 {{< details "Are you as grumpy as this FAQ suggests?" >}}
 
 #
@@ -84,6 +85,6 @@ College should be a series of experiences through which you *gain ownership over
 
 Now you kids get off my lawn!
 
-
 {{< /details >}}
+
 
