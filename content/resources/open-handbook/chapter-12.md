@@ -21,8 +21,8 @@ status: under-revision
 ---
 
 Research writing involves a number of important skills: `library
-research`, `critical thinking`, the `evaluation of sources`, and the ability
-to `synthesize` information through `summary`, `paraphrase`, and `quotation`.
+research,` `critical thinking,` the `evaluation of sources,` and the ability
+to `synthesize` information through `summary,` `paraphrase,` and `quotation.`
 Although synthesizing the thinking of others is an important part of the
 research essay, in its true form the research essay strives for much
 more than a mere restatement of what others have said on a particular
@@ -87,7 +87,7 @@ our writing should never be a mere rehashing of someone else's work. In any case
 that the conversation we hope to take part in existed before we entered it, and that whatever we
 might say or argue has a context that must be considered. Thus, every academic paper you write will not only
 argue an original point or idea, it will also show how that idea emerges
-from a preexisting conversation.
+from an existing conversation.
 
 ## The Research Topic
 
@@ -136,7 +136,7 @@ research topic is just a general field of inquiry, a subject that you want to be
 
 If you are having difficulty finding a narrow topic of interest, one way
 to get started is to examine an organized list of *every* subtopic that
-is related to your broader subject. Since the [Library of
+is related to your subject of inquiry. Since the [Library of
 Congress](http://catalog.loc.gov) assigns a series of **subject
 headings** to every published book, you can easily browse a meticulously
 categorized list of books that relate to your broader research subject.
@@ -158,6 +158,9 @@ headings to find *all* of the other books written on those topics. As
 you may see from this example, the Library of Congress
 assigned the book the following three subject headings:
 
+
+{{< figure src="/img/copyright-page.png" >}}
+
 - [United States\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CUnited%20States%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
 - [Ontario\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2COntario%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
@@ -176,10 +179,7 @@ Library of Congress, you can perform subject searches by selecting the
 [advanced search](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&mode=advanced)
 feature of the [library catalog](https://search.library.dartmouth.edu/).
 
-### Example of a Copyright Page
 
-
-{{< figure src="/img/copyright-page.png" >}}
 
 
 ## Finding Background Information
@@ -255,7 +255,7 @@ several options on the left pane of the window. You might, for example,
 select for peer-reviewed content, limit your search to books/articles,
 or ensure that you only see content accessible through our library.
 
-{{< details "🔴️ WARNING about Primo" closed >}}
+{{< details "🔴️ WARNING about Primo" open >}}
 
 #
 

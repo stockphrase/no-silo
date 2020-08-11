@@ -6,11 +6,14 @@ bookHidden: true
 title: "Essay Three"
 ---
 
+<div style="text-align:center">{{< figure src="/img/rushmore.jpg" >}}</div>
+
+
 ## Essay Three: Theoretical Analysis
 
 ---
 
-In *Rushmore*, Max Fischer has an insatiable appetite for extracurricular activities: fencing, bee-keeping, yankee racers, calligraphy, backgammon, theater, and on and on and on. These projects and clubs are forms of self-improvement---kinds of sovereign inquiry---but they completely dwarf his responsibilities in the traditional disciplines of formal education: geometry, history, English, etc. According to Dr. Guggenheim, Max is "one of the worst students" at Rushmore Academy.
+Max Fischer has an insatiable appetite for extracurricular activities: fencing, bee-keeping, yankee racers, calligraphy, backgammon, theater, and on and on and on. These projects and clubs are forms of self-improvement---kinds of sovereign inquiry---but they completely dwarf his responsibilities in the traditional disciplines of formal education: geometry, history, English, etc. According to Dr. Guggenheim, Max is "one of the worst students" at Rushmore Academy.
 
 But what might Paulo Freire argue about Max's behavior as a human being and a scholar? How might we use Freire's ideas from "The 'Banking' Concept of Education" to analyze or judge the educational trajectory and behavior of Max?
 

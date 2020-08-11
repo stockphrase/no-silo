@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment, you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the `annotation` of texts.
+In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment, you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the [annotation](/resources/open-handbook/chapter-1) of texts.
 
 ## What is annotation?
 
@@ -30,11 +30,11 @@ Since you have likely never engaged a text in such a manner, here are some strat
 
 - **Connect**. Find connections between the reading and others within the course or your broader reading experience. Develop the capacity to bring other texts into dialogue with each other, imagining writing and reading as a form of social interaction.
 
-## Workshop
+# Workshop
 
-As you read the paragraph in the document linked to below, practice annotating it as if it were a paragraph from one of your course readings. What sorts of marks will you make on the text? What will you flag as important? What marginal notes will you write? What questions will you ask? 
+Print out the document below and practice annotating it as if it were a paragraph from one of your course readings. What sorts of marks will you make on the text? What will you flag as important and how will you signal it? What marginal notes will you write? What questions will you ask? 
 
-| Download       | Source         
+| Download       | Source citation         
 | :-------------: |:-------------
-|<i class="fa fa-download "></i> [Workshop](/docs/Annotation-Exercise.docx)    | *From*: Douglass S. Massey and Nancy A. Denton’s “The Continuing Causes of Segregation." *The Blackwell City Reader*. Edited by Gary Bridge and Sophie Watson, Wiley-Blackwell, 2010.  
+|<i class="fa fa-download "></i> [Workshop](/docs/Annotation-Exercise.docx)    | *From*: Douglass S. Massey and Nancy A. Denton’s “The Continuing Causes of Segregation." [*The Blackwell City Reader*](https://www.wiley.com/en-us/The+Blackwell+City+Reader%2C+2nd+Edition-p-9781405189828). Edited by Gary Bridge and Sophie Watson, Wiley-Blackwell, 2010.  
 

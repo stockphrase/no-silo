@@ -35,7 +35,7 @@ Answering these questions makes it easier to write an essay examining the relati
 
 Walker Percy and Paulo Freire, each in their own way, ask us to consider the problem of authority within particular educational systems or practices. Map out the various ways in which these two authors examine the same problem or set of issues. How do they describe the problem? What terms to do they use? Are these terms used to communicate a similar issue or concern? What are the effects of these problems on the human beings who "experience" them? What further consequences befall those who are trained in these improper forms of education? What solutions do Percy and Freire offer to this problem? Are these views compatible?
 
-Much as you did in a previous workshop, map out all of these connections between the two texts, producing an organized list. Make sure to scrupulously cite each reference to the text so you won't burn time trying to find them again later.
+Much as you did in a previous workshop, map out all of these connections between the two texts, producing an organized list. Make sure to scrupulously cite each reference to the text so you won't waste time trying to find them again later.
 
 ---
 

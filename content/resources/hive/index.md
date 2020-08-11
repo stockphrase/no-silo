@@ -6,21 +6,23 @@ bookHidden: false
 title: "+ Hive"
 ---
 
-[<div style="text-align:center">{{< figure src="/img/hive-7.png" width=150 >}}</div>](https://canvas.dartmouth.edu)
+[<div style="text-align:center">{{< figure src="/img/hive-7.png" width=165 >}}</div>](https://canvas.dartmouth.edu)
  
 # What is Hive?
 
 [**Hive**](https://dartmouth.enterprise.slack.com/) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The "[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)" is capable of discovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
 
 {{< hint info >}}
-We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) to create the Hive resource. You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. You may authenticate using your Dartmouth credentials at this G-Suite link: https://google.dartmouth.edu/
+- We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) to create the Hive resource. You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. 
+
+- You may authenticate using your Dartmouth credentials at this G-Suite link: https://google.dartmouth.edu/
 
 {{< /hint >}}
 
-Each reading in the [syllabus](/courses/writing-2/wr2-syllabus) has an attached Google doc located in a link below it. Each of my course sections has their own dedicated Hive page. Please make sure to make your contribution to the proper course section, indicated with the following notation:
+Each reading in the [WR2 syllabus](/courses/writing-2/wr2-syllabus) has an attached Google doc located in a link below it. And each of my course sections has their own dedicated Hive page. Please make sure to make your contribution to the proper course section, indicated with the following notation:
 
+- [<i class="fab fa-forumbee"></i> <sup>6</sup>]() : Hive page for section 6
 - [<i class="fab fa-forumbee"></i> <sup>7</sup>]() : Hive page for section 7
-- [<i class="fab fa-forumbee"></i> <sup>8</sup>]() : Hive page for section 8
 
 ## How to contribute
 
@@ -52,7 +54,7 @@ Here is a mockup of a page in Hive dedicated to our first reading. It might rese
 <div class="container">
         <div class="raised-edge">
 
-<div style="text-align:center">{{< figure src="/img/hive-7.png" width=120 >}}</div>
+<div style="text-align:center">{{< figure src="/img/hive-7.png" width=140 >}}</div>
 
 ---
 

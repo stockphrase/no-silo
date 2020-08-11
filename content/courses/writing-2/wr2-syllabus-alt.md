@@ -3,7 +3,7 @@ weight: 1
 bookFlatSection: true
 bookToc: true
 bookHidden: true
-title: "Writing 2: Syllabus"
+title: "Writing 2: Syllabus ALT"
 ---
 
 
@@ -322,17 +322,20 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Independent work`
 
-- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
+- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 
 ### <i class="fas fa-star-of-life"></i> Wednesday, 9.23
 
-#### ``+ In-class work``
+#### `+ Independent work`
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Baker reading & Hive submissions
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for a discussion of the text on Friday. 
+
+- <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
+    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive Page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
+    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive Page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
 
 ---
 
@@ -346,9 +349,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading & Hive submissions
-- <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive Page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive Page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
+
 
 #### `+ Assignments`
 - <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
@@ -362,34 +363,34 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ Readings`
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
 
 
-#### ``+ In-class work``
+#### `+ Independent work`
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
 
 
 ### <i class="fas fa-star-of-life"></i> Wednesday, 9.30
 
-#### ``+ In-class work``
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
-- <i class="fa fa-wrench"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
+#### `+ Independent work`
+
+
+
 
 ### <i class="fas fa-star-of-life"></i> Friday, 10.2
 
 #### `+ Readings`
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9)
+
 
 
 #### `+ In-class work`
 
 - <i class="fa fa-box-open"></i> Friday soapbox
-- <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/) workshop
+- <i class="fa fa-wrench"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
+- <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
+
 
 #### `+ Due`
 {{< hint info >}} 
@@ -423,18 +424,21 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
 
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
+
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 
 ### <i class="fas fa-star-of-life"></i> Wednesday, 10.7
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 
 ### <i class="fas fa-star-of-life"></i> Friday, 10.9
 
 - <i class="fa fa-box-open"></i> Friday soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
+
+- <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 
 
 {{< /details >}}
@@ -459,8 +463,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### <i class="fas fa-star-of-life"></i> Wednesday, 10.14
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Freire reading and Hive submissions
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 
 ### <i class="fas fa-star-of-life"></i> Friday, 10.16
 
@@ -483,14 +486,14 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### <i class="fas fa-star-of-life"></i> Monday, 10.19
 
-#### ``+ In-class work``
+#### ``+ Independent work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 2](/courses/workshops/argument-synthesis/)
 
 
 ### <i class="fas fa-star-of-life"></i> Wednesday, 10.21
 
-#### ``+ In-class work``
+#### ``+ Independent work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 3](/courses/workshops/argument-synthesis/)
 

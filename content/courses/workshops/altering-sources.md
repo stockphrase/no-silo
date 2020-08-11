@@ -12,17 +12,19 @@ type: docs
 
 ---
 
-Integrating quotations from other sources is an important part of academic writing. However, doing so is rarely a simple process of cutting and pasting the words from a source into your own document. Instead, you will routinely encounter challenges in the quotation of a source that threaten the clarity and correctness of your prose. For example:
+Integrating quotations from other sources is an important part of academic writing. However, doing so is rarely a simple process of cutting and pasting the words from a source into your own document. Instead, you will routinely encounter challenges during the quotation of a source that threaten the clarity and correctness of your prose. For example:
 
-- <i class="fas fa-question-circle"></i> *What do you do when you writing in the present tense and the source material you are quoting uses the past tense?* Simply pasting these words in without alteration will lead to odd shifts in tense. 
+- <i class="fas fa-question-circle"></i> *What do you do when you are writing in the present tense and the source material you are quoting uses the past tense?* Simply pasting these words in without alteration will lead to odd shifts in tense. 
 
 - <i class="fas fa-question-circle"></i> *What if the sentence you want to quote contains extraneous words or phrases that are a distraction from your intended purpose?* Leaving these extra words or phrases in the quotation may lead your readers to become confused or bored.  
 
 - <i class="fas fa-question-circle"></i> *What if a term in your quotation needs some sort of clarification so that your audience will understand what meaning you intend?* Left unremarked, your readers may miss the point of your ideas or become confused.
 
-- <i class="fas fa-question-circle"></i> *What if you need to change the capitalization of a letter in the source text after placing it within the context of your writing?* Leaving this unchanged would violate the rules of capitalization and make you appear sloppy or uncaring. 
+- <i class="fas fa-question-circle"></i> *What if you need to change the capitalization of a letter in the source text after placing it within the context of your writing?* Leaving this unchanged would violate the rules of capitalization and make you appear sloppy or careless. 
 
-Issues such as these are a common problem in academic writing since the use of sources is so central to the enterprise. *So, what do you do?*
+Issues such as these are a common problem in academic writing since the use of sources is so central to the enterprise. 
+
+### *So, what do you do in these situations?*
 
 This exercise will introduce you to `ellipsis` and `brackets` which are used to alter source material during quotation. These are important tools to control as you take part in academic conversations.  
 

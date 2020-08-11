@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: + Workshops
+title: Workshops
 bookFlatSection: true
 bookToc: true
 type: docs
@@ -18,7 +18,7 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 {{< tab "Writing 2" >}} 
 
-#### Writing 2
+#### <i class="fas fa-dot-circle"></i> Writing 2
 
 - [ ] [Altering sources](/courses/workshops/altering-sources)
 - [ ] [Annotation](/courses/workshops/annotation) 
@@ -39,7 +39,7 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 {{< tab "Writing 3" >}} 
 
-#### Writing 3
+#### <i class="fas fa-dot-circle"></i> Writing 3
 
 `+ Library Research`
 
@@ -105,6 +105,7 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 {{< tab "Lectures" >}} 
 
+#### <i class="fas fa-dot-circle"></i> Lectures
 
 
 
