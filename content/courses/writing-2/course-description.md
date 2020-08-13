@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary`, `paraphrase`, and `quotation`.
+**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary,` `paraphrase,` and `quotation.`
 
 ---
 
@@ -28,9 +28,9 @@ type: docs
 {{< tab "Assignments" >}} 
 
 
-- [ ] [Essay 1](/courses/writing-2/essay-1)
-- [ ] [Essay 2](/courses/writing-2/essay-2)
-- [ ] [Essay 3](/courses/writing-2/essay-3)
+- [ ] [Essay 1: Argument](/courses/writing-2/essay-1)
+- [ ] [Essay 2: Synthesis](/courses/writing-2/essay-2)
+- [ ] [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
 
 
 {{< /tab >}}

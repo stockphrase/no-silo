@@ -43,16 +43,18 @@ This exercise will introduce you to `ellipsis` and `brackets` which are used to 
 
 Using the source text provided above, write the sentences or paragraphs assigned below. For help with `ellipsis,` `brackets,` `quotation,` and `paraphrase,` read the chapters in the *Open Handbook* on [altering sources](/resources/open-handbook/chapter-9) and [working with sources](/resources/open-handbook/chapter-8). 
 
-1. Write a sentence involving a quotation from the passage, use `ellipsis` to show an omission, then cite according to MLA. The ellipsis must be for an omission in the *middle* of a single sentence. 
-2. Quote a portion of this passage using `ellipsis` to show an omission, then cite according to MLA. The ellipsis *must remove the ending of one sentence and the beginning of another*. 
-3. Use `brackets` in a quotation to give the reader clarifying information, then cite according to MLA. 
-4. Use `brackets` in a quotation to alter capitalization.
+1. Write a sentence involving a quotation from the passage, use `ellipsis` to show an omission, then cite according to MLA. The ellipsis must be for an omission *within a single sentence*. 
+2. Write a sentence involving a quotation from the passage using `ellipsis` to show an omission, then cite according to MLA. The ellipsis *must remove the ending of one sentence and the beginning of another*. 
+3. Write a sentence with a quotation that uses `brackets` to give the reader clarifying information, then cite according to MLA. 
+4. Write a sentence with a quotation using `brackets` in a quotation to alter capitalization.
 
 
-5. Write a complete `paraphrase` of this text. Think of paraphrase as a translation from English into English---express the same ideas as another writer but use your own words and sentence structure. In this paraphrase, consider that your audience may not have read the essay from which this quotation was excerpted. What sorts of context should you provide to help them understand? Cite in MLA accordingly.
+5. Write a complete `paraphrase` of this text without quotation. Think of paraphrase as a translation from English into English---express the same ideas as another writer but use your own words and sentence structure. In this paraphrase, consider that your audience may not have read the essay from which this quotation was excerpted. What sorts of context should you provide to help them understand? Cite in MLA accordingly.
 
 
 6. Rewrite your `paraphrase,` but this time integrate some of the author’s language (in the form of short quotations) that you feel is significant or memorable. Cite in MLA accordingly.
+
+7. Write a `summary` of this passage using a single sentence. 
 
 
 ---

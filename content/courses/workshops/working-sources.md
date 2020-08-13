@@ -14,27 +14,24 @@ type: docs
 
 ---
 
-Accurately documenting sources is a vital aspect of any process of inquiry. If you fail to properly document your sources, your readers will be unable to follow your research, validate your claims, or judge the quality of your argument. Furthermore, failing to cite a source (whether summarized, paraphrased, or quoted) opens you to the charge of [**plagiarism**](/resources/open-handbook/chapter-10), a serious academic offense. With this in mind, it is vital that you become acquainted with how to document sources in your writing.
+Perhaps the most challenging aspect of academic writing is the integration of source materials. Students often imagine that the most difficult thing about using sources is learning how and when to use a citation. While it is true that accurately documenting sources is a vital aspect of any process of inquiry, citing the page number of a source is not the only skill that is required. One must also learn how to artfully use [**signal phrases**](/resources/open-handbook/chapter-8) to announce borrowed ideas or words. And the integration of the source may occur in many forms: [**summary**](/resources/open-handbook/chapter-8), [**paraphrase**](/resources/open-handbook/chapter-8), or [**quotation**](/resources/open-handbook/chapter-8) (but often a mix of all three). Furthermore, to do any of these well requires excellent reading comprehension skills and a metacritical awareness of when it is preferable to use one form of integration over another. That's a lot to orchestrate. 
 
-But citing the page number of a source is not the only skill needed for working with source texts. One must also learn how to artfully use [**signal phrases**](/resources/open-handbook/chapter-8) to announce borrowed ideas or words. There are also the important skills of [**summary**](/resources/open-handbook/chapter-8) and [**paraphrase**](/resources/open-handbook/chapter-8), and knowing when it is best to use one or the other. And then there is [**quotation**](/resources/open-handbook/chapter-8), which often makes a jumble of your prose if it is not done thoughtfully. Each of these individual skills must be orchestrated together by a writer working with sources; they require practice and patience. We won't become professionals by doing this assignment, but it may give you insight into things you need to work on.  
+This workshop asks you to practice several key moves that are used in academic writing. The use of signal phrases, summary, paraphrase, and quotation are described at length in the ["Working with Sources"](/resources/open-handbook/chapter-8) chapter of the [*Open Handbook*](/resources/open-handbook). 
+
+Completing this assignment will in no way make you proficient at the integration of sources. It will, however, help you conceptualize how sources are included in writing and give you a sense of what you need to work on in the future.
+ 
 
 ## Source Text
+
+{{< details "Source Text" open >}}
 #
 
-<div class="container">
-        <div class="raised-edge">
+-*From* Walker Percy, "The Loss of the Creature," p. 47.
 
-<div style="text-align:center">{{< figure src="/img/source.png" width=90 >}}</div>
+>Why is it almost impossible to gaze directly at the Grand Canyon under these circumstances and see it for what it is—as one picks up a strange object from one's back yard and gazes directly at it? It is almost impossible because the Grand Canyon, the thing as it is, has been appropriated by the symbolic complex which has already been formed in the sightseer's mind. Seeing the canyon under approved circumstances is seeing the symbolic complex head on. The thing is no longer the thing as it confronted the Spaniard; it is rather that which has already been formulated—by picture postcard, geography book, tourist folders, and the words Grand Canyon. As a result of this preformulation, the source of the sightseer's pleasure undergoes a shift. Where the wonder and delight of the Spaniard arose from his penetration of the thing itself, from a progressive discovery of depths, patterns, colors, shadows, etc., now the sightseer measures his satisfaction by the degree to which the canyon conforms to the preformed complex.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why is it almost impossible to gaze directly at the Grand Canyon under these circumstances and see it for what it is—as one picks up a strange object from one's back yard and gazes directly at it? It is almost impossible because the Grand Canyon, the thing as it is, has been appropriated by the symbolic complex which has already been formed in the sightseer's mind. Seeing the canyon under approved circumstances is seeing the symbolic complex head on. The thing is no longer the thing as it confronted the Spaniard; it is rather that which has already been formulated—by picture postcard, geography book, tourist folders, and the words Grand Canyon. As a result of this preformulation, the source of the sightseer's pleasure undergoes a shift. Where the wonder and delight of the Spaniard arose from his penetration of the thing itself, from a progressive discovery of depths, patterns, colors, shadows, etc., now the sightseer measures his satisfaction by the degree to which the canyon conforms to the preformed complex.
+{{< /details >}} 
 
-
--- Walker Percy, "The Loss of the Creature," page 47.
-          <div class="edge-shadow"></div>
-        </div>
-      </div>
-
-#
 
 
 ## Workshop
