@@ -161,11 +161,11 @@ assigned the book the following three subject headings:
 
 {{< figure src="/img/copyright-page.png" >}}
 
-- [United States\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CUnited%20States%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
+- [1. United States\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CUnited%20States%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
-- [Ontario\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2COntario%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
+- [2. Ontario\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2COntario%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
-- [Northern boundary of the United States\--History\--19th century](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CNorthern%20boundary%20of%20the%20United%20States%20--%20History%20--%2019th%20century%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
+- [3. Northern boundary of the United States\--History\--19th century](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CNorthern%20boundary%20of%20the%20United%20States%20--%20History%20--%2019th%20century%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
 In most library catalogs these subject headings are hyperlinked;
 clicking on any of them leads you to a list of *every* other book in the
@@ -486,7 +486,7 @@ Let's break down the call number into its constituent parts:
 
 | Call Number  |  Name | Purpose or Use      
 |:----------|:-------------|:---------|
-| **F** |  Letter line | <ul><li>Indicates subject matter or discipline of the book.</li><li>Indicates the [section of the library](https://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) where the book is shelved.</li><li>You can examine the [full list of subject classes](https://www.loc.gov/catdir/cpso/lcco/) at the Library of Congress.</li></ul> 
+| **F** |  Letter line | <ul><li>Indicates subject matter or discipline of the book and the [section of the library](https://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) where the book is shelved.</li><li>You can examine the [full list of subject classes](https://www.loc.gov/catdir/cpso/lcco/) at the Library of Congress.</li></ul> 
 | **24** |  Whole number line | <ul><li>Indicates a narrower subtopic within a discipline or subject.</li><li>Tells you which *row* the book is on in the stacks.</li></ul>
 | **.T39** |  Cutter line | <ul><li>Identifies the individual book.</li><li>The first letter of the Cutter line is usually the first letter of the author’s last name.</li></ul>
 | **1990** | Edition/Date line | <ul><li>Tells you the book’s year of publication.</li><li>May also include volume or edition information.</li></ul>

@@ -25,7 +25,6 @@ The theme for this course is `post-apocalyptic` fiction, film, and art.
 
 
 - [Syllabus](/docs/2020W.pdf)
-- [Readings](https://canvas.dartmouth.edu)
 - [*The Open Handbook*](/resources/open-handbook/)
 
  {{< /tab >}}

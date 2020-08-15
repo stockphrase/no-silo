@@ -17,9 +17,9 @@ bookToC: false
 
 ## Office
 
-{{< fa map-marker-alt >}} 37 Dewey Field Road, room 224.
+{{< fa map-marker-alt >}} Office: 37 Dewey Field Road, room 224.
 
-{{< fa clock >}} TBA and by appointment.
+{{< fa clock >}} Office Hours: TBA and by appointment. [But what are office hours?](https://vimeo.com/270014784)
 
 [<i class="fas fa-virus"></i>]() Due to the  COVID-19 pandemic, my office hours for Fall 2020 will be held via Zoom.
 

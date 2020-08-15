@@ -11,7 +11,7 @@ type: docs
 
 ---
 
-In a summary you present the ideas of another writer in a condensed form. The length of a summary is dictated by your rhetorical needs, but they are always shorter than the original text. For example, the summary of a large book could be 20 pages, one paragraph, or one sentence. Although a summary sacrifices specificity and detail in the interest of brevity, it must always remain a faithful representation of the original text's meaning.
+In a summary you present the ideas of another writer in condensed form. The length of a summary is dictated by your rhetorical needs, but they are always shorter than the original text. For example, the summary of a large book could be 20 pages, one paragraph, or one sentence. Although a summary sacrifices specificity and detail in the interest of brevity, it must always remain a faithful representation of the original text's meaning.
 
 We will practice [**summary**](/resources/open-handbook/chapter-8) by writing one of Nicholson Baker’s argument in “Changes of Mind." Your summary should not exceed 250 words. Include all of Baker’s argumentative claims or assertions. Leave nothing out. Put nothing extra in. Remain objective: don't tell the audience your opinions or how you feel about Baker's writing or argument. Just give us the facts. 
 

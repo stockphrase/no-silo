@@ -137,15 +137,11 @@ helpful and important skill you can develop.
 Create an electronic document for composing critical notes. Take
 *detailed* notes on each reading. Since you will write essays about
 these texts, these notes will be of significant help to you later. Your
-aim here should be to *reduce the entire argument to its bare essentials
-using paraphrase, summary, and selective quotation*. Carefully document
-page numbers during this activity. Interrogate the text by asking
-questions, raising objections, and making observations. Connect and
-compare the reading to others we have read. Link to any outside research
-you perform and define unfamiliar terms or words. At the end of this
-process you should have a simplified version of the essay as well as a
-number of critical observations, questions, and ideas that emerged in
-the process of reading.
+aims here should be to **1)** Reduce the entire argument to its bare essentials
+using paraphrase, summary, and selective quotation---carefully documenting
+page numbers during this activity; **2)** interrogate the text by asking
+questions, raising objections, and making observations; **3)** connect and
+compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint info >}}
 [**\+**]() For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
@@ -165,7 +161,7 @@ We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://goo
 [**\+**]() You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
 {{< /hint >}}
 
-Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “hive mind” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
+Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
 You might contribute to Hive by doing some of the following tasks:
 
@@ -194,8 +190,8 @@ The following assignments comprise your grade for the fall term:
 | Essay One     | 20%           
 | Essay Two     | 20%      
 | Essay Three   | 20%
-| Workshops     | 10%
-| Participation  | 30%    
+| Workshops     | 20%
+| Participation  | 20%    
 
 ## Help With Your Writing
 
@@ -235,8 +231,8 @@ academic adjustments and services, you should contact the SAS office. All inquir
 | <i class="fab fa-forumbee"></i>  | Contribute to [Hive](/courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
 | <i class="fas fa-code-branch"></i>  | Peer work, in pairs or groups 
 | <i class="fa fa-bullhorn"></i> | Discussion topic
-| <i class="fa fa-book-open"></i> | A reading from the [*Open Handbook*](/resources/open-handbook)
-| <i class="fa fa-download"></i></i> | A course reading download (.pdf)
+| <i class="fa fa-book-open"></i> | Course reading from the [*Open Handbook*](/resources/open-handbook)
+| <i class="fa fa-download"></i></i> | Course reading download (.pdf)
 | <i class="fa fa-question-circle"></i> | Question of the Day™
 | <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)
 
@@ -262,7 +258,7 @@ academic adjustments and services, you should contact the SAS office. All inquir
 
 #### ``+ Assignments``
 
-- *What is education? What is its purpose?* Do some thinking and note-taking on these
+- *What is education? What is its purpose?* *What does it do?* *How does it shape us?* Do some thinking and note-taking on these
 questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
 - <i class="fa fa-calendar-alt"></i> [Essay 1.0](/courses/writing-2/essay-1) assignment
@@ -324,7 +320,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ Independent work``
 
-- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*.
 
@@ -413,7 +409,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ Independent work``    
 
-- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
@@ -442,7 +438,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ Independent work``
 
-- Read, annotate, and take critical notes on the reading, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 

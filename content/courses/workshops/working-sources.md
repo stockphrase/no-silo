@@ -14,14 +14,12 @@ type: docs
 
 ---
 
-Perhaps the most challenging aspect of academic writing is the integration of source materials. Students often imagine that the most difficult thing about using sources is learning how and when to use a citation. While it is true that accurately documenting sources is a vital aspect of any process of inquiry, citing the page number of a source is not the only skill that is required. One must also learn how to artfully use [**signal phrases**](/resources/open-handbook/chapter-8) to announce borrowed ideas or words. And the integration of the source may occur in many forms: [**summary**](/resources/open-handbook/chapter-8), [**paraphrase**](/resources/open-handbook/chapter-8), or [**quotation**](/resources/open-handbook/chapter-8) (but often a mix of all three). Furthermore, to do any of these well requires excellent reading comprehension skills and a metacritical awareness of when it is preferable to use one form of integration over another. That's a lot to orchestrate. 
+Perhaps the most challenging aspect of academic writing is the integration of source materials. Students often imagine that the most difficult thing about using sources is learning how and when to use a citation. While accurately documenting sources is a vital aspect of any process of inquiry, citing the page number of a source is not the only skill that is required. You must also learn how to artfully use [**signal phrases**](/resources/open-handbook/chapter-8) to announce borrowed ideas or words and transition to another source or back to your own ideas. Further, the integration of the source may occur in many forms: [**summary**](/resources/open-handbook/chapter-8), [**paraphrase**](/resources/open-handbook/chapter-8), or [**quotation**](/resources/open-handbook/chapter-8) (and often a mix of all three). To do any of these well requires excellent reading comprehension skills and a metacritical awareness of when it is preferable to use one form of integration over another. That's a lot to orchestrate and get right. 
 
-This workshop asks you to practice several key moves that are used in academic writing. The use of signal phrases, summary, paraphrase, and quotation are described at length in the ["Working with Sources"](/resources/open-handbook/chapter-8) chapter of the [*Open Handbook*](/resources/open-handbook). 
+This workshop asks you to practice several key moves that are used in academic writing, all of which are described at length in the ["Working with Sources"](/resources/open-handbook/chapter-8) chapter of the [*Open Handbook*](/resources/open-handbook). You will use a passage from Walker Percy's "The Loss of the Creature" to complete the workshop, excerpted below. 
 
-Completing this assignment will in no way make you proficient at the integration of sources. It will, however, help you conceptualize how sources are included in writing and give you a sense of what you need to work on in the future.
- 
+Completing this assignment will in no way make you proficient at the integration of sources. It will, however, help you conceptualize how sources are included in academic writing and give you a sense of what you need to work on in the future.
 
-## Source Text
 
 {{< details "Source Text" open >}}
 #
@@ -36,10 +34,14 @@ Completing this assignment will in no way make you proficient at the integration
 
 ## Workshop
 
-1. Use a signal phrase with the author’s name to introduce a quotation from this text and then cite according to MLA.
-2. Use a signal phrase *without* the author's name to introduce a quotation and then cite according to MLA. 
-3. Use a signal phrase with the author’s name, *summarize* this entire passage in your own words, and then cite according to MLA. Use no quotations. Think carefully about your audience: if they have not read this piece, how should you explain things to them so that they will understand?
-4. *Paraphrase* this entire passage in your own words without using the author’s name and then cite according to MLA. Briefly quote language or terms to give the reader a sense of the "flavor" of Baker's paragraph. Think carefully about your audience: if they have not read this piece, how should you explain things to them so that they will understand?
+1. Use a signal phrase with the author’s name to introduce a quotation from this text and then cite according to MLA. (See ["in-text citations"](/resources/open-handbook/chapter-11-mla/#mla-in-text-citations))
+
+2. Use a signal phrase *without* the author's name to introduce a quotation and then cite according to MLA. (See ["in-text citations"](/resources/open-handbook/chapter-11-mla/#mla-in-text-citations))
+
+3. Use a signal phrase with the author’s name, *summarize* this entire passage in your own words, and then cite according to MLA. *Use no quotations. Think carefully about your audience: if they have not read this piece, how should you write this so that they will understand?*
+
+4. *Paraphrase* this entire passage in your own words without using the author’s name and then cite according to MLA. *Briefly quote language or terms to give the reader a sense of the "flavor" of Percy's paragraph. Think carefully about your audience: if they have not read this piece, how should you write this so that they will understand?*
+
 5. Quote from this passage using the MLA block quote format, then cite according to MLA.
 
 ---
