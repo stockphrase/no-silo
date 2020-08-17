@@ -11,11 +11,11 @@ title: "About Me"
 
 I grew up on a mountain swallowed up by [kudzu](https://en.wikipedia.org/wiki/Kudzu) just across the river from Chattanooga, Tennessee. 
 
-In college I studied English and philosophy; in graduate school I studied nineteenth-century American literature, culture, and history. I'm interested in backcountry settlements in the early republic and conflicts between Native peoples and settlers. 
+In graduate school I studied nineteenth-century American literature, culture, and history. Primarily, I'm interested in the early republic's backcountry settlements and conflicts between Native peoples and settlers.
 
-Mostly, I teach writing and research courses for first-year students at Dartmouth College.
+I teach writing and research courses for first-year students at Dartmouth College's [Institute for Writing and Rhetoric](https://writing-speech.dartmouth.edu).
 
-I'm very interested in open-source software and culture. I'm a fan of Canonical's [Ubuntu](https://ubuntu.com) and System 76's [Pop OS](https://pop.system76.com/). I'm particularly enthused by the [Pandoc](https://pandoc.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), and [Hugo](https://gohugo.io/) projects. 
+I'm interested in open-source software and culture. I'm a fan of Canonical's [Ubuntu](https://ubuntu.com) and System 76's [Pop OS](https://pop.system76.com/). I'm particularly enthused by the [Pandoc](https://pandoc.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), and [Hugo](https://gohugo.io/) projects. 
 
 Lately I've been listening to [The National](https://americanmary.com/) and [Aidan Knight](https://www.aidanknight.com/) a lot.
 

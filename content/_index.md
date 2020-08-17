@@ -15,7 +15,7 @@ The idea for this site came from a talk I gave to the faculty of the [Institute 
 
 --->
 
-- *This site is under heavy construction in preparation for fall 2020. Mistakes, broken links and the like should be expected until that time*.
+- *This site is under heavy construction in preparation for the 2020-21 academic year. Mistakes, broken links and the like should be expected until that time*.
 
 <script src="/css/flip.min.js"></script>
 

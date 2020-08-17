@@ -52,7 +52,6 @@ significant amount of time learning how to use our library effectively.
 
 ## Academic Honesty
 
-
 All work submitted in this course must be your own and be written
 exclusively for this course. The use of sources (ideas, quotations,
 paraphrase) must be properly documented. Please read the [Academic Honor
@@ -290,7 +289,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fas fa-box"></i> Friday soapbox
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will exchange essays electronically.
 
 #### `+ Due`
@@ -315,8 +314,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive Page on Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive Page on Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
+    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
+    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
 
 #### ``+ Independent work``
 
@@ -330,8 +329,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### ``+ Independent work``
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for a discussion of the text on Friday. 
 - <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive Page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive Page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
+    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
+    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
 
 ---
 
@@ -343,7 +342,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### ``+ In-class work``
 
-- <i class="fas fa-box"></i> Friday soapbox
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
 
 
@@ -376,7 +375,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 #### `+ In-class work`
 
-- <i class="fas fa-box"></i> Friday soapbox
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 - <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
 
@@ -420,7 +419,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.9
 
-- <i class="fas fa-box"></i> Friday soapbox
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 
 
@@ -453,7 +452,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.16
 
 #### ``+ In-class work``
-- <i class="fas fa-box"></i> Friday soapbox
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 1](/courses/workshops/argument-synthesis/)
     - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
@@ -479,13 +478,13 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### { <i class="fas fa-house-user"></i> } Wednesday, 10.21
 
 #### ``+ Independent work``
-- <i class="fa fa-question-circle"></i> Question of the Day™
+
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 3](/courses/workshops/argument-synthesis/)
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.23
 
 #### ``+ In-class work``
-- <i class="fas fa-box"></i> Friday soapbox
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2.
 
 #### `+ Due`
@@ -526,6 +525,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.30
 
+- <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss *Rushmore* film and theoretical essay drafts.
 - <i class="fa fa-wrench"></i> Essay 3 workshop
 

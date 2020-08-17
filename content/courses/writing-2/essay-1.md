@@ -10,7 +10,7 @@ title: "Essay One"
 
 ---
 
-What is education? What is its purpose? Write an essay exploring these questions.
+What is education? What is its purpose? How does it shape us? Write an essay exploring these questions.
 
 ## Format and length
 
