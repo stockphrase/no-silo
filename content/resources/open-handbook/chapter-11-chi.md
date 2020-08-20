@@ -1053,7 +1053,7 @@ Taylor, Robert C. "Harvesting Undersea Sponges." *New York Times*, January 5, 20
 
 {{< mla-ref >}}
 
-James, Brian. "The New War on Terror." *Slate*, June 20, 2012. Accessed November 10, 2013. http://www.slate.com/6-10-2013 jamesb4387290.
+James, Brian. "The New War on Terror." *Slate*, June 20, 2012. Accessed November 10, 2013. http://www.slate.com/6-10-2013/jamesb4387290.
 
 {{< /mla-ref >}}
 
@@ -1139,7 +1139,7 @@ Tate, Larry. "Spontaneous Order." *I Hate What You Just Said* (blog). February 1
 
 {{< mla-ref >}}
 
-James Spenser. "Dark Lagers." *Basic Brewing Radio*. Podcast audio. January 31, 2013, http://basicbrewing/bbr01-31-13darklagers.mp3.
+James Spenser. "Dark Lagers." *Basic Brewing Radio*. Podcast audio. January 31, 2013, http://www.basicbrewing/bbr01-31-13darklagers.mp3
 
 {{< /mla-ref >}}
 
@@ -1151,7 +1151,7 @@ James Spenser. "Dark Lagers." *Basic Brewing Radio*. Podcast audio. January 31, 
 
 {{< chi-note >}}
 
-21\. James Spenser, "Dark Lagers," \emph{Basic Brewing Radio}, podcast audio, January 31, 2013, http://basicbrewing/bbr01-31-13darklagers.mp3
+21\. James Spenser, "Dark Lagers," \emph{Basic Brewing Radio}, podcast audio, January 31, 2013, http://www.basicbrewing/bbr01-31-13darklagers.mp3
 
 {{< /chi-note >}}
 

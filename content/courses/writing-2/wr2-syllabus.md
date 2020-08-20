@@ -47,7 +47,7 @@ significant amount of time learning how to use our library effectively.
 |:------------- |:-------------
 |[No Silo](https://no-silo.com) | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook).
 |[Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.
-|[Hive](https://google.dartmouth.edu) | A shared Google drive for collaborative work.
+|[Hive](/resources/hive) | A shared Google drive for collaborative work.
 
 
 ## Academic Honesty
@@ -136,7 +136,7 @@ helpful and important skill you can develop.
 Create an electronic document for composing critical notes. Take
 *detailed* notes on each reading. Since you will write essays about
 these texts, these notes will be of significant help to you later. Your
-aims here should be to **1)** Reduce the entire argument to its bare essentials
+aims here should be to **1)** reduce the entire argument to its bare essentials
 using paraphrase, summary, and selective quotation---carefully documenting
 page numbers during this activity; **2)** interrogate the text by asking
 questions, raising objections, and making observations; **3)** connect and
@@ -178,6 +178,7 @@ You might contribute to Hive by doing some of the following tasks:
 
 
 
+<!---
 
 ## Grading Breakdown
 
@@ -191,6 +192,24 @@ The following assignments comprise your grade for the fall term:
 | Essay Three   | 20%
 | Workshops     | 20%
 | Participation  | 20%    
+
+
+
+## Grading
+
+A [vast trove of research](http://www.alfiekohn.org/article/case-grades/) concludes that grading is counterproductive, even harmful, to the process of education. Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the findings of this research: 
+
+>*  Grades tend to diminish students’ interest in whatever they’re learning.  A “grading orientation” and a “learning orientation” have been shown to be inversely related and, as far as I can tell, every study that has ever investigated the impact on intrinsic motivation of receiving grades (or instructions that emphasize the importance of getting good grades) has found a negative effect.
+>
+>*  Grades create a preference for the easiest possible task.  Impress upon students that what they’re doing will count toward their grade, and their response will likely be to avoid taking any unnecessary intellectual risks.  They’ll choose a shorter book, or a project on a familiar topic, in order to minimize the chance of doing poorly — not because they’re “unmotivated” but because they’re rational.  They’re responding to adults who, by telling them the goal is to get a good mark, have sent the message that success matters more than learning.
+>
+>*  Grades tend to reduce the quality of students’ thinking.  They may skim books for what they’ll “need to know.” They’re less likely to wonder, say, “How can we be sure that’s true?” than to ask “Is this going to be on the test?”  In one experiment, students told they’d be graded on how well they learned a social studies lesson had more trouble understanding the main point of the text than did students who were told that no grades would be involved.  Even on a measure of rote recall, the graded group remembered fewer facts a week later (Grolnick and Ryan, 1987).
+
+For that reason, this class will not use traditional grades for evaluation. I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex work be reduced to a letter grade. At the end of the term, we will reflect on your progress, effort, participation, and performance. T
+
+https://wac.colostate.edu/docs/books/labor/appendixa.pdf
+
+--->
 
 ## Help With Your Writing
 
@@ -233,7 +252,8 @@ academic adjustments and services, you should contact the SAS office. All inquir
 | <i class="fa fa-book-open"></i> | Course reading from the [*Open Handbook*](/resources/open-handbook)
 | <i class="fa fa-download"></i></i> | Course reading download (.pdf)
 | <i class="fa fa-question-circle"></i> | Question of the Day™
-| <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)
+
+<!---| <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox) --->
 
 
 ## Schedule of Readings and Assignments
@@ -260,7 +280,7 @@ academic adjustments and services, you should contact the SAS office. All inquir
 - *What is education? What is its purpose?* *What does it do?* *How does it shape us?* Do some thinking and note-taking on these
 questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
-- <i class="fa fa-calendar-alt"></i> [Essay 1.0](/courses/writing-2/essay-1) assignment
+- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 ---
 
 ### { <i class="fas fa-sync-alt"></i> } Wednesday, 9.16
@@ -586,6 +606,10 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #
 ### { <i class="fas fa-house-user"></i> } Monday, 11.16
 
+#### `+ Assignments`
+- <i class="fa fa-calendar-alt"></i> Reflective review assignment
+
+#### `+ Due`
 {{< hint info >}}
 <i class="fa fa-bullseye"></i> Essay 3 Final Due
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
@@ -595,5 +619,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 
 {{< /details >}}
+
+
 
 

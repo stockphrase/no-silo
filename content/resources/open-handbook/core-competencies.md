@@ -53,7 +53,7 @@ Here is my own list, focusing on the core competencies of the rhetorical arts. A
 
 ---
 
-9. **`They remain vulnerable to new ideas and information.`** Students should know that they don't know everything---that there are other ways of seeing and understanding that they may not even know exist. Some of these ideas and views may be deeply challenging to their own deeply held ones. They may, in fact, be utterly incommensurable. Yet, students should be able to cultivate a spirit of openness, generosity, and understanding---an intellectual and emotional vulnerability to new ideas and the experiences of others. This is not a facile nihilism, but an openness to discovery and a recognition of one's own fallibility and ignorance. 
+9. **`They remain vulnerable to new ideas and information.`** Students should know that they don't know everything---that there are other ways of seeing and knowing they are unaware of. Some of these ideas and views may be deeply challenging to their own deeply held ones. They may, in fact, be utterly incommensurable. Yet, students should be able to cultivate a spirit of openness, generosity, and understanding---an intellectual and emotional vulnerability to new ideas and the experiences of others. This is not a facile nihilism, but an openness to discovery and a recognition of one's own fallibility and ignorance. 
 
 ---
 

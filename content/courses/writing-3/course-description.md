@@ -108,9 +108,6 @@ The theme for this course is `post-apocalyptic` fiction, film, and art.
 
 ---
 
-#### List of Workshops
-
-- Peer Review Workshops
 
 
 {{< /tab >}}

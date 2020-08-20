@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment, you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the [annotation](/resources/open-handbook/chapter-1) of texts.
+In college you will encounter demanding texts of great complexity. You will be asked to engage these texts critically and to challenge the thinking and conclusions of others. You will also have to retain an extraordinary amount of information and recall it later. To thrive in this environment you will need to develop some new habits and strategies. The most basic, and most fundamental, of these is a formal procedure for the [annotation](/resources/open-handbook/chapter-1) of texts.
 
 ## What is annotation?
 
@@ -24,7 +24,7 @@ Since you have likely never engaged a text in such a manner, here are some strat
 
 - **Use a symbol system**. Develop a system of symbols to flag important aspects of a reading. Mark significant elements within the text such as the thesis, argumentative claims, and evidence. Also note when a text references other texts, authors, or events. Note places where you become confused or uncertain; later, in a second reading, you can give extra attention to these portions of the text.
 
-- **Interrogate the text**. Be ruthless. Be rigorous. Ask questions back to the author in the margins of the text. Challenge the conclusions and arguments that he or she presents by making ones of your own.
+- **Interrogate the text**. Ask probing questions back to the author in the margins of the text. Be skeptical. Be ruthless. Be rigorous. Challenge the conclusions and arguments that he or she presents by making ones of your own.
 
 - **Summarize**. Write keywords or make “microsummaries” in the margins next to each paragraph. Later, you will not have to re-read the entire document to find your place. These can be especially useful if you later use this text in your own writing.
 

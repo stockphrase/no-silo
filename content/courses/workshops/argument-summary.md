@@ -33,6 +33,7 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 ---
 
+<!---
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
-
+--->
 

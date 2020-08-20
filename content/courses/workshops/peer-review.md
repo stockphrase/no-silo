@@ -20,7 +20,7 @@ The radically simplified version of the essay that results from this process may
 
 - If more than one claim is detected in a paragraph, it is often a sign that the paragraph lacks `focus`. Place *all* the claims you detect from a paragraph in the outline, but flag the paragraphs with multiple claims in a note to the author as they may require revision.
 
-- If the paragraph does not present an overtly argumentative claim of some sort, try to characterize its purpose in the essay. For example, a paragraph may provide `background information` to help the audience understand the context of the essay's argument.
+- If the paragraph does not present an overtly argumentative claim of some sort, try to characterize its purpose in the essay. For example, a paragraph may provide `background information` to help the audience understand the context of the essay's argument. Or perhaps the paragraph is an example or illustration of some idea expressed in a previous paragraph. 
 
 - If there is no clear claim or purpose detectable in the paragraph, make a note of this confusion in the outline.
 
@@ -32,8 +32,6 @@ The radically simplified version of the essay that results from this process may
 
 <div class="container">
         <div class="raised-edge">
-
-### **"Remove Sanctions Now!" by Jed Cuyahoga**
 
 - **P1.** *Introduction*. **Thesis**: "The US government should immediately remove sanctions on Iran because the policy only hurts the Iranian people, not their leaders."
 
@@ -59,7 +57,7 @@ The radically simplified version of the essay that results from this process may
 
 ## Step II: Respond
 
-After you've outlined the essay's arguments, try to offer several clear ideas on how the essay could be improved. Assuming most of you are working in Microsoft Word, you may use the comment feature to add your observations to the outline or your colleage's essay.
+After you've outlined the essay's arguments, try to offer several clear ideas on how the essay could be improved. Assuming most of you are working in Microsoft Word, you may use the comment feature to add your observations to the outline or your colleague's essay.
 
 You might consider some of the following for guidance or inspiration:
 
@@ -84,7 +82,7 @@ paragraph.
 
 - *Is the paper organized?* Is there a logical flow to the essay? Or are there abrupt shifts in ideas or topics that are confusing or hard to follow? Do the paragraphs seem to transition into each other well? Or are there sudden “leaps” between them?
 
-- *Do you have questions?* Do you have any questions for the author? Is there
+- *Do you have questions?* Is there
 something that you’d like to ask about why the author chose to write something in
 the way that he or she did? Are there any ambiguities that you need resolved before
 you can properly understand something in the paper?
@@ -98,7 +96,8 @@ concentrate on in his or her revision?
 
 ---
 
+<!--
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
-
+--->
 
 

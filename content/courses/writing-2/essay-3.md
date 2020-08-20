@@ -9,7 +9,7 @@ title: "Essay Three"
 <div style="text-align:center">{{< figure src="/img/rushmore.jpg" >}}</div>
 
 
-## Essay Three: Theoretical Analysis
+# Essay Three: Theoretical Analysis
 
 ---
 
@@ -34,4 +34,4 @@ There are numerous examples of Max's selfish failure to engage in the types of c
 
 ---
 
-<i class="fa fa-bullseye"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu).
+<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)

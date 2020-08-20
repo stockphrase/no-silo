@@ -815,7 +815,7 @@ Taylor, Robert C. "Harvesting Undersea Sponges." *New York Times*, 23 Nov. 2000,
 ### Article in an online magazine:
 
 {{< mla-ref >}}
-James, Brian Taylor. "The New War on Terror." *Foreign Affairs Monthly*, Errata Publishing, 2 Oct. 2009, www.famonthly.org /2009/10/james-terror.
+James, Brian Taylor. "The New War on Terror." *Foreign Affairs Monthly*, Errata Publishing, 2 Oct. 2009, www.famonthly.org/2009/10/james-terror.
 {{< /mla-ref >}}
 
 ---

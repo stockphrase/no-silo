@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-Analysis involves breaking an argument down into smaller parts so that you can understand how those parts work together to make the whole. During this class we will try to train our minds to uncover the argumentative structure of all that we read. 
+Analysis involves breaking an argument down into smaller parts so that you can understand how those parts work together to make the whole (or fail to do so). During this class we will try to train our minds to uncover the argumentative structure of all that we read. 
 
 Relying on your annotations, critical notes, and our discussions of the text, construct an outline of the argument found in Nicholson Baker's "Changes of Mind" essay.
 

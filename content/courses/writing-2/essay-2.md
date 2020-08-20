@@ -6,7 +6,7 @@ bookHidden: true
 title: "Essay Two"
 ---
 
-## Essay Two: Synthesis
+# Essay Two: Synthesis
 
 ---
 
