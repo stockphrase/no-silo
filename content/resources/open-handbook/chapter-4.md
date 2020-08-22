@@ -4,7 +4,6 @@ bookHidden: true
 title: "The Joy of Reuse (Save Your Work)"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Chapter Four: The Joy of Reuse
 

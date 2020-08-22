@@ -7,16 +7,10 @@ title: "Writing 2: Syllabus"
 ---
 
 
-[<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about)
+[<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=350 >}}</div>](/about)
 
 
-
-<!---
-Section 6 | MWF 10:20--11:25 | X-hour: TH 12:30--1:20 | TA: Mr. X 
-
-Section 7 | MWF 11:45--12:50 | X-hour: TU 12:30--1:20 | TA: Ms. X 
---->
-# Writing 2: What is Education?
+# Writing 2: Education and Authority
 
 ## Course Description
 
@@ -125,9 +119,8 @@ be used for study or your own writing. If you plan on being successful
 in college, the ability to rigorously annotate texts is perhaps the most
 helpful and important skill you can develop.
 
-
 {{< hint info >}}
-[**\+**]() Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the [*Open Handbook*](/resources/open-handbook).
+<i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the [*Open Handbook*](/resources/open-handbook).
 {{< /hint >}}
 
 ### II. Critical Reading Notes
@@ -143,7 +136,7 @@ questions, raising objections, and making observations; **3)** connect and
 compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint info >}}
-[**\+**]() For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
+<i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
 {{< /hint >}}
 
 ### III. Contribute to Hive
@@ -157,24 +150,24 @@ We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://goo
 - [<i class="fab fa-forumbee"></i> <sup>7</sup>]() : Hive page for section 7
 
 {{< hint info >}}
-[**\+**]() You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
+<i class="fas fa-info-circle"></i> You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
 {{< /hint >}}
 
 Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
 You might contribute to Hive by doing some of the following tasks:
 
->- Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
->
->- Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
->
->- Define difficult vocabulary.
->
->- Flag a key portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
->
->- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
->
->- Constructively question, respond, or correct the ideas or work of another student.
+- Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
+
+- Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
+
+- Define difficult vocabulary.
+
+- Flag a key portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
+
+- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
+
+- Constructively question, respond, or correct the ideas or work of another student.
 
 
 
@@ -197,17 +190,24 @@ The following assignments comprise your grade for the fall term:
 
 ## Grading
 
-A [vast trove of research](http://www.alfiekohn.org/article/case-grades/) concludes that grading is counterproductive, even harmful, to the process of education. Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the findings of this research: 
+[Decades of research](http://www.alfiekohn.org/article/case-grades/) concludes that grading is counterproductive, even harmful, to the process of education. Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this research: 
 
->*  Grades tend to diminish students’ interest in whatever they’re learning.  A “grading orientation” and a “learning orientation” have been shown to be inversely related and, as far as I can tell, every study that has ever investigated the impact on intrinsic motivation of receiving grades (or instructions that emphasize the importance of getting good grades) has found a negative effect.
+>*  *Grades tend to diminish students’ interest in whatever they’re learning*.  A “grading orientation” and a “learning orientation” have been shown to be inversely related and, as far as I can tell, every study that has ever investigated the impact on intrinsic motivation of receiving grades (or instructions that emphasize the importance of getting good grades) has found a negative effect.
 >
->*  Grades create a preference for the easiest possible task.  Impress upon students that what they’re doing will count toward their grade, and their response will likely be to avoid taking any unnecessary intellectual risks.  They’ll choose a shorter book, or a project on a familiar topic, in order to minimize the chance of doing poorly — not because they’re “unmotivated” but because they’re rational.  They’re responding to adults who, by telling them the goal is to get a good mark, have sent the message that success matters more than learning.
+>*  *Grades create a preference for the easiest possible task*.  Impress upon students that what they’re doing will count toward their grade, and their response will likely be to avoid taking any unnecessary intellectual risks.  They’ll choose a shorter book, or a project on a familiar topic, in order to minimize the chance of doing poorly — not because they’re “unmotivated” but because they’re rational.  They’re responding to adults who, by telling them the goal is to get a good mark, have sent the message that success matters more than learning.
 >
->*  Grades tend to reduce the quality of students’ thinking.  They may skim books for what they’ll “need to know.” They’re less likely to wonder, say, “How can we be sure that’s true?” than to ask “Is this going to be on the test?”  In one experiment, students told they’d be graded on how well they learned a social studies lesson had more trouble understanding the main point of the text than did students who were told that no grades would be involved.  Even on a measure of rote recall, the graded group remembered fewer facts a week later (Grolnick and Ryan, 1987).
+>*  *Grades tend to reduce the quality of students’ thinking*. They may skim books for what they’ll “need to know.” They’re less likely to wonder, say, “How can we be sure that’s true?” than to ask “Is this going to be on the test?”  In one experiment, students told they’d be graded on how well they learned a social studies lesson had more trouble understanding the main point of the text than did students who were told that no grades would be involved.  Even on a measure of rote recall, the graded group remembered fewer facts a week later (Grolnick and Ryan, 1987).
 
-For that reason, this class will not use traditional grades for evaluation. I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex work be reduced to a letter grade. At the end of the term, we will reflect on your progress, effort, participation, and performance. T
+For those (and other) reasons, this class will not use traditional grades for evaluation. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter. At the end of the term, we will reflect on your progress, effort, participation, and performance; we'll decide together what to enter into Banner. This discussion will involve our reflection on the following areas:
 
-https://wac.colostate.edu/docs/books/labor/appendixa.pdf
+- Participation
+- Attendance
+- Collaboration and sharing
+- Late, incomplete, missing work
+- Growth
+- Effort
+
+This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/books/perspectives/labor/)
 
 --->
 
@@ -607,7 +607,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### { <i class="fas fa-house-user"></i> } Monday, 11.16
 
 #### `+ Assignments`
-- <i class="fa fa-calendar-alt"></i> Reflective review assignment
+- <i class="fa fa-calendar-alt"></i> [Quarterly reflection and review](/courses/writing-2/quarterly-review/)
 
 #### `+ Due`
 {{< hint info >}}

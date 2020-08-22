@@ -4,7 +4,6 @@ bookHidden: true
 title: "Common Sentence Errors"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Common Sentence Errors
 

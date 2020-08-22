@@ -3,7 +3,7 @@ bookHidden: true
 title: "Chicago Documentation Style"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
+
 
 # Chicago Style
 

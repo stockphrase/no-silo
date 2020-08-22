@@ -5,7 +5,6 @@ bookToc: true
 title: "Core Competencies in the Rhetorical Arts"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Core Competencies in the Rhetorical Arts
 

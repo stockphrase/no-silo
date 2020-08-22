@@ -4,7 +4,7 @@ bookHidden: true
 title: "6. Types of College Writing"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
+
 
 # Types of College Writing
 

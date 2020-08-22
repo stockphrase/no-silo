@@ -4,7 +4,7 @@ bookHidden: true
 title: "8. Working with Sources"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
+
 
 # Working with Sources
 

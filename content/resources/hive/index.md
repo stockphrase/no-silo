@@ -43,7 +43,7 @@ You might contribute to Hive by doing some of the following tasks:
 
 ## Cite your work
 
-Although I don't imagine honeybees do this, I ask you to cite your individual contributions as you add your individual contributions to the Hive. You may do this by creating a tag based on your initials. For example, I will be [@AT]() in these exchanges. As you contribute ideas, questions, observations, or flag key portions of the text's argument, don't forget to credit yourself for your work. This will help us later, in case we'd like to thank you, discuss your idea, or cite you in our own writing. And a large part of your participation will be figured from your engagement within the Hive.
+Although I don't imagine honeybees do this, I ask you to cite your individual contributions to the Hive. You may do this by creating a tag based on your initials. For example, I will be [@ACT]() in these exchanges. As you contribute ideas, questions, observations, or flag key portions of the text's argument, don't forget to credit yourself for your work. This will help us later, in case we'd like to thank you, discuss your idea, or cite you in our own writing. And a large part of your participation will be figured from your engagement within the Hive.
 
 ## Example page
 

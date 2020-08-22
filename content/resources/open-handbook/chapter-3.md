@@ -4,7 +4,6 @@ bookHidden: true
 title: "Audience"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Audience
 

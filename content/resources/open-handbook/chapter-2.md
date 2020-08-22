@@ -4,7 +4,6 @@ bookHidden: true
 title: "Critical Notes"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Chapter Two: Critical Notes
 

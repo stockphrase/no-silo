@@ -4,7 +4,6 @@ bookHidden: true
 title: "7. Paragraphs and Topic Sentences"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # Paragraphs & Topic Sentences
 

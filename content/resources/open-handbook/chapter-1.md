@@ -4,10 +4,6 @@ title: "Annotation & Critical Reading"
 bookHidden: true
 ---
 
-
-
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
-
 # Chapter One: Annotation and Critical Reading
 
 ---

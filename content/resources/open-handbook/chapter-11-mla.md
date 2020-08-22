@@ -3,7 +3,6 @@ bookHidden: true
 title: "MLA Documentation Style"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # MLA Style
 

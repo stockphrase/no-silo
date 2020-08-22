@@ -5,9 +5,7 @@ bookToC: false
 
 ## Contact
 
-<i class="fas fa-envelope"></i> [Email](mailto:alan.c.taylor@dartmouth.edu)
-
-<i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) 
+<i class="fas fa-envelope"></i> [Email](mailto:alan.c.taylor@dartmouth.edu) | <i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) 
 
 <i class="fas fa-fingerprint"></i> PGP Fingerprint:
 
@@ -17,16 +15,19 @@ bookToC: false
 
 ---
 
-## Office Hours
+## Office hours
 
+- <i class="fas fa-clock"></i> TU 12:30--1:30
+- <i class="fas fa-clock"></i> TH 12:30--1:30
+- Or by appointment
 
-<i class="fas fa-clock"></i> Office Hours: TBA and by appointment. 
+[<i class="fas fa-virus"></i>]() *Due to the  COVID-19 pandemic, my office hours for 2020-21 will be held via [Zoom](https://dartmouth.zoom.us/)*. 
 
 <i class="fas fa-question-circle"></i> [What are office hours?](https://vimeo.com/270014784)
 
-[<i class="fas fa-virus"></i>]() *Due to the  COVID-19 pandemic, my office hours for 2020-21 will be held via [Zoom](https://dartmouth.zoom.us/)*.
 
-## Office Location
+
+## Office location
 
 <i class="fas fa-map-marker-alt"></i> 37 Dewey Field Road, room 224.
 

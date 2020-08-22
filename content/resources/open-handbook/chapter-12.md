@@ -5,10 +5,6 @@ title: "Academic Research"
 status: under-revision
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
-
-
-
 # Academic Research
 
 ---

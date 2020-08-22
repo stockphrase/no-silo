@@ -4,7 +4,6 @@ bookHidden: true
 title: "5. What is Good Writing?"
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
 
 # What is Good Writing?
 
