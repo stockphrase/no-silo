@@ -607,7 +607,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### { <i class="fas fa-house-user"></i> } Monday, 11.16
 
 #### `+ Assignments`
-- <i class="fa fa-calendar-alt"></i> [Quarterly reflection and review](/courses/writing-2/quarterly-review/)
+- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
 
 #### `+ Due`
 {{< hint info >}}

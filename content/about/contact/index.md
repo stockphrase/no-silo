@@ -5,7 +5,7 @@ bookToC: false
 
 ## Contact
 
-<i class="fas fa-envelope"></i> [Email](mailto:alan.c.taylor@dartmouth.edu) | <i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) 
+<i class="fas fa-envelope"></i> [Email](mailto:alan@no-silo.com) | <i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) 
 
 <i class="fas fa-fingerprint"></i> PGP Fingerprint:
 
