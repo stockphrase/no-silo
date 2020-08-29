@@ -6,7 +6,7 @@ bookHidden: false
 title: "+ Hive"
 ---
 
-[<div style="text-align:center">{{< figure src="/img/hive-7.png" width=165 >}}</div>](https://canvas.dartmouth.edu)
+<div style="text-align:center">{{< figure src="/img/hive-7.png" width=180 >}}</div>
  
 # What is Hive?
 
@@ -74,9 +74,10 @@ Here is a mockup of a page in Hive dedicated to our first reading. It might rese
 
 ### Discussion
 
-- [@RB](): I notice that the Baker keeps utilizing a series of very strange metaphors throughout his piece that are designed to help us understand something curious about the human mind that we have perhaps never considered before. Specifically, ...
-- [@JB](): The story about the **shoe on the bus** was completely incomprehensible to me. Did anyone understand the point of this? How is it related to Baker's broader argument? Is it evidence for one of his claims? I'm lost here.
-- \+ [@MK](): Yeah [@JB](), that story about the bus was confusing, but I think what Baker is doing with this story does illustrate a central premise of his piece that ...
+- [@RJB](): I notice that the Baker keeps utilizing a series of very strange metaphors throughout his piece that are designed to help us understand something curious about the human mind that we have perhaps never considered before. Specifically, ...
+- [@JBB](): The story about the **shoe on the bus** was completely incomprehensible to me. Did anyone understand the point of this? How is it related to Baker's broader argument? Is it evidence for one of his claims? I'm lost here.
+- \+ [@MRK](): Yeah [@JBB](), that story about the bus was confusing, but I think what Baker is doing with this story does illustrate a central premise of his piece that ...
+- \+ [@ACT](): Well, ACTUALLY...
           <div class="edge-shadow"></div>
         </div>
       </div>

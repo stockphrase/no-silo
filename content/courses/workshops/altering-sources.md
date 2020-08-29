@@ -6,7 +6,7 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
 # Altering sources
 
@@ -26,7 +26,7 @@ Issues such as these are a common problem in academic writing since the use of s
 
 ### *So, what do you do in these situations?*
 
-This exercise will introduce you to `ellipsis` and `brackets` which are used to alter source material during quotation. These are important tools to control as you take part in academic conversations.  
+This exercise will introduce you to `ellipsis` and `brackets` which are used to alter source material during quotation. These are important tools to wield as you take part in academic conversations.  
 
 ## Source Text
 

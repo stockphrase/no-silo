@@ -6,9 +6,9 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
-# Workshops & Lectures
+# Workshops and Lectures
 
 This term we will do a series of workshops designed to learn and practice various skills needed for academic writing and research. 
 
@@ -17,8 +17,6 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 {{< tabs "Workshops" >}}
 
 {{< tab "Writing 2" >}} 
-
-#### <i class="fas fa-dot-circle"></i> Writing 2
 
 - [ ] [Altering sources](/courses/workshops/altering-sources)
 - [ ] [Annotation](/courses/workshops/annotation) 
@@ -38,8 +36,6 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
  {{< /tab >}}
 
 {{< tab "Writing 3" >}} 
-
-#### <i class="fas fa-dot-circle"></i> Writing 3
 
 `+ Library Research`
 
@@ -101,11 +97,6 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 
 {{< /tab >}}
-
-
-{{< tab "Lectures" >}} 
-
-#### <i class="fas fa-dot-circle"></i> Lectures
 
 
 

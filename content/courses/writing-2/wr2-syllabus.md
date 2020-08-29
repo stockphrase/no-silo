@@ -21,7 +21,7 @@ title: "Writing 2: Syllabus"
 
 **Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary,` `paraphrase,` and `quotation.`
 
-During the Winter term we will turn our focus to academic research. Our
+During the winter term we will turn our focus to academic research. Our
 libraries hold an impressive array of traditional and electronic search
 tools as well as millions of books, journal articles, and assorted
 media. Although navigating this vast sea of information is intimidating,
@@ -123,6 +123,8 @@ helpful and important skill you can develop.
 <i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the [*Open Handbook*](/resources/open-handbook).
 {{< /hint >}}
 
+---
+
 ### II. Critical Reading Notes
 
 
@@ -139,12 +141,13 @@ compare the reading to others we have read; **4)** define any unfamiliar terms a
 <i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
 {{< /hint >}}
 
-### III. Contribute to Hive
+---
 
+### III. Contribute to Hive
 
 Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
 
-We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each reading in the [WR2 syllabus](/courses/writing-2/wr2-syllabus) has an attached Google doc located in a link beneath it. Each of my course sections has their own dedicated Hive page. Please make sure to make your contribution to the proper course section, indicated with the following notations:
+We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each reading in this syllabus has an attached Google doc located in a link beneath it. There is a Hive document dedicated to your course section, so please make sure to make your contribution to the proper one. You may distinguish the documents by examining the notations, as in the example below:
 
 - [<i class="fab fa-forumbee"></i> <sup>6</sup>]() : Hive page for section 6
 - [<i class="fab fa-forumbee"></i> <sup>7</sup>]() : Hive page for section 7
@@ -210,6 +213,8 @@ For those (and other) reasons, this class will not use traditional grades for ev
 This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/books/perspectives/labor/)
 
 --->
+
+---
 
 ## Help With Your Writing
 
@@ -537,7 +542,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Assignments`
 - <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
-### { <i class="fas fa-house-user"></i> }Wednesday, 10.28
+### { <i class="fas fa-house-user"></i> } Wednesday, 10.28
 
 #### ``+ Independent work``
 

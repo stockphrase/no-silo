@@ -6,7 +6,7 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
 # Peer Review Work
 
@@ -28,10 +28,12 @@ The radically simplified version of the essay that results from this process may
 
 ---
 
-### Example outline
+#
 
 <div class="container">
         <div class="raised-edge">
+
+### Example outline:
 
 - **P1.** *Introduction*. **Thesis**: "The US government should immediately remove sanctions on Iran because the policy only hurts the Iranian people, not their leaders."
 

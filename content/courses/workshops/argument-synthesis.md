@@ -6,7 +6,7 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
 # Argument Synthesis
 
@@ -29,7 +29,9 @@ To begin a synthesis, ask yourself the following questions about the readings yo
 
 Answering these questions makes it easier to write an essay examining the relationship between the various authors’ *arguments*, comparing and contrasting their views.
 
-- **Note**: Synthesis is very *textual* in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using [summary](/resources/open-handbook/chapter-8/), [paraphrase](/resources/open-handbook/chapter-8/), and [quotation](/resources/open-handbook/chapter-8/), compare and contrast the authors’ positions; make sure to cite each reference a text appropriately. Use clear [signal phrases](/resources/open-handbook/chapter-8/) to alert the reader when you transition between your presentations of the various author’s ideas or works.
+{{< hint info >}}
+<i class="fas fa-exclamation-circle"></i> Synthesis is very *textual* in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using [summary](/resources/open-handbook/chapter-8/), [paraphrase](/resources/open-handbook/chapter-8/), and [quotation](/resources/open-handbook/chapter-8/), compare and contrast the authors’ positions; make sure to cite each reference a text appropriately. Use clear [signal phrases](/resources/open-handbook/chapter-8/) to alert the reader when you transition between your presentations of the various author’s ideas or works.
+{{< /hint >}}
 
 ## Workshop
 

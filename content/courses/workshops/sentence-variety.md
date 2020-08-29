@@ -6,14 +6,13 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
 # Sentence Variety
 
 ---
 
-Integrating quotations from other sources is an important part of academic writing. Often, student writers who write sentences well in their own voice have difficulty when they try to weave
-the voices of others into their prose. I also find that most students have developed a particular strategy or formula for quotation that they use over and over again as a kind of crutch. In the recent batch of essays, I saw that many of you habitually rely on the same sentence structure when introducing a quotation from a source. This structure resembles the following:
+Integrating quotations from other sources is an important part of academic writing. Student writers are often able to write sentences well in their own voice but have difficulty when they try to weave the voices of others into their prose. I also find that most students have developed a particular strategy or formula for quotation that they use over and over again as a kind of crutch. This structure resembles the following:
 
 >According to Dr. Taylor, “all your quotes are made the same way” (89).
 
@@ -30,7 +29,7 @@ of becoming a better writer is understanding that you have the authority to chop
 and alter quotations to serve your purposes so long as you do not misrepresent the thinking or
 arguments of others.
 
-# A few examples
+## A few examples
 
 Let’s examine few examples based on this passage from George Orwell’s famous essay entitled [“A
 Hanging”](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/a-hanging/):
@@ -74,7 +73,7 @@ avoid a puddle” on the way to the gallows (47).
 Orwell observes: “It is curious, but till that moment I had never realized what it means to
 destroy a healthy, conscious man” (47).
 
-# Workshop Exercise
+## Workshop Exercise
 
 This second passage is taken from Richard Hofstadter’s famous essay entitled “The Paranoid Style
 in American Politics,” which was published in *Harper’s Magazine* in 1964. In the essay, Hofstadter

@@ -6,14 +6,12 @@ title: + Open Handbook
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/oh.png" width=150 >}}</div>
-
 # About
 
 [<i class="fa fa-book-open"></i>](#) **The Open Handbook**
         
 
-The *Open Handbook* project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. The project was originally written in [LaTeX](https://www.latex-project.org/). However, I recently translated the project into [.md](https://daringfireball.net/projects/markdown/) files so that I can include it on this website. The result is a much more accessible experience. 
+The *Open Handbook* project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. 
 
 If you would like to collaborate on the project or have a correction, please [contact me](/about/contact). If you know your way around git, you can fork the project on <i class="fas fa-code-branch"></i> [GitHub](https://github.com/stockphrase/no-silo).
 

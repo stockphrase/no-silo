@@ -6,13 +6,13 @@ bookHidden: true
 title: "End-of-term Reflection and Review"
 ---
 
-# End-of-term Reflection and Review
+# Fall Reflection and Review
 
-This assignment asks you to reflect on all of your work this term. This reflectoin should be completed before we begin our second term this winter. Ideally, this assignment would be completed during the calm after exams while you are at home with your families. Your responses to the questions below will be used in a conference during the first week of classes this winter.
+This assignment asks you to reflect on all of your work this term. Ideally, this assignment would be completed during the calm after exams while you are at home with your families. Your responses to the questions below will be used in a conference during the first week of classes this winter.
 
 ## I. Review your writing
 
-To begin, gather all of your written work for the term (you have been [saving all your work](/resources/open-handbook/chapter-4/), right?) Re-read the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor and fellow students.
+Gather together all of the drafts from the three major writing assignments of the term. (You are [saving all your work](/resources/open-handbook/chapter-4/), right?) Re-read the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor and fellow students.
 
 For each of the three essays, write down a response to the following questions:
 
@@ -25,9 +25,10 @@ For each of the three essays, write down a response to the following questions:
 
 ## II. Review your learning
 
-1. What have you learned through the experience of the class as a whole?
+1. Thinking about your experience of the class as a whole, what have you learned?
 2. Was there something you expected to learn, but didn't?
 3. Are there specific things you would like to work on in the winter term?
+4. What is your biggest struggle as a writer and student?
 
 
 ## III. Review your participation
@@ -39,7 +40,7 @@ For each of the three essays, write down a response to the following questions:
 5. Did you give your best effort on each assignment?
 6. Expressed as a percentage, how much of the reading did you do?
 7. How much did you contribute to Hive? Was this your best effort at sharing/helping others?
-8. How often did you speak up in discussion sections? Could you have contributed more to the discussion?
+8. How often did you contribute on discussion days? Could you have contributed more to the conversation?
 
 ## IV. Final grade
 
