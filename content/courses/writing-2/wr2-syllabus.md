@@ -30,6 +30,7 @@ fundamental to your undergraduate training, regardless of your chosen
 field of study. In consideration of its importance, we will spend a
 significant amount of time learning how to use our library effectively.
 
+
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
@@ -149,8 +150,8 @@ Hive is an open-source repository containing notes, ideas, and questions about o
 
 We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each reading in this syllabus has an attached Google doc located in a link beneath it. There is a Hive document dedicated to your course section, so please make sure to make your contribution to the proper one. You may distinguish the documents by examining the notations, as in the example below:
 
-- [<i class="fab fa-forumbee"></i> <sup>6</sup>]() : Hive page for section 6
-- [<i class="fab fa-forumbee"></i> <sup>7</sup>]() : Hive page for section 7
+- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [C hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
+- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 
 {{< hint info >}}
 <i class="fas fa-info-circle"></i> You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
@@ -190,18 +191,9 @@ The following assignments comprise your grade for the fall term:
 | Participation  | 20%    
 
 
-
 ## Grading
 
-[Decades of research](http://www.alfiekohn.org/article/case-grades/) concludes that grading is counterproductive, even harmful, to the process of education. Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this research: 
-
->*  *Grades tend to diminish students’ interest in whatever they’re learning*.  A “grading orientation” and a “learning orientation” have been shown to be inversely related and, as far as I can tell, every study that has ever investigated the impact on intrinsic motivation of receiving grades (or instructions that emphasize the importance of getting good grades) has found a negative effect.
->
->*  *Grades create a preference for the easiest possible task*.  Impress upon students that what they’re doing will count toward their grade, and their response will likely be to avoid taking any unnecessary intellectual risks.  They’ll choose a shorter book, or a project on a familiar topic, in order to minimize the chance of doing poorly — not because they’re “unmotivated” but because they’re rational.  They’re responding to adults who, by telling them the goal is to get a good mark, have sent the message that success matters more than learning.
->
->*  *Grades tend to reduce the quality of students’ thinking*. They may skim books for what they’ll “need to know.” They’re less likely to wonder, say, “How can we be sure that’s true?” than to ask “Is this going to be on the test?”  In one experiment, students told they’d be graded on how well they learned a social studies lesson had more trouble understanding the main point of the text than did students who were told that no grades would be involved.  Even on a measure of rote recall, the graded group remembered fewer facts a week later (Grolnick and Ryan, 1987).
-
-For those (and other) reasons, this class will not use traditional grades for evaluation. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter. At the end of the term, we will reflect on your progress, effort, participation, and performance; we'll decide together what to enter into Banner. This discussion will involve our reflection on the following areas:
+Decades of research concludes that grading is counterproductive, even harmful, to the process of education. Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this research. For the reasons Kohn enumerates (and other ones we will explore together), this class will not feature traditional letter grades for evaluation. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. At the end of the term, we will reflect on your progress, effort, participation, and performance; we'll decide together what to enter into Banner. This discussion about your performance in the class will involve our reflection on the following areas:
 
 - Participation
 - Attendance
@@ -210,9 +202,13 @@ For those (and other) reasons, this class will not use traditional grades for ev
 - Growth
 - Effort
 
+
+
 This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/books/perspectives/labor/)
 
 --->
+
+
 
 ---
 

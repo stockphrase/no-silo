@@ -40,7 +40,7 @@ Completing this assignment will in no way make you proficient at the integration
 
 3. Use a signal phrase with the author’s name, *summarize* this entire passage in your own words, and then cite according to MLA. *Use no quotations. Think carefully about your audience: if they have not read this piece, how should you write this so that they will understand?*
 
-4. *Paraphrase* this entire passage in your own words without using the author’s name and then cite according to MLA. *Briefly quote language or terms to give the reader a sense of the "flavor" of Percy's paragraph. Think carefully about your audience: if they have not read this piece, how should you write this so that they will understand?*
+4. Paraphrase this entire passage in your own words without using the author’s name and then cite according to MLA. *Briefly quote language or terms to give the reader a sense of the "flavor" of Percy's paragraph. Think carefully about your audience: if they have not read this piece, how should you write this so that they will understand?*
 
 5. Quote from this passage using the MLA block quote format, then cite according to MLA.
 
