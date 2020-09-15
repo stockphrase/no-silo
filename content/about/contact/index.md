@@ -17,8 +17,8 @@ bookToC: false
 
 ## Office hours
 
-- <i class="fas fa-clock"></i> TU 12:30--1:30
-- <i class="fas fa-clock"></i> TH 12:30--1:30
+- <i class="fas fa-clock"></i> TU 12:30--2
+- <i class="fas fa-clock"></i> TH 12:30--2
 - Or by appointment
 
 [<i class="fas fa-virus"></i>]() *Due to the  COVID-19 pandemic, my office hours for 2020-21 will be held via [Zoom](https://dartmouth.zoom.us/)*. 

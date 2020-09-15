@@ -14,10 +14,11 @@ type: docs
 
 ## Reflective Prologue
 
-Before exchanging your essay with a partner for peer review, complete answers to these questions and place your responses at the conclusion of your essay draft. *Please ensure that this reflection appears in the essay draft you turn in to Canvas as well*.
+Take a moment to reflect on your work before exchanging your essay with a partner for peer review. Consider the following questions and write answers to them at the conclusion of your essay draft. *Please ensure that this reflective work appears in the essay draft you turn in to Canvas as well*.
 
 - What did you learn by writing this draft?
 - What was the most challenging thing about creating this draft? 
+- What do you like most about this draft?
 - What is this draft's greatest weakness or problem?
 - How do you plan to make this draft better?
 - Do you have any specific things you'd like your reviewers to consider or help you with?
@@ -27,7 +28,9 @@ Before exchanging your essay with a partner for peer review, complete answers to
 
 ## Step I: Make a basic outline
 
-Exchange essays with a partner. Construct a brief outline of your partner's essay by listing the main idea contained in each paragraph. Your focus should be on the paper's *argumentative structure*, so concentrate on identifying the essay's `thesis` and the supporting `claims.` Approach each paragraph as if it were a single unit of meaning. What claim does it make? What is its purpose? Try, as best you can, to state the main idea of each paragraph in a single sentence. Take your time and try to do this as accurately as possible.
+Exchange essays with a partner. To begin, read your peer's reflective work at the end of his or her essay. Try to keep these ideas in mind as you try to help your partner. 
+
+Read though the essay completely without making notations or comments. Afterward, construct a brief outline of your partner's essay by listing the main idea contained in each paragraph. Your focus should be on the paper's *argumentative structure*, so concentrate on identifying the essay's `thesis` and the supporting `claims.` Approach each paragraph as if it were a single unit of meaning. What claim does it make? What is its purpose? Try, as best you can, to state the main idea of each paragraph in a single sentence. Take your time and try to do this as accurately as possible.
 
 The radically simplified version of the essay that results from this process may help expose logical weaknesses or problems with organization; at the same time, a simplified outline often inspires new ideas for the revision or expansion of the essay.
 

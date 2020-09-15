@@ -30,6 +30,14 @@ fundamental to your undergraduate training, regardless of your chosen
 field of study. In consideration of its importance, we will spend a
 significant amount of time learning how to use our library effectively.
 
+## Student Survey
+
+{{< hint info >}}
+Teaching and learning during a pandemic presents unique challenges. We may not all be in the same location or timezone. And we may face difficult situations that prevent us from concentrating on our work and personal growth. It would help me if I knew a bit about your current situation as we begin our term together. 
+
+<i class="fas fa-star-of-life"></i> Please complete [this brief survey](https://forms.gle/eSB5NPfxrxoroNfe6) about your current situation and location as soon as possible.
+
+{{< /hint >}}
 
 ## Required Texts
 
@@ -74,9 +82,6 @@ will be explained in greater detail throughout the course of the term.
     [**MLA style**](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [**Chicago
     style**](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
 
--   **Late Papers**: Late papers will receive *a full letter grade
-    deduction* for each day late.
-
 -   **Revisions**: It is my practice to return essay drafts to you
     within one week. Afterward, you will have a minimum of one week to
     revise your writing. During this two-week revision cycle please feel free
@@ -91,7 +96,7 @@ Here is a list of the typical assignments and activities that we will do each we
 
 -   As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
     the text by adding meaningful symbols, marginal notes, and questions
-    on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note**: This requires that you print out the text before you begin reading it*.</span>
+    on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>1</sup>***: This requires that you print out the text before you begin reading it.</span> [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>2</sup>***: Readings from the *Open Handbook* do not need to be printed out or annotated.</span>
 Bring this annotated copy of the reading
     with you to class to help you engage in the group discussion and
     analysis. 
@@ -120,9 +125,12 @@ be used for study or your own writing. If you plan on being successful
 in college, the ability to rigorously annotate texts is perhaps the most
 helpful and important skill you can develop.
 
+- <i class="fas fa-star-of-life"></i> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
+
 {{< hint info >}}
-<i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the [*Open Handbook*](/resources/open-handbook).
+<i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
 {{< /hint >}}
+
 
 ---
 
@@ -139,7 +147,7 @@ questions, raising objections, and making observations; **3)** connect and
 compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint info >}}
-<i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
+<i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*,
 {{< /hint >}}
 
 ---
