@@ -104,7 +104,7 @@ highlighting while reading:
     inquiry, or criticism" (41). While recalling information at a later
     time is important, this is not the sole purpose of reading. Critical
     reading also involves a process of evaluating, questioning, and
-    interpreting the text---activities that highlighting severely limit.
+    interpreting the text---activities that highlighting actively resists.
 
 -   Thirdly, highlighting doesn't help you place the information into
     your long-term memory. [Recent
