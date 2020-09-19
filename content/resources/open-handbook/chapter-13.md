@@ -63,7 +63,7 @@ Missing documentation for a quotation, summary, or paraphrase of another text ma
 
 ### 5. Spelling error
 
-- >{{< fa times >}}  I <<span class="highlight">definately</span> will be there.
+- >{{< fa times >}}  I <span class="highlight">definately</span> will be there.
 
 - >{{< fa check >}}  I definitely will be there.
 

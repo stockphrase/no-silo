@@ -14,7 +14,7 @@ type: docs
 
 ## Reflective Prologue
 
-Take a moment to reflect on your work before exchanging your essay with a partner for peer review. Consider the following questions and write answers to them at the conclusion of your essay draft. *Please ensure that this reflective work appears in the essay draft you turn in to Canvas as well*.
+Take a moment to reflect on your work. Consider the following questions and write answers to them at the conclusion of your essay draft. *Please ensure that this reflective work appears in the essay draft you turn in to Canvas as well*.
 
 - What did you learn by writing this draft?
 - What was the most challenging thing about creating this draft? 
@@ -28,7 +28,7 @@ Take a moment to reflect on your work before exchanging your essay with a partne
 
 ## Step I: Make a basic outline
 
-Exchange essays with a partner. To begin, read your peer's reflective work at the end of his or her essay. Try to keep these ideas in mind as you try to help your partner. 
+Exchange essays with a partner. To begin, read your peer's reflective work at the end of his or her essay. Try to keep these ideas in mind as you read your partner's work. 
 
 Read though the essay completely without making notations or comments. Afterward, construct a brief outline of your partner's essay by listing the main idea contained in each paragraph. Your focus should be on the paper's *argumentative structure*, so concentrate on identifying the essay's `thesis` and the supporting `claims.` Approach each paragraph as if it were a single unit of meaning. What claim does it make? What is its purpose? Try, as best you can, to state the main idea of each paragraph in a single sentence. Take your time and try to do this as accurately as possible.
 

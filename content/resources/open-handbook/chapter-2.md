@@ -22,13 +22,13 @@ writer's work part of your work (12).
 
 ---
 
-### Taking critical notes
+## Taking critical notes
 
 
 One objective of the annotations described in the previous chapter is to
 help you create a `critical outline` during a subsequent reading. The
 objective in the critical outline is to boil the entire argument down to
-its essence, without losing any significant detail. The focus, then, is on
+its essence without losing any significant detail. The focus, then, is on
 *reduction*: taking something complex and unwieldy and turning it
 into something small and useful for study or your own writing. There is
 a real art to this, and you will become better and faster at this as you

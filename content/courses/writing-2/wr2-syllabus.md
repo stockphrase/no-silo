@@ -35,6 +35,8 @@ significant amount of time learning how to use our library effectively.
 {{< hint info >}}
 Teaching and learning during a pandemic presents unique challenges. We may not all be in the same location or timezone. And we may face difficult situations that prevent us from concentrating on our work and personal growth. It would help me if I knew a bit about your current situation as we begin our term together. 
 
+---
+
 <i class="fas fa-star-of-life"></i> Please complete [this brief survey](https://forms.gle/eSB5NPfxrxoroNfe6) about your current situation and location as soon as possible.
 
 {{< /hint >}}
@@ -268,7 +270,7 @@ academic adjustments and services, you should contact the SAS office. All inquir
 ## Schedule of Readings and Assignments
 
 
-{{< details "Week One" open >}}
+{{< details "Week One" closed >}}
 
 # 
 
@@ -333,7 +335,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 
 
-{{< details "Week Two" >}}
+{{< details "Week Two" open >}}
 #
 
 ### { <i class="fas fa-house-user"></i> }  Monday, 9.21
