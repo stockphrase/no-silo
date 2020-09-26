@@ -18,9 +18,9 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 - Don’t forget to provide [MLA-formatted](/resources/open-handbook/chapter-11-mla) citations indicating the page number(s) of the points you summarize. Use the *Open Handbook* for help crafting appropriate [signal phrases](/resources/open-handbook/chapter-8).
 
-- Work in groups of three to discuss which elements of Baker’s essay should be included within the summary. Use this time to distinguish `assertions` & `claims` from `examples` & `metaphors.` Given the word limit in this assignment, you should focus on presenting the former pair and not the latter pair.
+- One of the main skills required here is the ability to distinguish `assertions` & `claims` from `examples` & `metaphors.` Given the word limit in this assignment, you should focus on presenting the former pair and not the latter pair. Just present the argument to your reader as you understand it. 
 
-- Your work in the [argument analysis workshop](/courses/workshops/argument-analysis) should be very helpful to you. Although you may work with your partners to decide what to include in the summary, you must write your own.
+- Your work in the [argument analysis workshop](/courses/workshops/argument-analysis) should be very helpful to you. Although you may worked with partners to decide what to include in the summary, you must write your own.
 
 ## Common questions
 
@@ -33,6 +33,7 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 - Sure, why not? You may choose to use your own words to explain the ideas of another writer. It is occasionally quite valuable to offer the exact words of another writer. But that is not necessarily the case here. The important thing is that you accurately communicate the thinking of another writer under the assigned word count. 
 
 ---
+[<i class="fas fa-exchange-alt"></i>]() *This assignment was updated to provide clarifying information on 9/26/20*.
 
 <!---
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)

@@ -352,6 +352,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
+- [Instructions for submitting to Hive](https://no-silo.com/resources/hive/).
+
 - <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*.
 
 
