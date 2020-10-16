@@ -6,9 +6,7 @@ bookHidden: true
 title: "Writing 2: Syllabus"
 ---
 
-
 [<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=350 >}}</div>](/about)
-
 
 # Writing 2: Education and Authority
 
@@ -48,12 +46,11 @@ Teaching and learning during a pandemic presents unique challenges. We may not a
 
 ## Important Links
 
-| Link       | Purpose         
-|:------------- |:-------------
-|[No Silo](https://no-silo.com) | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook).
-|[Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.
-|[Hive](/resources/hive) | A shared Google drive for collaborative work.
-
+| Link                                   | Purpose                                                                                                              |
+|:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
+| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
+| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
+| [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
 
 ## Academic Honesty
 
@@ -80,15 +77,15 @@ formal essays focus on `argumentation,` `synthesis,` `close reading,` and
 `theoretical analysis.` The exact nature and objective of each assignment
 will be explained in greater detail throughout the course of the term.
 
--   **Formatting**: During the fall term papers must be submitted in the
-    [**MLA style**](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [**Chicago
-    style**](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
+- **Formatting**: During the fall term papers must be submitted in the
+  [**MLA style**](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [**Chicago
+  style**](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
 
--   **Revisions**: It is my practice to return essay drafts to you
-    within one week. Afterward, you will have a minimum of one week to
-    revise your writing. During this two-week revision cycle please feel free
-    to drop by my office hours (or make an appointment) to go over
-    your writing or discuss your ideas.
+- **Revisions**: It is my practice to return essay drafts to you
+  within one week. Afterward, you will have a minimum of one week to
+  revise your writing. During this two-week revision cycle please feel free
+  to drop by my office hours (or make an appointment) to go over
+  your writing or discuss your ideas.
 
 ## Typical Weekly Workflow
 
@@ -96,20 +93,20 @@ Here is a list of the typical assignments and activities that we will do each we
 
 - Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
--   As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
-    the text by adding meaningful symbols, marginal notes, and questions
-    on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>1</sup>***: This requires that you print out the text before you begin reading it.</span> [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>2</sup>***: Readings from the *Open Handbook* do not need to be printed out or annotated.</span>
-Bring this annotated copy of the reading
-    with you to class to help you engage in the group discussion and
-    analysis. 
--   After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
+- As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
+  the text by adding meaningful symbols, marginal notes, and questions
+  on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>1</sup>***: This requires that you print out the text before you begin reading it.</span> [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>2</sup>***: Readings from the *Open Handbook* do not need to be printed out or annotated.</span>
+  Bring this annotated copy of the reading
+  with you to class to help you engage in the group discussion and
+  analysis. 
 
--   After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
+- After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
+
+- After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
 The following three numbered sections explain each of these practices in more detail:
 
 ### I. Annotating Texts
-
 
 Rather than use a laptop or tablet to read our course readings, *I ask
 that you print them out and annotate them as part of your preparations
@@ -133,11 +130,9 @@ helpful and important skill you can develop.
 <i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
 {{< /hint >}}
 
-
 ---
 
 ### II. Critical Reading Notes
-
 
 Create an electronic document for composing critical notes. Take
 *detailed* notes on each reading. Since you will write essays about
@@ -183,8 +178,6 @@ You might contribute to Hive by doing some of the following tasks:
 
 - Constructively question, respond, or correct the ideas or work of another student.
 
-
-
 <!---
 
 ## Grading Breakdown
@@ -200,10 +193,15 @@ The following assignments comprise your grade for the fall term:
 | Workshops     | 20%
 | Participation  | 20%    
 
+--->
 
 ## Grading
 
-Decades of research concludes that grading is counterproductive, even harmful, to the process of education. Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this research. For the reasons Kohn enumerates (and other ones we will explore together), this class will not feature traditional letter grades for evaluation. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. At the end of the term, we will reflect on your progress, effort, participation, and performance; we'll decide together what to enter into Banner. This discussion about your performance in the class will involve our reflection on the following areas:
+Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. 
+
+For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
+
+At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics:
 
 - Participation
 - Attendance
@@ -212,18 +210,11 @@ Decades of research concludes that grading is counterproductive, even harmful, t
 - Growth
 - Effort
 
-
-
-This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/books/perspectives/labor/)
-
---->
-
-
+This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
 
 ---
 
 ## Help With Your Writing
-
 
 There are many sources of help for your writing assignments. I am happy
 to meet with you all term during my office hours or by appointment. Each
@@ -244,31 +235,28 @@ Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has
 authorized services, students must show the originally signed SAS
 Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive
 academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
- 
 
 ## Symbol Legend
 
-| Symbol       | Note         
-| :-------------: |:-------------
-| [<i class="fas fa-sync-alt"></i>]()  | Synchronous class day via Zoom
-| [<i class="fas fa-house-user"></i>]()  | Independent work day from home
-| [<i class="fa fa-comments"></i>]() | Conferences with professor 
-| <i class="fa fa-calendar-alt"></i>   | A new major assignment          
-| <i class="fa fa-wrench"></i>     | Workshop assignment
-| <i class="fa fa-bullseye"></i>    | Assignment due
-| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas 
-| <i class="fab fa-forumbee"></i>  | Contribute to [Hive](/courses/writing-2/wr2-syllabus/#iii-contribute-to-hive)
-| <i class="fas fa-code-branch"></i>  | Peer work, in pairs or groups 
-| <i class="fa fa-bullhorn"></i> | Discussion topic
-| <i class="fa fa-book-open"></i> | Course reading from the [*Open Handbook*](/resources/open-handbook)
-| <i class="fa fa-download"></i></i> | Course reading download (.pdf)
-| <i class="fa fa-question-circle"></i> | Question of the Day™
+| Symbol                                  | Note                                                                          |
+|:---------------------------------------:|:----------------------------------------------------------------------------- |
+| [<i class="fas fa-sync-alt"></i>]()     | Synchronous class day via Zoom                                                |
+| [<i class="fas fa-house-user"></i>]()   | Independent work day from home                                                |
+| [<i class="fa fa-comments"></i>]()      | Conferences with professor                                                    |
+| <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
+| <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
+| <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
+| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas                                                   |
+| <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/courses/writing-2/wr2-syllabus/#iii-contribute-to-hive) |
+| <i class="fas fa-code-branch"></i>      | Peer work, in pairs or groups                                                 |
+| <i class="fa fa-bullhorn"></i>          | Discussion topic                                                              |
+| <i class="fa fa-book-open"></i>         | Course reading from the [*Open Handbook*](/resources/open-handbook)           |
+| <i class="fa fa-download"></i></i>      | Course reading download (.pdf)                                                |
+| <i class="fa fa-question-circle"></i>   | Question of the Day™                                                          |
 
 <!---| <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox) --->
 
-
 ## Schedule of Readings and Assignments
-
 
 {{< details "Week One" closed >}}
 
@@ -276,7 +264,7 @@ academic adjustments and services, you should contact the SAS office. All inquir
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 9.14 
+### { <i class="fas fa-sync-alt"></i> } Monday, 9.14
 
 ---
 
@@ -289,9 +277,10 @@ academic adjustments and services, you should contact the SAS office. All inquir
 #### ``+ Assignments``
 
 - *What is education? What is its purpose?* *What does it do?* *How does it shape us?* Do some thinking and note-taking on these
-questions. Arrive to class on Wednesday with some ideas that you can express and defend.
+  questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
+
 ---
 
 ### { <i class="fas fa-sync-alt"></i> } Wednesday, 9.16
@@ -304,6 +293,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
 
 #### ``+ In-class work``
+
 - <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
 - <i class="fa fa-bullhorn"></i> Discuss readings
 - <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation) (print out worksheet before class)
@@ -311,11 +301,12 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 9.18 
+### { <i class="fas fa-sync-alt"></i> } Friday, 9.18
 
 ---
 
 #### `+ Readings`
+
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
 #### ``+ In-class work``
@@ -327,15 +318,14 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< hint info >}} 
 <i class="fa fa-bullseye"></i> Essay 1 Draft Due
+
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 {{< /hint >}} 
 
 {{< /details >}}
 
-
-
-{{< details "Week Two" open >}}
+{{< details "Week Two" closed >}}
 #
 
 ### { <i class="fas fa-house-user"></i> }  Monday, 9.21
@@ -345,8 +335,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 #### `+ Readings`
 
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
 
 #### ``+ Independent work``
 
@@ -356,44 +346,42 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*.
 
-
 ### { <i class="fas fa-house-user"></i> } Wednesday, 9.23
 
 #### ``+ Independent work``
+
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for a discussion of the text on Friday. 
 - <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
 
 ---
-
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 9.25
 
 ----
-
 
 #### ``+ In-class work``
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
 
-
 #### `+ Assignments`
+
 - <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
 
 {{< /details >}}
 
-{{< details "Week Three" >}}
+{{< details "Week Three" closed >}}
 #
 
 ### { <i class="fas fa-house-user"></i> } Monday, 9.28
 
 #### `+ Readings`
+
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
-
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 9.30
 
@@ -401,10 +389,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
 
-
-
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.2
-
 
 #### `+ In-class work`
 
@@ -412,10 +397,11 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 - <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
 
-
 #### `+ Due`
+
 {{< hint info >}} 
 <i class="fa fa-bullseye"></i> Argument Summary Workshop Due
+
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< /hint >}}
@@ -424,27 +410,26 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 <i class="fa fa-bullseye"></i> Essay One Final Due
 
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-{{< /hint >}}
- 
+  {{< /hint >}}
 
 {{< /details >}}
 
-{{< details "Week Four" >}}
+{{< details "Week Four" closed >}}
 #
 
 ### { <i class="fas fa-house-user"></i> } Monday, 10.5
 
 #### `+ Readings`
-- <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
 
-#### ``+ Independent work``    
+- <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
+
+#### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
-
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 10.7
 
@@ -455,26 +440,24 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 
-
 {{< /details >}}
 
-{{< details "Week Five" >}}
+{{< details "Week Five" open >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.12 
+### { <i class="fas fa-house-user"></i> } Monday, 10.12
 
 #### `+ Readings`
+
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
-
-
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 10.14
 
@@ -485,12 +468,12 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.16
 
 #### ``+ In-class work``
+
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 1](/courses/workshops/argument-synthesis/)
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
-
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
 
 #### `+ Assignments`
 
@@ -507,7 +490,6 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 2](/courses/workshops/argument-synthesis/)
 
-
 ### { <i class="fas fa-house-user"></i> } Wednesday, 10.21
 
 #### ``+ Independent work``
@@ -517,6 +499,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.23
 
 #### ``+ In-class work``
+
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2.
 
@@ -524,6 +507,7 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< hint info >}}
 <i class="fa fa-bullseye"></i> Essay 2 Draft Due
+
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< /hint >}}
@@ -532,13 +516,14 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Seven" >}}
 #
+
 ### { <i class="fas fa-house-user"></i> } Monday, 10.26
 
 #### `+ Readings`
 
 - <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu)  (1998). Film is in the "Media" section of Canvas.
-    - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
-    - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
 
 #### ``+ Independent work``
 
@@ -546,8 +531,8 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-
 #### `+ Assignments`
+
 - <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 10.28
@@ -566,20 +551,20 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Eight">}}
 #
+
 ### { <i class="fas fa-sync-alt"></i> } Monday, 11.2
 
-
 #### `+ In-class work`
+
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3.
-
 
 #### `+ Due`
 
 {{< hint info >}}
 <i class="fa fa-bullseye"></i> Essay 3 Draft Due
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< / hint >}}
 
@@ -593,14 +578,15 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< hint info >}}
 <i class="fa fa-bullseye"></i> Essay 2 Final Due
+
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-{{< /hint >}}
+  {{< /hint >}}
 
 {{< /details >}}
 
-
 {{< details "Week Nine" >}}
 #
+
 ### <i class="fas fa-star-of-life"></i> Monday, 11.9
 
 - <i class="fa fa-comments"></i> Conferences
@@ -617,22 +603,20 @@ questions. Arrive to class on Wednesday with some ideas that you can express and
 
 {{< details "Week Ten" >}}
 #
+
 ### { <i class="fas fa-house-user"></i> } Monday, 11.16
 
 #### `+ Assignments`
+
 - <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
 
 #### `+ Due`
+
 {{< hint info >}}
 <i class="fa fa-bullseye"></i> Essay 3 Final Due
+
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< / hint >}}
 
-
-
 {{< /details >}}
-
-
-
-

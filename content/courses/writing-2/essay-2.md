@@ -25,7 +25,7 @@ To begin a synthesis, ask yourself the following questions about the readings yo
 After answering these questions exhaustively, write an essay that examines the relationship between the various authors’ arguments, comparing and contrasting their views.
 
 {{< hint info >}}
-<i class="fas fa-exclamation-triangle"></i> Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using summary, paraphrase and quotation, compare and contrast the authors’ positions; make sure to cite each of these appropriately. Use clear signal phrases to transition between your presentations of the various author’s ideas or works.
+<i class="fas fa-exclamation-triangle"></i> Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using summary, paraphrase, and quotation, compare and contrast the authors’ positions; make sure to cite each of these appropriately. Use clear signal phrases to transition between your presentations of the various author’s ideas or works.
 We will do some work during upcoming workshops to think about structure, content, and strategies for writing.
 {{< /hint >}}
 

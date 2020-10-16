@@ -9,7 +9,7 @@ enableGitInfo = true
 
 # Google Analytics
 
-googleAnalytics = "UA-167416562-1"
+# googleAnalytics = ""
 
 
 # Needed for mermaid/katex shortcodes

@@ -35,7 +35,6 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 ---
 [<i class="fas fa-exchange-alt"></i>]() *This assignment was updated to provide clarifying information on 9/26/20*.
 
-<!---
+
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
---->
 
