@@ -39,7 +39,35 @@ Walker Percy and Paulo Freire, each in their own way, ask us to consider the pro
 
 Much as you did in a previous workshop, map out all of these argumentative connections between the two texts, producing an organized list. Flag similar terms or language that can help you draw comparisons or make connections. Make sure to scrupulously cite each reference to the text so you won't waste time trying to find them again later. 
 
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
+
 ---
+<!---
+## Advice on Structure
+
+Your focus in a synthesis essay is to explain to your audience the way(s) in which these two arguments relate to one another. However, you do not want to write a summary of Freire’s ideas followed by a summary of Percy’s ideas and then conclude. Instead, the idea is that you have meticulously discovered all the moments the arguments appear to be in dialog with each other and then organize your essay in such a way as to emphasize those commonalities. For that reason, your essay should proceed **topically**. But how should you structure the synthesis essay?
+
+At the risk of stealing your sovereignty, you might consider the following way of organizing your inquiry and analysis of the essays 
+
+I. **Introduction**. Give appropriate **context**. Tell the reader the full names of these authors. Mention the texts that you will discuss. Let your audience know what is at stake here---the problem the authors examine---and what you hope to accomplish in your essay. A thesis is generally a good idea here!
+
+II. **Examine how both Percy and Freire diagnose the problem of authority within education**. How do Freire and Percy describe the problem of authority? What ideas, arguments, and terms do they share? While Percy predominantly uses metaphors drawn from tourism and consumerism to critique failed approaches to education, Freire uses one about banking. For example, Percy criticizes efforts to “know” if they involve merely receiving an “educational package.”  This term seems virtually identical to Freire’s idea of “banking,” where a teacher makes a “deposit” into the mind of a student. Both authors are similarly concerned with “teachers” or “experts” or “professional knowers” who have a problematic relationship with the “student” or person who desires to know or understand new things about the world. There are many other connections of significance. Exhaustively map out how they use similar ideas and terms to describe this problem within education. Remember, in synthesis it is important to *point to the specific language that these authors use* (i.e. quote).
+
+III. **Demonstrate how both authors explain the dire consequences or results from what you’ve described in section II**. How do they both discuss what happens to us when we find ourselves in this kind of educational environment? They both describe a number of significant consequences. Compare and contrast these ideas. Again, explain to your audience the specific language that the authors use.
+
+IV. **Explain how both authors attempt to offer solutions to this problem to avoid what you’ve described in section III**. Are there differences of opinion here? If so, how? Are their views compatible? Here it might be helpful to imagine what Freire would say in response to Percy’s essay and vice versa.
+
+V. **Conclusion**. Avoid the “summary” conclusion. Make some observations; do some analysis. Explain the significance of what you’ve just synthesized. Impress us.
+
+### Other advice:
+
+- This is good advice for any essay: use your topic sentences to clearly declare the subject of the paragraph and indicate a transition or new direction in your essay. For example, you could begin section III by stating: “Both Percy and Freire explain the dire consequences of these authoritarian models of education.” Not the greatest topic sentence, but it demonstrates your intent to show how *both* authors are making *similar points* within their broader attempts to argue a thesis about education and authority.
+
+- Other advice for writing about Percy. Your instinct is to tell your readers about the Grand Canyon, traveling to Mexico, viewing the Statue of Liberty, the dogfish. However, unless great care is taken, these examples will seem very strange indeed to readers who have not encountered Percy’s essay. They will expect that you will be discussing the problem of authority and education; if you discuss these stories you may completely baffle your readers–like trying to explain Baker’s story of his shoe and plushy backhoe scoops. Remember, these stories are just *illustrations* or *examples* of a larger argument that can be plainly articulated. The best idea is to *try and act as Percy’s translator for your audienc*e by *explaining the argument* he is trying to illustrate by using general and plain terms. Words like “sovereignty” and “professional knower” and “expert” and “tourist” and “consumer” are readily understandable by anyone who speaks English. Why the Grand Canyon and tourists in Mexico are in your essay about education is not. Ask yourself what Percy is attempting to illustrate using the example or story, then just state that argument clearly.
+
+- A final note. At the end of your essay, your audience should have a *very* good understanding of the basic arguments and claims put forth by both Freire and Percy. Part of your job in a synthesis essay is to educate your audience about these two authors and their ideas. With luck, you will be able to present their arguments using our old friends paraphrase, summary, and quotation. We’ve been practicing them; now it’s game time.
+
 
 <!---
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)

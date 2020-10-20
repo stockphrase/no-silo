@@ -29,6 +29,7 @@ After answering these questions exhaustively, write an essay that examines the r
 We will do some work during upcoming workshops to think about structure, content, and strategies for writing.
 {{< /hint >}}
 
+
 ---
 
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)

@@ -19,14 +19,7 @@ title: "Writing 2: Syllabus"
 
 **Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary,` `paraphrase,` and `quotation.`
 
-During the winter term we will turn our focus to academic research. Our
-libraries hold an impressive array of traditional and electronic search
-tools as well as millions of books, journal articles, and assorted
-media. Although navigating this vast sea of information is intimidating,
-it is important that you find your way: excellent research skills are
-fundamental to your undergraduate training, regardless of your chosen
-field of study. In consideration of its importance, we will spend a
-significant amount of time learning how to use our library effectively.
+During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
 ## Student Survey
 
@@ -54,28 +47,16 @@ Teaching and learning during a pandemic presents unique challenges. We may not a
 
 ## Academic Honesty
 
-All work submitted in this course must be your own and be written
-exclusively for this course. The use of sources (ideas, quotations,
-paraphrase) must be properly documented. Please read the [Academic Honor
-Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [**plagiarism**](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
+All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [**plagiarism**](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
 ## Attendance
 
-Regular attendance is expected. Bracketing religious observance, severe
-illness, or personal tragedy, **no more than three unexcused absences** in a
-single term will be acceptable for this course. *This policy applies to
-regular class meetings, assigned X hours, and TA meetings*. Four or more
-unexcused absences may result in repercussions ranging from significant
-reduction in GPA to failure of the course. If you have an event that conflicts with participation in the course, please
-contact me beforehand to discuss appropriate accommodations.
+Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, **no more than three unexcused absences** in a single term will be acceptable for this course. *This policy applies to regular class meetings, assigned X hours, and TA meetings*. Four or more
+unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have an event that conflicts with participation in the course, please contact me beforehand to discuss appropriate accommodations.
 
 ## Papers
 
-You will submit three formal essays and several smaller writing
-assignments in response to our readings and class discussions. The
-formal essays focus on `argumentation,` `synthesis,` `close reading,` and
-`theoretical analysis.` The exact nature and objective of each assignment
-will be explained in greater detail throughout the course of the term.
+You will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on `argumentation,` `synthesis,` `close reading,` and `theoretical analysis.` The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
 
 - **Formatting**: During the fall term papers must be submitted in the
   [**MLA style**](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [**Chicago
@@ -108,21 +89,7 @@ The following three numbered sections explain each of these practices in more de
 
 ### I. Annotating Texts
 
-Rather than use a laptop or tablet to read our course readings, *I ask
-that you print them out and annotate them as part of your preparations
-for class*. Annotation refers to the process of marking up a text by
-adding your own words and symbols to the document itself. There is no
-right or wrong way to mark up a text, but you should develop a system
-that you are comfortable with and try to stick with it. Your objective
-in annotation is to flag the key elements of a piece of writing---the
-`thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use
-the margins of the text to ask questions, make brief notes, indicate
-confusion, define unfamiliar terms, and make connections to other texts.
-This kind of work serves two purposes: first, it helps you maintain a
-critical focus as you read; second, it helps you later if the text must
-be used for study or your own writing. If you plan on being successful
-in college, the ability to rigorously annotate texts is perhaps the most
-helpful and important skill you can develop.
+Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. Your objective in annotation is to flag the key elements of a piece of writing---the `thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This kind of work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
 
 - <i class="fas fa-star-of-life"></i> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
 
@@ -134,14 +101,7 @@ helpful and important skill you can develop.
 
 ### II. Critical Reading Notes
 
-Create an electronic document for composing critical notes. Take
-*detailed* notes on each reading. Since you will write essays about
-these texts, these notes will be of significant help to you later. Your
-aims here should be to **1)** reduce the entire argument to its bare essentials
-using paraphrase, summary, and selective quotation---carefully documenting
-page numbers during this activity; **2)** interrogate the text by asking
-questions, raising objections, and making observations; **3)** connect and
-compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
+Create an electronic document for composing critical notes. Take *detailed* notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to **1)** reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity; **2)** interrogate the text by asking questions, raising objections, and making observations; **3)** connect and compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint info >}}
 <i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*,
@@ -216,25 +176,11 @@ This list was partially inspired by the grading contract in Asao B. Inoue's [*La
 
 ## Help With Your Writing
 
-There are many sources of help for your writing assignments. I am happy
-to meet with you all term during my office hours or by appointment. Each
-of you will meet with our TA for 45 minutes per week to go over your
-writing and plan revision. If you require further help, the
-[RWIT](https://students.dartmouth.edu/rwit/) program offers excellent
-peer tutoring on all phases of the writing process---from generating ideas
-to formal citation.
+There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes per week to go over your writing and plan revision. If you require further help, the [RWIT](https://students.dartmouth.edu/rwit/) program offers excellent peer tutoring on all phases of the writing process---from generating ideas to formal citation.
 
 ## Students With Disabilities
 
-All students are entitled to full access to this course, regardless of
-disability. If you have a disability and anticipate needing
-accommodations in this course, please contact me as soon as possible to
-arrange a confidential meeting. Students requiring disability-related
-services must register with the [Student Accessibility
-Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has
-authorized services, students must show the originally signed SAS
-Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive
-academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
+All students are entitled to full access to this course, regardless of disability. If you have a disability and anticipate needing accommodations in this course, please contact me as soon as possible to arrange a confidential meeting. Students requiring disability-related services must register with the [Student Accessibility Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
 
 ## Symbol Legend
 
@@ -471,9 +417,9 @@ academic adjustments and services, you should contact the SAS office. All inquir
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
-- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 1](/courses/workshops/argument-synthesis/)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Workshop](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
+- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop](/courses/workshops/argument-synthesis/)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
 
 #### `+ Assignments`
 
@@ -481,20 +427,22 @@ academic adjustments and services, you should contact the SAS office. All inquir
 
 {{< /details >}}
 
-{{< details "Week Six" >}}
+{{< details "Week Six" open >}}
 #
 
 ### { <i class="fas fa-house-user"></i> } Monday, 10.19
 
 #### ``+ Independent work``
 
-- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 2](/courses/workshops/argument-synthesis/)
+- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/) 
+  Continue your work in the Hive page for the synthesis essay.
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 10.21
 
 #### ``+ Independent work``
 
-- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop 3](/courses/workshops/argument-synthesis/)
+- <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/)
+  Continue your work in the Hive page for the synthesis essay.
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 10.23
 
