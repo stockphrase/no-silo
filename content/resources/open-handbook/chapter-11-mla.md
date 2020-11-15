@@ -119,7 +119,7 @@ or
 
 > Accordingly, the moose population in New Hampshire is suffering from the increased tick population ("Not Moosing Around").
 
-**5.** If the source was written by a `corporate author`, you may use the name of the company, government office, or organization who published the piece in place of the author:
+**5.** If the source was written by a `corporate author,` you may use the name of the company, government office, or organization who published the piece in place of the author:
 
 > Scientists declare that this will be the hottest year on record (NOAA 234).
 

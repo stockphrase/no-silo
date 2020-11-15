@@ -371,6 +371,8 @@ All students are entitled to full access to this course, regardless of disabilit
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
 
+
+
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
@@ -385,10 +387,11 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
-
+- [Related News Story 1](https://drive.google.com/file/d/1MKXEwIzucqon6ZVvQ_JaR1BGBhe6FrO3/view?usp=sharing)
+- [Related News Story 2](https://drive.google.com/file/d/15yC7BX__UBhUkrzc88BszxZMvnx7UITq/view?usp=sharing)
 {{< /details >}}
 
-{{< details "Week Five" open >}}
+{{< details "Week Five" >}}
 #
 
 ### { <i class="fas fa-house-user"></i> } Monday, 10.12
@@ -427,7 +430,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Six" open >}}
+{{< details "Week Six" >}}
 #
 
 ### { <i class="fas fa-house-user"></i> } Monday, 10.19
@@ -497,7 +500,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Eight">}}
+{{< details "Week Eight" >}}
 #
 
 ### { <i class="fas fa-sync-alt"></i> } Monday, 11.2
@@ -549,10 +552,18 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Ten" >}}
+{{< details "Week Ten" open >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 11.16
+### { <i class="fas fa-sync-alt"></i> } Monday, 11.16
+
+#### `+ In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- Grading oddities: the "ON" grade
+- Winter meeting
+- End-of-term reflection and review
+- Introduction to Writing 3
 
 #### `+ Assignments`
 

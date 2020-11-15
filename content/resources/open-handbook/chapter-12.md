@@ -505,7 +505,7 @@ Using the **letter line**, determine the floor of the library where the book is 
 
 #
 
-# `F 24` .T39 1990
+# F `24` .T39 1990
 
 Once on the appropriate floor, use the **whole number line** to find the
 row where the book is shelved in the stacks. Using the example call
@@ -525,9 +525,9 @@ Since `F 24` is within this range, our example book is in that row. Once in the 
 
 #
 
-# `F 24 .T39` 1990
+# F 24 `.T39` 1990
 
-Finally, using the `Cutter line`, proceed alphabetically until you hit the Ts. Then proceed numerically until you find `.T39`, the address of our book.
+Finally, using the `Cutter line,` proceed alphabetically until you hit the Ts. Then proceed numerically until you find `.T39`, the address of our book.
 
 * The date or volume information at the end of a call number will only be useful to you if you are looking for a particular edition of a book.
 
@@ -545,7 +545,7 @@ A new update to Dartmouth's catalog as of 2014 allows you to simply click the "m
 
 <div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>
 
-Clicking this button will summon a map that shows you the exact location of the book in the
+Clicking this button will summon a map that shows you the approximate location of the book in the
 library stacks. 
 
 <div style="text-align:center">{{< figure src="/img/map.png" >}}</div>
@@ -563,7 +563,7 @@ when you encounter this problem.
 
 A number of the best libraries in the world have formed a consortium
 designed to share resources and expand research opportunities for the
-entire academic community. As students of Dartmouth college, you may
+entire academic community. As students of Dartmouth College, you may
 obtain borrowing privileges at any of the other participating libraries
 including Brown, Columbia, Cornell, Harvard, Massachusetts Institute of
 Technology, University of Chicago, University of Pennsylvania,

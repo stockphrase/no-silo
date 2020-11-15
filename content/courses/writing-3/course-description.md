@@ -18,13 +18,14 @@ bookToc: true
 
 The theme for this course is `post-apocalyptic` fiction, film, and art.
 
+
 ---
 
 {{< tabs "WR3-Content" >}}
 {{< tab "Materials" >}} 
 
 
-- [Syllabus](/docs/2020W.pdf)
+- [Syllabus]()
 - [*The Open Handbook*](/resources/open-handbook/)
 
  {{< /tab >}}
@@ -40,16 +41,20 @@ The theme for this course is `post-apocalyptic` fiction, film, and art.
 
 {{< /tab >}}
 
-{{< tab "Workshops" >}} 
+{{< tab "Lectures" >}} 
 
 #
+
+`+ Course Introduction`
+
+- [x]  Cultural Studies: Intro to the Class
 
 #### Research lectures
 
 
 `+ Library Research`
 
-- [ ]	The academic conversation
+- [ ]	[The academic conversation](/resources/open-handbook/chapter-12/#the-academic-conversation) 
 - [ ]   The research question
 - [ ]  	Background or reference reading
 - [ ]  	Research guides

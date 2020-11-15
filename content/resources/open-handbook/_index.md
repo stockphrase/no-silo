@@ -42,7 +42,8 @@ If you would like to collaborate on the project or have a correction, please [co
     - 11b. [Chicago Style](/resources/open-handbook/chapter-11-chi)
 - 12. [Academic Research](/resources/open-handbook/chapter-12)
 - 13. [Common Sentence Errors](/resources/open-handbook/chapter-13)
+<!---
 - 14. [On Style](/resources/open-handbook/chapter-14)
-
+--->
 * [Index](/resources/open-handbook/keyword-index)
 
