@@ -16,7 +16,7 @@ bookToc: true
 
 **Writing 3** focuses on academic research writing. Our [libraries](https://library.dartmouth.edu) have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. 
 
-The theme for this course is `post-apocalyptic` fiction, film, and art.
+- The title of this course is [The End: Post-Apocalyptic Fiction, Film and Art](/courses/writing-3/wr3-syllabus).
 
 
 ---
@@ -42,8 +42,64 @@ The theme for this course is `post-apocalyptic` fiction, film, and art.
 {{< /tab >}}
 
 {{< tab "Lectures" >}} 
-
 #
+
+#### I. Course Introduction
+
+- <i class="fas fa-video"></i> [A brief, entirely reductive introduction to Cultural Studies](/video/)
+
+This video lecture provides a short introduction to our course and the cultural studies approach to fiction and film.
+
+{{< audio mp3="/audio/cultural-studies.mp3" >}}
+
+---
+#### II. Finding books and other physical holdings in the library
+
+- <i class="fas fa-video"></i> [Lecture 1]()
+- <i class="fa fa-wrench"></i> [Workshop]()
+
+---
+
+**Lecture 2: Finding Periodicals**
+
+``Workshop-2``
+
+
+---
+
+**Lecture 3: Searching with Precision**
+
+---
+
+**Lecture 4: Works Cited or Bibliography**
+
+
+`Workshop`: 
+
+---
+
+**Lecture 5: Cutting Corners: New Ways of Reading** 
+
+`Workshop`
+
+---
+
+**Lecture 6: "Some fool checked out my book!"**
+
+
+---
+
+**Lecture 7: Bibliographic Software / Research Journal**
+
+
+`Workshop`
+
+---
+
+**Lecture 8: Managing Large Research Projects**
+
+---
+
 
 `+ Course Introduction`
 

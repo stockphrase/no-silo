@@ -5,13 +5,15 @@ bookToc: true
 bookHidden: true
 title: "Writing 3: Syllabus"
 ---
-
+<!---
 {{< youtube I03xFqbxUp8  >}}
+--->
+
+<div style="text-align:center">{{< figure src="/img/lastmantxt.jpg" >}}</div>
+
+# Post-apocalyptic Fiction, Film, and Art
 
 
-# The End: Post-apocalyptic Fiction, Film, and Art
-
-<div style="text-align:center">{{< figure src="/img/lastman2.jpg" >}}</div>
 
 ## Course Description
 
@@ -47,7 +49,6 @@ the following:
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
-- [*The Road*](https://www.amazon.com/dp/0307387895/ref=cm_sw_em_r_mt_dp_DSTQFbS1GWMGY), by Cormac McCarthy
 - Other course readings are embedded in the syllabus below.
 
 ---
@@ -59,7 +60,7 @@ the following:
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
-
+| [The End](https://journeys.dartmouth.edu/alantaylor/) | A research archive built by our class.
 ---
 
 ## Academic Honesty
@@ -77,7 +78,7 @@ unexcused absences may result in repercussions ranging from significant reductio
 
 ## Typical Weekly Workflow
 
-Here is a list of the typical assignments and activities that we will do each week:
+Below is a list of the typical assignments and activities we will do each week. These are described in more depth in the "Major Assignments" section below.
 
 - Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
@@ -92,13 +93,6 @@ Here is a list of the typical assignments and activities that we will do each we
 
 - After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
-The following three numbered sections explain each of these practices in more detail:
-
-### I. Annotating Texts
-
-Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. Your objective in annotation is to flag the key elements of a piece of writing---the `thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This kind of work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
-
-- <i class="fas fa-star-of-life"></i> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
 
 {{< hint info >}}
 <i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
@@ -106,34 +100,6 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 
 ---
 
-### II. Critical Reading Notes
-
-Create an electronic document for composing critical notes. Take *detailed* notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to **1)** reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity; **2)** interrogate the text by asking questions, raising objections, and making observations; **3)** connect and compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
-
-{{< hint info >}}
-<i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*,
-{{< /hint >}}
-
----
-
-
-
-<!---
-
-## Grading Breakdown
-
-
-The following assignments comprise your grade for the fall term:
-
-| Assignment       | Percentage         
-| ------------- |:-------------
-| Essay One     | 20%           
-| Essay Two     | 20%      
-| Essay Three   | 20%
-| Workshops     | 20%
-| Participation  | 20%    
-
---->
 
 ## Grading
 
@@ -163,7 +129,7 @@ and theoretical analysis. I encourage you to write on one of the texts, films, o
 However, if you would like to write on a different text or film you may do so if it is a contribution to our course conversation and theme. If you take this route, please discuss your ideas with me before you get too far along. I am happy
 to meet with each of you to discuss ideas and help formulate a research plan.
 
-- The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi) and contain a minimum of 15 peer-reviewed sources.
+- The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi) and contain a minimum of 15 [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources.
 
 ### 2. Research Workshops
 
@@ -183,7 +149,7 @@ Each of you will curate a page on our [research project website](http://journeys
 - an annotated bibliography of all the sources used or consulted to construct your research project.
 - a current draft of your research essay.
 - a weekly reflective blog post about the progress of your research project (see #7 below).
-- I have placed a model author page on the course website.
+- I have placed a [model author page](https://journeys.dartmouth.edu/alantaylor/2019/12/05/alan-taylor/) on the course website.
 
 ### 5. Contribute to Hive
 
@@ -203,15 +169,10 @@ Our objective for Hive is to explore meaning, discover argumentative structures,
 You might contribute to Hive by doing some of the following tasks:
 
 - Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
-
 - Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
-
 - Define difficult vocabulary.
-
 - Flag a key portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
-
 - Make a connection between an idea found in one text with others we have read in class (or elsewhere).
-
 - Constructively question, respond, or correct the ideas or work of another student.
 
 ### 6. Critical Reading Notes
@@ -225,7 +186,7 @@ terms or words. At the end of this process you should have a simplified version 
 critical observations, questions, and ideas that emerged in your process of reading.
 
 - For more detailed information on the creation and purpose of these notes, read the chapter entitled [“Annotation and Critical Reading”](/resources/open-handbook/chapter-1/) in the Open Handbook.
-- Attach your critical notes file to your response post for each reading or film in the Canvas discussion forum.
+
 
 ### 7. End-of-Week Journal Reflection
 
@@ -240,6 +201,7 @@ formation? In essence, blog your experience as a novice researcher engaged in yo
 
 Write as much as you like, but submit at least a half a page. We’ll often talk about these on Fridays and I will periodically evaluate them.
 
+---
 
 ## Help With Your Writing
 
@@ -253,11 +215,15 @@ Each of you must attend a brief conference with me and our teaching assistant du
 
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
-To sign up for a session, [follow this link]() and place your name in a slot.
+To sign up for a session, [follow this link]() and place your name in a slot. All meetings will be held in my office hour Zoom room.
+
+---
 
 ## Students With Disabilities
 
 All students are entitled to full access to this course, regardless of disability. If you have a disability and anticipate needing accommodations in this course, please contact me as soon as possible to arrange a confidential meeting. Students requiring disability-related services must register with the [Student Accessibility Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
+
+---
 
 ## Symbol Legend
 
@@ -279,146 +245,97 @@ All students are entitled to full access to this course, regardless of disabilit
 
 <!---| <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox) --->
 
+{{< audio mp3="/audio/sound.mp3">}}
+
+
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" closed >}}
+{{< details "1 - Course Introduction" >}}
 
-# 
+#
 
----
+### { <i class="fas fa-sync-alt"></i> } Friday, 1.7
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 1.7
-
----
 
 #### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- *Review*: syllabus, course policies, websites
-- Time for questions
+- Course overview, conference scheduling.
 
-#### ``+ Assignments``
+{{< audio mp3="/audio/sound.mp3">}}
 
-- *What is education? What is its purpose?* *What does it do?* *How does it shape us?* Do some thinking and note-taking on these
-  questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
-- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
+{{< /details >}}
 
----
 
-### { <i class="fas fa-sync-alt"></i> } Wednesday, 9.16
+{{< details "2 - Winter Conferences" closed >}}
+#
 
----
+In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.  
+
+### <i class="fas fa-star-of-life"></i> Monday, 1.11
+
+- <i class="fa fa-comments"></i> Conferences
+
+### <i class="fas fa-star-of-life"></i> Tuesday, 1.12
+
+- <i class="fa fa-comments"></i> Conferences
+
+### <i class="fas fa-star-of-life"></i> Wednesday, 1.13
+
+- <i class="fa fa-comments"></i> Conferences
+
+### <i class="fas fa-star-of-life"></i> Thursday, 1.14
+
+- <i class="fa fa-comments"></i> Conferences
+
+### <i class="fas fa-star-of-life"></i> Friday, 1.15
+
+- <i class="fa fa-comments"></i> Conferences
+
+{{< /details >}}
+
+{{< details "3 - Disaster, Apocalypse, and the State of Nature" closed >}}
+#
+
+Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state
+for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human
+beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive
+threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to
+explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers,
+filmmakers, and social scientists imagine apocalyptic scenarios of disaster by which society regresses again to chaotic
+states of nature. Why do we produce such imaginings? What purpose(s) do they serve? Why have these narratives
+become so prominent of late?
+
+
+### { <i class="fas fa-house-user"></i> } Monday, 1.18
+
+- MLK Day. Classes move to X-period.
 
 #### `+ Readings`
 
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
+- <i class="fa fa-download"></i> 
+- <i class="fa fa-download"></i> 
+- <i class="fa fa-wrench"></i> 
 
-#### ``+ In-class work``
-
-- <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
-- <i class="fa fa-bullhorn"></i> Discuss readings
-- <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation) (print out worksheet before class)
-- <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
-
----
-
-### { <i class="fas fa-sync-alt"></i> } Friday, 9.18
-
----
-
-#### `+ Readings`
-
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
-
-#### ``+ In-class work``
+#### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will exchange essays electronically.
 
 #### `+ Due`
 
-{{< hint info >}} 
-<i class="fa fa-bullseye"></i> Essay 1 Draft Due
-
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
-
-{{< /hint >}} 
-
-{{< /details >}}
-
-{{< details "Week Two" closed >}}
-#
-
-### { <i class="fas fa-house-user"></i> }  Monday, 9.21
-
----
+### { <i class="fas fa-house-user"></i> } Wednesday, 1.20
 
 #### `+ Readings`
 
-- <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
+- <i class="fa fa-download"></i> 
 
-#### ``+ Independent work``
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-
-- [Instructions for submitting to Hive](https://no-silo.com/resources/hive/).
-
-- <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*.
-
-### { <i class="fas fa-house-user"></i> } Wednesday, 9.23
-
-#### ``+ Independent work``
-
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for a discussion of the text on Friday. 
-- <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
-
----
-
-### { <i class="fas fa-sync-alt"></i> } Friday, 9.25
-
-----
-
-#### ``+ In-class work``
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
-
-#### `+ Assignments`
-
-- <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
-
-{{< /details >}}
-
-{{< details "Week Three" closed >}}
-#
-
-### { <i class="fas fa-house-user"></i> } Monday, 9.28
-
-#### `+ Readings`
-
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
-- <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
-
-### { <i class="fas fa-house-user"></i> } Wednesday, 9.30
-
-#### `+ Readings`
-
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
-
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.2
+### { <i class="fas fa-sync-alt"></i> } Friday, 1.22
 
 #### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
-- <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
+
 
 #### `+ Due`
 
@@ -437,10 +354,19 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Four" closed >}}
+{{< details "4 - The Apocalypse and the Other" closed >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.5
+Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During
+these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as
+novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded 
+a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational
+values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964)
+and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or
+problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to
+today?
+
+### { <i class="fas fa-house-user"></i> } Monday, 1.25
 
 #### `+ Readings`
 
@@ -456,11 +382,11 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.7
+### { <i class="fas fa-house-user"></i> } Wednesday, 1.27
 
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.9
+### { <i class="fas fa-sync-alt"></i> } Friday, 1.29
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
@@ -468,10 +394,24 @@ All students are entitled to full access to this course, regardless of disabilit
 - [Related News Story 2](https://drive.google.com/file/d/15yC7BX__UBhUkrzc88BszxZMvnx7UITq/view?usp=sharing)
 {{< /details >}}
 
-{{< details "Week Five" >}}
+{{< details "5 - The Zombie, Civil Rights, and Race" >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.12
+Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made
+in America. This begs several questions. Why was the zombie born here rather than someplace else? What is it about
+the Americas and their history that made the figure of the zombie possible and popular? What does it say about
+us and our culture that we have created precisely this type of monster? In this section we will attempt to answer
+these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of
+the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the
+zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the
+zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery
+cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form
+of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric
+figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the
+countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation
+of the zombie? What cultural “work” did the zombie perform?
+
+### { <i class="fas fa-house-user"></i> } Monday, 2.1
 
 #### `+ Readings`
 
@@ -485,13 +425,13 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.14
+### { <i class="fas fa-house-user"></i> } Wednesday, 2.3
 
 #### ``+ Independent work``
 
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.16
+### { <i class="fas fa-sync-alt"></i> } Friday, 2.5
 
 #### ``+ In-class work``
 
@@ -507,24 +447,35 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Six" >}}
+{{< details "6 - TEOTWAWKI: Prepping for the End" >}}
 #
+Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular
+shows in this regard include gameshows like Survivor and adventure shows like Man vs. Wild and Survivorman. Newer
+programing includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather
+prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the
+comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.”
+Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition
+in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response:
+*Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest,
+total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course,
+zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify
+some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.19
+### { <i class="fas fa-house-user"></i> } Monday, 2.8
 
 #### ``+ Independent work``
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/) 
   Continue your work in the Hive page for the synthesis essay.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.21
+### { <i class="fas fa-house-user"></i> } Wednesday, 2.10
 
 #### ``+ Independent work``
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/)
   Continue your work in the Hive page for the synthesis essay.
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.23
+### { <i class="fas fa-sync-alt"></i> } Friday, 2.12
 
 #### ``+ In-class work``
 
@@ -542,16 +493,27 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Seven" >}}
+{{< details "7 - Slow Violence, Eco-pocalypse, and Poverty " >}}
 #
+We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however,
+scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”—a form of violence “that
+occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work
+Slow Violence is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses,
+toxic waste, nuclear fallout, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult
+to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as
+“spectacle deficient” events, they struggle for representation in a media environment that is biased toward more
+sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to
+many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our
+perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that
+we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.26
+### { <i class="fas fa-house-user"></i> } Monday, 2.15
 
 #### `+ Readings`
 
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu)  (1998). Film is in the "Media" section of Canvas.
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
+- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012). Film is in the "Media" section of Canvas.
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Beasts*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Beasts*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
 
 #### ``+ Independent work``
 
@@ -563,13 +525,13 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.28
+### { <i class="fas fa-house-user"></i> } Wednesday, 2.17
 
 #### ``+ Independent work``
 
 - Work on Essay 3 drafts individually. Prepare for Friday group discussion on film and essay drafts.
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.30
+### { <i class="fas fa-sync-alt"></i> } Friday, 2.19
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss *Rushmore* film and theoretical essay drafts.
@@ -577,10 +539,10 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Eight" open >}}
+{{< details "Week Eight" >}}
 #
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 11.2
+### { <i class="fas fa-sync-alt"></i> } Monday, 2.22
 
 #### `+ In-class work`
 
@@ -596,11 +558,11 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< / hint >}}
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 11.4
+### { <i class="fas fa-house-user"></i> } Wednesday, 2.24
 
 - Drafting and revising work on Essay 2
 
-### { <i class="fas fa-house-user"></i> } Friday, 11.6
+### { <i class="fas fa-house-user"></i> } Friday, 2.26
 
 #### `+ Due`
 
@@ -612,18 +574,18 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Nine" open >}}
+{{< details "Week Nine" >}}
 #
 
-### <i class="fas fa-star-of-life"></i> Monday, 11.9
+### <i class="fas fa-star-of-life"></i> Monday, 3.1
 
 - <i class="fa fa-comments"></i> Conferences
 
-### <i class="fas fa-star-of-life"></i> Wednesday, 11.11
+### <i class="fas fa-star-of-life"></i> Wednesday, 3.3
 
 - <i class="fa fa-comments"></i> Conferences
 
-### <i class="fas fa-star-of-life"></i> Friday, 11.13
+### <i class="fas fa-star-of-life"></i> Friday, 3.5
 
 - <i class="fa fa-comments"></i> Conferences
 
@@ -632,16 +594,25 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< details "Week Ten" >}}
 #
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 11.16
+### { <i class="fas fa-sync-alt"></i> } Monday, 3.8
 
 #### `+ Assignments`
 
-- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
+
 
 #### `+ Due`
 
 {{< hint info >}}
-<i class="fa fa-bullseye"></i> Essay 3 Final Due
+<i class="fa fa-bullseye"></i> Final Essays Due
+
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+
+{{< / hint >}}
+
+### { <i class="fas fa-sync-alt"></i> } Wednesday, 3.10
+
+{{< hint info >}}
+<i class="fa fa-bullseye"></i> Final Essays Due
 
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 

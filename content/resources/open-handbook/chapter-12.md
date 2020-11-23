@@ -497,6 +497,7 @@ Let's break down the call number into its constituent parts:
 
 Using the **letter line**, determine the floor of the library where the book is shelved. The library's [floorplan maps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) will help you locate the proper section. Using our example call number above, we can determine that the **F** section is in `Stack Annex A`.
 
+<div style="text-align:center">{{< figure src="/img/floor-map.png" >}}</div>
 <div style="text-align:center">{{< figure src="/img/collection-map.png" >}}</div>
 
 {{< /details >}}
@@ -509,9 +510,9 @@ Using the **letter line**, determine the floor of the library where the book is 
 
 Once on the appropriate floor, use the **whole number line** to find the
 row where the book is shelved in the stacks. Using the example call
-number, we will look through the stacks for the number `24`. The [floormaps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) are helpful in locating the book's general location on the library floor. 
+number, we will look through the stacks for the number `24`. Each library floor has a [floormaps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) to help guide you; they are available in .pdf form or are posted on the wall of each floor, near the entrance. 
 
-As you walk through the stacks, look on the ends of each row of books for signs describing the range of books held within the rows. There you will see signs like the one pictured below.
+As you walk through the stacks, look on the ends of each row for signs describing the range of books held within the row. There you will see signs like the one pictured below.
 
 <div style="text-align:center">{{< figure src="/img/stacks.jpg" >}}
 
@@ -543,7 +544,7 @@ Maps of the library's floorplans are affixed to the walls on each floor. Free pa
 
 A new update to Dartmouth's catalog as of 2014 allows you to simply click the "map it" button next to the item's listing in the catalog. 
 
-<div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>
+[<div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031290259705706)
 
 Clicking this button will summon a map that shows you the approximate location of the book in the
 library stacks. 
