@@ -16,7 +16,7 @@ bookToc: true
 
 **Writing 3** focuses on academic research writing. Our [libraries](https://library.dartmouth.edu) have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. 
 
-- The title of this course is [The End: Post-Apocalyptic Fiction, Film and Art](/courses/writing-3/wr3-syllabus).
+- The title of this course is *The End: Post-Apocalyptic Fiction, Film and Art*.
 
 
 ---
@@ -30,145 +30,95 @@ bookToc: true
 
  {{< /tab >}}
 
-{{< tab "Assignments" >}} 
-
-
-- [ ] Research essay draft 1.0
-- [ ] Research essay draft 2.0
-- [ ] Research essay draft 3.0
-- [ ] Final research essay draft
-
-
-{{< /tab >}}
 
 {{< tab "Lectures" >}} 
-#
 
-#### I. Course Introduction
+<i class="fas fa-volume-up"></i> **Course Introduction**
 
-- <i class="fas fa-video"></i> [A brief, entirely reductive introduction to Cultural Studies](/video/)
-
-This video lecture provides a short introduction to our course and the cultural studies approach to fiction and film.
+- This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies.
 
 {{< audio mp3="/audio/cultural-studies.mp3" >}}
 
 ---
-#### II. Finding books and other physical holdings in the library
 
-- <i class="fas fa-video"></i> [Lecture 1]()
-- <i class="fa fa-wrench"></i> [Workshop]()
+<i class="fas fa-volume-up"></i> **Lecture 1: Finding books and other physical holdings in the library**
 
----
+- This lecture will help you learn how to locate physical items in the library's stacks.
 
-**Lecture 2: Finding Periodicals**
+{{< audio mp3="x.mp3" >}}
 
-``Workshop-2``
-
+- <i class="fa fa-wrench"></i> [Workshop 1]()
 
 ---
 
-**Lecture 3: Searching with Precision**
+<i class="fas fa-volume-up"></i> **Lecture 2: Finding Periodicals**
+
+- This lecture will help you learn how to locate periodicals (such as magazines and scholarly journal articles) in the library's stacks and online.
+
+{{< audio mp3="x.mp3" >}}
+
+- <i class="fa fa-wrench"></i> [Workshop 2]()
 
 ---
+<i class="fas fa-volume-up"></i> **Lecture 3: Works Cited or Bibliography**
 
-**Lecture 4: Works Cited or Bibliography**
+- This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
 
+{{< audio mp3="x.mp3" >}}
 
-`Workshop`: 
-
----
-
-**Lecture 5: Cutting Corners: New Ways of Reading** 
-
-`Workshop`
-
----
-
-**Lecture 6: "Some fool checked out my book!"**
+- <i class="fa fa-wrench"></i> [Workshop 3]()
 
 
 ---
 
-**Lecture 7: Bibliographic Software / Research Journal**
 
+#### <i class="fas fa-volume-up"></i> [**Lecture 4: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing)
 
-`Workshop`
+This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
+
+- <i class="fa fa-wrench"></i> [Workshop 4: Searching with Precision](/courses/workshops/search-with-precision/)
+---
+
+<i class="fas fa-volume-up"></i> **Lecture 5: Cutting Corners: New Ways of Reading** 
+
+- The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+
+{{< audio mp3="x.mp3" >}}
+
+- <i class="fa fa-wrench"></i> [Workshop 4]()
+
 
 ---
 
-**Lecture 8: Managing Large Research Projects**
+<i class="fas fa-volume-up"></i> **Lecture 6: "Some fool checked out my book!"**
 
----
+- As a researcher you will encounter many problems. One of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
 
+{{< audio mp3="x.mp3" >}}
 
-`+ Course Introduction`
-
-- [x]  Cultural Studies: Intro to the Class
-
-#### Research lectures
-
-
-`+ Library Research`
-
-- [ ]	[The academic conversation](/resources/open-handbook/chapter-12/#the-academic-conversation) 
-- [ ]   The research question
-- [ ]  	Background or reference reading
-- [ ]  	Research guides
-- [ ]  	Peer review
-- [ ]  	Finding books
-- [ ]  	LCC system
-- [ ]  	Subject headings/searches
-- [ ]   Examining a copyright page
-- [ ] 	Primary & secondary sources
-- [ ]  	Finding periodicals (articles)
-- [ ]   Mining bibliographies
-
----
-
-`+ Cutting Corners`
-
-- [ ]  	How to read a book
-- [ ]  	The utility of book reviews
-
----
-
-`+ Asking for help`
-
-- [ ]  	Hook up with a [research librarian](https://researchguides.dartmouth.edu/subjectlibrarians) 
-
----
-
-`+ Some fool checked out my book`
-
-- [ ]  	Borrow Direct (books)
-- [ ]  	DartDoc, or "Interlibrary Loan" (articles)
-
----
-
-`+ Managing large research projects`
-
-- [ ] Managing large research projects
-- [ ] Reference managers
-
----
-
-`+ Boolean Searches`
-
-- [ ] AND, OR, NOT, NEAR 
-- [ ] Exact phrase searches
-- [ ] Parenthetical searches
-- [ ] Truncation and wild cards
-
----
-
-`+ Chicago citation style`
-
-- [ ] Translating MLA to Chicago
+- <i class="fa fa-wrench"></i> [Workshop 4]()
 
 
 
 ---
 
+<i class="fas fa-volume-up"></i> **Lecture 7: Bibliographic Software / Research Journal**
+
+- Over your career, as a student and beyond as a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
+
+{{< audio mp3="x.mp3" >}}
+
+- <i class="fa fa-wrench"></i> [Workshop 4]()
+
+---
+
+<i class="fas fa-volume-up"></i> **Lecture 8: Managing Large Research Projects**
+
+- How do you begin when you've collected a pile of books and articles that will be parts of your research project? Often the volume of your collection leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+
+{{< audio mp3="x.mp3" >}}
+
+- <i class="fa fa-wrench"></i> [Workshop 4]()
 
 
 {{< /tab >}}

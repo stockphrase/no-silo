@@ -85,7 +85,7 @@ College should be a series of experiences through which you *gain ownership over
 
 # Yes
 
-Now you kids get off my lawn!
+Now [you kids get off my lawn!](https://en.wikipedia.org/wiki/You_kids_get_off_my_lawn!)
 
 {{< /details >}}
 

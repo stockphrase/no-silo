@@ -1,10 +1,6 @@
-<audio controls style="width: 50%; margin-bottom: 10px">
-    {{ with .Get "ogg" }}<source src="{{ . }}" type="audio/ogg">{{ end }}
-    {{ with .Get "mp3" }}<source src="{{ . }}" type="audio/mpeg">{{ end }}
-    {{ with .Get "wav" }}<source src="{{ . }}" type="audio/wav">{{ end }}
+<audio controls style="width: 90%">
+    {{- with .Get "ogg" -}}<source src="{{- . -}}" type="audio/ogg">{{- end -}}
+    {{- with .Get "mp3" -}}<source src="{{- . -}}" type="audio/mpeg">{{- end -}}
+    {{- with .Get "wav" -}}<source src="{{- . -}}" type="audio/wav">{{- end -}}
 </audio>
-
-
-
-
 
