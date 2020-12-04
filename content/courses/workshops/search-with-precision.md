@@ -206,14 +206,15 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 ## Problem Sets
 
-- Wut?
-- Wut2?
+1. You are interested in investigating *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
+2. 
+
 
 
 
 
 <!---
-<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
+1. Israel* AND (Arab* OR Palestin*) AND (literature OR fiction) 
 --->
 
 

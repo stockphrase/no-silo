@@ -238,8 +238,8 @@ All students are entitled to full access to this course, regardless of disabilit
 | [<i class="fas fa-sync-alt"></i>]()     | Synchronous class day via Zoom            |
 | [<i class="fas fa-house-user"></i>]()   | Independent work day from home                                                |
 | [<i class="fa fa-comments"></i>]()      |  [Winter conference](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) with professor & TA 
-| [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Presentations                                                     |
-| <i class="fas fa-headphones"></i>      | An audio / video lecture |
+| [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
+| <i class="fas fa-microphone-alt"></i>     | An audio / video lecture |
 | <i class="fa fa-calendar-alt"></i>      | A new major assignment   
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
@@ -264,108 +264,55 @@ All students are entitled to full access to this course, regardless of disabilit
 
 #### `+ Lectures`
 
-#### [<i class="fas fa-volume-up"></i>]() **An Introduction to WR3**
-This lecture provides a brief introduction to the course's main aims, assignments, and topic. 
+#### <i class="fas fa-microphone-alt"></i> [**An Introduction to Writing 3**]()
+- This lecture provides a brief introduction to the course's main aims, assignments, and topic. 
 
 #### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- Course overview, conference scheduling.
+- Course overview.
+- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). 
 
 
 {{< /details >}}
 
 
-{{< details "2 - Winter Conferences" >}}
+{{< details "2 - Winter Conferences" open >}}
 #
 
 This week is dedicated to our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.  
-
-#### ``+ Independent work``
 
 - Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 - As you wait to do your winter conference with us, occupy yourselves with these lectures and workshops.
 
 ---
 
-### <i class="fa fa-comments"></i> Monday, 1.11
-
-- Winter conferences will be held via Zoom. 
-
 #### `+ Lectures`
 
-- #### [<i class="fas fa-volume-up"></i>]() **An Introduction to Cultural Studies**
-This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies.
+#### <i class="fas fa-microphone-alt"></i> [**An Introduction to Cultural Studies**]() 
+- This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies. 
 
-Optional further reading:
-
-- Kagan Dan, ["Cultural Studies."](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225)
-- Slack, Jennifer Daryl. ["Articulation Theory."](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177)
-
-
-#### ``+ Independent work``
-
-- Listen to the lecture.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
-
-
----
-
-### <i class="fa fa-comments"></i> Tuesday, 1.12
-
-- Winter conferences will be held via Zoom. 
-
----
-
-### <i class="fa fa-comments"></i> Wednesday, 1.13
-
-- Winter conferences will be held via Zoom. 
-
-#### ``+ Lectures``
-
-- #### [<i class="fas fa-volume-up"></i>]() **Lecture 1: Finding books and other physical holdings in the library**
-
+#### <i class="fas fa-microphone-alt"></i> [**Lecture 1: Finding books and other physical holdings in the library**]()
 - This lecture will help you learn how to locate physical items in the library's stacks.
 - <i class="fa fa-wrench"></i> [Workshop 1: Locating items in the stacks]()
 
 #### ``+ Independent work``
 
-- Listen to the lecture and complete the workshop.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+- Listen to the lectures and complete the workshops.
+- <i class="fas fa-hourglass-end"></i> *Complete independent work by Friday @ 10pm EST*.
 
+#### ``+ Due``
 
+{{< hint note >}} 
 
----
+[<i class="fa fa-bullseye"></i>]()  End-of-week reflection
 
-### <i class="fa fa-comments"></i> Thursday, 1.14
-
-- Winter conferences will be held via Zoom. 
-
----
-
-### <i class="fa fa-comments"></i> Friday, 1.15
-
-- Winter conferences will be held via Zoom. 
-
-#### `+ Lectures`
-
-#### [<i class="fas fa-volume-up"></i>]() **Lecture 2: Finding Periodicals**
-
-- This lecture will help you learn how to locate periodicals (such as magazines and scholarly journal articles) in the library's stacks and online.
-
-{{< audio mp3="x.mp3" >}}
-
-- <i class="fa fa-wrench"></i> [Workshop 2: Finding periodicals]()
-
-#### ``+ Independent work``
-
-- Listen to the lecture and coomplete the workshop.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
-
-
+{{< /hint >}} 
 
 
 {{< /details >}}
+
+
 
 {{< details "3 - Disaster, Apocalypse, and the State of Nature" >}}
 
@@ -397,11 +344,10 @@ become so prominent of late?
 #### `+ Lectures`
 
 
-#### [<i class="fas fa-volume-up"></i>]() **Lecture 3: Works Cited or Bibliography**
+#### <i class="fas fa-microphone-alt"></i>  [**Lecture 3: Works Cited or Bibliography**]()
 
-- This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
+- This lecture and workshop will help you gain familiarity with constructing a bibliography for a research paper or project.
 
-{{< audio mp3="x.mp3" >}}
 
 - <i class="fa fa-wrench"></i> [Workshop 3: MLA and Chicago Bibliographies]()
 
@@ -454,6 +400,13 @@ and TV Culture.”
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss readings
 
+#### `+ Due`
+
+{{< hint note >}} 
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+
+{{< /hint >}} 
 
 {{< /details >}}
 
@@ -475,7 +428,6 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 - <i class="fas fa-video"></i>  Film, *The Last Man on Earth* (1968) 
 
 
-
 #### ``+ Independent work``
 
 - View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
@@ -487,10 +439,10 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Lectures`
 
-- #### <i class="fas fa-volume-up"></i> [**Lecture 4: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing) (3:18)
+- #### <i class="fas fa-microphone-alt"></i>  [**Lecture 4: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing) (3:18)
+- <i class="fa fa-wrench"></i> [Workshop 4: Searching with Precision](/courses/workshops/search-with-precision/)
 
 This lecture and workshop will help you learn how to query databases and catalogs with greater precision, saving you time and headaches. 
-- <i class="fa fa-wrench"></i> [Workshop 4: Searching with Precision](/courses/workshops/search-with-precision/)
 
 
 #### ``+ Independent work``
@@ -505,6 +457,19 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+
+#### `+ Due`
+
+{{< hint note >}} 
+- <i class="fa fa-bullseye"></i> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+
+
+
+{{< /hint >}} 
+
+
 
 {{< /details >}}
 
@@ -529,7 +494,7 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, *I am Legend* (2007).  
+- <i class="fas fa-video"></i>  Film, *I am Legend* (2007). Film is in the "Media" section of Canvas.  
   
 
 #### ``+ Independent work``
@@ -542,17 +507,19 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 #### `+ Lectures`
 
-- #### <i class="fas fa-volume-up"></i> **Lecture 5: Cutting Corners: New Ways of Reading** 
-
-The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+- #### <i class="fas fa-microphone-alt"></i> [**Lecture 5: Cutting Corners: New Ways of Reading**]()
 - <i class="fa fa-wrench"></i> [Workshop 5: Cutting Corners]()
 
-- #### <i class="fas fa-volume-up"></i> **Lecture 6: "Some fool checked out my book!"**
+The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+
+
+- #### <i class="fas fa-microphone-alt"></i> **Lecture 6: "Some fool checked out my book!"**
+- <i class="fa fa-wrench"></i> [Workshop 6: DartDoc and Borrow Direct]()
 
 As a researcher you will encounter many problems. One of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
 
 
-- <i class="fa fa-wrench"></i> [Workshop 6: DartDoc and Borrow Direct]()
+
 
 #### ``+ Independent work``
 
@@ -567,6 +534,15 @@ As a researcher you will encounter many problems. One of the most annoying is di
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+
+#### ``+ Due``
+
+{{< hint note >}} 
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+
+{{< /hint >}} 
+
 
 {{< /details >}}
 
@@ -586,7 +562,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, *I am Legend* (2007).
+- <i class="fas fa-video"></i>  Film, *Night of the Living Dead* (1968). Film is in the "Media" section of Canvas.
 
 
 #### ``+ Independent work``
@@ -603,11 +579,9 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Lectures`
 
-#### <i class="fas fa-volume-up"></i> **Lecture 7: Bibliographic Software / Research Journal**
+#### <i class="fas fa-microphone-alt"></i>  **Lecture 7: Bibliographic Software / Research Journal**
 
 - Over your career as a student (and later, as a professional), you will encounter and make use of thousands of books, articles, and assorted media. Many of these texts will be very useful to you later, but they will only be easily accessible to you if you take the time to save and organize them now. There's an app for that. 
-
-{{< audio mp3="x.mp3" >}}
 
 - <i class="fa fa-wrench"></i> [Workshop 7]()
 
@@ -626,7 +600,17 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and reading
 
-#### `+ Assignments`
+
+#### ``+ Due``
+
+{{< hint note >}} 
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+- <i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
+
+
+{{< /hint >}} 
+
 
 
 {{< /details >}}
@@ -653,7 +637,7 @@ Recent years have seen an explosion of “reality” television programming base
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Doomsday Preppers](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
   
 #### ``+ Lectures``
-#### <i class="fas fa-volume-up"></i> **Lecture 8: Managing Large Research Projects**
+#### <i class="fas fa-microphone-alt"></i>  **Lecture 8: Managing Large Research Projects**
 
 - How do you begin when you've collected a pile of books and articles that will be parts of your research project? Often the volume of your collection leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
@@ -675,17 +659,19 @@ Recent years have seen an explosion of “reality” television programming base
 
 #### `+ Due`
 
-{{< hint info >}}
-
-
-{{< /hint >}}
 
 ---
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 2.19
 
-- 
-- 
+#### ``+ Due``
+
+{{< hint note >}} 
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+
+{{< /hint >}} 
+
 
 
 {{< /details >}}
@@ -694,14 +680,7 @@ Recent years have seen an explosion of “reality” television programming base
 {{< details "8 - Slow Violence, Eco-pocalypse, and Poverty " open >}}
 #
 We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however,
-scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”—a form of violence “that
-occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses,
-toxic waste, nuclear fallout, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult
-to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as
-“spectacle deficient” events, they struggle for representation in a media environment that is biased toward more
-sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to
-many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our
-perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that
+scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”—a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear fallout, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that
 we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](http)
@@ -745,6 +724,16 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 - <i class="fa fa-bullhorn"></i> Discuss the film and Hive submissions
 - <i class="fa fa-wrench"></i> Essay 3 workshop
 
+#### ``+ Due``
+
+{{< hint note >}} 
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+- <i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
+
+{{< /hint >}} 
+
+
 {{< /details >}}
 
 {{< details "9 - Drafting, Revising, Presenting" >}}
@@ -773,6 +762,15 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 - <i class="fas fa-comment-alt"></i> Presentation Group 3
 
+#### ``+ Due``
+
+{{< hint note >}} 
+
+- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+
+{{< /hint >}} 
+
+
 {{< /details >}}
 
 {{< details "10 - The End" >}}
@@ -780,23 +778,14 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 ### { <i class="fas fa-sync-alt"></i> } Monday, 3.8
 
-#### `+ Assignments`
 
-
-
-#### `+ Due`
-
-{{< hint info >}}
-
-
-{{< / hint >}}
 
 ### { <i class="fas fa-sync-alt"></i> } Wednesday, 3.10
 
-{{< hint info >}}
-<i class="fa fa-bullseye"></i> Final Essays Due
+{{< hint note >}}
+- <i class="fa fa-bullseye"></i> [Final Essays Due]()
 
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu/)
 
 {{< / hint >}}
 
