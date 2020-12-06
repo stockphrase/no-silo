@@ -6,18 +6,16 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
-
+{{< youtube hBiBiOzkpnY >}}
 
 ## Searching with Precision
 
-This workshop is designed to help you search library catalogs and other databases with efficiency. While most students have some familiarity with searching through the Google search engine, library catalogs and databases don't always work in the same way. To query databases effectively and efficiently, you need to be familiar with `Boolean` searches.
+This workshop is designed to help you keyword search library catalogs and other databases with efficiency. While most students have some familiarity with keyword searching through the Google search engine, library catalogs and databases don't work in the same way. To query databases effectively and efficiently, you need to be familiar with `Boolean` searches.
 
 Perhaps the common research problem is searches that produce too many results. Rather than page through hundreds or thousands of search results, you can use Boolean search strings to make your searches more precise. Boolean searches use what are known as ``logical operators`` to form search strings. 
 
 The three most common logical operators are **AND**, **OR**, and **NOT**. However, you should also learn how to use `exact phrases`, `truncation`, and `wildcards` in search strings. 
 
-- #### <i class="fas fa-volume-up"></i> [**Lecture 4: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing)
 
 ## Workshop
 
@@ -58,12 +56,6 @@ three terms*. This small subset of the larger subject sets is referenced
 by the arrow. All the information represented by the other portions of
 the three circles will be excluded. Thus, even if an article contains
 two of the three search terms, it will be excluded from the results.
-
-{{< hint info >}}
-
-This search could have been improved with `truncation`, described below.
-
-{{< /hint >}}
 
 {{< /details >}}
 
@@ -120,7 +112,7 @@ Minnesota Vikings football team. You can subtract these unwanted results
 by searching for **Vikings `NOT` Minnesota** or **Vikings `NOT` football**,
 for example.
 
-{{< hint info >}}
+{{< hint note >}}
 
 This search uses quotation marks to form an `exact phrase` search, described below.
 
@@ -197,24 +189,36 @@ relevant results. *The question mark wild card should be used to replace a singl
 
  To illustrate, look at these two searches on the JSTOR database:
 
-- [Iraq and manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (14,863 results)
+- [Iraq AND manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (14,863 results)
 
-- [Iraq and manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (30,868 results) 👀️
+- [Iraq AND manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (30,868 results) 👀️
 
 {{< /details >}} 
 
 
 ## Problem Sets
 
-1. You are interested in investigating *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
-2. 
+1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
 
+2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians.
+ 
+3. Further narrow this by searching for novels that depict the conflict between Israelis and Palestinians that feature suicide attacks.
 
+4. Find sources that examine Herman Melville's novel *Moby Dick* and the Cold War. 
 
+5. You are curious if there is any scholarship on fictional portrayals of pandemic disease. Try several search strings to get at the answer.
+
+6. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
+
+7. You are interested in religious views or responses to pandemics.
 
 
 <!---
-1. Israel* AND (Arab* OR Palestin*) AND (literature OR fiction) 
+1. Israel* AND (Arab* OR Palestin*) AND (literature OR fiction OR film OR movie) 
+1b. Israel* AND Palestinia* AND fiction AND suicide AND terroris*
+2. "Moby Dick" AND "Cold War"
+3. (pandemic AND bat AND film) NOT Contagion; (disease OR pandemic) AND (bat AND film) NOT Contagion; (film OR movie OR cinema) AND (bat AND pandemic) NOT Batman; ** pandemic AND vampire AND (film OR movie)
+7. religion AND contagion AND (plague OR pandemic) 
 --->
 
 

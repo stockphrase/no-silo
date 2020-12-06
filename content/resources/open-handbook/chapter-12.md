@@ -286,7 +286,9 @@ also a problem for faculty performing research outside of their area of
 expertise. For example, an English professor would know that the
 academic journal *PMLA* or the database JSTOR are excellent places to
 look for articles on Herman Melville's novel *Moby Dick*, but the novice
-researcher wouldn't know where to begin.
+researcher wouldn't know where to begin. You might also think that a database 
+called "Web of Science" would be a terrible place to look for articles on a 
+work of literature. You'd be wrong. 
 
 To resolve this problem, our library has organized periodical databases
 by discipline in the [Database
@@ -514,7 +516,7 @@ Let's break down the call number into its constituent parts:
 
 # `F` 24 .T39 1990
 
-Using the **letter line**, determine the floor of the library where the book is shelved. The library's [floorplan maps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) will help you locate the proper section. Using our example call number above, we can determine that the **F** section is in `Stack Annex A`.
+Using the **letter line**, determine the floor of the library where the book is shelved. The library's [floorplan maps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) will help you locate the proper section. Using our example call number above, we can determine that the **F** section is in `Stack Level A`.
 
 <div style="text-align:center">{{< figure src="/img/floor-map.png" >}}</div>
 <div style="text-align:center">{{< figure src="/img/collection-map.png" >}}</div>
@@ -531,8 +533,7 @@ Once on the appropriate floor, use the **whole number line** to find the
 row where the book is shelved in the stacks. Using the example call
 number, we will look through the stacks for the number `24`. Each library floor has a [floormaps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) to help guide you; they are available in .pdf form or are posted on the wall of each floor, near the entrance. 
 
-As you walk through the stacks, look on the ends of each row for signs describing the range of books held within the row. There you will see signs like the one pictured below.
-
+As you walk through the stacks, look on the ends of each row for signs describing the range of books held within the row such as the one below:
 <div style="text-align:center">{{< figure src="/img/stacks.jpg" >}}
 
 { *Use these signs to determine if a book is in the row*. }</div>

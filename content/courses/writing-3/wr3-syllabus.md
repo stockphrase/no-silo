@@ -289,12 +289,20 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 #### `+ Lectures`
 
-#### <i class="fas fa-microphone-alt"></i> [**An Introduction to Cultural Studies**]() 
+#### <i class="fas fa-microphone-alt"></i> [**An Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
 - This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies. 
 
-#### <i class="fas fa-microphone-alt"></i> [**Lecture 1: Finding books and other physical holdings in the library**]()
-- This lecture will help you learn how to locate physical items in the library's stacks.
-- <i class="fa fa-wrench"></i> [Workshop 1: Locating items in the stacks]()
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 1: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing)
+
+This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
+
+- <i class="fa fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
+
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 2: Finding Periodicals**]()
+
+- This lecture will help you learn how to locate periodicals (such as magazines and scholarly journal articles) in the library's stacks and online.
+
+- <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals](/courses/workshops/find-periodicals)
 
 #### ``+ Independent work``
 
@@ -305,7 +313,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 {{< hint note >}} 
 
-[<i class="fa fa-bullseye"></i>]()  End-of-week reflection
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -404,7 +412,7 @@ and TV Culture.”
 
 {{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -439,8 +447,10 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Lectures`
 
-- #### <i class="fas fa-microphone-alt"></i>  [**Lecture 4: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing) (3:18)
-- <i class="fa fa-wrench"></i> [Workshop 4: Searching with Precision](/courses/workshops/search-with-precision/)
+####  <i class="fas fa-microphone-alt"></i>  **Lecture 4: Finding books and other physical holdings in the library**
+
+- This lecture will help you learn how to locate physical items in the library's stacks.
+- <i class="fa fa-wrench"></i> [Workshop 4]()
 
 This lecture and workshop will help you learn how to query databases and catalogs with greater precision, saving you time and headaches. 
 
@@ -461,11 +471,9 @@ This lecture and workshop will help you learn how to query databases and catalog
 #### `+ Due`
 
 {{< hint note >}} 
-- <i class="fa fa-bullseye"></i> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
+<i class="fa fa-bullseye"></i> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
-
-
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -539,7 +547,7 @@ As a researcher you will encounter many problems. One of the most annoying is di
 
 {{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -605,8 +613,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 {{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
-- <i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+<i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
 
 
 {{< /hint >}} 
@@ -668,7 +676,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 {{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -728,8 +736,8 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 {{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
-- <i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
+<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+<i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
 
 {{< /hint >}} 
 
@@ -766,7 +774,7 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 {{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  End-of-week reflection.
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -783,9 +791,9 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 ### { <i class="fas fa-sync-alt"></i> } Wednesday, 3.10
 
 {{< hint note >}}
-- <i class="fa fa-bullseye"></i> [Final Essays Due]()
+<i class="fa fa-bullseye"></i> [Final Essays Due]()
 
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu/)
+<i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu/)
 
 {{< / hint >}}
 
