@@ -12,7 +12,7 @@ title: "+ Hive"
 
 [**Hive**](https://google.dartmouth.edu) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The "[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)" is capable of discovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.
 
-{{< hint info >}}
+{{< hint note >}}
 - We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) to create the Hive resource. You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. 
 
 - You may authenticate using your Dartmouth credentials at this G-Suite link: https://google.dartmouth.edu/

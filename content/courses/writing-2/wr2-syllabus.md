@@ -552,7 +552,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Ten" open >}}
+{{< details "Week Ten" >}}
 #
 
 ### { <i class="fas fa-sync-alt"></i> } Monday, 11.16

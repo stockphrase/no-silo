@@ -43,60 +43,60 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 - This lecture provides a brief introduction to our WR3 course objectives, assignments, and topic.
 
 
+---
+
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)<sup>1</sup>
+
+- This lecture provides a brief, idiosyncratic, wholly reductive introduction to cultural studies.<sup>2</sup>
+
+    1. Music from: [<i class="fas fa-music"></i>]() Dyslexic Fudgicle, "[Planet Hitler](https://freemusicarchive.org/music/Dyslexic_Fudgicle/Impossible_Doors/Dyslexic_Fudgicle_-_Impossible_Doors_-_05_Planet_Hitler)"; [<i class="fas fa-music"></i>]() Jim Gutherie, "[Personnel](https://jimguthrie.bandcamp.com/track/personnel)"; [<i class="fas fa-music"></i>]() Daniel Birch, "[Indigo Blocks](https://freemusicarchive.org/music/Daniel_Birch/indigo/daniel-birch-indigo-blocks)" and "[Blue Deeper than Indigo](https://freemusicarchive.org/music/Daniel_Birch/indigo/daniel-birch-blue-deeper-than-indigo)." 
+
+    2. Further (completely optional) reading on cultural studies: <i class="fa fa-download"></i></i> ["Cultural Studies"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225), by Dan Kagan and <i class="fa fa-download"></i></i> ["Articulation Theory"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177), by Jennifer Daryl Slack.
+    
+---
+
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 1: Searching with Precision**](/courses/workshops/search-with-precision/)
+
+This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
+
+- <i class="fa fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
+
 
 ---
 
-####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
 
-- This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies. 
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
 
-- [<i class="fas fa-music"></i>]() Music from: Dyslexic Fudgicle, "Planet Hitler," Jim Gutherie, "Personnel," Daniel Birch, "Indigo Blocks" and "Blue Deeper than Indigo." 
+- This lecture will help you learn how to locate online periodicals (such as magazines and scholarly journal articles).
 
-Further (optional) reading:
-
-- Kagan, Dan. ["Cultural Studies."](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225)	
-- Slack, Jennifer Daryl. ["Articulation Theory."](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177)
- 
-
+- <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
 
 ---
 
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 1: Finding books and other physical holdings in the library**
+####  <i class="fas fa-microphone-alt"></i>  **Lecture 3: Finding books and other physical holdings in the library**
 
 - This lecture will help you learn how to locate physical items in the library's stacks.
 
----
-
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 2: Finding Periodicals**
-
-- This lecture will help you learn how to locate periodicals (such as magazines and scholarly journal articles) in the library's stacks and online.
-
-- <i class="fa fa-wrench"></i> [Workshop 2]()
+- <i class="fa fa-wrench"></i> [Workshop 3]()
 
 ---
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 3: Works Cited or Bibliography**
+
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
 
 - This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
 
 
-- <i class="fa fa-wrench"></i> [Workshop 3]()
+- <i class="fa fa-wrench"></i> [Workshop 4: Learning the Chicago Style](/courses/workshops/bibliography/)
 
 
 ---
 
-
-####  <i class="fas fa-microphone-alt"></i>  [**Lecture 4: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing)
-
-This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
-
-- <i class="fa fa-wrench"></i> [Workshop 4: Searching with Precision](/courses/workshops/search-with-precision/)
----
 
 ####  <i class="fas fa-microphone-alt"></i>  **Lecture 5: Cutting Corners: New Ways of Reading** 
 
 - The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 
-- <i class="fa fa-wrench"></i> [Workshop 4]()
+- <i class="fa fa-wrench"></i> [Workshop 5]()
 
 
 ---
@@ -105,7 +105,7 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 - As a researcher you will encounter many problems. One of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
 
-- <i class="fa fa-wrench"></i> [Workshop 4]()
+- <i class="fa fa-wrench"></i> [Workshop 6]()
 
 
 
@@ -113,9 +113,9 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 ####  <i class="fas fa-microphone-alt"></i>  **Lecture 7: Bibliographic Software / Research Journal**
 
-- Over your career, as a student and beyond as a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
+- Over your career as a student and a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
-- <i class="fa fa-wrench"></i> [Workshop 4]()
+- <i class="fa fa-wrench"></i> [Workshop 7]()
 
 ---
 
@@ -123,7 +123,7 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 - How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
-- <i class="fa fa-wrench"></i> [Workshop 4]()
+- <i class="fa fa-wrench"></i> [Workshop 8]()
 
 
 {{< /tab >}}

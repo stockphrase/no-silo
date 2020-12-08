@@ -201,16 +201,14 @@ relevant results. *The question mark wild card should be used to replace a singl
 1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
 
 2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians.
- 
-3. Further narrow this by searching for novels that depict the conflict between Israelis and Palestinians that feature suicide attacks.
 
-4. Find sources that examine Herman Melville's novel *Moby Dick* and the Cold War. 
+3. Find sources that examine Herman Melville's novel *Moby Dick* and the Cold War. 
 
-5. You are curious if there is any scholarship on fictional portrayals of pandemic disease. Try several search strings to get at the answer.
+4. You are curious if there is any scholarship on fictional portrayals of pandemic disease. Try several search strings to get at the answer.
 
-6. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
+5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
-7. You are interested in religious views or responses to pandemics.
+6. You are interested in how the Abrahamic religions depicted pandemic disease in their scriptures. What can you find?
 
 
 <!---

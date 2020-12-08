@@ -731,9 +731,9 @@ summaries and paraphrases use your own original language. This
 intermediary step before writing the essay saves you time and helps you
 avoid [**plagiarism**](/resources/open-handbook/chapter-10/).
 
-### Raid the bibliography
+### Citation Chasing; Or, Raiding the Bibliography
 
-Occasionally, students find one or two sources on a topic and then
+Students find one or two sources on a topic and then
 despair of finding any more. However, with just one excellent article or
 book, you can easily generate additional research leads. When you find a
 book or article that relates to your project, scour the bibliography to
@@ -744,6 +744,8 @@ the library and then repeat the process. By using this technique of
 routinely following up on sources cited in bibliographies, you can
 generate a surprisingly large number of books and articles on your topic
 in a relatively short time.
+
+- Some databases, such as **Web of Science**, offer the ability to browse references automatically. 
 
 ### Research journal & bibliographic software
 

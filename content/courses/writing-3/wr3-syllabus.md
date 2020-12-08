@@ -22,11 +22,7 @@ title: "Writing 3: Syllabus"
 
 ## Course Description
 
-Why do we feel such an attraction to disaster? Why do we produce novels, films, and other forms of art that contemplate the end of humanity? Scholars from many disciplines have offered theories about the appeal and meaning of
-such spectacles of apocalyptic destruction. We will read some of this critical literature, examining views from disciplines such as psychology, sociology, cultural studies, and religion. In addition to these assigned readings, each of you
-will engage in your own original process of inquiry on a related topic of your choosing. You will present your findings
-frequently to the community of scholars in our class, sharing and discussing your research discoveries and insights.
-Ultimately, you will produce a lengthy work of original scholarship that will contribute to this field of inquiry
+Why do we feel such an attraction to disaster? Why do we produce novels, films, and other forms of art that contemplate the end of humanity? Scholars from many disciplines have offered theories about the appeal and meaning of such spectacles of apocalyptic destruction. We will read some of this critical literature, examining views from disciplines such as psychology, sociology, cultural studies, and religion. In addition to these assigned readings, each of you will engage in your own original process of inquiry on a related topic of your choosing. You will present your findings frequently to the community of scholars in our class, sharing and discussing your research discoveries and insights. Ultimately, you will produce a lengthy work of original scholarship that will contribute to this field of inquiry
 
 ---
 
@@ -86,12 +82,7 @@ Below is a list of the typical assignments and activities we will do each week. 
 
 - Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
-- As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
-  the text by adding meaningful symbols, marginal notes, and questions
-  on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>1</sup>***: This requires that you print out the text before you begin reading it.</span> [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>2</sup>***: Readings from the *Open Handbook* do not need to be printed out or annotated.</span>
-  Bring this annotated copy of the reading
-  with you to class to help you engage in the group discussion and
-  analysis. 
+- As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note***: This requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
 - After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
@@ -147,9 +138,7 @@ Several workshop assignments will be assigned to help you gain confidence with u
 
 ### 3. Presentations
 
-You will make one formal presentation at the conclusion of the term to explain your research project. You will also
-make a number of informal presentations about your ideas, research, and writing as they evolve over the term. These
-informal presentations may not be announced, *so be prepared to discuss your project at any time*.
+You will make one formal presentation at the conclusion of the term to explain your research project. You will also make a number of informal presentations about your ideas, research, and writing as they evolve over the term. These informal presentations may not be announced, *so be prepared to discuss your project at any time*.
 
 ### 4. Author Page
 
@@ -187,13 +176,7 @@ You might contribute to Hive by doing some of the following tasks:
 
 ### 6. Critical Reading Notes
 
-Create an electronic document for composing critical notes. Take detailed notes on each reading. Since you will
-write essays about these texts, these notes will be of significant help to you later. Your aim here should be to reduce the
-entire argument to its bare essentials using paraphrase, summary, and selective quotation. Carefully document page numbers
-during this activity. Interrogate the text by asking questions, raising objections, and noting observations. Connect
-and compare the reading to others we have read. Link to any outside research you perform and define unfamiliar
-terms or words. At the end of this process you should have a simplified version of the essay as well as a number of
-critical observations, questions, and ideas that emerged in your process of reading.
+Create an electronic document for composing critical notes. Take detailed notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aim here should be to reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation. Carefully document page numbers during this activity. Interrogate the text by asking questions, raising objections, and noting observations. Connect and compare the reading to others we have read. Link to any outside research you perform and define unfamiliar terms or words. At the end of this process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in your process of reading.
 
 {{< hint note >}}
 [<i class="fas fa-circle"></i>]() For more detailed information on the creation and purpose of these notes, read the chapter entitled [“Annotation and Critical Reading”](/resources/open-handbook/chapter-1/) in the Open Handbook.
@@ -201,7 +184,7 @@ critical observations, questions, and ideas that emerged in your process of read
 
 ### 7. End-of-Week Journal Reflection
 
-By Friday each week, compose a reflective post on your author page at the course website that looks back over the week’s reading and discussions. What is your big takeaway for this week? What was the most meaningful thing that you heard, thought, or read? Do you see any connections between this week’s readings and previous ones? Perhaps you see connections to your other coursework?
+By Friday each week, compose a reflective post on your author page at the [course website](https://journeys.dartmouth.edu/alantaylor/) that looks back over the week’s reading and discussions. What is your big takeaway for this week? What was the most meaningful thing that you heard, thought, or read? Do you see any connections between this week’s readings and previous ones? Perhaps you see connections to your other coursework?
 
 As your research for you final project intensifies, your posts should also include the steps that you took that week to further the project. What kind of research problems or difficulties did you encounter? Where did you find some new, helpful information? In essence, blog your experience as a novice researcher engaged in your first big research project.
 
@@ -221,7 +204,11 @@ Each of you must attend a brief conference with me and our teaching assistant du
 
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
-To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
+{{< hint note >}}
+[<i class="fas fa-circle"></i>](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
+
+{{< /hint >}}
+
 
 ---
 
@@ -260,7 +247,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 #
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 1.7
+### { <i class="fas fa-sync-alt"></i> } Friday, 1.8
 
 #### `+ Lectures`
 
@@ -287,27 +274,48 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 ---
 
-#### `+ Lectures`
+### { <i class="fas fa-house-user"></i> } Monday, 1.11
+
+#### `+ Lectures & Workshops`
 
 #### <i class="fas fa-microphone-alt"></i> [**An Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
 - This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies. 
 
-####  <i class="fas fa-microphone-alt"></i>  [**Lecture 1: Searching with Precision**](https://drive.google.com/file/d/1WlJV5O2YSOC7VQGHCG1N-aM7kXRqrVVi/view?usp=sharing)
+#### ``+ Independent work``
+
+- Listen to the lecture.
+- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+
+### { <i class="fas fa-house-user"></i> } Wednesday, 1.13
+
+#### `+ Lectures & Workshops`
+
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 1: Searching with Precision**](/courses/workshops/search-with-precision/)
 
 This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
 
 - <i class="fa fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
 
-####  <i class="fas fa-microphone-alt"></i>  [**Lecture 2: Finding Periodicals**]()
+#### ``+ Independent work``
 
-- This lecture will help you learn how to locate periodicals (such as magazines and scholarly journal articles) in the library's stacks and online.
+- Listen to the lectures and complete the workshop.
+- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-- <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals](/courses/workshops/find-periodicals)
+
+### { <i class="fas fa-house-user"></i> } Friday, 1.15
+
+#### `+ Lectures & Workshops`
+
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
+
+- This lecture will help you learn how to locate online periodicals (such as magazines and scholarly journal articles).
+
+- <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
 
 #### ``+ Independent work``
 
-- Listen to the lectures and complete the workshops.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by Friday @ 10pm EST*.
+- Listen to the lectures and complete the workshop.
+- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 #### ``+ Due``
 
@@ -326,14 +334,7 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 #
 
-Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state
-for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human
-beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive
-threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to
-explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers,
-filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic
-states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives
-become so prominent of late?
+Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](http)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](http)    
@@ -347,17 +348,17 @@ become so prominent of late?
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651)
+- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
 
 #### `+ Lectures`
 
 
-#### <i class="fas fa-microphone-alt"></i>  [**Lecture 3: Works Cited or Bibliography**]()
+####  <i class="fas fa-microphone-alt"></i>  **Lecture 3: Finding books and other physical holdings in the library**
 
-- This lecture and workshop will help you gain familiarity with constructing a bibliography for a research paper or project.
+- This lecture will help you learn how to locate physical items in the library's stacks.
+- <i class="fa fa-wrench"></i> [Workshop 3]()
 
 
-- <i class="fa fa-wrench"></i> [Workshop 3: MLA and Chicago Bibliographies]()
 
 
 #### ``+ Independent work``
@@ -447,12 +448,13 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Lectures`
 
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 4: Finding books and other physical holdings in the library**
+#### <i class="fas fa-microphone-alt"></i>  [**Lecture 4: Works Cited or Bibliography**]()
 
-- This lecture will help you learn how to locate physical items in the library's stacks.
-- <i class="fa fa-wrench"></i> [Workshop 4]()
+- This lecture and workshop will help you gain familiarity with constructing a bibliography for a research paper or project.
 
-This lecture and workshop will help you learn how to query databases and catalogs with greater precision, saving you time and headaches. 
+
+- <i class="fa fa-wrench"></i> [Workshop 4: MLA and Chicago Bibliographies]()
+
 
 
 #### ``+ Independent work``
