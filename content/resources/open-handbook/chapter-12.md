@@ -91,8 +91,6 @@ from an existing conversation.
 
 Research is, like most things in life, something that you must do in order to learn. Mistakes and confusion are great teachers. But it is nice when there is someone you can ask for help when things get really tough. 
 
-
-
 Most of the texts on the market designed to help students with research-based writing are rather dishonest. They present academic research and research writing as a linear "process," an orderly list of steps that one must go through to begin and successfully complete a research essay or project. This misleading narrative generally begins with the formulation of a question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. It is true that all these things must happen to make a research paper; the problem is that the description of the process in books presents an idealized and simplistic description of how a research project comes to be, develops, and concludes. The truth of the matter is that academic research is rarely a linear "process"; rather, it is a messy, elliptical, disorganized, frequently frustrating but also surprising and exhilarating one. More like real life.
 
 --->

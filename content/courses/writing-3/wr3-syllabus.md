@@ -249,10 +249,13 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### { <i class="fas fa-sync-alt"></i> } Friday, 1.8
 
-#### `+ Lectures`
+#### ``+ Lectures & Workshops``
 
-#### <i class="fas fa-microphone-alt"></i> [**An Introduction to Writing 3**]()
-- This lecture provides a brief introduction to the course's main aims, assignments, and topic. 
+{{< hint note >}} 
+####  <i class="fas fa-video"></i>  **Introduction to Writing 3**
+{{< /hint >}} 
+
+- This lecture provides a brief introduction to our WR3 course objectives, assignments, and topic.
 
 #### `+ In-class work`
 
@@ -276,23 +279,36 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 ### { <i class="fas fa-house-user"></i> } Monday, 1.11
 
-#### `+ Lectures & Workshops`
+#### ``+ Lectures & Workshops``
 
-#### <i class="fas fa-microphone-alt"></i> [**An Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
-- This lecture provides a brief, reductive, wholly idiosyncratic introduction to cultural studies. 
+
+{{< hint note >}} 
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
+{{< /hint >}} 
+- This lecture provides a brief, idiosyncratic, wholly reductive introduction to cultural studies.
+
+{{< hint note >}} 
+#### <i class="fas fa-file"></i>  [**Introduction to Academic Research**](/courses/workshops/academic-research-intro) 
+{{< /hint >}} 
+  
+- A brief introduction to the processes involved in a research project. The lectures and workshops below build on this initial description.
+  
 
 #### ``+ Independent work``
 
-- Listen to the lecture.
+- Listen to the lectures.
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 1.13
 
-#### `+ Lectures & Workshops`
+#### ``+ Lectures & Workshops``
 
-####  <i class="fas fa-microphone-alt"></i>  [**Lecture 1: Searching with Precision**](/courses/workshops/search-with-precision/)
 
-This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
+{{< hint note >}} 
+####  <i class="fas fa-video"></i> [**Lecture 1: Searching with Precision**](/courses/workshops/search-with-precision/)
+{{< /hint >}} 
+
+- This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
 
 - <i class="fa fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
 
@@ -304,9 +320,13 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 ### { <i class="fas fa-house-user"></i> } Friday, 1.15
 
-#### `+ Lectures & Workshops`
+#### ``+ Lectures & Workshops``
 
-####  <i class="fas fa-microphone-alt"></i>  [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
+
+{{< hint note >}} 
+####  <i class="fas fa-file"></i>   [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
+{{< /hint >}} 
+
 
 - This lecture will help you learn how to locate online periodicals (such as magazines and scholarly journal articles).
 
@@ -314,7 +334,7 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 #### ``+ Independent work``
 
-- Listen to the lectures and complete the workshop.
+- Listen to the lecture and complete the workshop.
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 #### ``+ Due``
@@ -350,15 +370,15 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
 
-#### `+ Lectures`
+#### ``+ Lectures & Workshops``
 
-
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 3: Finding books and other physical holdings in the library**
+{{< hint note >}} 
+####  <i class="fas fa-file"></i>   [**Lecture 3: Finding books and other physical holdings in the library**](/courses/workshops/locate-books)
+{{< /hint >}} 
 
 - This lecture will help you learn how to locate physical items in the library's stacks.
-- <i class="fa fa-wrench"></i> [Workshop 3]()
 
-
+- <i class="fa fa-wrench"></i> [Workshop 3](/courses/workshops/locate-books)
 
 
 #### ``+ Independent work``
@@ -446,14 +466,17 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 1.27
 
-#### `+ Lectures`
+#### ``+ Lectures & Workshops``
 
-#### <i class="fas fa-microphone-alt"></i>  [**Lecture 4: Works Cited or Bibliography**]()
+{{< hint note >}} 
+####  <i class="fas fa-file"></i>  [**Lecture 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
+{{< /hint >}} 
 
-- This lecture and workshop will help you gain familiarity with constructing a bibliography for a research paper or project.
+- This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
 
 
-- <i class="fa fa-wrench"></i> [Workshop 4: MLA and Chicago Bibliographies]()
+- <i class="fa fa-wrench"></i> [Workshop 4: Learning the Chicago Style](/courses/workshops/bibliography/)
+
 
 
 
@@ -515,19 +538,26 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 2.3
 
-#### `+ Lectures`
+#### `+ Lectures & Workshops`
 
-- #### <i class="fas fa-microphone-alt"></i> [**Lecture 5: Cutting Corners: New Ways of Reading**]()
-- <i class="fa fa-wrench"></i> [Workshop 5: Cutting Corners]()
+{{< hint note >}} 
+####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners and New Ways of Reading** ](/courses/workshops/cutting-corners/)
+{{< /hint >}} 
 
-The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+- The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+
+- <i class="fa fa-wrench"></i> [Workshop 5](/courses/workshops/cutting-corners/)
 
 
-- #### <i class="fas fa-microphone-alt"></i> **Lecture 6: "Some fool checked out my book!"**
-- <i class="fa fa-wrench"></i> [Workshop 6: DartDoc and Borrow Direct]()
 
-As a researcher you will encounter many problems. One of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
+{{< hint note >}} 
+####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Items Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
+{{< /hint >}} 
 
+
+- As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
+
+- <i class="fa fa-wrench"></i> [Workshop 6: Borrow Direct and DartDoc](/courses/workshops/inter-library-loan)
 
 
 
@@ -587,13 +617,16 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 - <i class="fa fa-download"></i>  Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”
 
-#### `+ Lectures`
+#### `+ Lectures & Workshops`
 
-#### <i class="fas fa-microphone-alt"></i>  **Lecture 7: Bibliographic Software / Research Journal**
+{{< hint note >}} 
+####  <i class="fas fa-video"></i>  **Lecture 7: Bibliographic Software / Research Journal**
+{{< /hint >}} 
 
-- Over your career as a student (and later, as a professional), you will encounter and make use of thousands of books, articles, and assorted media. Many of these texts will be very useful to you later, but they will only be easily accessible to you if you take the time to save and organize them now. There's an app for that. 
+- Over your career as a student and a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
-- <i class="fa fa-wrench"></i> [Workshop 7]()
+- <i class="fa fa-wrench"></i> [Workshop 7](/courses/workshops/bibliographic-management)
+
 
 #### ``+ Independent work``
 
@@ -646,12 +679,17 @@ Recent years have seen an explosion of “reality” television programming base
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Doomsday Preppers](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Doomsday Preppers](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
   
-#### ``+ Lectures``
-#### <i class="fas fa-microphone-alt"></i>  **Lecture 8: Managing Large Research Projects**
+#### ``+ Lectures & Workshops``
 
-- How do you begin when you've collected a pile of books and articles that will be parts of your research project? Often the volume of your collection leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+{{< hint note >}} 
+####  <i class="fas fa-video"></i>  **Lecture 8: Managing Large Research Projects**
+{{< /hint >}} 
 
-- <i class="fa fa-wrench"></i> [Workshop 4]() 
+- How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+
+- <i class="fa fa-wrench"></i> [Workshop 8: Managing Large Research Projects]()
+
+
 
 #### ``+ Independent work``
 

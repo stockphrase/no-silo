@@ -38,6 +38,9 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 {{< tab "Writing 3" >}} 
 
+
+### Introductions
+
 ####  <i class="fas fa-microphone-alt"></i>  **Course Introduction**
 
 - This lecture provides a brief introduction to our WR3 course objectives, assignments, and topic.
@@ -52,6 +55,10 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
     1. Music from: [<i class="fas fa-music"></i>]() Dyslexic Fudgicle, "[Planet Hitler](https://freemusicarchive.org/music/Dyslexic_Fudgicle/Impossible_Doors/Dyslexic_Fudgicle_-_Impossible_Doors_-_05_Planet_Hitler)"; [<i class="fas fa-music"></i>]() Jim Gutherie, "[Personnel](https://jimguthrie.bandcamp.com/track/personnel)"; [<i class="fas fa-music"></i>]() Daniel Birch, "[Indigo Blocks](https://freemusicarchive.org/music/Daniel_Birch/indigo/daniel-birch-indigo-blocks)" and "[Blue Deeper than Indigo](https://freemusicarchive.org/music/Daniel_Birch/indigo/daniel-birch-blue-deeper-than-indigo)." 
 
     2. Further (completely optional) reading on cultural studies: <i class="fa fa-download"></i></i> ["Cultural Studies"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225), by Dan Kagan and <i class="fa fa-download"></i></i> ["Articulation Theory"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177), by Jennifer Daryl Slack.
+    
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Academic Research**](/courses/workshops/academic-research-intro) 
+
+- This lecture provides a guide to library research.
     
 ---
 
@@ -73,11 +80,11 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 ---
 
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 3: Finding books and other physical holdings in the library**
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 3: Finding books and other physical holdings in the library**](/courses/workshops/locate-books)
 
 - This lecture will help you learn how to locate physical items in the library's stacks.
 
-- <i class="fa fa-wrench"></i> [Workshop 3]()
+- <i class="fa fa-wrench"></i> [Workshop 3](/courses/workshops/locate-books)
 
 ---
 
@@ -101,11 +108,11 @@ This lecture and workshop will help you learn how to query databases and catalog
 
 ---
 
-####  <i class="fas fa-microphone-alt"></i>  **Lecture 6: "Some fool checked out my book!"**
+####  <i class="fas fa-microphone-alt"></i>  [**Lecture 6: "Getting Items Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
 
 - As a researcher you will encounter many problems. One of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
 
-- <i class="fa fa-wrench"></i> [Workshop 6]()
+- <i class="fa fa-wrench"></i> [Workshop 6: Borrow Direct and DartDoc](/courses/workshops/inter-library-loan)
 
 
 
@@ -124,6 +131,7 @@ This lecture and workshop will help you learn how to query databases and catalog
 - How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
 - <i class="fa fa-wrench"></i> [Workshop 8]()
+
 
 
 {{< /tab >}}

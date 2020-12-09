@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://no-silo.com/courses/writing-2/wr2-syllabus/</loc>
-    <lastmod>2020-11-14T19:44:03-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
@@ -64,17 +64,17 @@
   
   <url>
     <loc>https://no-silo.com/courses/writing-3/wr3-syllabus/</loc>
-    <lastmod>2020-12-06T06:17:58-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/resources/hive/</loc>
-    <lastmod>2020-08-29T13:56:59-04:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://no-silo.com/courses/writing-3/course-description/</loc>
-    <lastmod>2020-12-06T06:17:58-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
@@ -89,7 +89,7 @@
   
   <url>
     <loc>https://no-silo.com/courses/workshops/</loc>
-    <lastmod>2020-12-06T06:17:58-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://no-silo.com/resources/open-handbook/chapter-12/</loc>
-    <lastmod>2020-12-06T06:17:58-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
@@ -149,7 +149,7 @@
   
   <url>
     <loc>https://no-silo.com/resources/open-handbook/chapter-11/</loc>
-    <lastmod>2020-08-22T14:45:09-04:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
@@ -203,6 +203,10 @@
   </url>
   
   <url>
+    <loc>https://no-silo.com/courses/workshops/bibliographic-management/</loc>
+  </url>
+  
+  <url>
     <loc>https://no-silo.com/categories/</loc>
   </url>
   
@@ -217,8 +221,24 @@
   </url>
   
   <url>
+    <loc>https://no-silo.com/courses/workshops/cutting-corners/</loc>
+  </url>
+  
+  <url>
+    <loc>https://no-silo.com/courses/workshops/locate-books/</loc>
+  </url>
+  
+  <url>
     <loc>https://no-silo.com/courses/workshops/find-periodicals/</loc>
-    <lastmod>2020-12-06T06:17:58-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://no-silo.com/courses/workshops/inter-library-loan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://no-silo.com/courses/workshops/academic-research-intro/</loc>
   </url>
   
   <url>
@@ -248,7 +268,7 @@
   
   <url>
     <loc>https://no-silo.com/courses/workshops/search-with-precision/</loc>
-    <lastmod>2020-12-06T06:17:58-05:00</lastmod>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
   <url>
@@ -267,6 +287,7 @@
   
   <url>
     <loc>https://no-silo.com/courses/workshops/bibliography/</loc>
+    <lastmod>2020-12-07T21:26:31-05:00</lastmod>
   </url>
   
 </urlset>

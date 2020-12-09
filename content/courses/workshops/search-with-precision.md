@@ -10,12 +10,13 @@ type: docs
 
 ## Searching with Precision
 
-This workshop is designed to help you keyword search library catalogs and other databases with efficiency. While most students have some familiarity with keyword searching through the Google search engine, library catalogs and databases don't work in the same way. To query databases effectively and efficiently, you need to be familiar with `Boolean` searches.
+This workshop is designed to help you perform `keyword searches` of library catalogs and electronic databases with efficiency. While most students have some familiarity with keyword searching through the Google search engine, library catalogs and databases don't work in the same way. To query databases effectively and efficiently, you need to be familiar with `Boolean` searches.
 
-Perhaps the common research problem is searches that produce too many results. Rather than page through hundreds or thousands of search results, you can use Boolean search strings to make your searches more precise. Boolean searches use what are known as ``logical operators`` to form search strings. 
+Keyword searches often produce too many results to examine in a reasonable amount of time. Keyword searches also suffer from large volumes of irrelevant results. Rather than page through hundreds or thousands of search results or sift through unwanted ones, you can use what are known as Boolean searches to make your searches much more precise. Boolean searches use what are known as ``logical operators`` to form search strings that help you zero in on the content you seek. 
 
 The three most common logical operators are **AND**, **OR**, and **NOT**. However, you should also learn how to use `exact phrases`, `truncation`, and `wildcards` in search strings. 
 
+---
 
 ## Workshop
 
@@ -200,23 +201,29 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
 
-2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians.
+2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians available in our library.
 
-3. Find sources that examine Herman Melville's novel *Moby Dick* and the Cold War. 
+3. Find sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
 
-4. You are curious if there is any scholarship on fictional portrayals of pandemic disease. Try several search strings to get at the answer.
+4. You are curious if there is any scholarship on fictional portrayals of pandemic disease.
 
 5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
 6. You are interested in how the Abrahamic religions depicted pandemic disease in their scriptures. What can you find?
 
+7. An acquaintance of yours and his sister are from Iran and study the martial arts. Their experience with the martial arts affects them differently, particularly in the emotional response of anger. You are interested in knowing if anyone has written about this. Your friend and his sister don't practice karate, but are interested in all other forms of the martial arts.[^1] 
+
+[^1]: Yes, I recognize the absurdity of this scenario. 
 
 <!---
 1. Israel* AND (Arab* OR Palestin*) AND (literature OR fiction OR film OR movie) 
-1b. Israel* AND Palestinia* AND fiction AND suicide AND terroris*
-2. "Moby Dick" AND "Cold War"
-3. (pandemic AND bat AND film) NOT Contagion; (disease OR pandemic) AND (bat AND film) NOT Contagion; (film OR movie OR cinema) AND (bat AND pandemic) NOT Batman; ** pandemic AND vampire AND (film OR movie)
-7. religion AND contagion AND (plague OR pandemic) 
+2. Israel* AND Palestin* AND (literature OR novel) apply Baker/Berry filter
+3. "Moby Dick" AND "Cold War"
+4. pandemic AND fiction. Find: https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033426335205706 Use Sub. Search.
+6. religion AND contagion AND (plague OR pandemic) 
+7. Iran AND gender AND anger AND ("martial arts" NOT Karate) Then use date range limit.
+
+The one about COVID-19 and surveillance is a problem because this term is used about looking for cases by monitoring a population. But here we are talking about the spying on a population with the disease as an excuse. Hm. `COVID-19 AND surveillance AND "national intelligence"` or "intelligence services" Or, if you know a specific country and intel service: `COVID-19 AND surveillance AND GRU AND Russia`
 --->
 
 

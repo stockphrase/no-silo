@@ -218,8 +218,6 @@ A comma splice occurs when two independent clauses are joined by a comma. To rev
 
 {{< tweet 1052556222459727872 >}}
 
-{{< tweet 1313449844413992961 >}}
-
 ### 18. Poorly integrated quotation
 
 Integrating quotations is challenging for most students. It is often the cause of grammatical or syntactical errors. When you integrate borrowed material into your own writing, the "hybrid" sentence you create must satisfy grammar and avoid awkward or repetitive phrasing:
