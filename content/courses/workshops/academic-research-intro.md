@@ -155,6 +155,7 @@ Inventing good keywords often requires some metacritical thinking (thinking abou
 
 Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens using social media. Using the word "spy" turns out to not be the best keyword, however. The keyword "surveillance" was much more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, recursive process---not a linear one**.  
 
+- Also see: [Searching with Precision](/courses/workshops/search-with-precision/)
 ---
 
 ### Step 3: Search for Books and Periodicals
@@ -170,6 +171,13 @@ After you submit your search terms in the field, these items are organized by re
 A word of caution about [Primo](https://search.library.dartmouth.edu/): while it searches the library catalog it its entirety, it *does not search all of the electronic databases to which Dartmouth has a subscription*. This means that if you exclusively use Primo for your searches, you will miss out on potentially vast amounts of possible sources that could be discovered through [searching the various databases](https://researchguides.dartmouth.edu/az.php) individually.
 
 {{< /details >}}
+
+Other resources: 
+- [Searching with Precision](/courses/workshops/search-with-precision/)
+- [Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
+- [Finding books and other physical holdings in the library]()
+- [Getting Books and Articles we don't Own]()
+- [Cutting Corners: New Ways of Reading]().
 
 ### Step 4: Use Subject Headings to Systematically Survey your Topic
 
@@ -223,21 +231,15 @@ Wikipedia to gain background information on your topic and lead you to
 other authoritative sources, but when it comes time to write your essay,
 use a peer-reviewed source.
 
-### Step 6: Read Ruthlessly and Cut Corners
+### Step 6: Perform citation chases [^2] 
 
-1. Perform "citation chases" on articles or books that are central to your research project.
-2. Learn to scan books: examine the table of contents, read the introduction, read the conclusion before deciding to spend more time with it.
-3. Examine a book's index for keywords relevant to your research interests.
-4. Read book reviews.
-5. 
+Many students will find a book or article that is perfect for their research project, do a celebration dance, and then return to the library catalog to find more sources like it. But consider that the source you hold in your hand was substantially built with other sources that are cited in the bibliography. Look at the source again: it is now  a treasure map that may lead to untold riches. 
+
+When you discover books and articles that are relevant to your project, perform what is known as a "citation chase." This involves examining the bibliography of the book, article, or chapter, looking for other relevant items. Find these related sources in the library and then repeat the process again. Performing a citation chase *is often the best way of discovering other sources connected to your research focus---far better than using keyword searches*.
+
 
 [^1]: I am not that Alan Taylor.
+[^2]: I cannot emphasize how important this practice is. If you learn nothing else from me, take this one with you. There is probably no more powerful insight in performing research.
 
-#### See also: 
 
-1. [Searching with Precision](/courses/workshops/search-with-precision/)
-2. [Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
-3. [Finding books and other physical holdings in the library]()
-4. [Getting Books and Articles we don't Own]()
-5. [Cutting Corners: New Ways of Reading]().
 

@@ -113,7 +113,7 @@ This lecture will help you gain familiarity with constructing a bibliography for
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners and New Ways of Reading** ](/courses/workshops/cutting-corners/)
+####  <i class="fas fa-file"></i>  [**Lecture 5: On Becoming a Research God** ](/courses/workshops/cutting-corners/)
 {{< /hint >}} 
 
 
