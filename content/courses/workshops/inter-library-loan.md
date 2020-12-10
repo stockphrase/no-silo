@@ -34,7 +34,7 @@ out at the time, you may request that the item be sent to our library.
 These requests usually arrive in 4 working days or less.
 
 {{< hint note >}}
-- Borrow Direct only works for books. If you need a scholarly article, use DartDoc.
+[<i class="fas fa-circle"></i>]() Borrow Direct only works for books. If you need a scholarly article, use DartDoc.
 {{< /hint >}}
 
 
@@ -51,7 +51,7 @@ article, the donor library will send you a .pdf free of charge to your
 DartDoc account.
 
 {{< hint note >}}
-- If you are ordering a book, DartDoc is the *slowest* of all the
+[<i class="fas fa-circle"></i>]() If you are ordering a book, DartDoc is the *slowest* of all the
 available options for requesting research materials. Requests may take
 up to two weeks to be fulfilled.
 {{< /hint >}}

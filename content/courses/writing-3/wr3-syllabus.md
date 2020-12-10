@@ -145,7 +145,7 @@ You will make one formal presentation at the conclusion of the term to explain y
 Each of you will curate a page on our [research project website](http://journeys.dartmouth.edu/alantaylor) to display your research project as it evolves over the term. Your page should contain the following:
 
 - a short research proposal of no more than 250 words.
-- an annotated bibliography of all the sources used or consulted to construct your research project.
+- an `annotated bibliography` of all the sources used or consulted to construct your research project.
 - a current draft of your research essay.
 - a weekly reflective blog post about the progress of your research project (see #7 below).
 - I have placed a [model author page](https://journeys.dartmouth.edu/alantaylor/2019/12/05/alan-taylor/) on the course website.
@@ -578,7 +578,7 @@ problems do these films articulate? What social solutions do they seem to offer?
 #### ``+ Due``
 
 {{< hint note >}} 
-
+<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
@@ -647,7 +647,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### ``+ Due``
 
 {{< hint note >}} 
-
+<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 <i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
 
@@ -715,7 +715,7 @@ Recent years have seen an explosion of “reality” television programming base
 #### ``+ Due``
 
 {{< hint note >}} 
-
+<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
@@ -775,7 +775,7 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 #### ``+ Due``
 
 {{< hint note >}} 
-
+<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 <i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
 
@@ -831,9 +831,9 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 ### { <i class="fas fa-sync-alt"></i> } Wednesday, 3.10
 
 {{< hint note >}}
-<i class="fa fa-bullseye"></i> [Final Essays Due]()
+<i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu)
 
-<i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu/)
+<i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 {{< / hint >}}
 

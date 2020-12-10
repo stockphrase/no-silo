@@ -6,13 +6,22 @@ bookToc: true
 type: docs
 ---
 
-## Finding a Book in the Library
+<div style="text-align:center">{{< figure src="/img/lysander-yuen-unsplash.jpg" caption="Image by Lysander Yuen, [Unsplash](https://unsplash.com/photos/AnxucA5L7Uk)" >}}</div>
+
+
+
+# Finding a Book in the Library
+Finding a book on the shelf of the library isn't as easy as it sounds. This is a guide to help you understand how libraries are organized and find books you need for your research. 
+
+## Library Classification Systems
 
 Libraries use classification systems to organize their holdings. The most common in the English-speaking world are the [Dewey Decimal Classification](https://en.m.wikipedia.org/wiki/Dewey_Decimal_Classification) (DDC) and the [Library of Congress Classification](https://en.m.wikipedia.org/wiki/Library_of_Congress_Classification) (LCC) systems. There are a number of other library systems. In Europe, for example, you will encounter the [Universal Decimal Classification](https://en.m.wikipedia.org/wiki/Universal_Decimal_Classification) (UDC) system. Like most research libraries in the US, Dartmouth's libraries use the Library of Congress system. 
 
-### The Library of Congress System
+The Library of Congress organizes all knowledge into a system of [21 basic subjects](https://www.loc.gov/catdir/cpso/lcco/), each associated with a single letter of the alphabet. For example, the letter **B** is used to identify philosophy, psychology, and religion. Each of these subjects may be further refined with the addition of other letters. For example, **BC** is the subclass for Logic and **BQ** is the subclass for Buddhism. These subclasses may be refined even further with an alphanumeric code that represents a very specific research focus. This code is what is known as the book's `call number`. 
 
-The Library of Congress assigns every copyrighted book a unique **call number** consisting of a series of numbers and letters that help you locate them on the library's shelves and indicate the subject matter contained within it. A typical call number will resemble the following:
+### The Anatomy of a call number
+
+To find a book's location in the library stacks, you need to know its `call number`. The Library of Congress assigns every copyrighted book a unique call number consisting of a series of numbers and letters that help you locate them on the library's shelves and indicate the subject matter contained within it. A typical call number will resemble the following:
 
 - `F 24 .T39 1990`
 
@@ -33,7 +42,8 @@ Let's break down the call number into its constituent parts:
 
 # `F` 24 .T39 1990
 
-Using the **letter line**, determine the floor of the library where the book is shelved. The library's [floorplan maps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) will help you locate the proper section. Using our example call number above, we can determine that the **F** section is in `Stack Level A`.
+Use the **letter line** to determine the floor of the library where the book is shelved. The library's [floorplan maps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) will help you locate the proper section. Using our example call number above, we can determine that the **F** section is in `Stack Level A`.
+
 
 <div style="text-align:center">{{< figure src="/img/floor-map.png" >}}</div>
 <div style="text-align:center">{{< figure src="/img/collection-map.png" >}}</div>
