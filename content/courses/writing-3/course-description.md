@@ -16,11 +16,9 @@ bookToc: true
 
 **Writing 3** focuses on academic research writing. Our [libraries](https://library.dartmouth.edu) have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. 
 
-
-
 {{< hint note >}} 
 
-- The title of this course is: *The End: Post-Apocalyptic Fiction, Film and Art*.
+[<i class="fas fa-circle"></i>]() The title of this course is: *The End: Post-Apocalyptic Fiction, Film and Art*
 
 {{< /hint >}}
 

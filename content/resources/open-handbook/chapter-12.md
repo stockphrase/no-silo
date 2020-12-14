@@ -23,7 +23,7 @@ Although synthesizing the thinking of others is an important part of the
 research essay, in its true form the research essay strives for much
 more than a mere restatement of what others have said on a particular
 topic or question. As [Jack Baker and Allen
-Brizee](http://owl.english.purdue.edu/owl/resource/658/02/) state:
+Brizee](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/genre_and_the_research_paper.html) state:
 
 > A research paper is not simply an informed summary of a topic by means
 > of primary and secondary sources. It is neither a book report nor an

@@ -86,19 +86,22 @@ Similarly, a Cutter line that reads `.T39` is shelved *after* `.T21`.
 
 Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) online with your computer or smartphone.
 
+{{< details "Or Just Forget All That" closed >}} 
 
-### Or, just forget all of that
+A new update to Dartmouth's catalog as of 2014 allows you to simply click the "map it" button next to the item's [listing in the catalog](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031290259705706). 
 
-A new update to Dartmouth's catalog as of 2014 allows you to simply click the "map it" button next to the item's listing in the catalog. 
-
-[<div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031290259705706)
+<div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>
 
 Clicking this button will summon a map that shows you the approximate location of the book in the
 library stacks. 
 
 <div style="text-align:center">{{< figure src="/img/map.png" >}}</div>
 
+{{< /details >}}
+
 # Workshop
 
-In a normal year when you are on campus and there is no pandemic, I would assign you each a book to find in the shelves and ask you to post a selfie with it in the stacks. But since that may result in fatalities, I will just ask you read the content above very carefully and make sure you understand how to find books on the shelves. 
+In a normal year when you are on campus and there is no pandemic, I would assign you each a book to find in the shelves and ask you to post a selfie with it in the stacks. But since most of you are not on campus, this will not be possible. 
+
+Instead, find some book that you have lying around the house and locate it in our online catalog. Using the call number, try to find the exact location of of this book using the two methods described above.  
 

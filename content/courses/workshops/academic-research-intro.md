@@ -22,7 +22,7 @@ Faculty who teach writing often forget how deeply challenging it is to do academ
 
 Perhaps the most common feature of books designed to help students do academic research is their dishonesty. These texts present academic research as an orderly list of steps that one must go through sequentially to successfully complete a research essay or project. These research guides present a narrative where a student proceeds through several stages and tasks, each one logically leading to the next, culminating in a superbly crafted essay. This misleading narrative generally begins with the formulation of a research question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. 
 
-Now, it is true that all these things must happen to make a good research paper, and the advice from me you will find below offers a set of steps virtually identical to what I've just criticized. Bu the problem is that the narrative of the research process in books presents an idealized and simplified description of how a project comes to be, develops, and concludes. When students try this for themselves and instead experience difficulty and confusion, they often feel as if they aren't good enough or smart enough to do research. But the truth of the matter is that academic research is rarely a logical, linear operation; rather, *it is a messy, recursive, and frequently frustrating process*. It is also a surprising, exhilarating, and fulfilling one. But if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
+Now, it is true that all these things must happen to make a good research paper, and the advice from me you will find below offers a set of steps virtually identical to what I've just criticized. But the problem is that the narrative of the research process in books presents an idealized and simplified description of how a project comes to be, develops, and concludes. When students try this for themselves and instead experience difficulty and confusion, they often feel as if they aren't good enough or smart enough to do research. But the truth of the matter is that academic research is rarely a logical, linear operation; rather, *it is a messy, recursive, and frequently frustrating process*. It is also a surprising, exhilarating, and fulfilling one. But if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
 
 Research, like many things in life, is something that you must do in order to learn. Mistakes and confusion are great teachers---they help reveal the limits of our knowledge and the horizon of our skills. But it is nice when there is someone you can ask for help when things get really tough. I am happy and honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
 
@@ -35,7 +35,7 @@ Although synthesizing the thinking of others is an important part of the
 research essay, in its true form the research essay strives for much
 more than a mere restatement of what others have said on a particular
 topic or question. As [Jack Baker and Allen
-Brizee](http://owl.english.purdue.edu/owl/resource/658/02/) state:
+Brizee](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/research_papers/genre_and_the_research_paper.html) state:
 
 > A research paper is not simply an informed summary of a topic by means
 > of primary and secondary sources. It is neither a book report nor an
@@ -161,7 +161,7 @@ Significantly, you may not be able to determine the best keywords for searching 
 
 ### Step 3: Search for Books and Periodicals
 
-The library uses special software designed to fortify the searching of the library's holdings known as a "discovery layer." Dartmouth currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the library catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
+The library uses special software designed to augment the searching of the library's holdings known as a "discovery layer." Dartmouth currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the library catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
 
 After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm. After entering your keywords you will notice ways to further refine your search by clicking on several options on the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page under "Refine Your Results." Or limit the search to [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches in this way, if desired.
 
@@ -174,8 +174,6 @@ A word of caution about [Primo](https://search.library.dartmouth.edu/): while it
 {{< /details >}}
 
 
----
-
 ### Step 4: Use Subject Headings to Systematically Survey your Topic
 
 Your initial keyword searches will lead to a number of books that are useful to you, but there are limits to keyword searching. It is often inefficient and inexact. This is why the [Library of Congress](http://catalog.loc.gov) assigns a series of [subject headings and subheadings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) to every copyrighted book. These subject headings are an example of what is known as a `controlled vocabulary` in library science. Every book is placed within the system of categorization which means that once you find the subject headings and subheadings that are relevant to your research, you can easily find *every* book published on your topic. This is *extremely* useful as it allows for a systematic examination of your topic rather than the hodgepodge efforts through keyword searches. 
@@ -184,7 +182,7 @@ Your initial keyword searches will lead to a number of books that are useful to 
 
 - Or you can browse the list of subject headings by [searching their catalog](https://catalog.loc.gov/vwebv/searchBrowse). Choose "SUBJECTS containing" from the dropdown menu and enter a keyword. This will reveal every subject heading related to the topic you entered.
  
-Subject searches are also a helpful means of finding additional sources on your topic once you have acquired one. For example, if you discover that historian Alan Taylor's[^1] book *[The Civil War of 1812](http://libcat.dartmouth.edu/record=b4878766)* is an important source for your research project, you can use the book's subject headings to find *all* of the other books written on those topics in your library. As you may see from this example, the Library of Congress assigned the book the following three subject headings:
+Perhaps the most helpful thing about subject headings is they are an easy means of finding additional sources on your topic once you have acquired one. For example, if you discover that historian Alan Taylor's[^1] book *[The Civil War of 1812](http://libcat.dartmouth.edu/record=b4878766)* is an important source for your research project, you can use the book's subject headings to find *all* of the other books written on those topics in your library. As you may see from this example, the Library of Congress assigned the book the following three subject headings:
 
 {{< figure src="/img/copyright-page.png" >}}
 

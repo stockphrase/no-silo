@@ -247,12 +247,15 @@ All students are entitled to full access to this course, regardless of disabilit
 
 #
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 1.8
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.8
+{{< /hint >}} 
+
 
 #### ``+ Lectures & Workshops``
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i>  **Introduction to Writing 3**
+####  <i class="fas fa-video"></i>  Introduction to Writing 3
 {{< /hint >}} 
 
 - This lecture provides a brief introduction to our WR3 course objectives, assignments, and topic.
@@ -278,41 +281,44 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Monday, 1.11
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.11
+{{< /hint >}} 
 
 #### ``+ Lectures & Workshops``
 
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
+####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
 {{< /hint >}} 
 - This lecture provides a brief, wholly reductive introduction to cultural studies.
 
 {{< hint note >}} 
-#### <i class="fas fa-file"></i>  [**Introduction to Academic Research**](/courses/workshops/academic-research-intro) 
+#### <i class="fas fa-file"></i>  [Introduction to Academic Research](/courses/workshops/academic-research-intro) 
 {{< /hint >}} 
   
-- A brief introduction to the processes involved in a research project. The lectures and workshops below build on this initial description.
+- A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
   
-
 #### ``+ Independent work``
 
 - Finish the lectures.
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 1.13
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 1.13
+{{< /hint >}} 
+
 
 #### ``+ Lectures & Workshops``
 
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i> [**Lecture 1: Searching with Precision**](/courses/workshops/search-with-precision/)
+####  <i class="fas fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
 {{< /hint >}} 
 
 - This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
 
-- <i class="fa fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
 
 #### ``+ Independent work``
 
@@ -320,22 +326,21 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Friday, 1.15
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Friday, 1.15
+{{< /hint >}} 
 
 #### ``+ Lectures & Workshops``
 
-
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>   [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
+#### <i class="fas fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
 {{< /hint >}} 
 
-- This lecture will help you learn how to locate online periodicals (such as magazines and scholarly journal articles).
-
-- <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
+- This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
 
 #### ``+ Independent work``
 
-- Listen to the lecture and complete the workshop.
+- Complete the lecture and workshop.
 
 #### ``+ Due``
 
@@ -356,14 +361,13 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](http)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](http)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](https://docs.google.com/document/d/1ycrCCPZPVdnfu7wiqzBmai6NDqaTpbLW1r8ucu3IXZg/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](https://docs.google.com/document/d/1UC0mFoXat3PACPEVYhUF0nlgYX8lV5BMgX5YqAujBZ4/edit?usp=sharing)    
 
 ---
-
-### { <i class="fas fa-fist-raised"></i> <i class="fas fa-house-user"></i>  } Monday, 1.18 
-
-- MLK Day; no class.
+{{< hint note >}} 
+#### { [<i class="fas fa-fist-raised"></i> <i class="fas fa-house-user"></i>]() } Monday, 1.18 
+{{< /hint >}} 
 
 #### `+ Texts`
 
@@ -372,12 +376,10 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### ``+ Lectures & Workshops``
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>   [**Lecture 3: Finding books and other physical holdings in the library**](/courses/workshops/locate-books)
+####  <i class="fas fa-wrench"></i>   [Workshop 3: Finding Books and other Physical Holdings in the Library](/courses/workshops/locate-books)
 {{< /hint >}} 
 
-- This lecture will help you learn how to locate physical items in the library's stacks.
-
-- <i class="fa fa-wrench"></i> [Workshop 3: Locate a book in the stacks](/courses/workshops/locate-books)
+- This workshop will help you learn how to locate physical items in the library's stacks.
 
 
 #### ``+ Independent work``
@@ -397,7 +399,9 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Wednesday, 1.20
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Wednesday, 1.20
+{{< /hint >}} 
 
 #### `+ Texts`
 
@@ -416,7 +420,10 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 1.22
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.22
+{{< /hint >}} 
+
 
 #### `+ Texts`
 
@@ -447,16 +454,19 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](http)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](http)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://docs.google.com/document/d/1hVOK0U-I8Q26XLs3Ye4wnKcYE-zWBPYQIo5nVNzaCBk/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://docs.google.com/document/d/106DLYltHpdLI2ru7TBYNqgwHQjvwi9tOyidfHdtlIbU/edit?usp=sharing)    
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Monday, 1.25
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.25
+{{< /hint >}} 
+
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, *The Last Man on Earth* (1968) 
+- <i class="fas fa-video"></i>  Film, *The Last Man on Earth* (1968). Film is in the "Media" section of Canvas.  
 
 
 #### ``+ Independent work``
@@ -466,34 +476,33 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 1.27
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.27
+{{< /hint >}} 
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1hm-EbsYYSEysLXnHF9718FpqqYKgv7zt/view?usp=sharing) (Read through page 76 only)
+- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1hm-EbsYYSEysLXnHF9718FpqqYKgv7zt/view?usp=sharing) (Read through page 76 only).
 
 
 #### ``+ Lectures & Workshops``
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
+#### <i class="fas fa-wrench"></i> [Workshop 4: Works Cited or Bibliography](/courses/workshops/bibliography/)
 {{< /hint >}} 
 
 - This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
 
-
-- <i class="fa fa-wrench"></i> [Workshop 4: Learning the Chicago Style](/courses/workshops/bibliography/)
-
-
 #### ``+ Independent work``
 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 1.29
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.29
+{{< /hint >}} 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
@@ -521,12 +530,14 @@ values, and related to its various “Others.” In this section we will examine
 and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or
 problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 5](http)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 5](http)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 5](https://docs.google.com/document/d/1vqlQfglqcPTw4VuCKAqlMUh6KwRGo8MNeffrfVsMQzk/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 5](https://docs.google.com/document/d/1kQVt-i7dkNPySeRl1cIX6Grbjn5RDscwiP2WpyPilg0/edit?usp=sharing)    
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Monday, 2.1
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.1
+{{< /hint >}} 
 
 
 #### `+ Texts`
@@ -540,41 +551,39 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 2.3
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.3
+{{< /hint >}} 
 
 #### `+ Lectures & Workshops`
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners and New Ways of Reading** ](/courses/workshops/cutting-corners/)
+####  <i class="fas fa-wrench"></i>  [Workshop 5: Cutting Corners and New Ways of Reading](/courses/workshops/cutting-corners/)
 {{< /hint >}} 
 
 - The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 
-- <i class="fa fa-wrench"></i> [Workshop 5](/courses/workshops/cutting-corners/)
-
-
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Items Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
+#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Items Our Library doesn't Own"](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 
 - As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
 
-- <i class="fa fa-wrench"></i> [Workshop 6: Borrow Direct and DartDoc](/courses/workshops/inter-library-loan)
-
-
 
 #### ``+ Independent work``
 
-- Listen to the lecture and complete the workshop.
+- Finish the lectures and complete the workshops.
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
-- Prepare for discussion of text on Friday. 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+- Prepare for discussion of texts on Friday. 
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 2.5
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.5
+{{< /hint >}} 
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
@@ -598,12 +607,14 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This begs several questions. Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely this type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](http)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](http)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://docs.google.com/document/d/1EktnjiQ_sHK5UENcrb45I6r4rtRMfEK0ImbuH5DLMyM/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://docs.google.com/document/d/1XqmqcpjN0Huzw2VWS0fkOeSqsAKiy_ihHnQT4cxDUSA/edit?usp=sharing)    
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Monday, 2.8
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.8
+{{< /hint >}} 
 
 #### `+ Texts`
 
@@ -616,7 +627,9 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ---
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 2.10
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.10
+{{< /hint >}} 
 
 #### `+ Texts`
 
@@ -625,7 +638,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### `+ Lectures & Workshops`
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i>  **Lecture 7: Bibliographic Software / Research Journal**
+####  <i class="fas fa-wrench"></i> [Workshop 7: Bibliographic Software / Research Journal](/courses/workshops/bibliographic-management/)
 {{< /hint >}} 
 
 - Over your career as a student and a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
@@ -637,11 +650,14 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 - Listen to the lecture and complete the workshop.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 2.12
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.12
+{{< /hint >}} 
+
 
 #### ``+ In-class work``
 
@@ -669,14 +685,15 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ---
 
-Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response:*Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
+Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 7](http)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 7](http)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 7](https://docs.google.com/document/d/1m3ssooyIGGi8Cnx0GfY2yxu-6NqVPUWGxOh7YHLZxHM/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 7](https://docs.google.com/document/d/14lFa9NDav9dBYnGKsl80P0StMdCqRI2AGAaLi_9fzlE/edit?usp=sharing)    
 
 ---
-
-### { <i class="fas fa-house-user"></i> } Monday, 2.15
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.15
+{{< /hint >}} 
 
 #### `+ Texts`
 
@@ -688,33 +705,32 @@ Recent years have seen an explosion of “reality” television programming base
 #### ``+ Lectures & Workshops``
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i>  **Lecture 8: Managing Large Research Projects**
+####  <i class="fas fa-wrench"></i>  Workshop 8: Managing Large Research Projects
 {{< /hint >}} 
 
 - How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
-- <i class="fa fa-wrench"></i> [Workshop 8: Managing Large Research Projects]()
 
 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
-
 ---
-
-### { <i class="fas fa-house-user"></i> } Wednesday, 2.17
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.17
+{{< /hint >}} 
 
 #### ``+ Independent work``
 
 - <i class="fas fa-search"></i> Independent research on essay topic.
 
-#### `+ Due`
-
 
 ---
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.19 
+{{< /hint >}} 
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 2.19
 
 #### ``+ Due``
 
@@ -732,15 +748,16 @@ Recent years have seen an explosion of “reality” television programming base
 {{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
 We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however,
-scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”—a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear fallout, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that
-we can communicate its dangers, raise public awareness, and mobilize efforts for change?
+scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](http)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](http)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://docs.google.com/document/d/1iz17XoW6GxQmslBFgVmd0tsrbnLttNo5BV61NGVS-Xc/edit?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://docs.google.com/document/d/1QrQevT_-RxjfRj26VCwbx3-vJh0zu5GEau5ALveKnEY/edit?usp=sharing)    
 
 ---
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.22
+{{< /hint >}} 
 
-### { <i class="fas fa-house-user"></i> } Monday, 2.22
 
 #### `+ Texts`
 
@@ -750,26 +767,24 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
+---
 
-#### `+ Assignments`
-
-
-
-### { <i class="fas fa-house-user"></i> } Wednesday, 2.24
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.24
+{{< /hint >}} 
 
 #### `+ Readings`
 
 - <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012). Film is in the "Media" section of Canvas.
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Beasts*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Beasts*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
 
 #### ``+ Independent work``
 
 - View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
-
-### { <i class="fas fa-sync-alt"></i> } Friday, 2.26
+---
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.26
+{{< /hint >}} 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss the film and Hive submissions
@@ -790,24 +805,29 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 {{< details "9 - Drafting, Revising, Presenting" >}}
 #
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 3.1
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Monday, 3.1
+{{< /hint >}} 
 
 #### `+ In-class work`
 
 - <i class="fas fa-comment-alt"></i> Presentation Group 1
 
+---
 
-
-### { <i class="fas fa-house-user"></i> } Wednesday, 3.3
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Wednesday, 3.3
+{{< /hint >}} 
 
 #### `+ In-class work`
 
 - <i class="fas fa-comment-alt"></i> Presentation Group 2
 
+---
 
-
-
-### { <i class="fas fa-house-user"></i> } Friday, 3.5
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 3.5
+{{< /hint >}} 
 
 #### `+ In-class work`
 
@@ -826,13 +846,25 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 {{< details "10 - The End" >}}
 #
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 3.8
+{{< /hint >}} 
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 3.8
+#### ``+ Independent work``
 
+- Finalize revisions to final paper.
 
+---
 
-### { <i class="fas fa-sync-alt"></i> } Wednesday, 3.10
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() } Wednesday, 3.10
+{{< /hint >}} 
 
+#### ``+ In-class work``
+
+- Tearful goodbyes.
+
+#### ``+ Due``
 {{< hint note >}}
 - <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu)
 
