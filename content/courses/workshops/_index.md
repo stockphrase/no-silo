@@ -18,19 +18,41 @@ The purpose of these workshops is often largely diagnostic; they will not, of th
 
 {{< tab "Writing 2" >}} 
 
-- [ ] [Altering sources](/courses/workshops/altering-sources)
-- [ ] [Annotation](/courses/workshops/annotation) 
-- [ ] [Argument analysis](/courses/workshops/argument-analysis) 
-- [ ] [Argument summary](/courses/workshops/argument-summary) 
-- [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
-- [ ] Considering audience
-- [ ] Rhetorical analysis 
-- [ ] [Sentence variety](/courses/workshops/sentence-variety)
-- [ ] [Working with sources](/courses/workshops/working-sources)
+{{< hint note >}} 
+#### [Altering sources](/courses/workshops/altering-sources)
+{{< /hint >}} 
 
----
+{{< hint note >}} 
+####  [Annotation](/courses/workshops/annotation) 
+{{< /hint >}} 
 
-- [ ] [Peer Review](/courses/workshops/peer-review)
+{{< hint note >}} 
+####  [Argument analysis](/courses/workshops/argument-analysis) 
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  [Argument summary](/courses/workshops/argument-summary) 
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  [Sentence variety](/courses/workshops/sentence-variety)
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  [Working with sources](/courses/workshops/working-sources)
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  [Peer Review](/courses/workshops/peer-review)
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  Considering audience
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  Rhetorical analysis 
+{{< /hint >}} 
 
 
  {{< /tab >}}
@@ -48,9 +70,10 @@ This lecture provides a brief introduction to our WR3 course objectives, assignm
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
-{{< /hint >}} 
-This lecture provides a brief, idiosyncratic, and wholly reductive introduction to cultural studies.
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
+{{< /hint >}}
+
+This lecture provides a brief, wholly reductive introduction to cultural studies.
 
 - Further (completely optional) reading on cultural studies: <i class="fa fa-download"></i></i> ["Cultural Studies"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225), by Dan Kagan and <i class="fa fa-download"></i></i> ["Articulation Theory"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177), by Jennifer Daryl Slack.
 
@@ -62,7 +85,7 @@ This lecture provides a brief, idiosyncratic, and wholly reductive introduction 
 #### <i class="fas fa-file"></i>  [**Introduction to Academic Research**](/courses/workshops/academic-research-intro) 
 {{< /hint >}} 
   
-A brief introduction to the processes involved in a research project. The lectures and workshops below build on this initial description.
+An introduction to academic research and some strategies for success. The lectures and workshops below each build on this initial description of the research process.
     
 ---
 
@@ -112,9 +135,8 @@ This lecture will help you gain familiarity with constructing a bibliography for
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners and New Ways of Reading** ](/courses/workshops/cutting-corners/)
+####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners in Research** ](/courses/workshops/cutting-corners/)
 {{< /hint >}} 
-
 
 The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 
@@ -124,7 +146,7 @@ The best researchers know how to cut corners and work efficiently. This lecture 
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Items Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
+####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Stuff Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 
@@ -157,6 +179,7 @@ How do you begin when you've collected a large pile of books and articles that w
 
 
 {{< /tab >}}
+
 
 {{< /tabs >}}
 

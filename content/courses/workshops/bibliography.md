@@ -12,7 +12,7 @@ type: docs
 
 Accurately documenting sources is a vital aspect of any process of inquiry. If you fail to properly document your sources, your readers will be unable to follow your research, validate your claims, or judge the quality of your argument. Furthermore, failing to properly cite a source (whether summarized, paraphrased, or quoted) opens you to the charge of [**plagiarism**](/resources/open-handbook/chapter-10/), a serious academic offense.
 
-Scholars avoid plagiarism and give credit to the thinking and writing of others using a variety of citation formats, or “styles.” As you work to complete your degree in college you will encounter a number of these citation formats. In fact, each discipline has a preferred style. The humanities use MLA, psychology uses APA, history and other social sciences use Chicago. There are many others. As you begin to specialize in a particular field of study, you will be expected to use the citation style of your discipline. This brief handbook, however, will only introduce you to two common styles: [MLA]() and [Chicago]().
+Scholars avoid plagiarism and give credit to the thinking and writing of others using a variety of citation formats, or “styles.” As you work to complete your degree in college you will encounter a number of these citation formats. In fact, each discipline has a preferred style. The humanities use MLA, psychology uses APA, history and other social sciences use Chicago. There are many others. As you begin to specialize in a particular field of study, you will be expected to use the citation style of your discipline. 
 
 Although citation formats differ significantly, they all have two primary components: `in-text citations` and a `bibliography`. As the name suggests, in-text citations are used to reference the work of others within the text itself; the bibliography contains an ordered list of all the in-text citations contained within a piece of writing.
 
@@ -26,25 +26,27 @@ Most students have constructed an MLA Works Cited page before they arrive at col
 
 Take a few moments to scan though this [student essay in the Chicago style](/docs/student-chi-essay.pdf). Familiarize yourself with the essay's construction, noting especially how it differs from the MLA style essay. The following questions will help you notice some key features of the Chicago style:
 
-- [<i class="fas fa-circle"></i>]() How is the title page formatted compared to MLA?
-- [<i class="fas fa-circle"></i>]() Is there anything odd about the page numbering scheme?
-- [<i class="fas fa-circle"></i>]() Examine the in-text citations. How are they inserted?
-- [<i class="fas fa-circle"></i>]() How is the block quote handled differently in Chicago compared to MLA?
-- [<i class="fas fa-circle"></i>]() What is the relationship between the following entries on the `Notes` page: 3 and 11? 9 and 10; 3 and 4?  
+- >[<i class="fas fa-circle"></i>]() How is the title page formatted compared to MLA?
+
+- >[<i class="fas fa-circle"></i>]() Is there anything odd about the page numbering scheme?
+
+- >[<i class="fas fa-circle"></i>]() Examine the in-text citations. How are they inserted?
+
+- >[<i class="fas fa-circle"></i>]() How is the block quote handled differently in Chicago compared to MLA?
+
+- >[<i class="fas fa-circle"></i>]() What is the relationship between the following entries on the `Notes` page: 3 and 11? 9 and 10; 3 and 4?  
 
 
-The *Open Handbook* has detailed information on formatting of both the [MLA](https://no-silo.com/resources/open-handbook/chapter-11-mla/) and [Chicago](https://no-silo.com/resources/open-handbook/chapter-11-chi/) bibliography. 
+The *Open Handbook* has detailed information on formatting of both the [MLA](https://no-silo.com/resources/open-handbook/chapter-11-mla/) and [Chicago](https://no-silo.com/resources/open-handbook/chapter-11-chi/) bibliography to guide you. 
 
 ## Directions
 
-Your assignment is to “translate” this [student essay](/docs/egoist-mla-student.doc) from the MLA style into the Chicago style. Convert this paper in every way from an MLA paper to a Chicago one. ***Note**: you are not required to make a `Bibliography` page, just a `Notes` page for this assignment*.
+Your assignment is to “translate” this [student essay](/docs/egoist-mla-student.doc) from the MLA style into the Chicago style. Convert this paper in every way from an MLA paper to a Chicago one: document formatting, page numbering, in-text citations, the bibliographical entries.[^1] 
 
-- To begin, download the essay to your own computer. Before you make any alterations, it might be wise to write out a detailed list of things that must be “translated.” The list of questions above may be of great assistance to you. Use your handbooks to come up with your plan of action.
+To begin, download the essay to your own computer. Before you make any alterations, it might be wise to write out a detailed list of things that must be translated. The list of questions above may be of great assistance to you. Use your handbooks to come up with your plan of action.
 
 
-
----
-
+[^1]: ***Note**: you are not required to make a `Bibliography` page, just a `Notes` page for this assignment*.
 
 <!---
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)

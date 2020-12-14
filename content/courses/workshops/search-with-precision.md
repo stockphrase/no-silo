@@ -203,15 +203,13 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians available in our library.
 
-3. Find sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
+3. Find peer-reviewed sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
 
 4. You are curious if there is any scholarship on fictional portrayals of pandemic disease.
 
 5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
-6. You are interested in how the Abrahamic religions depicted pandemic disease in their scriptures. What can you find?
-
-7. An acquaintance of yours and his sister are from Iran and study the martial arts. Their experience with the martial arts affects them differently, particularly in the emotional response of anger. You are interested in knowing if anyone has written about this. Your friend and his sister don't practice karate, but are interested in all other forms of the martial arts.[^1] 
+6. An acquaintance of yours and his sister are from Iran and study the martial arts. Their experience with the martial arts affects them differently, particularly in the emotional response of anger. You are interested in knowing if anyone has written about this. Your friend and his sister don't practice karate, but are interested in all other forms of the martial arts.[^1] 
 
 [^1]: Yes, I recognize the absurdity of this scenario. 
 

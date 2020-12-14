@@ -19,19 +19,29 @@ type: docs
 {{< tabs "WR3-Content" >}}
 {{< tab "Materials" >}} 
 
+{{< hint note >}} 
+#### [WR2 Syllabus](/courses/writing-2/wr2-syllabus) 
+{{< /hint >}} 
 
-- [Syllabus](/courses/writing-2/wr2-syllabus) 
-- [*The Open Handbook*](/resources/open-handbook/)
+{{< hint note >}} 
+#### [*The Open Handbook*](/resources/open-handbook/)
+{{< /hint >}} 
 
  {{< /tab >}}
 
 {{< tab "Assignments" >}} 
 
+{{< hint note >}} 
+#### [Essay 1: Argument](/courses/writing-2/essay-1)
+{{< /hint >}} 
 
-- [ ] [Essay 1: Argument](/courses/writing-2/essay-1)
-- [ ] [Essay 2: Synthesis](/courses/writing-2/essay-2)
-- [ ] [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
+{{< hint note >}} 
+#### [Essay 2: Synthesis](/courses/writing-2/essay-2)
+{{< /hint >}} 
 
+{{< hint note >}} 
+#### [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
+{{< /hint >}} 
 
 {{< /tab >}}
 
@@ -39,25 +49,42 @@ type: docs
 
 #
 
+{{< hint note >}} 
+#### [Altering sources](/courses/workshops/altering-sources)
+{{< /hint >}} 
 
-#### List of workshops
+{{< hint note >}} 
+####  [Annotation](/courses/workshops/annotation) 
+{{< /hint >}} 
 
-- [ ] [Altering sources](/courses/workshops/altering-sources)
-- [ ] [Annotation](/courses/workshops/annotation) 
-- [ ] [Argument analysis](/courses/workshops/argument-analysis) 
-- [ ] [Argument summary](/courses/workshops/argument-summary) 
-- [ ] [Argument synthesis](/courses/workshops/argument-synthesis)
-- [ ] Considering audience
-- [ ] Rhetorical analysis 
-- [ ] [Sentence variety](/courses/workshops/sentence-variety)
-- [ ] [Working with sources](/courses/workshops/working-sources)
+{{< hint note >}} 
+####  [Argument analysis](/courses/workshops/argument-analysis) 
+{{< /hint >}} 
 
----
+{{< hint note >}} 
+####  [Argument summary](/courses/workshops/argument-summary) 
+{{< /hint >}} 
 
-- [ ] [Peer Review](/courses/workshops/peer-review)
+{{< hint note >}} 
+####  [Sentence variety](/courses/workshops/sentence-variety)
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  [Working with sources](/courses/workshops/working-sources)
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  [Peer Review](/courses/workshops/peer-review)
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  Considering audience
+{{< /hint >}} 
+
+{{< hint note >}} 
+####  Rhetorical analysis 
+{{< /hint >}} 
 
 
-
-
-{{< /tab >}}
+ {{< /tab >}}
 

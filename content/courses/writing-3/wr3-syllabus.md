@@ -154,7 +154,7 @@ Each of you will curate a page on our [research project website](http://journeys
 
 Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
 
-We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each reading in this syllabus has an attached Google doc located in a link beneath it. There is a Hive document dedicated to your course section, so please make sure to make your contribution to the proper one. You may distinguish the documents by examining the notations, as in the example below:
+We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Weeks containing course readings or films have a dedicated Hive document you may find in the description of the week's theme. There is a Hive document dedicated to your course section, so please make sure to make your contribution to the proper one. You may distinguish the documents by examining the notations, as in the example below:
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [C hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 - <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
@@ -262,12 +262,13 @@ All students are entitled to full access to this course, regardless of disabilit
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - Course overview.
 - Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). 
+- Review your responses to the [End-of-Term Review](/courses/writing-2/quarterly-review/) to prepare for the winter conference.
 
 
 {{< /details >}}
 
 
-{{< details "2 - Winter Conferences" open >}}
+{{< details "2 - Winter Conferences" >}}
 #
 
 This week is dedicated to our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.  
@@ -283,9 +284,9 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
 {{< /hint >}} 
-- This lecture provides a brief, idiosyncratic, wholly reductive introduction to cultural studies.
+- This lecture provides a brief, wholly reductive introduction to cultural studies.
 
 {{< hint note >}} 
 #### <i class="fas fa-file"></i>  [**Introduction to Academic Research**](/courses/workshops/academic-research-intro) 
@@ -296,8 +297,9 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 #### ``+ Independent work``
 
-- Listen to the lectures.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+- Finish the lectures.
+
+---
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 1.13
 
@@ -314,9 +316,9 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 #### ``+ Independent work``
 
-- Listen to the lectures and complete the workshop.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+- Finish the lecture and complete the workshop.
 
+---
 
 ### { <i class="fas fa-house-user"></i> } Friday, 1.15
 
@@ -327,7 +329,6 @@ This week is dedicated to our winter conferences. In this conference you will si
 ####  <i class="fas fa-file"></i>   [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
 {{< /hint >}} 
 
-
 - This lecture will help you learn how to locate online periodicals (such as magazines and scholarly journal articles).
 
 - <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
@@ -335,13 +336,12 @@ This week is dedicated to our winter conferences. In this conference you will si
 #### ``+ Independent work``
 
 - Listen to the lecture and complete the workshop.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 #### ``+ Due``
 
 {{< hint note >}} 
 
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -361,14 +361,13 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ---
 
-### { <i class="fas fa-fist-raised"></i> } Monday, 1.18 
+### { <i class="fas fa-fist-raised"></i> <i class="fas fa-house-user"></i>  } Monday, 1.18 
 
-- *MLK Day. Class moved to [X-periods](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)* 
-- CX = [<i class="fas fa-sync-alt"></i>]() TH @ 12:30; DX = [<i class="fas fa-sync-alt"></i>]() TU @ 12:30
+- MLK Day; no class.
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
+- <i class="fa fa-download"></i> Thomas Hobbes, selection from [*Leviathan*](https://drive.google.com/file/d/1uNKxHQJ0Z3O0A5T0PH98ce_wzJZ93qmG/view?usp=sharing) (1651).
 
 #### ``+ Lectures & Workshops``
 
@@ -378,14 +377,14 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - This lecture will help you learn how to locate physical items in the library's stacks.
 
-- <i class="fa fa-wrench"></i> [Workshop 3](/courses/workshops/locate-books)
+- <i class="fa fa-wrench"></i> [Workshop 3: Locate a book in the stacks](/courses/workshops/locate-books)
 
 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-- Listen to the lecture and complete the workshop.
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+- Finish the lecture and complete the workshop.
+
 
 
 
@@ -402,7 +401,13 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”
+- <i class="fa fa-download"></i> Claire Curtis, [*Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/file/d/1s0muqFMlf5h1FVlHHEwue8o5VrSiXAue/view?usp=sharing)
+
+#### ``+ Independent work``
+
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+- Finish the lecture and complete the workshop.
+
 
 #### `+ In-class work`
 
@@ -415,14 +420,11 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema
-and TV Culture.” 
+- <i class="fa fa-download"></i> Mathias Nilges, [“The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”](https://drive.google.com/file/d/1J8gKqFySZZX1hKmmFOts5zXGz8OqXanh/view?usp=sharing) 
 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 #### `+ In-class work`
 
@@ -433,13 +435,13 @@ and TV Culture.”
 
 {{< hint note >}} 
 
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
 {{< /details >}}
 
-{{< details "4 - The Apocalypse and the Other" open >}}
+{{< details "4 - The Apocalypse and the Other" >}}
 #
 
 
@@ -466,6 +468,11 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ### { <i class="fas fa-house-user"></i> } Wednesday, 1.27
 
+#### `+ Texts`
+
+- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1hm-EbsYYSEysLXnHF9718FpqqYKgv7zt/view?usp=sharing) (Read through page 76 only)
+
+
 #### ``+ Lectures & Workshops``
 
 {{< hint note >}} 
@@ -478,11 +485,9 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 - <i class="fa fa-wrench"></i> [Workshop 4: Learning the Chicago Style](/courses/workshops/bibliography/)
 
 
-
-
 #### ``+ Independent work``
 
-- Listen to the lecture and complete the workshop.
+
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
@@ -496,9 +501,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #### `+ Due`
 
 {{< hint note >}} 
-<i class="fa fa-bullseye"></i> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
-
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -506,7 +510,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 {{< /details >}}
 
-{{< details "5 - The Apocalypse and the Other II" open >}}
+{{< details "5 - The Apocalypse and the Other II" >}}
 #
 
 Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During
@@ -578,8 +582,9 @@ problems do these films articulate? What social solutions do they seem to offer?
 #### ``+ Due``
 
 {{< hint note >}} 
-<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+
+- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -615,7 +620,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i>  Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”
+- <i class="fa fa-download"></i>  Peter Dendle, [“The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/file/d/1LKmVn5c3uv12z3DcW3yvBRq-us3naL3U/view?usp=sharing)
 
 #### `+ Lectures & Workshops`
 
@@ -647,9 +652,9 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### ``+ Due``
 
 {{< hint note >}} 
-<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-<i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
+- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
 
 
 {{< /hint >}} 
@@ -675,9 +680,10 @@ Recent years have seen an explosion of “reality” television programming base
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> *Doomsday Preppers* (Episode is located in Files > Week 4).
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Doomsday Preppers](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Doomsday Preppers](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
+- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/file/d/1IaT_9iMqJe8pDd2uSQI8TNHWt7pRWvN-/view?usp=sharing).
+
+- <i class="fa fa-download"></i> Casey Kelly, [“The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”](https://drive.google.com/file/d/1D8GhrQ3HFmRKjyewMJ4Vr8fRLOAYNxP2/view?usp=sharing)
+
   
 #### ``+ Lectures & Workshops``
 
@@ -690,12 +696,10 @@ Recent years have seen an explosion of “reality” television programming base
 - <i class="fa fa-wrench"></i> [Workshop 8: Managing Large Research Projects]()
 
 
-
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 ---
 
@@ -715,8 +719,8 @@ Recent years have seen an explosion of “reality” television programming base
 #### ``+ Due``
 
 {{< hint note >}} 
-<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
 {{< /hint >}} 
 
@@ -725,7 +729,7 @@ Recent years have seen an explosion of “reality” television programming base
 {{< /details >}}
 
 
-{{< details "8 - Slow Violence, Eco-pocalypse, and Poverty " open >}}
+{{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
 We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however,
 scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”—a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear fallout, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that
@@ -740,13 +744,12 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
+- <i class="fa fa-download"></i> Rob Nixon, [*Slow Violence and the Environmentalism of the Poor*, “Introduction.”](https://drive.google.com/file/d/1RqmkKU2jKPEzNEQxEUg4ZjZWdDrxUBcv/view?usp=sharing)
 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
 #### `+ Assignments`
 
@@ -775,9 +778,9 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 #### ``+ Due``
 
 {{< hint note >}} 
-<i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-<i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-<i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
+- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
+- <i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
 
 {{< /hint >}} 
 
@@ -831,9 +834,7 @@ we can communicate its dangers, raise public awareness, and mobilize efforts for
 ### { <i class="fas fa-sync-alt"></i> } Wednesday, 3.10
 
 {{< hint note >}}
-<i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu)
-
-<i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
+- <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu)
 
 {{< / hint >}}
 

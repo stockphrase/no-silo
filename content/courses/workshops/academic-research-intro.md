@@ -6,22 +6,25 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
-
-
 # Introduction to Academic Research
 
 ---
 
-# Disclaimer
+"The problem is that doing scholarly work is intrinsically a mess."
 
+--- [Kieran Healy](https://kieranhealy.org/blog/archives/2014/01/23/plain-text/)
+
+---
+
+<!---
 Faculty who teach writing often forget how deeply challenging it is to do academic research for the first time. We're old, and we've been researching for decades. We know our way around a library; we have memorized at least one citation style by rote; and we've written things that use tens or hundreds of sources. I'm not saying that it is always easy; but we know some stuff and we've had a *lot* of practice. I think the knowledge and experience we have gained can sometimes be a handicap for our teaching---we often assume that our students know things that they don't. For many students, the research skills their teachers practice are not only difficult, they are mysteries. So it is good for us teachers to occasionally recall how deeply challenging this all was when we tried it for the first time. I still remember the day, many years ago, when my 18-year-old self stood in a large research library, my face burning red with embarrassment, because I hadn't a clue how to begin. 
+--->
 
-In my opinion, many of the texts on the market today designed to help students with academic research are rather dishonest. They present academic research and research writing as a linear process---an orderly list of steps that one must go through to successfully complete a research essay or project. This misleading narrative generally begins with the formulation of a research question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. 
+Perhaps the most common feature of books designed to help students do academic research is their dishonesty. These texts present academic research as an orderly list of steps that one must go through sequentially to successfully complete a research essay or project. These research guides present a narrative where a student proceeds through several stages and tasks, each one logically leading to the next, culminating in a superbly crafted essay. This misleading narrative generally begins with the formulation of a research question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. 
 
-It is true that all these things must happen to make a good research paper, and the advice from me you will find below offers a set of steps very similar to what I've just criticized. The problem is that the description of the process in books presents an idealized and simplistic description of how a research project comes to be, develops, and concludes. It is often presented as a linear process where one thing logically leads to another, builds on what came before it, and culminates in a superbly crafted research project. The truth of the matter is that academic research is rarely a logical, linear operation; rather, *it is a messy, recursive, and frequently frustrating process*. But it is also a surprising, exhilarating, and fulfilling one. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
+Now, it is true that all these things must happen to make a good research paper, and the advice from me you will find below offers a set of steps virtually identical to what I've just criticized. Bu the problem is that the narrative of the research process in books presents an idealized and simplified description of how a project comes to be, develops, and concludes. When students try this for themselves and instead experience difficulty and confusion, they often feel as if they aren't good enough or smart enough to do research. But the truth of the matter is that academic research is rarely a logical, linear operation; rather, *it is a messy, recursive, and frequently frustrating process*. It is also a surprising, exhilarating, and fulfilling one. But if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
 
-Research, like most things in life, is something that you must do in order to learn. Mistakes and confusion are great teachers---they help reveal the limits of our knowledge and the limits of our skill. But it is nice when there is someone you can ask for help when things get really tough. I am happy and honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
+Research, like many things in life, is something that you must do in order to learn. Mistakes and confusion are great teachers---they help reveal the limits of our knowledge and the horizon of our skills. But it is nice when there is someone you can ask for help when things get really tough. I am happy and honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
 
 # What is Research Writing? 
 
@@ -120,8 +123,6 @@ Let's examine three attempts to forge a research agenda:
 - This is a question that will require research, testing, and data-gathering.
 --->
 
-At the outset your research questions will be rather general and mundane. But that is perfectly normal: we all have to start somewhere. Once you have a good research question, however, you can move into a more rigorous phase of research.
-
 As you begin your research, try to keep an open mind and allow yourself
 to be pulled in new directions. It is important to think of the research
 process as something more than a mere attempt to find information on a
@@ -134,7 +135,7 @@ imagined.
 
 Research, done properly, has the power to change us---altering
 our views, values, and sense of things. But you must first allow
-yourself to become vulnerable to new ideas and follow the evidence. During any particular
+yourself to become vulnerable to new ideas and follow the evidence, wherever it goes. During any particular
 research project you should be prepared to change your mind and your
 focus many, many times. You will frequently encounter dead ends; but you
 will also experience the thrill of serendipitous discovery that will
@@ -151,11 +152,11 @@ Library searching is done by querying databases with a set of keywords. Perhaps 
 [<i class="fas fa-circle"></i>]() To put things bluntly, if your keywords suck you will not find good sources.  
 {{< /hint >}}
 
-Inventing good keywords often requires some metacritical thinking (thinking about your thinking). And you may need to ask someone who already knows a lot about your subject to help you with selecting your keywords. Searching with improper keywords will leave you with the impression that there is nothing in the library on your topic. 
+Inventing good keywords often requires some metacritical thinking (thinking about your thinking). And you may need to ask someone who already knows a lot about your subject to help you with selecting your keywords. Searching with improper keywords will leave you with the impression that there is nothing in the library on your topic, which is almost certainly not the case. 
 
-Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens using social media. Using the word "spy" turns out to not be the best keyword, however. The keyword "surveillance" was much more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, recursive process---not a linear one**.  
+Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing their social media accounts. Using the word "spy" turns out to not be the best keyword; the keyword "surveillance" was much more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, recursive process---not a linear one**.  
 
-- Also see: [Searching with Precision](/courses/workshops/search-with-precision/)
+
 ---
 
 ### Step 3: Search for Books and Periodicals
@@ -172,16 +173,12 @@ A word of caution about [Primo](https://search.library.dartmouth.edu/): while it
 
 {{< /details >}}
 
-Other resources: 
-- [Searching with Precision](/courses/workshops/search-with-precision/)
-- [Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
-- [Finding books and other physical holdings in the library]()
-- [Getting Books and Articles we don't Own]()
-- [Cutting Corners: New Ways of Reading]().
+
+---
 
 ### Step 4: Use Subject Headings to Systematically Survey your Topic
 
-Your initial keyword searches will lead to a number of books that are useful to you, but there are limits to keyword searching. It is often inefficient and inexact. This is why the [Library of Congress](http://catalog.loc.gov) assigns a series of [subject headings and subheadings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) to every copyrighted book. These subject headings are an example of what is known as a `controlled vocabulary` in library science. Every book is placed within the system of categorization which means that once you find the subject heading(s), and/or subheading(s), that are relevant to your research, you can easily find *every* book published on your topic. This is *extremely* useful as it allows for a systematic examination of your topic rather than the hodgepodge efforts through keyword searches. 
+Your initial keyword searches will lead to a number of books that are useful to you, but there are limits to keyword searching. It is often inefficient and inexact. This is why the [Library of Congress](http://catalog.loc.gov) assigns a series of [subject headings and subheadings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) to every copyrighted book. These subject headings are an example of what is known as a `controlled vocabulary` in library science. Every book is placed within the system of categorization which means that once you find the subject headings and subheadings that are relevant to your research, you can easily find *every* book published on your topic. This is *extremely* useful as it allows for a systematic examination of your topic rather than the hodgepodge efforts through keyword searches. 
 
 - You can download .pdfs of all the Library of Congress [subject headings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) on their website. 
 
@@ -233,9 +230,21 @@ use a peer-reviewed source.
 
 ### Step 6: Perform citation chases [^2] 
 
-Many students will find a book or article that is perfect for their research project, do a celebration dance, and then return to the library catalog to find more sources like it. But consider that the source you hold in your hand was substantially built with other sources that are cited in the bibliography. Look at the source again: it is now  a treasure map that may lead to untold riches. 
+Many students will find a book or article that is perfect for their research project, do a celebration dance, and then return to the library catalog to use keyword searches to find more sources like it. But consider that the source you hold in your hand was substantially built from other sources that are cited in the bibliography. Look at the source again: it is now  a treasure map that may lead to untold riches. 
 
 When you discover books and articles that are relevant to your project, perform what is known as a "citation chase." This involves examining the bibliography of the book, article, or chapter, looking for other relevant items. Find these related sources in the library and then repeat the process again. Performing a citation chase *is often the best way of discovering other sources connected to your research focus---far better than using keyword searches*.
+
+- Some databases, such as the multidisciplinary [Web of Science](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991016888559705706), perform these citation chases automatically. 
+
+---
+
+[<i class="fas fa-circle"></i>]() *Related reading*: 
+
+- <i class="fas fa-paperclip"></i> [`Searching with precision`](/courses/workshops/search-with-precision/)
+- <i class="fas fa-paperclip"></i> [`Finding periodicals & electronic databases`](/courses/workshops/find-periodicals)
+- <i class="fas fa-paperclip"></i> [`Finding books on the shelf`](/courses/workshops/locate-books/)
+- <i class="fas fa-paperclip"></i> [`Getting books and articles we don't own`](/courses/workshops/inter-library-loan/)
+- <i class="fas fa-paperclip"></i> [`Cutting corners in research`](/courses/workshops/cutting-corners/)
 
 
 [^1]: I am not that Alan Taylor.

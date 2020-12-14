@@ -98,3 +98,7 @@ library stacks.
 
 <div style="text-align:center">{{< figure src="/img/map.png" >}}</div>
 
+# Workshop
+
+In a normal year when you are on campus and there is no pandemic, I would assign you each a book to find in the shelves and ask you to post a selfie with it in the stacks. But since that may result in fatalities, I will just ask you read the content above very carefully and make sure you understand how to find books on the shelves. 
+

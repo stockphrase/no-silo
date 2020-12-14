@@ -16,11 +16,11 @@ bookToc: true
 
 **Writing 3** focuses on academic research writing. Our [libraries](https://library.dartmouth.edu) have an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively. 
 
-- The title of this course is *The End: Post-Apocalyptic Fiction, Film and Art*.
+
 
 {{< hint note >}} 
 
-[<i class="fas fa-circle"></i>](https://www.youtube.com/watch?v=9OhIdDNtSv0) **THIS CONTENT IS CURRENTLY UNDER CONSTRUCTION FOR WINTER 2021**
+- The title of this course is: *The End: Post-Apocalyptic Fiction, Film and Art*.
 
 {{< /hint >}}
 
@@ -30,9 +30,14 @@ bookToc: true
 {{< tabs "WR3-Content" >}}
 {{< tab "Materials" >}} 
 
+{{< hint note >}} 
+#### [Syllabus](/courses/writing-3/wr3-syllabus/)
+{{< /hint >}} 
 
-- [Syllabus](/courses/writing-3/syllabus/)
-- [*The Open Handbook*](/resources/open-handbook/)
+{{< hint note >}} 
+#### [*The Open Handbook*](/resources/open-handbook/)
+{{< /hint >}} 
+
 
  {{< /tab >}}
 
@@ -49,9 +54,11 @@ This lecture provides a brief introduction to our WR3 course objectives, assignm
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing) (16:30)
-{{< /hint >}} 
-This lecture provides a brief, idiosyncratic, and wholly reductive introduction to cultural studies.
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
+
+{{< /hint >}}
+
+This lecture provides a brief, wholly reductive introduction to cultural studies.
 
 - Further (completely optional) reading on cultural studies: <i class="fa fa-download"></i></i> ["Cultural Studies"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225), by Dan Kagan and <i class="fa fa-download"></i></i> ["Articulation Theory"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177), by Jennifer Daryl Slack.
 
@@ -63,7 +70,7 @@ This lecture provides a brief, idiosyncratic, and wholly reductive introduction 
 #### <i class="fas fa-file"></i>  [**Introduction to Academic Research**](/courses/workshops/academic-research-intro) 
 {{< /hint >}} 
   
-A brief introduction to the processes involved in a research project. The lectures and workshops below build on this initial description.
+An introduction to academic research and some strategies for success. The lectures and workshops below each build on this initial description of the research process.
     
 ---
 
@@ -95,7 +102,7 @@ This lecture will help you learn how to locate online periodicals (such as magaz
 
 This lecture will help you learn how to locate physical items in the library's stacks.
 
-- <i class="fa fa-wrench"></i> [Workshop 3](/courses/workshops/locate-books)
+- <i class="fa fa-wrench"></i> [Workshop 3: Finding Books in the Library](/courses/workshops/locate-books)
 
 ---
 
@@ -113,19 +120,18 @@ This lecture will help you gain familiarity with constructing a bibliography for
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 5: On Becoming a Research God** ](/courses/workshops/cutting-corners/)
+####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners in Research** ](/courses/workshops/cutting-corners/)
 {{< /hint >}} 
-
 
 The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 
-- <i class="fa fa-wrench"></i> [Workshop 5](/courses/workshops/cutting-corners/)
+- <i class="fa fa-wrench"></i> [Workshop 5: Cutting Corners in Research ](/courses/workshops/cutting-corners/)
 
 
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Items Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
+####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Stuff Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 
