@@ -227,7 +227,7 @@ All students are entitled to full access to this course, regardless of disabilit
 | [<i class="fa fa-comments"></i>]()      |  [Winter conference](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) with professor & TA 
 | [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
 | <i class="fas fa-microphone-alt"></i>     | An audio / video lecture |
-| <i class="fa fa-calendar-alt"></i>      | A new major assignment   
+| <i class="fa fa-calendar-alt"></i>      | A new assignment   
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
 | <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas                                                   |
@@ -264,9 +264,11 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - Course overview.
-- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). 
-- Review your responses to the [End-of-Term Review](/courses/writing-2/quarterly-review/) to prepare for the winter conference.
 
+
+#### `+ Assignments`
+- <i class="fa fa-calendar-alt"></i>  Review your responses to the [End-of-Term Review](/courses/writing-2/quarterly-review/) to prepare for the winter conference.
+- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). 
 
 {{< /details >}}
 
@@ -291,17 +293,17 @@ This week is dedicated to our winter conferences. In this conference you will si
 {{< hint note >}} 
 ####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
 {{< /hint >}} 
-- This lecture provides a brief, wholly reductive introduction to cultural studies.
+- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief, wholly reductive introduction to form of inquiry.
 
 {{< hint note >}} 
 #### <i class="fas fa-file"></i>  [Introduction to Academic Research](/courses/workshops/academic-research-intro) 
 {{< /hint >}} 
   
 - A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
-  
+
 #### ``+ Independent work``
 
-- Finish the lectures.
+- Complete the lecture and workshop.  
 
 ---
 
@@ -317,12 +319,11 @@ This week is dedicated to our winter conferences. In this conference you will si
 ####  <i class="fas fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
 {{< /hint >}} 
 
-- This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
-
+- This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
 
 #### ``+ Independent work``
 
-- Finish the lecture and complete the workshop.
+- Complete the workshop.  
 
 ---
 
@@ -340,15 +341,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 #### ``+ Independent work``
 
-- Complete the lecture and workshop.
-
-#### ``+ Due``
-
-{{< hint note >}} 
-
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
-
-{{< /hint >}} 
+- Complete the workshop.  
 
 
 {{< /details >}}
@@ -385,7 +378,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-- Finish the lecture and complete the workshop.
+- Complete the workshop.
 
 
 
@@ -497,6 +490,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
+- Complete the workshop.
 
 ---
 
@@ -543,6 +537,7 @@ problems do these films articulate? What social solutions do they seem to offer?
 #### `+ Texts`
 
 - <i class="fas fa-video"></i>  Film, *I am Legend* (2007). Film is in the "Media" section of Canvas.  
+    - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I am Legend* (only watch after completing the original film).
   
 
 #### ``+ Independent work``
@@ -565,17 +560,16 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 
 {{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Items Our Library doesn't Own"](/courses/workshops/inter-library-loan)
+#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Sh*t Our Library doesn't Own"](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 
-- As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
+- As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes, we don't own a book or article that you want to read. What do you do then? You have many options that won't cost you a dime.
 
 
 #### ``+ Independent work``
 
-- Finish the lectures and complete the workshops.
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
+- Complete the workshops.
 - Prepare for discussion of texts on Friday. 
 
 ---
@@ -605,7 +599,12 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 ---
 
-Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This begs several questions. Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely this type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
+"[T]he true subject of the horror genre is the struggle for recognition of all that our civilization represses or oppresses."
+
+---Robin Wood
+
+
+Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This begs several questions. Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://docs.google.com/document/d/1EktnjiQ_sHK5UENcrb45I6r4rtRMfEK0ImbuH5DLMyM/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://docs.google.com/document/d/1XqmqcpjN0Huzw2VWS0fkOeSqsAKiy_ihHnQT4cxDUSA/edit?usp=sharing)    
@@ -643,13 +642,11 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 - Over your career as a student and a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
-- <i class="fa fa-wrench"></i> [Workshop 7](/courses/workshops/bibliographic-management)
-
 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-- Listen to the lecture and complete the workshop.
+- Complete the workshop.
 
 
 ---
@@ -787,7 +784,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 {{< /hint >}} 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss the film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions
 - <i class="fa fa-wrench"></i> Essay 3 workshop
 
 #### ``+ Due``

@@ -73,92 +73,71 @@ An introduction to academic research and some strategies for success. The lectur
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i> [**Lecture 1: Searching with Precision**](/courses/workshops/search-with-precision/)
+####  <i class="fas fa-wrench"></i>  [**Workshop 1: Searching with Precision**](/courses/workshops/search-with-precision/)
 {{< /hint >}} 
 
 This lecture and workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
 
-- <i class="fa fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
-
-
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>   [**Lecture 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
+####  <i class="fas fa-wrench"></i>    [**Workshop 2: Finding Periodicals & Electronic Databases**](/courses/workshops/find-periodicals)
 {{< /hint >}} 
-
 
 This lecture will help you learn how to locate online periodicals (such as magazines and scholarly journal articles).
 
-- <i class="fa fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
 
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>   [**Lecture 3: Finding books and other physical holdings in the library**](/courses/workshops/locate-books)
+####  <i class="fas fa-wrench"></i>   [**Workshop 3: Finding books and other physical holdings in the library**](/courses/workshops/locate-books)
 {{< /hint >}} 
 
 This lecture will help you learn how to locate physical items in the library's stacks.
 
-- <i class="fa fa-wrench"></i> [Workshop 3: Finding Books in the Library](/courses/workshops/locate-books)
 
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
+####  <i class="fas fa-wrench"></i>  [**Workshop 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
 {{< /hint >}} 
-
-
 
 This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
 
-- <i class="fa fa-wrench"></i> [Workshop 4: Learning the Chicago Style](/courses/workshops/bibliography/)
-
 
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i>  [**Lecture 5: Cutting Corners in Research** ](/courses/workshops/cutting-corners/)
+####  <i class="fas fa-wrench"></i>   [**Workshop 5: Cutting Corners in Research** ](/courses/workshops/cutting-corners/)
 {{< /hint >}} 
 
 The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 
-- <i class="fa fa-wrench"></i> [Workshop 5: Cutting Corners in Research ](/courses/workshops/cutting-corners/)
-
-
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-file"></i> [**Lecture 6: "Getting Stuff Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
+#### <i class="fas fa-wrench"></i>  [**Workshop 6: "Getting Stuff Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 
 As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
 
-- <i class="fa fa-wrench"></i> [Workshop 6: Borrow Direct and DartDoc](/courses/workshops/inter-library-loan)
-
-
-
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i>  **Lecture 7: Bibliographic Software / Research Journal**
+####  <i class="fas fa-wrench"></i>  **Workshop 7: Bibliographic Software / Research Journal**
 {{< /hint >}} 
 
 Over your career as a student and a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
-- <i class="fa fa-wrench"></i> [Workshop 7: Introducing Zotero](/courses/workshops/bibliographic-management)
-
 
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-video"></i>  **Lecture 8: Managing Large Research Projects**
+####  <i class="fas fa-wrench"></i>   **Workshop 8: Managing Large Research Projects**
 {{< /hint >}} 
 
 How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
-
-- <i class="fa fa-wrench"></i> [Workshop 8: Managing Large Research Projects]()
 
 
 {{< /tab >}}

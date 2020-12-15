@@ -17,7 +17,7 @@ Finding a book on the shelf of the library isn't as easy as it sounds. This is a
 
 Libraries use classification systems to organize their holdings. The most common in the English-speaking world are the [Dewey Decimal Classification](https://en.m.wikipedia.org/wiki/Dewey_Decimal_Classification) (DDC) and the [Library of Congress Classification](https://en.m.wikipedia.org/wiki/Library_of_Congress_Classification) (LCC) systems. There are a number of other library systems. In Europe, for example, you will encounter the [Universal Decimal Classification](https://en.m.wikipedia.org/wiki/Universal_Decimal_Classification) (UDC) system. Like most research libraries in the US, Dartmouth's libraries use the Library of Congress system. 
 
-The Library of Congress organizes all knowledge into a system of [21 basic subjects](https://www.loc.gov/catdir/cpso/lcco/), each associated with a single letter of the alphabet. For example, the letter **B** is used to identify philosophy, psychology, and religion. Each of these subjects may be further refined with the addition of other letters. For example, **BC** is the subclass for Logic and **BQ** is the subclass for Buddhism. These subclasses may be refined even further with an alphanumeric code that represents a very specific research focus. This code is what is known as the book's `call number`. 
+The Library of Congress organizes all knowledge into a system of [21 basic subjects](https://www.loc.gov/catdir/cpso/lcco/), each associated with a single letter of the alphabet. For example, the letter **B** is used to identify philosophy, psychology, and religion. Each of these subjects may be further refined with the addition of other letters. For example, **BC** is the subclass for Logic and **BQ** is the subclass for Buddhism. These subclasses may be refined even further with an alphanumeric code that represents a very specific research focus. This code is what is known as the book's `call number`. The call number is listed the book's entry in the catalog, along with other information such as whether it is available for borrowing or the particular library where the book is shelved.
 
 ### The Anatomy of a call number
 
@@ -34,7 +34,9 @@ Let's break down the call number into its constituent parts:
 | **.T39** |  Cutter line | <ul><li>Identifies the individual book.</li><li>The first letter of the Cutter line is usually the first letter of the author’s last name.</li></ul>
 | **1990** | Edition/Date line | <ul><li>Tells you the book’s year of publication.</li><li>May also include volume or edition information.</li></ul>
 
-### Steps to find a book on the shelf
+## Steps to find a book on the shelf
+
+### Method One:
 
 {{< details "Step 1: Letter Line" closed >}} 
 
@@ -85,6 +87,8 @@ As you can see, the call number should be read from left to right using alphabet
 Similarly, a Cutter line that reads `.T39` is shelved *after* `.T21`.
 
 Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) online with your computer or smartphone.
+
+### Method Two:
 
 {{< details "Or Just Forget All That" closed >}} 
 
