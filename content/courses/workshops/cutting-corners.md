@@ -30,7 +30,9 @@ First, nothing can replace carefully reading a book or article from beginning to
 
 4. **Scan the topic sentences**. One final test may be to skim the topic sentences of each paragraph in a chapter or article. Since the topic sentences generally state the paragraph's purpose, you can often gain important intelligence on the whole text by reading them alone. 
 
-5. **Read book reviews.** Academic works are often reviewed by other academics in the pages of related academic journals. If you place the book's title in the search field of a relevant database and use the search delimiter for "review articles," you should receive a list of reviews that have been published of the book. These reviews are usually only 2-3 pages in length, offer a precise summary of the book's contents, and make some evaluative remarks at the end about the book's value to the field of study. 
+5. **Surgical strikes with the index**. Scholarly books often contain an index at the end of the text, where key terms are listed along with a page number. With this information you can quickly scan a book for keywords that are relevant for your line of inquiry and then visit those pages of the book to see if deeper reading is merited. 
+
+6. **Read book reviews.** Academic works are often reviewed by other academics in the pages of related academic journals. If you place the book's title in the search field of a relevant database and use the search delimiter for "review articles," you should receive a list of reviews. These reviews are usually only 2-3 pages in length, offer a precise summary of the book's contents, and make some evaluative remarks at the end about the book's value to the field of study. 
 
 ---
 
@@ -42,7 +44,7 @@ First, nothing can replace carefully reading a book or article from beginning to
 # Workshop
 
 1. Choose a reading for this class or any other class that you choose. 
-2. Start a stopwatch timer on your phone. Proceed through strategies 1-4.
+2. Start a stopwatch timer on your phone. Proceed through strategies 1-4 with the text.
 3. After finishing, stop the timer and note the time, then write out a paragraph summary of the text or a list of notes that seem important to you. 
 4. Start the timer again and read the entire work very carefully, as you would normally. Annotate and take notes---whatever your normal practice is for course readings. Once complete, stop the stopwatch. 
 

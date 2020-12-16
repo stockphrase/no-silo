@@ -41,13 +41,13 @@ The *Open Handbook* has detailed information on formatting of both the [MLA](htt
 
 ## Directions
 
-Your assignment is to “translate” this [student essay](/docs/egoist-mla-student.doc) from the MLA style into the Chicago style. Convert this paper in every way from an MLA paper to a Chicago one: document formatting, page numbering, in-text citations, the bibliographical entries.[^2] 
+Your assignment is to “translate” this [student essay](/docs/egoist-mla-student.doc) from the MLA style into the Chicago style. Convert the document's formatting, page numbering, in-text citations, bibliographical entries, etc.[^2] 
 
-To begin, download the essay to your own computer. Before you make any alterations, it might be wise to write out a detailed list of things that must be translated. The list of questions above may be of great assistance to you. Use your handbooks to come up with your plan of action.
+To begin, download the essay to your own computer. Before you make any alterations, it might be wise to write out a detailed list of things that must be translated. The list of questions above may be of great assistance to you. You may need to consult the *Open Handbook* to come up with your plan of action.
 
-- You will find it difficult to force Microsoft Word into submission and make it do your bidding for the page numbering and the endnotes. I have some advice to help you that I will demonstrate in class. 
+- You will find it difficult to force Microsoft Word into submission and make it do your bidding for the page numbering and the endnotes. While I don't personally use MS Word, they have some [advice about page numbering](https://support.microsoft.com/en-us/office/start-page-numbering-later-in-your-document-c73e3d55-d722-4bd0-886e-0b0bd0eb3f02) on their support site. I have some further advice about the `Notes` page that I will relay to you in a class demo.
 
-- Another challenge comes when making the Notes page: you must determine what type of source is being cited in the MLA paper. Is this a book by one author? A scholarly journal? A work in an anthology? Once you identify the type of source being referenced in the MLA paper, you can use the *Open Handbook* chapter on the Chicago Style to figure out how to present this type of source in the Chicago style's Notes form. Have fun! 
+- As you construct your `Notes` page you must determine what *type* of source is being cited in the MLA paper. Is this a book by one author? A scholarly journal? A work in an anthology? Once you identify the type of source being referenced in the MLA paper, you can use the *Open Handbook* chapter on the [Chicago Style](https://no-silo.com/resources/open-handbook/chapter-11-chi/) to figure out how to present this type of source in the Chicago style's note form. Have fun! 
 
 [^1]: This student essay uses section headings to organize the essay. This is a personal choice, not a strict element of the Chicago style.
 [^2]: You are **not** required to make a `Bibliography` page, just a [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page for this assignment.

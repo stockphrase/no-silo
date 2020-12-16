@@ -134,7 +134,7 @@ The best researchers know how to cut corners and work efficiently. This lecture 
 ---
 
 {{< hint note >}} 
-#### <i class="fas fa-wrench"></i>  [**Workshop 6: "Getting Stuff Our Library doesn't Own"**](/courses/workshops/inter-library-loan)
+#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Sh*t the Library Doesn't Have"](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 

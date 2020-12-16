@@ -26,7 +26,7 @@ type: docs
 {{< tab "Materials" >}} 
 
 {{< hint note >}} 
-#### [WR2 Syllabus](/courses/writing-2/wr2-syllabus) 
+#### [Syllabus](/courses/writing-2/wr2-syllabus) 
 {{< /hint >}} 
 
 {{< hint note >}} 

@@ -241,7 +241,7 @@ When you discover books and articles that are relevant to your project, perform 
 - <i class="fas fa-paperclip"></i> [`Searching with precision`](/courses/workshops/search-with-precision/)
 - <i class="fas fa-paperclip"></i> [`Finding periodicals & electronic databases`](/courses/workshops/find-periodicals)
 - <i class="fas fa-paperclip"></i> [`Finding books on the shelf`](/courses/workshops/locate-books/)
-- <i class="fas fa-paperclip"></i> [`Getting books and articles we don't own`](/courses/workshops/inter-library-loan/)
+- <i class="fas fa-paperclip"></i> [`Getting sh*t the library doesn’t have`](/courses/workshops/inter-library-loan/)
 - <i class="fas fa-paperclip"></i> [`Cutting corners in research`](/courses/workshops/cutting-corners/)
 
 

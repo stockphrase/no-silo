@@ -6,24 +6,20 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/lysander-yuen-unsplash.jpg" caption="Image by Lysander Yuen, [Unsplash](https://unsplash.com/photos/AnxucA5L7Uk)" >}}</div>
-
-
-
 # Finding a Book in the Library
-Finding a book on the shelf of the library isn't as easy as it sounds. This is a guide to help you understand how libraries are organized and find books you need for your research. 
+Finding a book (or other physical resource) on the shelf of the library isn't as easy as it sounds. This is a guide to help you understand how libraries are organized and find books you need for your research. 
 
 ## Library Classification Systems
 
-Libraries use classification systems to organize their holdings. The most common in the English-speaking world are the [Dewey Decimal Classification](https://en.m.wikipedia.org/wiki/Dewey_Decimal_Classification) (DDC) and the [Library of Congress Classification](https://en.m.wikipedia.org/wiki/Library_of_Congress_Classification) (LCC) systems. There are a number of other library systems. In Europe, for example, you will encounter the [Universal Decimal Classification](https://en.m.wikipedia.org/wiki/Universal_Decimal_Classification) (UDC) system. Like most research libraries in the US, Dartmouth's libraries use the Library of Congress system. 
+Libraries use classification systems to organize their holdings. The most common in the English-speaking world are the [Dewey Decimal Classification](https://en.m.wikipedia.org/wiki/Dewey_Decimal_Classification) (DDC) and the [Library of Congress Classification](https://en.m.wikipedia.org/wiki/Library_of_Congress_Classification) (LCC) systems. There are a number of other library systems. In Europe, for example, you will encounter the [Universal Decimal Classification](https://en.m.wikipedia.org/wiki/Universal_Decimal_Classification) (UDC) system. But like most research libraries in the US, Dartmouth's libraries use the Library of Congress system. 
 
-The Library of Congress organizes all knowledge into a system of [21 basic subjects](https://www.loc.gov/catdir/cpso/lcco/), each associated with a single letter of the alphabet. For example, the letter **B** is used to identify philosophy, psychology, and religion. Each of these subjects may be further refined with the addition of other letters. For example, **BC** is the subclass for Logic and **BQ** is the subclass for Buddhism. These subclasses may be refined even further with an alphanumeric code that represents a very specific research focus. This code is what is known as the book's `call number`. The call number is listed the book's entry in the catalog, along with other information such as whether it is available for borrowing or the particular library where the book is shelved.
+The Library of Congress organizes all knowledge into a system of [21 basic subjects](https://www.loc.gov/catdir/cpso/lcco/), each associated with a single letter of the alphabet. For example, the letter **B** is used to identify philosophy, psychology, and religion. Each of these subjects may be further refined with the addition of other letters. For example, **BC** is the subclass for Logic and **BQ** is the subclass for Buddhism. These subclasses may be refined even further with an alphanumeric code that represents a very specific research focus. When all of these letters and numbers are placed in a specific order, they form a unique code that is known as the book's `call number`. The call number is listed the book's entry in the library's catalog so that you may locate it on the shelves, or "stacks" as they are known.
 
 ### The Anatomy of a call number
 
 To find a book's location in the library stacks, you need to know its `call number`. The Library of Congress assigns every copyrighted book a unique call number consisting of a series of numbers and letters that help you locate them on the library's shelves and indicate the subject matter contained within it. A typical call number will resemble the following:
 
-- `F 24 .T39 1990`
+- #### [`F 24 .T39 1990`](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991007282289705706)
 
 Let's break down the call number into its constituent parts:
 
@@ -107,5 +103,5 @@ library stacks.
 
 In a normal year when you are on campus and there is no pandemic, I would assign you each a book to find in the shelves and ask you to post a selfie with it in the stacks. But since most of you are not on campus, this will not be possible. 
 
-Instead, find some book that you have lying around the house and locate it in our online catalog. Using the call number, try to find the exact location of of this book using the two methods described above.  
+Instead, find some book that you have lying around the house and locate it in our online catalog. Using the call number, try to find the exact location of of this book using the two methods described above.
 

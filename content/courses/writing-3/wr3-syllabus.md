@@ -100,7 +100,7 @@ Below is a list of the typical assignments and activities we will do each week. 
 
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. 
 
-For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
+For the reasons described by Kohn (and ones we explored in the fall term), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
 
 At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics:
 
@@ -441,11 +441,11 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 {{< /details >}}
 
-{{< details "4 - The Apocalypse and the Other" >}}
+{{< details "4 - The Apocalypse and the Other I" >}}
 #
 
 
-Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
+Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://docs.google.com/document/d/1hVOK0U-I8Q26XLs3Ye4wnKcYE-zWBPYQIo5nVNzaCBk/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://docs.google.com/document/d/106DLYltHpdLI2ru7TBYNqgwHQjvwi9tOyidfHdtlIbU/edit?usp=sharing)    
@@ -459,7 +459,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, *The Last Man on Earth* (1968). Film is in the "Media" section of Canvas.  
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.  
 
 
 #### ``+ Independent work``
@@ -516,13 +516,6 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 {{< details "5 - The Apocalypse and the Other II" >}}
 #
 
-Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During
-these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as
-novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded 
-a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational
-values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964)
-and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or
-problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 5](https://docs.google.com/document/d/1vqlQfglqcPTw4VuCKAqlMUh6KwRGo8MNeffrfVsMQzk/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 5](https://docs.google.com/document/d/1kQVt-i7dkNPySeRl1cIX6Grbjn5RDscwiP2WpyPilg0/edit?usp=sharing)    
@@ -536,7 +529,7 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, *I am Legend* (2007). Film is in the "Media" section of Canvas.  
+- <i class="fas fa-video"></i>  Film, [*I am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas.  
     - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I am Legend* (only watch after completing the original film).
   
 
@@ -560,11 +553,11 @@ problems do these films articulate? What social solutions do they seem to offer?
 
 
 {{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Sh*t Our Library doesn't Own"](/courses/workshops/inter-library-loan)
+#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Sh*t the Library Doesn't Have"](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 
-- As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes, we don't own a book or article that you want to read. What do you do then? You have many options that won't cost you a dime.
+- As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes we don't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
 
 
 #### ``+ Independent work``
@@ -597,11 +590,10 @@ problems do these films articulate? What social solutions do they seem to offer?
 {{< details "6 - The Zombie, Civil Rights, and Race" >}}
 #
 
----
 
-"[T]he true subject of the horror genre is the struggle for recognition of all that our civilization represses or oppresses."
-
----Robin Wood
+>"[T]he true subject of the horror genre is the struggle for recognition of all that our civilization represses or oppresses."
+>
+>---Robin Wood
 
 
 Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This begs several questions. Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
@@ -617,7 +609,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, *Night of the Living Dead* (1968). Film is in the "Media" section of Canvas.
+- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.
 
 
 #### ``+ Independent work``
