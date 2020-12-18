@@ -51,7 +51,7 @@ containing information about when the book must be returned to avoid punishing f
 
 If there is a book or article you would like to read that is not
 available through Borrow Direct, you may request it from Dartmouth's
-interlibrary loan program, known as [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/logon.html). To request an item, visit
+interlibrary loan program, known as [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/logon.html).[^1] To request an item, visit
 the DartDoc webpage, select the appropriate form (article, book, book chapter,
 etc.), and send your request electronically to the office. Staff will
 request your item from another library, who will ship the book to our
@@ -68,7 +68,9 @@ up to two weeks to be fulfilled.
 
 ### Recall Request
 
-If a book is owned by the library, but checked out by another patron, you have one final option: a recall request. You will find a link in the catalog entry if the book is checked out that will allow you to request a recall of the book. The patron who has borrowed the book will then receive a notice that they must return it. Now, I don't reccommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*. These are the petty games Ph.Ds play. *And we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
+If a book is owned by the library, but checked out by another patron, you have one final option: a recall request. You will find a link in the catalog entry if the book is checked out that will allow you to request a recall of the book. After your recall, the patron who has borrowed the book will receive a notice that they must return it. 
+
+Now, I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games Ph.Ds play, *and [we play for keeps](https://www.youtube.com/watch?v=UmtuRRhtGQw)*. Secondly, the patron will have *up to two weeks* to return the book in question. That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
 
 
 ## Workshop
@@ -77,7 +79,7 @@ If a book is owned by the library, but checked out by another patron, you have o
 2. Create a login for [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/illiad.dll?Action=10&Form=79) and explore the service. 
 3. Order a book if you like. It's free.
 
-[^1]: One of my biggest pet peeves about Dartmouth is our insane need to re-brand everything to make it "Dartmouthy." Hence, "interlibrary loan," a term comprehensible to everyone who has ever been to a library, is replaced with something completely alienating, like "Dart-Doc." It is madness. It is Dartmouth. They are the same. 
+[^1]: One of my biggest pet peeves about Dartmouth is our absurd need to re-brand everything to make it "Dartmouthy." Hence, "interlibrary loan," a term comprehensible to everyone who has ever been to a library, is replaced with something completely alienating, like "Dart-Doc." It is madness. It is Dartmouth. They are the same. 
 
-
+[^2]: This was (alegedly) me. But it was some time ago and I have since sought professional help for research rage. 
 

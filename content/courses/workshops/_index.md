@@ -6,13 +6,10 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
-
 # Workshops and Lectures
 
 This term we will do a series of workshops designed to learn and practice various skills needed for academic writing and research. 
 
-The purpose of these workshops is often largely diagnostic; they will not, of themselves, make you a better writer. However, they will help reveal things that you struggle with as a writer and alert you to things you don't yet know. Think of them as tools for learning and self-assessment---you may use them to gain insight into your own abilities and create a plan for improvement. 
 
 {{< tabs "Workshops" >}}
 
@@ -134,7 +131,7 @@ The best researchers know how to cut corners and work efficiently. This lecture 
 ---
 
 {{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Sh*t the Library Doesn't Have"](/courses/workshops/inter-library-loan)
+#### <i class="fas fa-wrench"></i> [**Workshop 6: Getting Sh*t the Library Doesn't Have**](/courses/workshops/inter-library-loan)
 {{< /hint >}} 
 
 

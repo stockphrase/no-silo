@@ -635,8 +635,8 @@ information.
 
 ### Determining if a source is peer reviewed
 
-For novice researchers, distinguishing between [](#peer-review) and
-other kinds of sources can be challenging. However, there are a number
+For novice researchers, distinguishing peer-reviewed sources from other published
+information can be challenging. However, there are a number
 of things you can do to ensure that you are using peer-reviewed
 information. Many periodical databases, such as
 [JSTOR](http://dartmouth.idm.oclc.org/login?url=http://www.jstor.org/),

@@ -63,7 +63,7 @@ important voices about a topic that you value.
 It is helpful to imagine a research essay as taking part in an ongoing
 conversation. Unlike the dialogue that we have with most people in our
 lives, these scholarly conversations occur in print---within published,
-[peer-reviewed](#peer-review) books and journal articles. Some conversations are
+[peer-reviewed](/courses/workshops/peer-reviews) books and journal articles. Some conversations are
 vibrant, with hundreds or even thousands of participants. Other
 conversations are small, involving but a few specialists. Many
 conversations have been going on for hundreds or even thousands of
@@ -148,13 +148,13 @@ take you down a path you would have never considered.
 
 Library searching is done by querying databases with a set of keywords. Perhaps the most critical first step in research is to create a list of `keywords` that you associate with your question, problem, or topic. These keywords will be used during your [initial searches](/courses/workshops/search-with-precision/) in the library's catalog and databases. 
 
+Inventing good keywords often requires some metacritical thinking (thinking about your thinking). And you may need to ask someone who already knows a lot about your subject to help you with selecting your keywords. Searching with improper keywords will leave you with the impression that there is nothing in the library on your topic, which is almost certainly not the case. 
+
 {{< hint note >}}
 [<i class="fas fa-circle"></i>]() To put things bluntly, if your keywords suck you will not find good sources.  
 {{< /hint >}}
 
-Inventing good keywords often requires some metacritical thinking (thinking about your thinking). And you may need to ask someone who already knows a lot about your subject to help you with selecting your keywords. Searching with improper keywords will leave you with the impression that there is nothing in the library on your topic, which is almost certainly not the case. 
-
-Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing their social media accounts. Using the word "spy" turns out to not be the best keyword; the keyword "surveillance" was much more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, recursive process---not a linear one**.  
+Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing their social media accounts. Using the word "spy" turns out not to be the best keyword; the keyword "surveillance" was far more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, accretive process---not a linear one**.  
 
 
 ---
@@ -163,7 +163,7 @@ Significantly, you may not be able to determine the best keywords for searching 
 
 The library uses special software designed to augment the searching of the library's holdings known as a "discovery layer." Dartmouth currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the library catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
 
-After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm. After entering your keywords you will notice ways to further refine your search by clicking on several options on the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page under "Refine Your Results." Or limit the search to [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches in this way, if desired.
+After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm. After entering your keywords you will notice ways to further refine your search by clicking on several options on the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page under "Refine Your Results." Or limit the search to [peer-reviewed](/courses/workshops/peer-reviews) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches in this way, if desired.
 
 {{< details "🔴️ WARNING about Primo" open >}}
 
@@ -176,7 +176,7 @@ A word of caution about [Primo](https://search.library.dartmouth.edu/): while it
 
 ### Step 4: Use Subject Headings to Systematically Survey your Topic
 
-Your initial keyword searches will lead to a number of books that are useful to you, but there are limits to keyword searching. It is often inefficient and inexact. This is why the [Library of Congress](http://catalog.loc.gov) assigns a series of [subject headings and subheadings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) to every copyrighted book. These subject headings are an example of what is known as a `controlled vocabulary` in library science. Every book is placed within the system of categorization which means that once you find the subject headings and subheadings that are relevant to your research, you can easily find *every* book published on your topic. This is *extremely* useful as it allows for a systematic examination of your topic rather than the hodgepodge efforts through keyword searches. 
+Your initial keyword searches will lead to a number of books that are useful to you, but there are limits to keyword searching. It is often inefficient and inexact. This is why the [Library of Congress](http://catalog.loc.gov) assigns a series of [subject headings and subheadings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) to every copyrighted book. These subject headings are an example of what is known as a [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary#:~:text=In%20library%20and%20information%20science%2C%20controlled%20vocabulary%20is%20a%20carefully,easily%20retrieved%20by%20a%20search.) in library and information science. Every book is placed within the system of categorization which means that once you find the subject headings and subheadings that are relevant to your research, you can easily find *every* book published on your topic. This is *extremely* useful as it allows for a systematic examination of your topic rather than the hodgepodge efforts through keyword searches. 
 
 - You can download .pdfs of all the Library of Congress [subject headings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) on their website. 
 
@@ -194,7 +194,9 @@ Perhaps the most helpful thing about subject headings is they are an easy means 
 
 In most library catalogs these subject headings are hyperlinked; clicking on any of them leads you to a list of *every* other book in the library that shares that particular subject heading. Thus, if your research interest is the social aspects of the War of 1812, you can quickly find every other book the library owns on that subject by merely clicking on the hyperlinked subject heading in the catalog.
 
-Though Dartmouth's library holdings are not nearly as large as the Library of Congress, you can also perform subject searches by selecting the [advanced search](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&mode=advanced) feature of the [library catalog](https://search.library.dartmouth.edu/).
+<!---
+Though Dartmouth's library holdings are not nearly as large as the Library of Congress, you can also perform subject searches by selecting the [advanced search](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&mode=advanced) feature of the [library catalog](https://search.library.dartmouth.edu/). However, Primo really sucks in this regard; you are better off searching in the Library of Congress using this method.
+--->
 
 ---
 
@@ -203,7 +205,7 @@ Though Dartmouth's library holdings are not nearly as large as the Library of Co
 Since your research process will cause you to encounter a variety of terms, theories, people, histories, etc., you will frequently need to stop your research and read background or reference materials to shore up your understanding. Much of the scholarship you will read is written with an audience in mind who already possess a great deal of knowledge about the topic. These writings will often gesture or refer to things in an offhanded way, trusting that the audience already knows the jargon or information in question. This can be a somewhat alienating experience for a novice in the field. For that reason, we have reference works to help orient ourselves in these critical conversations. 
 
 Thus, a research project should always involve the reading of general `reference materials` about the topic. Before you can ask an
-intelligent question about your topic or contribute to an ongoing scholarly conversation, you need to develop a working knowledge of basic facts to serve as a foundation for your project. The best way to develop this basic understanding is to examine [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) reference works such as encyclopedias, biographies, dictionaries, and other forms of `reference material`.
+intelligent question about your topic or contribute to an ongoing scholarly conversation, you need to develop a working knowledge of basic facts to serve as a foundation for your project. The best way to develop this basic understanding is to examine [peer-reviewed](/courses/workshops/peer-reviews) reference works such as encyclopedias, biographies, dictionaries, and other forms of `reference material`.
 
 Baker-Berry library has a number of helpful reference resources in this regard. If you visit the [Library Reference Resources](http://researchguides.dartmouth.edu/reference) link in the Library's [Research Guides](http://researchguides.dartmouth.edu/), you will find an impressive array of organized reference materials like bibliographies, encyclopedias, and dictionaries. Most of them are fully
 digitized and do not even require a trip to the library. Always start
@@ -220,7 +222,7 @@ helpful background information aids of note:
     [Britannica Online](http://www.search.eb.com/).
 
 A word of warning about Wikipedia (and internet sources in general): it
-has not been through a process of scholarly [peer-review](/resources/open-handbook/chapter-12/#peer-review). For that reason, it
+has not been through a process of scholarly [peer-review](/courses/workshops/peer-reviews). For that reason, it
 is unwise to rely on Wikipedia as a source for a research project. Use
 Wikipedia to gain background information on your topic and lead you to
 other authoritative sources, but when it comes time to write your essay,
@@ -243,6 +245,8 @@ When you discover books and articles that are relevant to your project, perform 
 - <i class="fas fa-paperclip"></i> [`Finding books on the shelf`](/courses/workshops/locate-books/)
 - <i class="fas fa-paperclip"></i> [`Getting sh*t the library doesn’t have`](/courses/workshops/inter-library-loan/)
 - <i class="fas fa-paperclip"></i> [`Cutting corners in research`](/courses/workshops/cutting-corners/)
+- <i class="fas fa-paperclip"></i> [`Bibliographic management software`](/courses/workshops/bibliographic-management)
+- <i class="fas fa-paperclip"></i> [`What is Peer Review?`](/courses/workshops/peer-reviews)
 
 
 [^1]: I am not that Alan Taylor.
