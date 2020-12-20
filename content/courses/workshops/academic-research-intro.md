@@ -20,11 +20,15 @@ type: docs
 Faculty who teach writing often forget how deeply challenging it is to do academic research for the first time. We're old, and we've been researching for decades. We know our way around a library; we have memorized at least one citation style by rote; and we've written things that use tens or hundreds of sources. I'm not saying that it is always easy; but we know some stuff and we've had a *lot* of practice. I think the knowledge and experience we have gained can sometimes be a handicap for our teaching---we often assume that our students know things that they don't. For many students, the research skills their teachers practice are not only difficult, they are mysteries. So it is good for us teachers to occasionally recall how deeply challenging this all was when we tried it for the first time. I still remember the day, many years ago, when my 18-year-old self stood in a large research library, my face burning red with embarrassment, because I hadn't a clue how to begin. 
 --->
 
-Perhaps the most common feature of books designed to help students do academic research is their dishonesty. These texts present academic research as an orderly list of steps that one must go through sequentially to successfully complete a research essay or project. These research guides present a narrative where a student proceeds through several stages and tasks, each one logically leading to the next, culminating in a superbly crafted essay. This misleading narrative generally begins with the formulation of a research question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. 
+Perhaps the most common feature of books designed to help students do academic research is their dishonesty. These textbooks present academic research as an orderly list of proceedures and tasks, each one leading logically to the next, culminating in a superbly crafted essay. This narrative generally begins with the formulation of a research question, proceeds to the gathering of background information and secondary sources, and finally to the drafting, revision, and completion of the project. The problem is that none of that is true. 
 
-Now, it is true that all these things must happen to make a good research paper, and the advice from me you will find below offers a set of steps virtually identical to what I've just criticized. But the problem is that the narrative of the research process in books presents an idealized and simplified description of how a project comes to be, develops, and concludes. When students try this for themselves and instead experience difficulty and confusion, they often feel as if they aren't good enough or smart enough to do research. But the truth of the matter is that academic research is rarely a logical, linear operation; rather, *it is a messy, recursive, and frequently frustrating process*. It is also a surprising, exhilarating, and fulfilling one. But if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
+It is true that all these things must happen to make a good research paper. And the advice from me you will find below offers a set of steps virtually identical to what I've just criticized. But the problem is that the narrative of the research process in books is misleading; it presents an idealized and simplified description of how a project comes to be, develops, and concludes. When students try research for themselves and instead experience difficulty and confusion, they often feel as if they aren't good enough or smart enough to do research. But the truth of the matter is that academic research is rarely a logical, linear operation; rather, *it is a messy, recursive, and frequently frustrating process*. It is also a surprising, exhilarating, and fulfilling one. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. 
 
-Research, like many things in life, is something that you must do in order to learn. Mistakes and confusion are great teachers---they help reveal the limits of our knowledge and the horizon of our skills. But it is nice when there is someone you can ask for help when things get really tough. I am happy and honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
+{{< hint note >}}
+[<i class="fas fa-circle"></i>]() **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
+{{< /hint >}}
+
+Research, like many things in life, is something that you must do in order to learn. Mistakes and confusion are great teachers---they help reveal the limits of our knowledge and the horizon of our skills. Over time, and with exprerience, you will gain better research insticts. But it is nice when there is someone you can ask for help when things get really tough. I am happy and honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
 
 # What is Research Writing? 
 
@@ -101,11 +105,7 @@ from an existing conversation.
 
 ### Step 1: Find a research question you would like to investigate
 
-Discovering your own research topic can be an overwhelming experience.
-With so many things to choose from, finding a narrow focus is often
-difficult. However, before you can truly begin your library research you
-need to find a way to narrow your field of inquiry to a small set of
-research questions or problems. 
+Discovering your own research topic can be an overwhelming experience. With so many things to choose from, finding a narrow focus is often difficult. However, before you can truly begin your library research you need to find a way to narrow your field of inquiry to a small set of research questions or problems. 
 
 <!---
 Let's examine three attempts to forge a research agenda:
@@ -174,15 +174,17 @@ A word of caution about [Primo](https://search.library.dartmouth.edu/): while it
 {{< /details >}}
 
 
-### Step 4: Use Subject Headings to Systematically Survey your Topic
+### Step 4a: Use subject headings to systematically survey your topic
 
 Your initial keyword searches will lead to a number of books that are useful to you, but there are limits to keyword searching. It is often inefficient and inexact. This is why the [Library of Congress](http://catalog.loc.gov) assigns a series of [subject headings and subheadings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) to every copyrighted book. These subject headings are an example of what is known as a [controlled vocabulary](https://en.wikipedia.org/wiki/Controlled_vocabulary#:~:text=In%20library%20and%20information%20science%2C%20controlled%20vocabulary%20is%20a%20carefully,easily%20retrieved%20by%20a%20search.) in library and information science. Every book is placed within the system of categorization which means that once you find the subject headings and subheadings that are relevant to your research, you can easily find *every* book published on your topic. This is *extremely* useful as it allows for a systematic examination of your topic rather than the hodgepodge efforts through keyword searches. 
 
 - You can download .pdfs of all the Library of Congress [subject headings](https://www.loc.gov/aba/publications/FreeLCSH/freelcsh.html) on their website. 
 
 - Or you can browse the list of subject headings by [searching their catalog](https://catalog.loc.gov/vwebv/searchBrowse). Choose "SUBJECTS containing" from the dropdown menu and enter a keyword. This will reveal every subject heading related to the topic you entered.
+
+### Step 4b: Use subject headings to find closely related books
  
-Perhaps the most helpful thing about subject headings is they are an easy means of finding additional sources on your topic once you have acquired one. For example, if you discover that historian Alan Taylor's[^1] book *[The Civil War of 1812](http://libcat.dartmouth.edu/record=b4878766)* is an important source for your research project, you can use the book's subject headings to find *all* of the other books written on those topics in your library. As you may see from this example, the Library of Congress assigned the book the following three subject headings:
+Perhaps the most helpful thing about subject headings is they are an easy means of finding additional (and closely related) sources on your topic once you have acquired one. For example, if you discover that historian Alan Taylor's[^1] book *[The Civil War of 1812](http://libcat.dartmouth.edu/record=b4878766)* is an important source for your research project, you can use the book's subject headings to find *all* of the other books written on those topics in your library. As you may see from this example, the Library of Congress assigned the book the following three subject headings:
 
 {{< figure src="/img/copyright-page.png" >}}
 
@@ -192,7 +194,7 @@ Perhaps the most helpful thing about subject headings is they are an easy means 
 
 - [3. Northern boundary of the United States\--History\--19th century](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CNorthern%20boundary%20of%20the%20United%20States%20--%20History%20--%2019th%20century%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
-In most library catalogs these subject headings are hyperlinked; clicking on any of them leads you to a list of *every* other book in the library that shares that particular subject heading. Thus, if your research interest is the social aspects of the War of 1812, you can quickly find every other book the library owns on that subject by merely clicking on the hyperlinked subject heading in the catalog.
+In most library catalogs these subject headings are hyperlinked; clicking on any of them leads you to a list of *every* other book in the library that shares that particular subject heading. Thus, if your research interest is the social aspects of the War of 1812, you can quickly find every other book the library owns on that subject by merely clicking on the hyperlinked subject heading in the catalog. Note, however, that clicking on the subject heading will only give you the books that your library owns, not the full universe of books. For that, you must do a subject heading search at the Library of Congress or a service like [WorldCat](https://www.worldcat.org/).
 
 <!---
 Though Dartmouth's library holdings are not nearly as large as the Library of Congress, you can also perform subject searches by selecting the [advanced search](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&mode=advanced) feature of the [library catalog](https://search.library.dartmouth.edu/). However, Primo really sucks in this regard; you are better off searching in the Library of Congress using this method.
@@ -202,7 +204,7 @@ Though Dartmouth's library holdings are not nearly as large as the Library of Co
 
 ### Step 5: Read background information on your topic
 
-Since your research process will cause you to encounter a variety of terms, theories, people, histories, etc., you will frequently need to stop your research and read background or reference materials to shore up your understanding. Much of the scholarship you will read is written with an audience in mind who already possess a great deal of knowledge about the topic. These writings will often gesture or refer to things in an offhanded way, trusting that the audience already knows the jargon or information in question. This can be a somewhat alienating experience for a novice in the field. For that reason, we have reference works to help orient ourselves in these critical conversations. 
+Since your research process will cause you to encounter a variety of unfamiliar terms, theories, people, and events, you will frequently need to stop your research and read background or reference materials to shore up your understanding. Much of the scholarship you will read is written with an audience in mind who already possess a great deal of knowledge about the topic. These writings will often refer to things in an offhanded way, trusting that the audience already knows the jargon or information in question. This can be a somewhat alienating experience for a novice in the field. For that reason, we have reference works to help orient ourselves in these critical conversations. 
 
 Thus, a research project should always involve the reading of general `reference materials` about the topic. Before you can ask an
 intelligent question about your topic or contribute to an ongoing scholarly conversation, you need to develop a working knowledge of basic facts to serve as a foundation for your project. The best way to develop this basic understanding is to examine [peer-reviewed](/courses/workshops/peer-reviews) reference works such as encyclopedias, biographies, dictionaries, and other forms of `reference material`.

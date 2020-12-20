@@ -57,6 +57,7 @@ This term we will do a series of workshops designed to learn and practice variou
 
 {{< tab "Writing 3" >}} 
 
+
 {{< hint note >}} 
 ####  <i class="fas fa-video"></i>  **Introduction to Writing 3**
 {{< /hint >}} 
@@ -135,7 +136,7 @@ The best researchers know how to cut corners and work efficiently. This lecture 
 {{< /hint >}} 
 
 
-As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. What do you do then? You have many options that won't cost you a dime.
+As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes we don't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
 
 ---
 
@@ -153,6 +154,12 @@ Over your career as a student and a professional, you will encounter and make us
 {{< /hint >}} 
 
 How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+
+{{< hint note >}} 
+####  <i class="fas fa-wrench"></i>   [**Workshop 9: What is Peer Review?**](/courses/workshops/peer-reviews)
+{{< /hint >}} 
+
+How do you know if you can trust your sources? This workshop explains the process of `peer-review`, a form of quality control in academic publishing.
 
 
 {{< /tab >}}

@@ -19,19 +19,17 @@ For novice researchers, distinguishing peer-reviewed sources from other publishe
 If are unable to easily determine if a source is peer-reviewed, here are a few test criteria that you may use to make a judgment call:
 
 - Scholarly, peer-reviewed articles almost always written by credentialed scholars (often the text will contain the university affiliation of the professor/author/scientist).
-- Scholarly articles always have a bibliography page.
+- Scholarly articles and books always have a bibliography.
 - Scholarly articles always contain citations and commonly have footnotes or endnotes.
-- Generally speaking, if you can find the publication at the dentist’s office or on an airport magazine rack, then it isn’t scholarly or peer-reviewed. *Time*, *Newsweek,* even the *New York Times* are not considered peer-reviewed sources.
+- Generally speaking, if you can find the publication at the dentist’s office or on an airport magazine rack, then it isn’t scholarly or peer-reviewed.
 - If the article contains advertisements, it is likely not scholarly.
   
 
 ## How to find peer-reviewed sources
 
-Many periodical databases, such as JSTOR, *only* contain peer-reviewed academic articles. Many other databases, such as Academic Search Complete, have search limiters that can be selected to ensure that the search results only contain peer-reviewed sources. Our own library search through the Primo discovery layer provides the ability to limit the search to peer-reviewed books and periodicals.
+Many periodical databases, such as JSTOR, *only* contain peer-reviewed academic articles. Any article you find there will have been peer reviewed. Many other databases, such as Academic Search Complete, have search limiters that can be selected to ensure that the search results only contain peer-reviewed sources. Our own library catalog search engine provides the ability to limit the search to peer-reviewed books and periodicals.
 
 ## Workshop
-
-In a non-pandemic year, I usually bring in several sources and ask students to determine if they are peer-reviewed or not. 
 
 
 

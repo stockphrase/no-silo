@@ -176,7 +176,7 @@ You might contribute to Hive by doing some of the following tasks:
 
 ### 6. Critical Reading Notes
 
-Create an electronic document for composing critical notes. Take detailed notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aim here should be to reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation. Carefully document page numbers during this activity. Interrogate the text by asking questions, raising objections, and noting observations. Connect and compare the reading to others we have read. Link to any outside research you perform and define unfamiliar terms or words. At the end of this process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in your process of reading.
+Take detailed notes on each reading. Your aim here should be to reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation. Carefully document page numbers during this activity. Interrogate the text by asking questions, raising objections, and noting observations. Connect and compare the reading to others we have read. Link to any outside research you perform and define unfamiliar terms or words. At the end of this process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in your process of reading.
 
 {{< hint note >}}
 [<i class="fas fa-circle"></i>]() For more detailed information on the creation and purpose of these notes, read the chapter entitled [“Annotation and Critical Reading”](/resources/open-handbook/chapter-1/) in the Open Handbook.
@@ -226,7 +226,6 @@ All students are entitled to full access to this course, regardless of disabilit
 | [<i class="fas fa-house-user"></i>]()   | Independent work day from home                                                |
 | [<i class="fa fa-comments"></i>]()      |  [Winter conference](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) with professor & TA 
 | [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
-| <i class="fas fa-microphone-alt"></i>     | An audio / video lecture |
 | <i class="fa fa-calendar-alt"></i>      | A new assignment   
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
@@ -499,7 +498,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 {{< /hint >}} 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Discuss film, Hive submissions, and research proposals.
 
 #### `+ Due`
 
@@ -546,7 +545,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #### `+ Lectures & Workshops`
 
 {{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  [Workshop 5: Cutting Corners and New Ways of Reading](/courses/workshops/cutting-corners/)
+####  <i class="fas fa-wrench"></i>  [Workshop 5: Cutting Corners in Research](/courses/workshops/cutting-corners/)
 {{< /hint >}} 
 
 - The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.

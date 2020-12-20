@@ -209,9 +209,9 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
-6. An acquaintance of yours and his sister are from Iran and study the martial arts. Their experience with the martial arts affects them differently, particularly in the emotional response of anger. You are interested in knowing if anyone has written about this. Your friend and his sister don't practice karate, but are interested in all other forms of the martial arts.[^1] 
+6. You are interested in female MMA fighters and want to know if there is any scholarship on this.
 
-[^1]: Yes, I recognize the absurdity of this scenario. 
+
 
 <!---
 1. Israel* AND (Arab* OR Palestin*) AND (literature OR fiction OR film OR movie) 
@@ -219,7 +219,7 @@ relevant results. *The question mark wild card should be used to replace a singl
 3. "Moby Dick" AND "Cold War"
 4. pandemic AND fiction. Find: https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033426335205706 Use Sub. Search.
 6. religion AND contagion AND (plague OR pandemic) 
-7. Iran AND gender AND anger AND ("martial arts" NOT Karate) Then use date range limit.
+7. Wom?n AND "mixed martial arts" AND gender
 
 The one about COVID-19 and surveillance is a problem because this term is used about looking for cases by monitoring a population. But here we are talking about the spying on a population with the disease as an excuse. Hm. `COVID-19 AND surveillance AND "national intelligence"` or "intelligence services" Or, if you know a specific country and intel service: `COVID-19 AND surveillance AND GRU AND Russia`
 --->
