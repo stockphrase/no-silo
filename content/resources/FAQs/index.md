@@ -14,9 +14,9 @@ title: "+ FAQs"
 
 #
 
-# No
+> ### No.
 
-I always give each essay draft a full set of written comments. And I'm committed to meet with any student who would like to go over them. However, I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in an office hour or at some other scheduled time. Considering how easy it is to attach a file to an email, almost every student would seek this additional help. As a result, I would be deluged with requests for help, often at the very last minute, making it impossible for me to thoughtfully respond to them all.
+I always give each essay draft a full set of written comments. And I'm committed to meet with any student who would like to go over them as many times as necessary. However, I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in an office hour or at some other scheduled time. Considering how easy it is to attach a file to an email, almost every student would seek this additional help. As a result, I would be deluged with requests for help, often at the very last minute, making it impossible for me to thoughtfully respond to them all.
 
 - I am happy to discuss your work during [office hours](/about/contact) or at other times by appointment. 
 
@@ -26,7 +26,7 @@ I always give each essay draft a full set of written comments. And I'm committed
 
 #
 
-# Grumble, grumble...ok
+> ### Grumble, grumble...ok.
 
 I have softened on this a bit over the years, mostly because students always ignore my request that they bring a hard copy to my office. Also there is the crushing guilt I feel every time I walk by a tree and think of the toll this policy has had on the natural world. 
 
@@ -38,7 +38,7 @@ In the past I've said no to this question because I found that students who brin
 
 #
 
-# Yes!
+> ### Yes!
 
 I will be happy to accommodate students whose schedules conflict with my office hours. Contact me and we can work out the details. If we are unable to find a time that works for both of us, [RWIT](https://students.dartmouth.edu/rwit/) is another excellent option.
 
@@ -48,7 +48,7 @@ I will be happy to accommodate students whose schedules conflict with my office 
 
 #
 
-# Sort of
+> ### Sort of.
 
 Sometimes life intervenes in our plans and rudely sets us back. If you get hit by a bus or contract ebola, asking for a paper extension is a reasonable request. But generally it is a bad idea to request an extension unless you find yourself in a similarly extreme situation. Many faculty are reluctant to give extensions because of a duty to the principle of fairness: if one student is granted an extension, the other students who turned their work in on time are disadvantaged. For that reason I deduct a full letter grade for each day an assignment is late. Take as much extra time as you wish; however, you should be prepared to face the consequences. Of course, if you have a serious emergency that prevents you from completing work, I will be happy to work out a new due date.
 
@@ -57,7 +57,7 @@ Sometimes life intervenes in our plans and rudely sets us back. If you get hit b
 {{< details "Do you have a grading rubric?" >}}
 
 #
-# Yes and No
+> ### Yes and No.
 
 I do not have a formalized rubric to explain the exact nature of the A, B, C, D, and F essay. However, my handbook does discuss the [**characteristics of all good academic writing**](/resources/open-handbook/chapter-5).
 
@@ -67,7 +67,7 @@ I do not have a formalized rubric to explain the exact nature of the A, B, C, D,
 {{< details "How many times can I bring my paper to you?" >}}
 
 #
-# As many as you like. But...
+> ### As many as you like. But...
 
 Your professors want to help you. Really, they do. *But at some point, seeking help becomes a form of dependence*. Taken to extremes, your help-seeking becomes an avoidance of your own responsibility as a writer, a thinker, a student, a human. 
 
@@ -78,12 +78,28 @@ College should be a series of experiences through which you *gain ownership over
 {{< /details >}}
 
 
+{{< details "Why aren't you grading me? I want to know how well I'm doing." >}}
+
+#
+> ### Consider why you want this...
+
+- If I told you what I thought your work was worth, would that be the right answer?
+
+- What does it say about you that you need me to tell you what your efforts amount to? 
+
+- How hard did you work? Do you think you improved? What did you learn? What is the value of those things to you? 
+
+- Has seeking a good grade ever made you compromise some belief that you held, however small? 
+
+- Has seeking a good grade ever made your relationship with a teacher less honest and sincere?
+
+{{< /details >}}
 
 {{< details "Are you as grumpy as this FAQ suggests?" >}}
 
 #
 
-# Yes
+> ### Yes.
 
 Now [you kids get off my lawn!](https://en.wikipedia.org/wiki/You_kids_get_off_my_lawn!)
 
