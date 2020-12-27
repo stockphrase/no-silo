@@ -6,19 +6,16 @@ bookHidden: true
 title: "Writing 3: Syllabus"
 ---
 
-{{< youtube I03xFqbxUp8 >}}
+
 
 <!---
 <div style="text-align:center">{{< figure src="/img/lastmantxt.jpg" >}}</div>
 --->
 
+<div style="text-align:center">{{< figure src="/img/the-end.jpg" >}}</div>
+
 # Post-apocalyptic Fiction, Film, and Art
 
-{{< hint note >}} 
-
-[<i class="fas fa-circle"></i>](https://www.youtube.com/watch?v=9OhIdDNtSv0) **THIS SYLLABUS IS CURRENTLY UNDER CONSTRUCTION FOR WINTER 2021**
-
-{{< /hint >}}
 
 ## Course Description
 
@@ -250,32 +247,23 @@ All students are entitled to full access to this course, regardless of disabilit
 #### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.8
 {{< /hint >}} 
 
-
-#### ``+ Lectures & Workshops``
-
-{{< hint note >}} 
-####  <i class="fas fa-video"></i>  Introduction to Writing 3
-{{< /hint >}} 
-
-- This lecture provides a brief introduction to our WR3 course objectives, assignments, and topic.
-
 #### `+ In-class work`
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
 - Course overview.
 
 
 #### `+ Assignments`
 - <i class="fa fa-calendar-alt"></i>  Review your responses to the [End-of-Term Review](/courses/writing-2/quarterly-review/) to prepare for the winter conference.
-- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). 
+- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing).
 
 {{< /details >}}
 
+##
 
 {{< details "2 - Winter Conferences" >}}
 #
 
-This week is dedicated to our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.  
+This week is dedicated to our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.
 
 - Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 - As you wait to do your winter conference with us, occupy yourselves with these lectures and workshops.
@@ -302,7 +290,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 #### ``+ Independent work``
 
-- Complete the lecture and workshop.  
+- Complete the lecture and workshop. 
 
 ---
 
@@ -318,11 +306,11 @@ This week is dedicated to our winter conferences. In this conference you will si
 ####  <i class="fas fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
 {{< /hint >}} 
 
-- This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches. 
+- This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
 
 #### ``+ Independent work``
 
-- Complete the workshop.  
+- Complete the workshop. 
 
 ---
 
@@ -340,12 +328,12 @@ This week is dedicated to our winter conferences. In this conference you will si
 
 #### ``+ Independent work``
 
-- Complete the workshop.  
+- Complete the workshop. 
 
 
 {{< /details >}}
 
-
+##
 
 {{< details "3 - Disaster, Apocalypse, and the State of Nature" >}}
 
@@ -376,17 +364,14 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### ``+ Independent work``
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*.
 - Complete the workshop.
-
-
-
 
 
 #### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading
+- <i class="fa fa-bullhorn"></i> Discuss reading.
 
 
 ---
@@ -397,18 +382,18 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Claire Curtis, [*Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/file/d/1s0muqFMlf5h1FVlHHEwue8o5VrSiXAue/view?usp=sharing)
+- <i class="fa fa-download"></i> Claire Curtis, [*Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/file/d/1s0muqFMlf5h1FVlHHEwue8o5VrSiXAue/view?usp=sharing).
 
 #### ``+ Independent work``
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*.
 - Finish the lecture and complete the workshop.
 
 
 #### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss readings
+- <i class="fa fa-bullhorn"></i> Discuss readings.
 
 ---
 
@@ -423,12 +408,12 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### ``+ Independent work``
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*
 
 #### `+ In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss readings
+- <i class="fa fa-bullhorn"></i> Discuss readings.
 
 #### `+ Due`
 
@@ -439,6 +424,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 {{< /hint >}} 
 
 {{< /details >}}
+
+##
 
 {{< details "4 - The Apocalypse and the Other I" >}}
 #
@@ -463,7 +450,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### ``+ Independent work``
 
-- View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
+- View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*.
 
 
 ---
@@ -474,7 +461,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1GbfGrNO3Krhid3esqnJhpTC9uazKq4pp/view?usp=sharing) (Read through page 76 only).
+- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1GbfGrNO3Krhid3esqnJhpTC9uazKq4pp/view?usp=sharing).
 
 
 #### ``+ Lectures & Workshops``
@@ -487,7 +474,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### ``+ Independent work``
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*.
 
 - Complete the workshop.
 
@@ -499,7 +486,6 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film, Hive submissions, and research proposals.
-
 #### `+ Due`
 
 {{< hint note >}} 
@@ -508,9 +494,10 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 {{< /hint >}} 
 
-
-
 {{< /details >}}
+
+
+##
 
 {{< details "5 - The Apocalypse and the Other II" >}}
 #
@@ -528,13 +515,13 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, [*I am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas.  
+- <i class="fas fa-video"></i>  Film, [*I am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas 
     - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I am Legend* (only watch after completing the original film).
   
 
 #### ``+ Independent work``
 
-- View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
+- View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*.
 
 ---
 
@@ -572,7 +559,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
 
 #### ``+ Due``
 
@@ -585,6 +572,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 
 {{< /details >}}
+
+##
 
 {{< details "6 - The Zombie, Civil Rights, and Race" >}}
 #
@@ -613,7 +602,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### ``+ Independent work``
 
-- View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
+- View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*.
 
 ---
 
@@ -623,7 +612,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i>  Peter Dendle, [“The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/file/d/1LKmVn5c3uv12z3DcW3yvBRq-us3naL3U/view?usp=sharing)
+- <i class="fa fa-download"></i>  Peter Dendle, [“The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/file/d/1LKmVn5c3uv12z3DcW3yvBRq-us3naL3U/view?usp=sharing).
 
 #### `+ Lectures & Workshops`
 
@@ -636,7 +625,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### ``+ Independent work``
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*.
 - Complete the workshop.
 
 
@@ -650,7 +639,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### ``+ In-class work``
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and reading
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
 
 
 #### ``+ Due``
@@ -666,6 +655,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 
 {{< /details >}}
+
+##
 
 {{< details "7 - TEOTWAWKI: Prepping for the End" >}}
 
@@ -732,6 +723,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 {{< /details >}}
 
+##
 
 {{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
@@ -749,7 +741,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Rob Nixon, [*Slow Violence and the Environmentalism of the Poor*, “Introduction.”](https://drive.google.com/file/d/1RqmkKU2jKPEzNEQxEUg4ZjZWdDrxUBcv/view?usp=sharing)
+- <i class="fa fa-download"></i> Rob Nixon, [*Slow Violence and the Environmentalism of the Poor*, “Introduction.”](https://drive.google.com/file/d/1RqmkKU2jKPEzNEQxEUg4ZjZWdDrxUBcv/view?usp=sharing).
 
 #### ``+ Independent work``
 
@@ -775,8 +767,8 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 {{< /hint >}} 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions
-- <i class="fa fa-wrench"></i> Essay 3 workshop
+- <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions.
+- <i class="fa fa-wrench"></i> Essay 3 workshop.
 
 #### ``+ Due``
 
@@ -790,6 +782,8 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 {{< /details >}}
 
+##
+
 {{< details "9 - Drafting, Revising, Presenting" >}}
 #
 
@@ -799,7 +793,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### `+ In-class work`
 
-- <i class="fas fa-comment-alt"></i> Presentation Group 1
+- <i class="fas fa-comment-alt"></i> Presentation Group 1.
 
 ---
 
@@ -809,7 +803,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### `+ In-class work`
 
-- <i class="fas fa-comment-alt"></i> Presentation Group 2
+- <i class="fas fa-comment-alt"></i> Presentation Group 2.
 
 ---
 
@@ -819,7 +813,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### `+ In-class work`
 
-- <i class="fas fa-comment-alt"></i> Presentation Group 3
+- <i class="fas fa-comment-alt"></i> Presentation Group 3.
 
 #### ``+ Due``
 
@@ -832,8 +826,13 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 {{< /details >}}
 
+##
+
 {{< details "10 - The End" >}}
 #
+
+<div style="text-align:center">{{< figure src="/img/nuke-test2.jpg" >}}</div>
+
 {{< hint note >}} 
 #### { [<i class="fas fa-house-user"></i>]() } Monday, 3.8
 {{< /hint >}} 
@@ -854,7 +853,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### ``+ Due``
 {{< hint note >}}
-- <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu)
+- <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu).
 
 {{< / hint >}}
 
