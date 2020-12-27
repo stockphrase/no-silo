@@ -21,7 +21,7 @@ To resolve this problem, our library has organized periodical databases by disci
 
 ## Workshop
 
-When you search for periodicals, it is best to choose a database that has good coverage for the discipline(s) you are working within. However, there are a few databases that have excellent coverage of many, if not most, fields of inquiry. Three databases that could easily take you though your entire college career are:
+When you search for periodicals, it is best to choose a database that has good coverage for the discipline(s) you are working within. However, there are a few databases that have excellent coverage of many, if not most, fields of inquiry. These four databases could easily take you though your entire college career:
 
 - **Academic Search Complete**
 - **JSTOR**
