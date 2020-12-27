@@ -1,5 +1,5 @@
 ---
-title: Working with Sources
+title: Altering Sources
 bookHidden: true
 bookFlatSection: false
 bookToc: true

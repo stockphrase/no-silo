@@ -292,7 +292,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 {{< hint note >}} 
 ####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
 {{< /hint >}} 
-- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief, wholly reductive introduction to form of inquiry.
+- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief, wholly reductive introduction to this form of inquiry.
 
 {{< hint note >}} 
 #### <i class="fas fa-file"></i>  [Introduction to Academic Research](/courses/workshops/academic-research-intro) 
@@ -474,7 +474,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1hm-EbsYYSEysLXnHF9718FpqqYKgv7zt/view?usp=sharing) (Read through page 76 only).
+- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1GbfGrNO3Krhid3esqnJhpTC9uazKq4pp/view?usp=sharing) (Read through page 76 only).
 
 
 #### ``+ Lectures & Workshops``

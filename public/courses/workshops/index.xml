@@ -6,6 +6,16 @@
     <description>Recent content in Workshops on No Silo</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://no-silo.com/courses/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Altering Sources</title>
+      <link>https://no-silo.com/courses/workshops/altering-sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/courses/workshops/altering-sources/</guid>
+      <description>Altering sources  Integrating quotations from other sources is an important part of academic writing. However, doing so is rarely a simple process of cutting and pasting the words from a source into your own document. Instead, you will routinely encounter challenges during the quotation of a source that threaten the clarity and correctness of your prose. For example:
+   What do you do when you are writing in the present tense and the source material you are quoting uses the past tense?</description>
+    </item>
+    
+    <item>
       <title>Annotation</title>
       <link>https://no-silo.com/courses/workshops/annotation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -74,15 +84,6 @@ Library Classification Systems Libraries use classification systems to organize 
     </item>
     
     <item>
-      <title>Finding a Book in the Library</title>
-      <link>https://no-silo.com/courses/workshops/peer-reviews/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://no-silo.com/courses/workshops/peer-reviews/</guid>
-      <description>Peer review Peer review is a form of quality control in academic publishing. Before books or articles are published, they experience a rigorous process of evaluation by at least three experts who have advanced training in the field of study in question. These &amp;ldquo;referees,&amp;rdquo; as they are known, review the work anonymously. This anonymity theoretically ensures a more honest appraisal of the work under consideration for publication. When it works as intended, this scholarly review helps eliminate factual errors and other problems before the works are published.</description>
-    </item>
-    
-    <item>
       <title>Finding Periodicals</title>
       <link>https://no-silo.com/courses/workshops/find-periodicals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -122,17 +123,7 @@ Borrow Direct consortium A number of the best libraries in the world have formed
     </item>
     
     <item>
-      <title>Peer Review</title>
-      <link>https://no-silo.com/courses/workshops/peer-review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://no-silo.com/courses/workshops/peer-review/</guid>
-      <description>Peer Review Work  Reflective Prologue Take a moment to reflect on your work. Consider the following questions and write answers to them at the conclusion of your essay draft. Please ensure that this reflective work appears in the essay draft you turn in to Canvas as well.
- What did you learn by writing this draft? What was the most challenging thing about creating this draft? What do you like most about this draft?</description>
-    </item>
-    
-    <item>
-      <title>Search with Precision</title>
+      <title>Searching with Precision</title>
       <link>https://no-silo.com/courses/workshops/search-with-precision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -142,13 +133,22 @@ Keyword searches often produce too many results to examine in a reasonable amoun
     </item>
     
     <item>
-      <title>Working with Sources</title>
-      <link>https://no-silo.com/courses/workshops/altering-sources/</link>
+      <title>Student Peer Review</title>
+      <link>https://no-silo.com/courses/workshops/peer-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://no-silo.com/courses/workshops/altering-sources/</guid>
-      <description>Altering sources  Integrating quotations from other sources is an important part of academic writing. However, doing so is rarely a simple process of cutting and pasting the words from a source into your own document. Instead, you will routinely encounter challenges during the quotation of a source that threaten the clarity and correctness of your prose. For example:
-   What do you do when you are writing in the present tense and the source material you are quoting uses the past tense?</description>
+      <guid>https://no-silo.com/courses/workshops/peer-review/</guid>
+      <description>Peer Review Work  Reflective Prologue Take a moment to reflect on your work. Consider the following questions and write answers to them at the conclusion of your essay draft. Please ensure that this reflective work appears in the essay draft you turn in to Canvas as well.
+ What did you learn by writing this draft? What was the most challenging thing about creating this draft? What do you like most about this draft?</description>
+    </item>
+    
+    <item>
+      <title>What is Peer Review?</title>
+      <link>https://no-silo.com/courses/workshops/peer-reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://no-silo.com/courses/workshops/peer-reviews/</guid>
+      <description>Peer review Peer review is a form of quality control in academic publishing. Before books or articles are published, they experience a rigorous process of evaluation by at least three experts who have advanced training in the field of study in question. These &amp;ldquo;referees,&amp;rdquo; as they are known, review the work anonymously. This anonymity theoretically ensures a more honest appraisal of the work under consideration for publication. When it works as intended, this scholarly review helps eliminate factual errors and other problems before the works are published.</description>
     </item>
     
     <item>

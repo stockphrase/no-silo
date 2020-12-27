@@ -1,5 +1,5 @@
 ---
-title: Finding a Book in the Library
+title: What is Peer Review?
 bookHidden: true
 bookFlatSection: false
 bookToc: true
@@ -12,12 +12,13 @@ Peer review is a form of quality control in academic publishing. Before books or
 
 ## Determining if a source is peer reviewed
 
-For novice researchers, distinguishing peer-reviewed sources from other published information can be challenging. However, there are a number of things you can do to ensure that you are using peer-reviewed information. First, try to uses sources that you located within the library system, rather than things you found with Google on the open internet. You are far more likely to encounter trustworthy sources this way. Second, most peer-reviewed books are published by academic presses that are associated with a college or university of repute. The publisher will have names like: University of Tennessee Press or Duke University Press. Academic journals will frequently declare that their articles are peer-reviewed on their website or in the journal issue itself. Finally, if you are confused about a source, ask your professor or one of the research librarians for assistance in making a determination.
+For novice researchers, distinguishing peer-reviewed sources from other published information can be challenging. Perhaps the best advice is to use only sources that you located within the library system, rather than things you found with a search engine on the open internet. You are far more likely to encounter trustworthy sources this way. Of course, is is also frequently the case that excellent information may be found on the open web; in these cases, we must use our best judgment to determine if the source is trustworthy or not. If you are confused about a source, ask your professor or one of the research librarians for assistance in making a determination.
 
-## Quick tests for peer review
+## Quick tests for peer review 
 
 Here are a few test criteria that you may use to make a judgment call about whether a source has been peer reviewed:
 
+- Scholarly, peer-reviewed books are often published by an academic press associated with at college or university of repute. These publishers will have names like: Yale University Press or Duke University Press.
 - Scholarly, peer-reviewed articles are almost always written by credentialed scholars (often the text will contain the university affiliation of the professor/author/scientist).
 - Scholarly articles and books always have a bibliography.
 - Scholarly articles always contain citations and commonly have footnotes or endnotes.

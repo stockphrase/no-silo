@@ -1,5 +1,5 @@
 ---
-title: Search with Precision
+title: Searching with Precision
 bookHidden: true
 bookFlatSection: false
 bookToc: true

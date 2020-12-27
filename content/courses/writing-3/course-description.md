@@ -36,6 +36,10 @@ bookToc: true
 #### [*The Open Handbook*](/resources/open-handbook/)
 {{< /hint >}} 
 
+{{< hint note >}} 
+#### [Course readings (.zip)](https://drive.google.com/file/d/1dtqylimFhyfSPngLDJ6FCuCxY_Xfnh6C/view?usp=sharing)
+{{< /hint >}} 
+
 
  {{< /tab >}}
 

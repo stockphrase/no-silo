@@ -14,9 +14,9 @@ I can't tell you the number of times a first-year student has waited until the o
 
 Don't be silly; of course not. 
 
-And I'll tell you a secret: professors don't read everything in their field(s) of study either. There is just too much information and it appears too rapidly to carefully consume and metabolize it all. It's akin to drinking out of a fire hose. *What this means is that you have to make choices*. What are your priorities? Given the time and interests you have, which texts look worth a slow, patient, deeply critical reading? Professors home in on those texts and spend most of their time with them. And yet, professors somehow keep abreast of *all* the work happening in their field of study and still have time for family and football. How do they do that? 
+And I'll tell you a secret: professors don't read everything in their field(s) of study either. There is just too much information and it appears too rapidly to carefully consume it all. It's akin to drinking out of a fire hose. *What this means is that you have to make choices*. What are your priorities? Given the time and interests you have, which texts look worth a slow, patient, deeply critical reading? Professors home in on those texts and spend most of their time with them. And yet, professors somehow keep abreast of *all* the work happening in their field of study and still have time for family and football. How do they do that? 
 
-Professors and very strong students have developed extremely efficient forms of reading and related practices that can take the place of thoroughly reading a text from beginning to end. These skills are very applicable to first-year students who need to write a long research essay on an unfamiliar topic in a short 10-week term. 
+Professors (and very strong students) have developed extremely efficient forms of reading and related practices that can take the place of thoroughly reading a text from beginning to end. These skills are very applicable to first-year students who need to write a long research essay on an unfamiliar topic in a short 10-week term. 
 
 ## On Reading Ruthlessly 
 

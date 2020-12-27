@@ -1,5 +1,5 @@
 ---
-title: Peer Review
+title: Student Peer Review
 bookHidden: true
 bookFlatSection: false
 bookToc: true

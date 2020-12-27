@@ -10,7 +10,7 @@ title: "+ FAQs"
 
 ## Course FAQs
 
-{{< details "May I email you my essay for extra comments?" >}}
+{{< details "1. May I email you my essay for extra comments?" >}}
 
 #
 
@@ -22,7 +22,7 @@ I always give each essay draft a full set of written comments. And I'm committed
 
 {{< /details >}}
 
-{{< details "May bring my laptop to our office meeting?" >}}
+{{< details "2. May bring my laptop to our office meeting?" >}}
 
 #
 
@@ -34,7 +34,7 @@ In the past I've said no to this question because I found that students who brin
     
 {{< /details >}}
 
-{{< details "I can't make office hours; can we meet another time?" >}}
+{{< details "3. I can't make office hours; can we meet another time?" >}}
 
 #
 
@@ -44,7 +44,7 @@ I will be happy to accommodate students whose schedules conflict with my office 
 
 {{< /details >}}
 
-{{< details "May I have an extension?" >}}
+{{< details "4. May I have an extension?" >}}
 
 #
 
@@ -54,17 +54,17 @@ Sometimes life intervenes in our plans and rudely sets us back. If you get hit b
 
 {{< /details >}}
 
-{{< details "Do you have a grading rubric?" >}}
+{{< details "5. Do you have a grading rubric?" >}}
 
 #
-> ### Yes and No.
+> ### No.
 
-I do not have a formalized rubric to explain the exact nature of the A, B, C, D, and F essay. However, my handbook does discuss the [**characteristics of all good academic writing**](/resources/open-handbook/chapter-5).
+I do not have a formalized rubric to explain the exact nature of the A, B, C, D, and F essay. See #7. However, my handbook does discuss the [**characteristics of all good academic writing**](/resources/open-handbook/chapter-5).
 
 {{< /details >}}
 
 
-{{< details "How many times can I bring my paper to you?" >}}
+{{< details "6. How many times can I bring my paper to you?" >}}
 
 #
 > ### As many as you like. But...
@@ -78,7 +78,7 @@ College should be a series of experiences through which you *gain ownership over
 {{< /details >}}
 
 
-{{< details "Why aren't you grading me? I want to know how well I'm doing." >}}
+{{< details "7. Why aren't you grading me? I want to know how well I'm doing." >}}
 
 #
 > ### Consider why you want this...
@@ -95,7 +95,7 @@ College should be a series of experiences through which you *gain ownership over
 
 {{< /details >}}
 
-{{< details "Are you as grumpy as this FAQ suggests?" >}}
+{{< details "8. Are you as grumpy as this FAQ suggests?" >}}
 
 #
 
