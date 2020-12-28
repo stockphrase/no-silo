@@ -6,13 +6,14 @@ bookHidden: true
 title: "Writing 3: Syllabus"
 ---
 
-
-
 <!---
+{{< youtube I03xFqbxUp8 >}}
+
 <div style="text-align:center">{{< figure src="/img/lastmantxt.jpg" >}}</div>
 --->
 
-<div style="text-align:center">{{< figure src="/img/the-end.jpg" >}}</div>
+{{< figure src="/img/nuke-test4.jpg" >}}
+
 
 # Post-apocalyptic Fiction, Film, and Art
 
@@ -202,7 +203,7 @@ Each of you must attend a brief conference with me and our teaching assistant du
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
+[<i class="fas fa-circle"></i>](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -221,13 +222,13 @@ All students are entitled to full access to this course, regardless of disabilit
 |:---------------------------------------:|:----------------------------------------------------------------------------- |
 | [<i class="fas fa-sync-alt"></i>]()     | Synchronous class day via Zoom            |
 | [<i class="fas fa-house-user"></i>]()   | Independent work day from home                                                |
-| [<i class="fa fa-comments"></i>]()      |  [Winter conference](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) with professor & TA 
+| [<i class="fa fa-comments"></i>]()      |  [Winter conference](/courses/writing-3/wr3-syllabus/#required-conference) with professor & TA 
 | [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
 | <i class="fa fa-calendar-alt"></i>      | A new assignment   
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
 | <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas                                                   |
-| <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/courses/writing-2/wr2-syllabus/#iii-contribute-to-hive) |
+| <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/courses/writing-3/wr3-syllabus/#5-contribute-to-hive) |
 | <i class="fas fa-code-branch"></i>      | Peer work, in pairs or groups                                                 |
 | <i class="fa fa-bullhorn"></i>          | Discussion topic                                                              |
 | <i class="fa fa-book-open"></i>         | Course reading from the [*Open Handbook*](/resources/open-handbook)           |
@@ -249,12 +250,12 @@ All students are entitled to full access to this course, regardless of disabilit
 
 #### `+ In-class work`
 
-- Course overview.
+- Course overview & housekeeping.
 
 
 #### `+ Assignments`
 - <i class="fa fa-calendar-alt"></i>  Review your responses to the [End-of-Term Review](/courses/writing-2/quarterly-review/) to prepare for the winter conference.
-- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing).
+- <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing).
 
 {{< /details >}}
 
@@ -382,7 +383,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Claire Curtis, [*Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/file/d/1s0muqFMlf5h1FVlHHEwue8o5VrSiXAue/view?usp=sharing).
+- <i class="fa fa-download"></i> Claire Curtis, [*Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/file/d/1s0muqFMlf5h1FVlHHEwue8o5VrSiXAue/view?usp=sharing)
 
 #### ``+ Independent work``
 
@@ -456,12 +457,12 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.27
+#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 1.27
 {{< /hint >}} 
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1GbfGrNO3Krhid3esqnJhpTC9uazKq4pp/view?usp=sharing).
+- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1GbfGrNO3Krhid3esqnJhpTC9uazKq4pp/view?usp=sharing)
 
 
 #### ``+ Lectures & Workshops``
@@ -612,7 +613,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i>  Peter Dendle, [“The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/file/d/1LKmVn5c3uv12z3DcW3yvBRq-us3naL3U/view?usp=sharing).
+- <i class="fa fa-download"></i>  Peter Dendle, [“The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/file/d/1LKmVn5c3uv12z3DcW3yvBRq-us3naL3U/view?usp=sharing)
 
 #### `+ Lectures & Workshops`
 
@@ -710,10 +711,15 @@ Recent years have seen an explosion of “reality” television programming base
 #### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.19 
 {{< /hint >}} 
 
+#### ``+ In-class work``
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film, reading, Hive submissions, and research proposals.
 
 #### ``+ Due``
 
 {{< hint note >}} 
+
+
 - <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 - <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](https://journeys.dartmouth.edu/alantaylor/).
 
@@ -741,7 +747,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Rob Nixon, [*Slow Violence and the Environmentalism of the Poor*, “Introduction.”](https://drive.google.com/file/d/1RqmkKU2jKPEzNEQxEUg4ZjZWdDrxUBcv/view?usp=sharing).
+- <i class="fa fa-download"></i> Rob Nixon, [*Slow Violence and the Environmentalism of the Poor*, “Introduction.”](https://drive.google.com/file/d/1RqmkKU2jKPEzNEQxEUg4ZjZWdDrxUBcv/view?usp=sharing)
 
 #### ``+ Independent work``
 
