@@ -58,7 +58,7 @@ the following:
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
-| [The End](https://journeys.dartmouth.edu/alantaylor/) | A research archive built by our class.
+| [The End](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) | A research archive built by our class.
 ---
 
 ## Academic Honesty
@@ -140,13 +140,13 @@ You will make one formal presentation at the conclusion of the term to explain y
 
 ### 4. Author Page
 
-Each of you will curate a page on our [research project website](http://journeys.dartmouth.edu/alantaylor) to display your research project as it evolves over the term. Your page should contain the following:
+Each of you will curate a webpage dedicated to your research project. You may construct this as a shared GoogleDoc or use the Dartmouth [Journeys WordPress platform](https://journeys.dartmouth.edu/). Link to your author page on the [research project website](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) to display your research project as it evolves over the term. The TA and I will use this page to monitor your project and periodically help with your research. Other students will be able to view your project and perhaps benefit from the sources you aquire. Your author page should contain the following:
 
 - a short research proposal of no more than 250 words.
-- an `annotated bibliography` of all the sources used or consulted to construct your research project.
+- an `annotated bibliography` of all the sources used or consulted to construct your research project. Use permalinks to link to the book or article in the library system.
 - a current draft of your research essay.
 - a weekly reflective blog post about the progress of your research project (see #7 below).
-- I have placed a [model author page](https://journeys.dartmouth.edu/alantaylor/2019/12/05/alan-taylor/) on the course website.
+- I have placed a [model author page](/courses/writing-3/author-page) on the course website.
 
 ### 5. Contribute to Hive
 
@@ -158,7 +158,7 @@ We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://goo
 - <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]()  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
+[<i class="fas fa-circle"></i>]()  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. You may authenticate using this G-Suite link: https://google.dartmouth.edu/
 {{< /hint >}}
 
 Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
