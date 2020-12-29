@@ -140,7 +140,7 @@ You will make one formal presentation at the conclusion of the term to explain y
 
 ### 4. Author Page
 
-Each of you will curate a webpage dedicated to your research project. You may construct this as a shared GoogleDoc or use the Dartmouth [Journeys WordPress platform](https://journeys.dartmouth.edu/). Link to your author page on the [research project website](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) to display your research project as it evolves over the term. The TA and I will use this page to monitor your project and periodically help with your research. Other students will be able to view your project and perhaps benefit from the sources you aquire. Your author page should contain the following:
+Each of you will curate a webpage dedicated to your research project. You may construct this as a shared GoogleDoc or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. Link to your author page on the [research project website](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) to display your research project as it evolves over the term. The TA and I will use this page to monitor your project and periodically help with your research. Other students will be able to view your project and perhaps benefit from the sources you aquire. Your author page should contain the following:
 
 - a short research proposal of no more than 250 words.
 - an `annotated bibliography` of all the sources used or consulted to construct your research project. Use permalinks to link to the book or article in the library system.
