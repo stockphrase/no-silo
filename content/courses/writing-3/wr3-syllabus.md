@@ -266,8 +266,13 @@ All students are entitled to full access to this course, regardless of disabilit
 
 This week is dedicated to our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.
 
-- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing). The conference will be held in my office hour Zoom room.
-- As you wait to do your winter conference with us, occupy yourselves with these lectures and workshops.
+{{< hint note >}} 
+
+
+- <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
+
+- <i class="fas fa-check-square"></i> As you wait to do your winter conference with us, occupy yourselves with the following important lectures and workshops.
+{{< /hint >}}
 
 ---
 
@@ -281,7 +286,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 {{< hint note >}} 
 ####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
 {{< /hint >}} 
-- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief, wholly reductive introduction to this form of inquiry.
+- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief (and wholly reductive) introduction to this form of inquiry.
 
 {{< hint note >}} 
 #### <i class="fas fa-file"></i>  [Introduction to Academic Research](/courses/workshops/academic-research-intro) 

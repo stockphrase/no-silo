@@ -20,7 +20,7 @@ Perhaps the most common feature of books designed to help students do academic r
 
 *The problem is that research just doesn't work this way*. 
 
-The narrative of the research process found in books is misleading; it presents an idealized and simplified description of how a project comes to be, develops, and concludes. The truth of the matter is that academic research is rarely a logical, linear operation. And a list of steps can never fully prepare a researcher for nature of true inquiry. Research is a surprising, exhilarating, and fulfilling experience, but it is also *a messy, recursive, and frequently frustrating one*.  When students try research for themselves and experience difficulty and confusion instead of an orderly march to success, they often feel as if they aren't good enough or smart enough to do research. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. 
+The narrative of the research process found in books is misleading because it presents an idealized and simplified description of how a project comes to be, develops, and concludes. The truth of the matter is that academic research is rarely a logical, linear operation. And a list of steps can never fully prepare a researcher for the nature of true inquiry. Research is a surprising, exhilarating, and fulfilling experience, but it is also *a messy, recursive, and frequently frustrating one*.  When students try research for themselves and experience difficulty and confusion instead of an orderly march to success, they often feel as if they aren't good enough or smart enough to do research. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. 
 
 {{< hint note >}}
 [<i class="fas fa-circle"></i>]() **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
@@ -188,11 +188,17 @@ Perhaps the most helpful thing about subject headings is they are an easy means 
 
 {{< figure src="/img/copyright-page.png" >}}
 
+{{< hint note >}} 
+
+#### <i class="fas fa-search"></i> *Click to see the books on these subjects held by our library*:
+
 - [1. United States\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CUnited%20States%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
 - [2. Ontario\--History\--War of 1812\--Social aspects](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2COntario%20--%20History%20--%20War%20of%201812%20--%20Social%20aspects%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
 
 - [3. Northern boundary of the United States\--History\--19th century](https://search.library.dartmouth.edu/discovery/search?query=sub%2Cexact%2CNorthern%20boundary%20of%20the%20United%20States%20--%20History%20--%2019th%20century%2CAND&vid=01DCL_INST%3A01DCL&mode=advanced)
+
+{{< /hint >}} 
 
 In most library catalogs these subject headings are hyperlinked; clicking on any of them leads you to a list of *every* other book in the library that shares that particular subject heading. Thus, if your research interest is the social aspects of the War of 1812, you can quickly find every other book the library owns on that subject by merely clicking on the hyperlinked subject heading in the catalog. Note, however, that clicking on the subject heading will only give you the books that your library owns, not the full universe of books. For that, you must do a subject heading search at the Library of Congress or a service like [WorldCat](https://www.worldcat.org/).
 

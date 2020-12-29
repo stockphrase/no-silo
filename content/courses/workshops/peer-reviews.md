@@ -18,7 +18,7 @@ For novice researchers, distinguishing peer-reviewed sources from other publishe
 
 Here are a few test criteria that you may use to make a judgment call about whether a source has been peer reviewed:
 
-- Scholarly, peer-reviewed books are often published by an academic press associated with at college or university of repute. These publishers will have names like: Yale University Press or Duke University Press.
+- Scholarly, peer-reviewed books are often published by an academic press associated with a college or university of repute. These publishers will have names like: Yale University Press or Duke University Press.
 - Scholarly, peer-reviewed articles are almost always written by credentialed scholars (often the text will contain the university affiliation of the professor/author/scientist).
 - Scholarly articles and books always have a bibliography.
 - Scholarly articles always contain citations and commonly have footnotes or endnotes.
