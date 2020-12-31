@@ -19,12 +19,10 @@ when you encounter this problem.
 
 A number of the best libraries in the world have formed a consortium
 designed to share resources and expand research opportunities for the
-entire academic community. As students of Dartmouth College, you may
+entire academic community. As students at Dartmouth, you may
 obtain borrowing privileges at any of the other participating libraries
-including Brown, Columbia, Cornell, Harvard, Massachusetts Institute of
-Technology, University of Chicago, University of Pennsylvania,
-Princeton, Yale and the Center for Research Libraries. The combined
-resources total a staggering 50 million volumes.
+including Brown, Columbia, Cornell, Harvard, MIT, University of Chicago, University of Pennsylvania,
+Princeton, Yale, and the Center for Research Libraries. 
 
 To see if a book is available at another library, use a service called
 [Borrow Direct](http://www.dartmouth.edu/~library/res-share/borrowdirect/). With
@@ -38,7 +36,7 @@ person behind the desk that you have a "hold" while giving them your ID. They wi
 the book for you. 
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() These texts have much shorter borrowing periods. The book will arrive wrapped with a special sleeve
+[<i class="fas fa-circle"></i>]() These texts have shorter borrowing periods. The book will arrive wrapped with a special sleeve
 containing information about when the book must be returned to avoid punishing fines. 
 {{< /hint >}}
 
@@ -57,20 +55,21 @@ etc.), and send your request electronically to the office. Staff will
 request your item from another library, who will ship the book to our
 library through the mail. If you are requesting a book chapter or
 article, the donor library will send you a .pdf free of charge to your
-DartDoc account. Make sure to download the .pdf to your computer as they disappear after a period of time.
+DartDoc account. Make sure to download the .pdf to your computer as they disappear after a period of time. 
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() If you are ordering a book, DartDoc is the *slowest* of all the
-available options for requesting research materials. Requests may take
-up to two weeks to be fulfilled.
+- [<i class="fas fa-circle"></i>]() If you are ordering a *physical* book, DartDoc is the slowest option. Requests may take up to two weeks to be fulfilled.
+
+
+- [<i class="fas fa-viruses"></i>]() Due to Covid-19, the library will be using DartDoc to give you access to books and book chapters that you need while away from campus. While I am sure that they will do the best they can, there is likely to be a longer wait for these items than if you just walked into the library and got it yourself. This puts you at something of a disadvantage, so [you will have to be crafty](https://www.youtube.com/watch?v=Zmvt7yFTtt8).  
 {{< /hint >}}
 
 
 ### Recall Request
 
-If a book is owned by the library, but checked out by another patron, you have one final option: a recall request. You will find a link in the catalog entry if the book is checked out that will allow you to request a recall of the book. After your recall, the patron who has borrowed the book will receive a notice that they must return it. 
+If a book is owned by our library, but checked out by another patron, you have one final option: a recall request. If a book is currently on loan, its catalog entry will contain a link that you may use to request a recall of the book. After your initiate a recall, the patron who has borrowed the book will receive a notice that they must return it. 
 
-Now, I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games Ph.Ds play, *and [we play for keeps](https://www.youtube.com/watch?v=UmtuRRhtGQw)*. Secondly, the patron will have *up to two weeks* to return the book in question. That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
+I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games Ph.Ds play, *and we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
 
 
 ## Workshop
@@ -79,7 +78,7 @@ Now, I don't recommend using recall requests for two reasons. First, it is consi
 2. Create a login for [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/illiad.dll?Action=10&Form=79) and explore the service. 
 3. Order a book if you like. It's free.
 
-[^1]: One of my biggest pet peeves about Dartmouth is our absurd need to re-brand everything to make it "Dartmouthy." Hence, "interlibrary loan," a term comprehensible to everyone who has ever been to a library, is replaced with something completely alienating, like "Dart-Doc." It is madness. It is Dartmouth. They are the same. 
+[^1]: One of my biggest pet peeves about Dartmouth is our absurd need to re-brand everything to make it "Dartmouthy." Hence, "interlibrary loan"---a term comprehensible to everyone who has ever been to a library---is replaced with something completely alienating, like "Dart-Doc." It is madness. It is Dartmouth. They are the same. 
 
-[^2]: This was (alegedly) me. But it was some time ago and I have since sought professional help for research rage. 
+[^2]: This was (allegedly) me. But it was some time ago and I have since sought professional help for research rage. 
 

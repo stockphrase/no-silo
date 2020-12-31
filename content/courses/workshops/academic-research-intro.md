@@ -28,7 +28,7 @@ The narrative of the research process found in books is misleading because it pr
 
 With that stated, what I describe below presents a set of steps virtually identical to what I've just criticized. The difference is that I won't pretend that following a list of procedures will somehow magically produce an exemplary research essay. Every project is different and requires something different from the researcher. To be successful requires a lot of hard work, creativity, inspiration, and help from others. These complexities are impossible to capture in a checklist or manual of procedures.  
 
-Research (like many things in life) is something that you must do in order to learn, and practice in order to improve. Mistakes and confusion are great teachers if we are patient with them---they help reveal the limits of our knowledge and the horizon of our skills. Over time, and with experience, you will gain better research instincts. It is important to try on you own, but it is nice to have someone you can ask for help from when things get really tough. I am honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
+Research (like many things in life) is something that you must *do* in order to learn and *practice* in order to improve. Mistakes and confusion are great teachers if we are patient with them---they help reveal the limits of our knowledge and the horizon of our skills. Over time, and with experience, you will gain better research instincts. It is important to try on your own, but it is nice to have someone you can ask for help from when things get really tough. I am honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
 
 # What is Research Writing? 
 
@@ -257,7 +257,7 @@ When you discover books and articles that are relevant to your project, perform 
 - <i class="fas fa-paperclip"></i> [`What is Peer Review?`](/courses/workshops/peer-reviews)
 
 
-[^1]: I am not that Alan Taylor.
+[^1]: I am not that [Alan Taylor](https://en.wikipedia.org/wiki/Alan_Taylor_(historian)).
 [^2]: I cannot emphasize how important this practice is. If you learn nothing else from me, take this one with you. There is probably no more powerful insight in performing research.
 
 

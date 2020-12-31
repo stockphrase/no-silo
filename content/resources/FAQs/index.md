@@ -50,21 +50,11 @@ I will be happy to accommodate students whose schedules conflict with my office 
 
 > ### Sort of.
 
-Sometimes life intervenes in our plans and rudely sets us back. If you get hit by a bus or contract ebola, asking for a paper extension is a reasonable request. But generally it is a bad idea to request an extension unless you find yourself in a similarly extreme situation. Many faculty are reluctant to give extensions because of a duty to the principle of fairness: if one student is granted an extension, the other students who turned their work in on time are disadvantaged. For that reason I deduct a full letter grade for each day an assignment is late. Take as much extra time as you wish; however, you should be prepared to face the consequences. Of course, if you have a serious emergency that prevents you from completing work, I will be happy to work out a new due date.
+Sometimes life intervenes in our plans and rudely sets us back. If you get hit by a bus or contract ebola, asking for a paper extension is a reasonable request. But generally it is a bad idea to request an extension unless you find yourself in a similarly extreme situation. Many faculty are reluctant to give extensions because of a duty to the principle of fairness: if one student is granted an extension, the other students who turned their work in on time are disadvantaged. Of course, if you have a serious emergency that prevents you from completing work, I will be happy to work out a new due date.
 
 {{< /details >}}
 
-{{< details "5. Do you have a grading rubric?" >}}
-
-#
-> ### No.
-
-I do not have a formalized rubric to explain the exact nature of the A, B, C, D, and F essay. See #7. However, my handbook does discuss the [**characteristics of all good academic writing**](/resources/open-handbook/chapter-5).
-
-{{< /details >}}
-
-
-{{< details "6. How many times can I bring my paper to you?" >}}
+{{< details "5. How many times can I bring my paper to you?" >}}
 
 #
 > ### As many as you like. But...
@@ -78,7 +68,7 @@ College should be a series of experiences through which you *gain ownership over
 {{< /details >}}
 
 
-{{< details "7. Why aren't you grading me? I want to know how well I'm doing." >}}
+{{< details "6. Why aren't you grading me? I want to know how well I'm doing." >}}
 
 #
 > ### Consider why you want this...
@@ -95,7 +85,7 @@ College should be a series of experiences through which you *gain ownership over
 
 {{< /details >}}
 
-{{< details "8. Are you as grumpy as this FAQ suggests?" >}}
+{{< details "7. Are you as grumpy as this FAQ suggests?" >}}
 
 #
 
