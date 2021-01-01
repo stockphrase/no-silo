@@ -380,12 +380,6 @@ Philosophers and social scientists have attempted to explain the origins of civi
 - Complete the workshop.
 
 
-#### `+ In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
-
 ---
 
 {{< hint note >}} 

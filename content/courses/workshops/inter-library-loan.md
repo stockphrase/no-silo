@@ -12,7 +12,8 @@ type: docs
 
 A common problem in academic research is discovering that a book or
 article you require for a project is checked out, missing, or not owned
-by the library. There are a number of free services available to you
+by the library. Less commonly, you may find yourself in a global pandemic and be unable
+to physically visit a library to borrow books. There are a number of free services available to you
 when you encounter this problem.
 
 ### Borrow Direct consortium

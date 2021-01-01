@@ -32,7 +32,7 @@ Let's break down the call number into its constituent parts:
 
 ## Steps to find a book on the shelf
 
-### Method One:
+### Method A:
 
 {{< details "Step 1: Letter Line" closed >}} 
 
@@ -84,7 +84,7 @@ Similarly, a Cutter line that reads `.T39` is shelved *after* `.T21`.
 
 Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) online with your computer or smartphone.
 
-### Method Two:
+### Method B:
 
 {{< details "Or Just Forget All That" closed >}} 
 

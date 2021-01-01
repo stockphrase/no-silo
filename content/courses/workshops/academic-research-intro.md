@@ -20,15 +20,15 @@ Perhaps the most common feature of books designed to help students do academic r
 
 *The problem is that research just doesn't work this way*. 
 
-The narrative of the research process found in books is misleading because it presents an idealized and simplified description of how a project comes to be, develops, and concludes. The truth of the matter is that academic research is rarely a logical, linear operation. And a list of steps can never fully prepare a researcher for the nature of true inquiry. Research is a surprising, exhilarating, and fulfilling experience, but it is also *a messy, recursive, and frequently frustrating one*.  When students try research for themselves and experience difficulty and confusion instead of an orderly march to success, they often feel as if they aren't good enough or smart enough to do research. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're doing just fine. 
+The narrative of the research process found in books is misleading because it presents an idealized and simplified description of how a project is conceived, develops, and concludes. The truth of the matter is that academic research is rarely a logical, linear operation. A list of steps can never fully prepare a researcher for the nature of true inquiry---with all its serendipitous discovery and unanticipated failure. Research is a surprising, exhilarating, and fulfilling experience, but it is also *a messy, recursive, and frequently frustrating one*.  When students try research for the first time and experience difficulty and confusion instead of an orderly march to success, they often feel as if they aren't good enough or smart enough to do research. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're probably doing just fine. 
 
 {{< hint note >}}
 [<i class="fas fa-circle"></i>]() **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
 {{< /hint >}}
 
-With that stated, what I describe below presents a set of steps virtually identical to what I've just criticized. The difference is that I won't pretend that following a list of procedures will somehow magically produce an exemplary research essay. Every project is different and requires something different from the researcher. To be successful requires a lot of hard work, creativity, inspiration, and help from others. These complexities are impossible to capture in a checklist or manual of procedures.  
+With that stated, what I describe below presents a set of steps virtually identical to what I've just savagely criticized. The difference is that I won't pretend that following a list of procedures will somehow magically produce an exemplary research essay. Every project is different and requires something different from the researcher. Every project requires that you learn new skills and information and fine new sources of assistance. To be successful at research requires a lot of hard work, creativity, inspiration, and help from others. These complexities are impossible to capture in a checklist or manual of procedures.  
 
-Research (like many things in life) is something that you must *do* in order to learn and *practice* in order to improve. Mistakes and confusion are great teachers if we are patient with them---they help reveal the limits of our knowledge and the horizon of our skills. Over time, and with experience, you will gain better research instincts. It is important to try on your own, but it is nice to have someone you can ask for help from when things get really tough. I am honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
+Research (like many things in life) is something that you must *do* in order to learn and *practice* in order to improve. Mistakes and confusion are great teachers if we are patient with them---they help reveal the limits of our knowledge and the horizon of our skills. Over time, and with experience, you will gain better research instincts. It is important to try on your own, but it is nice to have someone you can ask for help when things get really tough. I am honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own.  
 
 # What is Research Writing? 
 
@@ -133,7 +133,7 @@ Instead, research *should be process of discovery* where you encounter
 ideas and contemplate questions that you would have otherwise never
 imagined. 
 
-Research, done properly, has the power to change us---altering
+Done properly, research has the power to change us---altering
 our views, values, and sense of things. But you must first allow
 yourself to become vulnerable to new ideas and follow the evidence, wherever it goes. During any particular
 research project you should be prepared to change your mind and your
@@ -154,16 +154,16 @@ Inventing good keywords often requires some metacritical thinking (thinking abou
 [<i class="fas fa-circle"></i>]() To put things bluntly, if your keywords suck you will not find good sources.  
 {{< /hint >}}
 
-Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing their social media accounts. Using the word "spy" turns out not to be the best keyword; the keyword "surveillance" was far more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, accretive process---not a linear one**.  
+Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing the population's social media accounts. Using the word "spy" turns out not to be the best keyword; the keyword "surveillance" was far more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Research is an iterative, accretive process---not a linear one**.  
 
 
 ---
 
 ### Step 3: Search for Books and Periodicals
 
-The library uses special software designed to augment the searching of the library's holdings known as a "discovery layer." Dartmouth currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the library catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
+The library uses special software designed to augment the searching of the its holdings known as a "[discovery layer](https://en.wikipedia.org/wiki/Discovery_layer)." Dartmouth currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
 
-After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm. After entering your keywords you will notice ways to further refine your search by clicking on several options on the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page under "Refine Your Results." Or limit the search to [peer-reviewed](/courses/workshops/peer-reviews) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches in this way, if desired.
+After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm (which may, or may not, be a good thing). After entering your keywords, you will notice ways to further refine your search by clicking on several options within the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page under "Refine Your Results." Or limit the search to [peer-reviewed](/courses/workshops/peer-reviews) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches in this way, if desired. It is usually worth your time to further limit your searches in this way.
 
 {{< details "🔴️ WARNING about Primo" open >}}
 
@@ -238,7 +238,7 @@ use a peer-reviewed source.
 
 ### Step 6: Perform citation chases [^2] 
 
-Many students will find a book or article that is perfect for their research project, do a celebration dance, and then return to the library catalog to use keyword searches to find more sources like it. But consider that the source you hold in your hand was substantially built from other sources that are cited in the bibliography. Look at the source again: it is now  a treasure map that may lead to untold riches. 
+Many students will find a book or article that is perfect for their research project, do a celebration dance, and then return to the library catalog to use keyword searches to find more sources like it. But consider that the source you hold in your hand was substantially built from other, extremely relevant sources that are cited in the bibliography. Look at the source again: it is now  a treasure map that may lead to untold riches! 
 
 When you discover books and articles that are relevant to your project, perform what is known as a "citation chase." This involves examining the bibliography of the book, article, or chapter, looking for other relevant items. Find these related sources in the library and then repeat the process again. Performing a citation chase *is often the best way of discovering other sources connected to your research focus---far better than using keyword searches*.
 
