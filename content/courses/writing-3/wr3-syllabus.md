@@ -379,13 +379,6 @@ Philosophers and social scientists have attempted to explain the origins of civi
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 - Complete the workshop.
 
-
-#### `+ In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
-
 ---
 
 {{< hint note >}} 
