@@ -135,7 +135,7 @@ You will make one formal presentation at the conclusion of the term to explain y
 
 ### 4. Author Page
 
-Each of you will curate a webpage dedicated to your research project. We will call this site your `Author Page`. You may create this page as a shared Google Doc or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. After creating your page, link to it on the course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) so that we may locate it. We will use these Author Pages to view your project as it evolves over time. One of your most important responsibilities this term is to keep this page updated. Your author page should contain the following:
+Each of you will curate a webpage dedicated to your research project. We will call this site your `Author Page`. You may create this page as a shared [Google Doc](https://google.dartmouth.edu/) or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. After creating your page, link to it on the course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) so that we may locate it. We will use these Author Pages to view your project as it evolves over time. One of your most important responsibilities this term is to keep this page updated. Your author page should contain the following:
 
 - a short research proposal/statement of no more than 250 words.
 - an `annotated bibliography` of all the sources used or consulted to construct your research project (*use `permalinks` to link to the book or article within the library system*).
@@ -265,7 +265,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 {{< hint note >}} 
 
 
-- <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
+- [ ] Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -358,8 +358,10 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-fist-raised"></i> <i class="fas fa-house-user"></i>]() } Monday, 1.18 
+#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.18 
 {{< /hint >}} 
+
+- [<i class="fas fa-fist-raised"></i>]() [Martin Luther King day](https://www.youtube.com/watch?v=6sT9Hjh0cHM). What happens to a dream deferred?
 
 #### `+ Texts`
 

@@ -5,8 +5,11 @@ bookFlatSection: false
 bookToc: true
 type: docs
 ---
+{{< hint note >}}
 
-<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
+#### [<i class="fas fa-virus-slash"></i>]() COVID-19: Remote Study and the Library
+Due to COVID-19, the library will be using DartDoc (described below) to give you access to books and book chapters that you need while away from campus. While I am sure that they will do the best they can, there will likely be a longer wait for books than if you just walked into the library and got it yourself. This puts you at something of a disadvantage, so [you will have to be crafty](https://www.youtube.com/watch?v=Zmvt7yFTtt8).  
+{{< /hint >}}
 
 # Getting Sh<sub>*</sub>t the Library Doesn't Have
 
@@ -59,10 +62,8 @@ article, the donor library will send you a .pdf free of charge to your
 DartDoc account. Make sure to download the .pdf to your computer as they disappear after a period of time. 
 
 {{< hint note >}}
-- [<i class="fas fa-circle"></i>]() If you are ordering a *physical* book, DartDoc is the slowest option. Requests may take up to two weeks to be fulfilled.
+[<i class="fas fa-circle"></i>]() If you are ordering a *physical* book, DartDoc is often the slowest option. Requests may take up to two weeks to be fulfilled.
 
-
-- [<i class="fas fa-viruses"></i>]() Due to Covid-19, the library will be using DartDoc to give you access to books and book chapters that you need while away from campus. While I am sure that they will do the best they can, there is likely to be a longer wait for these items than if you just walked into the library and got it yourself. This puts you at something of a disadvantage, so [you will have to be crafty](https://www.youtube.com/watch?v=Zmvt7yFTtt8).  
 {{< /hint >}}
 
 
@@ -70,16 +71,19 @@ DartDoc account. Make sure to download the .pdf to your computer as they disappe
 
 If a book is owned by our library, but checked out by another patron, you have one final option: a recall request. If a book is currently on loan, its catalog entry will contain a link that you may use to request a recall of the book. After your initiate a recall, the patron who has borrowed the book will receive a notice that they must return it. 
 
-I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games Ph.Ds play, *and we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
+I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games academics play, *and we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. A very devious person would wait the full two weeks, return it to circulation, then immediately recall it back from you.[^3] That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
 
 
 ## Workshop
 
 1. Visit [Borrow Direct](https://www.library.dartmouth.edu/borrow-renew/borrowing-requesting#borrowdirect) and familiarize yourself with the service. 
+
 2. Create a login for [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/illiad.dll?Action=10&Form=79) and explore the service. 
-3. Order a book if you like. It's free.
+
 
 [^1]: One of my biggest pet peeves about Dartmouth is our absurd need to re-brand everything to make it "Dartmouthy." Hence, "interlibrary loan"---a term comprehensible to everyone who has ever been to a library---is replaced with something completely alienating, like "Dart-Doc." It is madness. It is Dartmouth. They are the same. 
 
 [^2]: This was (allegedly) me. But it was some time ago and I have since sought professional help for research rage. 
+
+[^3]: Yes, this was also me. 
 

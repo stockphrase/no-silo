@@ -6,8 +6,6 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
-
 # Works Cited or Bibliography
 
 Accurately documenting sources is a vital aspect of any process of inquiry. If you fail to properly document your sources, your readers will be unable to follow your research, validate your claims, or judge the quality of your argument. Furthermore, failing to properly cite a source (whether summarized, paraphrased, or quoted) opens you to the charge of [**plagiarism**](/resources/open-handbook/chapter-10/), a serious academic offense.
