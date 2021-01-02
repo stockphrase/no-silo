@@ -3,6 +3,9 @@ weight: 0
 bookHidden: true
 title: "A note on using this text"
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Using this Text
 

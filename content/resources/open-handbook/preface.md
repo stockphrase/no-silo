@@ -3,6 +3,9 @@ weight: -1
 bookHidden: true
 title: "I. Preface"
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Preface
 

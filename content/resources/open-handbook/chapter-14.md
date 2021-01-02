@@ -3,6 +3,9 @@ weight: 14
 bookHidden: true
 title: "On Style"
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 
 # On Style

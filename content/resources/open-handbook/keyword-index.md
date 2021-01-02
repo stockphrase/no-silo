@@ -4,6 +4,9 @@ bookHidden: true
 title: "Keyword Index"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Keyword Index
 

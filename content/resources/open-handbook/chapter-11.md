@@ -4,6 +4,9 @@ bookHidden: true
 title: "11. Documentation of Sources"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Documentation of Sources
 

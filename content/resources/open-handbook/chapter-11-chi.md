@@ -3,6 +3,9 @@ bookHidden: true
 title: "Chicago Documentation Style"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 
 # Chicago Style

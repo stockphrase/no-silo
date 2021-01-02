@@ -4,6 +4,9 @@ bookHidden: true
 title: "Common Sentence Errors"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Common Sentence Errors
 

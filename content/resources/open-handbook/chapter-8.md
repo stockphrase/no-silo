@@ -4,6 +4,9 @@ bookHidden: true
 title: "8. Working with Sources"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 
 # Working with Sources

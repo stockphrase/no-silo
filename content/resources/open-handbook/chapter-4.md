@@ -3,6 +3,9 @@ weight: 5
 bookHidden: true
 title: "The Joy of Reuse (Save Your Work)"
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 
 # Chapter Four: The Joy of Reuse

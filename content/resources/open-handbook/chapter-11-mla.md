@@ -3,6 +3,9 @@ bookHidden: true
 title: "MLA Documentation Style"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # MLA Style
 

@@ -4,6 +4,9 @@ bookHidden: true
 title: "Critical Notes"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Chapter Two: Critical Notes
 

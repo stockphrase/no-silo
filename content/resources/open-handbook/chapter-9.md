@@ -4,6 +4,9 @@ bookHidden: true
 title: "9. Altering Sources"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 
 # Altering Sources

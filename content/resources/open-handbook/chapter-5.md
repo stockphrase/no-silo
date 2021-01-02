@@ -4,6 +4,9 @@ bookHidden: true
 title: "5. What is Good Writing?"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # What is Good Writing?
 

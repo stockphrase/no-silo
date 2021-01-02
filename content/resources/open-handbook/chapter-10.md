@@ -3,6 +3,9 @@ weight: 9
 bookHidden: true
 title: "10. Plagiarism"
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 
 # Plagiarism

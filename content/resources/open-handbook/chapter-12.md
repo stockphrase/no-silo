@@ -5,6 +5,11 @@ title: "Academic Research"
 status: under-revision
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
+
+
 # Academic Research
 
 ---

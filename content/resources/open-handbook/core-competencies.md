@@ -5,6 +5,9 @@ bookToc: true
 title: "Core Competencies in the Rhetorical Arts"
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> [**Open Handbook**](/resources/open-handbook) 
+{{< /hint >}}
 
 # Core Competencies in the Rhetorical Arts
 
