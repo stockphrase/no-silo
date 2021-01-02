@@ -6,7 +6,9 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/img/workshop.png" width=150 >}}</div>
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR2** | [**Workshops**](/courses/workshops/) 
+{{< /hint >}}
 
 # Working with Sources
 

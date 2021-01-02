@@ -265,7 +265,7 @@ This week is dedicated to our winter conferences. In this conference you will si
 {{< hint note >}} 
 
 
-- [ ] Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
+- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -789,9 +789,9 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 #### ``+ Due``
 
 {{< hint note >}} 
-- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <i class="fa fa-bullseye"></i>  Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i> [Research Essay Draft II](https://canvas.dartmouth.edu/) (7-10 pages).
+- <i class="fa fa-bullseye"></i> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
 
 {{< /hint >}} 
 
@@ -870,6 +870,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 #### ``+ Due``
 {{< hint note >}}
 - <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu).
+- <i class="fa fa-bullseye"></i> Final draft of Author Page Due.
 
 {{< / hint >}}
 

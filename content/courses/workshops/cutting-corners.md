@@ -6,6 +6,10 @@ bookToc: true
 type: docs
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR3** | [**Workshops**](/courses/workshops/) 
+{{< /hint >}}
+
 # Cutting Corners in Research
 
 I can't tell you the number of times a first-year student has waited until the other students left the classroom in order to sheepishly approach me ask this question: "Professor, if I get a book from the library or download an article for my research project, do I have to read the *whole thing*?"

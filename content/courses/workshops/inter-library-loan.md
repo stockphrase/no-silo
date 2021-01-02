@@ -5,6 +5,11 @@ bookFlatSection: false
 bookToc: true
 type: docs
 ---
+
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR3** | [**Workshops**](/courses/workshops/) 
+{{< /hint >}}
+
 {{< hint note >}}
 
 #### [<i class="fas fa-virus-slash"></i>]() COVID-19: Remote Study and the Library

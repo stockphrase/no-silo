@@ -5,7 +5,9 @@ bookFlatSection: false
 bookToc: true
 type: docs
 ---
-
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR2** | [**Workshops**](/courses/workshops/) 
+{{< /hint >}}
 <div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
 # Peer Review Work

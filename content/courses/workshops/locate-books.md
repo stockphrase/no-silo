@@ -5,6 +5,9 @@ bookFlatSection: false
 bookToc: true
 type: docs
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR3** | [**Workshops**](/courses/workshops/) 
+{{< /hint >}}
 
 # Finding a Book in the Library
 Finding a book (or other physical resource) on the shelf of the library isn't as easy as it sounds. This is a guide to help you understand how libraries are organized and find books you need for your research. 
