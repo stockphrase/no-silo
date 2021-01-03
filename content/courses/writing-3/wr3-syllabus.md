@@ -138,7 +138,8 @@ You will make one formal presentation at the conclusion of the term to explain y
 Each of you will curate a webpage dedicated to your research project. We will call this site your `Author Page`. You may create this page as a shared [Google Doc](https://google.dartmouth.edu/) or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. After creating your page, link to it on the course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) so that we may locate it. We will use these Author Pages to view your project as it evolves over time. One of your most important responsibilities this term is to keep this page updated. Your author page should contain the following:
 
 - a short research proposal/statement of no more than 250 words.
-- an `annotated bibliography` of all the sources used or consulted to construct your research project (*use `permalinks` to link to the book or article within the library system*).
+- an `annotated bibliography` of all the sources used to construct your research project. 
+    - *Use `permalinks` to link to the book or article within the library system*.
 - a current draft of your research essay.
 - a weekly reflective blog post about the progress of your research project (see #7 below).
 

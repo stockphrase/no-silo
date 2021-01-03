@@ -6,6 +6,7 @@ bookHidden: true
 bookToc: true
 ---
 
+
 {{< figure src="/img/hercules.jpg" >}}
 
 {{< hint note >}} 
@@ -40,13 +41,22 @@ This paper examines a strain of post-apocalyptic narrative featuring what we may
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, cursus ut urna at, placerat laoreet diam. Nam sed est at ante ornare consequat. Donec lectus odio, sollicitudin at egestas pellentesque, semper vitae libero. In tristique pharetra nibh sit amet luctus. Nunc condimentum dictum vulputate. Etiam non purus erat. Praesent vitae lorem ut elit tincidunt molestie. Nulla pretium neque ante, vel porta est ullamcorper consequat.
 
 
-## Essay Draft
+## Essay Drafts
 
-- [Essay Draft 1.0](/docs/Taylor-Essay.pdf)
+- [Essay Draft 1: "Revanchist Masculinity"](/docs/Taylor-Essay.pdf)
+- [Essay Draft 2: "Revanchist Masculinity"](/docs/Taylor-Essay.pdf)
 
 
 ## Weekly Reflections
 
-Week 3: 
+### Week 3: 
 
-Week 4:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, cursus ut urna at, placerat laoreet diam. Nam sed est at ante ornare consequat. Donec lectus odio, sollicitudin at egestas pellentesque, semper vitae libero. In tristique pharetra nibh sit amet luctus. Nunc condimentum dictum vulputate. Etiam non purus erat. Praesent vitae lorem ut elit tincidunt molestie. Nulla pretium neque ante, vel porta est ullamcorper consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, cursus ut urna at, placerat laoreet diam. Nam sed est at ante ornare consequat. Donec lectus odio, sollicitudin at egestas pellentesque, semper vitae libero. In tristique pharetra nibh sit amet luctus. Nunc condimentum dictum vulputate. Etiam non purus erat. Praesent vitae lorem ut elit tincidunt molestie. Nulla pretium neque ante, vel porta est ullamcorper consequat. 
+
+### Week 4:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, cursus ut urna at, placerat laoreet diam. Nam sed est at ante ornare consequat. Donec lectus odio, sollicitudin at egestas pellentesque, semper vitae libero. In tristique pharetra nibh sit amet luctus. Nunc condimentum dictum vulputate. Etiam non purus erat. Praesent vitae lorem ut elit tincidunt molestie. Nulla pretium neque ante, vel porta est ullamcorper consequat.
+
+### Week 5:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, cursus ut urna at, placerat laoreet diam. Nam sed est at ante ornare consequat. Donec lectus odio, sollicitudin at egestas pellentesque, semper vitae libero. In tristique pharetra nibh sit amet luctus. Nunc condimentum dictum vulputate. Etiam non purus erat. Praesent vitae lorem ut elit tincidunt molestie. Nulla pretium neque ante, vel porta est ullamcorper consequat.
