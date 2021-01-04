@@ -46,7 +46,7 @@ the following:
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
-- Other course readings are embedded in the syllabus below.
+- [Winter readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip)
 
 ---
 
@@ -153,7 +153,7 @@ Each of you will curate a webpage dedicated to your research project. We will ca
 
 Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course texts we encounter. 
 
-We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each week containing course readings or films has a dedicated Hive document. The course sections have separate Hive documents, so please make sure to make your contribution to the proper one. You may distinguish between these two documents by examining the superscript notations, as in the examples below:
+We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each week containing course readings or films has a dedicated Hive document. Please make sure to contribute to the Hive document for your course section. You may distinguish between these two documents by examining the superscript notations, as in the examples below:
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [C hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 - <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
@@ -282,7 +282,7 @@ As you wait to do your winter conference with us, occupy yourselves with the fol
 
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
+####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](/courses/workshops/cultural-studies)
 {{< /hint >}} 
 - This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief (and wholly reductive) introduction to this form of inquiry.
 
@@ -362,11 +362,12 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### { [<i class="fas fa-house-user"></i>]() } Monday, 1.18 
 {{< /hint >}} 
 
-- [<i class="fas fa-fist-raised"></i>]() [Martin Luther King day](https://www.youtube.com/watch?v=6sT9Hjh0cHM). What happens to a dream deferred?
+- [<i class="fas fa-fist-raised"></i>]() Martin Luther King day. [What happens to a dream deferred?](https://youtu.be/6sT9Hjh0cHM?t=756)
+
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Thomas Hobbes, selection from [*Leviathan*](https://drive.google.com/file/d/1uNKxHQJ0Z3O0A5T0PH98ce_wzJZ93qmG/view?usp=sharing) (1651).
+- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
 
 #### ``+ Lectures & Workshops``
 
@@ -391,7 +392,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Claire Curtis, [*Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/file/d/1s0muqFMlf5h1FVlHHEwue8o5VrSiXAue/view?usp=sharing)
+- <i class="fa fa-download"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”
 
 #### ``+ Independent work``
 
@@ -412,7 +413,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Mathias Nilges, [“The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”](https://drive.google.com/file/d/1J8gKqFySZZX1hKmmFOts5zXGz8OqXanh/view?usp=sharing) 
+- <i class="fa fa-download"></i> Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”
 
 #### ``+ Independent work``
 
@@ -470,8 +471,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Deborah Christie, [“A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/file/d/1GbfGrNO3Krhid3esqnJhpTC9uazKq4pp/view?usp=sharing)
-
+- <i class="fa fa-download"></i> Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”
 
 #### ``+ Lectures & Workshops``
 
@@ -624,7 +624,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i>  Peter Dendle, [“The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/file/d/1LKmVn5c3uv12z3DcW3yvBRq-us3naL3U/view?usp=sharing)
+- <i class="fa fa-download"></i>  Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”
 
 #### `+ Lectures & Workshops`
 
@@ -690,7 +690,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/file/d/1IaT_9iMqJe8pDd2uSQI8TNHWt7pRWvN-/view?usp=sharing).
 
-- <i class="fa fa-download"></i> Casey Kelly, [“The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”](https://drive.google.com/file/d/1D8GhrQ3HFmRKjyewMJ4Vr8fRLOAYNxP2/view?usp=sharing)
+- <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”
 
   
 #### ``+ Lectures & Workshops``
@@ -758,7 +758,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 #### `+ Texts`
 
-- <i class="fa fa-download"></i> Rob Nixon, [*Slow Violence and the Environmentalism of the Poor*, “Introduction.”](https://drive.google.com/file/d/1RqmkKU2jKPEzNEQxEUg4ZjZWdDrxUBcv/view?usp=sharing)
+- <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
 
 #### ``+ Independent work``
 

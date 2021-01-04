@@ -13,7 +13,7 @@ type: docs
 
 Peer review is a form of quality control in academic publishing. Before books or articles are published, they experience a rigorous process of evaluation by at least three experts who have advanced training in the field of study in question. These "referees," as they are known, review the work anonymously. This anonymity theoretically ensures a more honest appraisal of the work under consideration for publication. When it works as intended, this scholarly review helps eliminate factual errors and other problems before the works are published. Thus, peer-reviewed works are more trustworthy than other sources of information.
 
-## Determining if a source is peer reviewed
+## Determining if a source is peer-reviewed
 
 For novice researchers, distinguishing peer-reviewed sources from other published information can be challenging. Perhaps the best advice is to use only sources that you located within the library system, rather than things you found with a search engine on the open internet. You are far more likely to encounter trustworthy sources this way. Of course, is is also frequently the case that excellent information may be found on the open web; in these cases, we must use our best judgment to determine if the source is trustworthy or not. If you are confused about a source, ask your professor or one of the research librarians for assistance in making a determination.
 

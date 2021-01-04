@@ -37,15 +37,15 @@ bookToc: true
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [Course readings](https://drive.google.com/file/d/1dtqylimFhyfSPngLDJ6FCuCxY_Xfnh6C/view?usp=sharing) 
+#### [Course readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip)
 {{< /hint >}} 
-
 
  {{< /tab >}}
 
 
 {{< tab "Lectures & Workshops" >}} 
 
+<!---
 {{< hint note >}} 
 ####  <i class="fas fa-video"></i>  **Introduction to Writing 3**
 {{< /hint >}} 
@@ -54,17 +54,15 @@ This lecture provides a brief introduction to our WR3 course objectives, assignm
 
 
 ---
+--->
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](https://drive.google.com/file/d/1ySXGHf4Qgqki0BVb-L7fJMgeJDyEnPxi/view?usp=sharing)
+####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](/courses/workshops/cultural-studies)
 
 {{< /hint >}}
 
-This lecture provides a brief, wholly reductive introduction to cultural studies.
+This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief (and wholly reductive) introduction to this form of inquiry.
 
-- Further (completely optional) reading on cultural studies: <i class="fa fa-download"></i></i> ["Cultural Studies"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/YUNNR7IREVKNIMWIGVT8?target=10.1002/9781118766804.wbiect225), by Dan Kagan and <i class="fa fa-download"></i></i> ["Articulation Theory"](https://onlinelibrary-wiley-com.dartmouth.idm.oclc.org/share/G5R4EMRCTMF8WU5EFPYT?target=10.1002/9781118766804.wbiect177), by Jennifer Daryl Slack.
-
-- Music from: [<i class="fas fa-music"></i>]() Dyslexic Fudgicle, "[Planet Hitler](https://freemusicarchive.org/music/Dyslexic_Fudgicle/Impossible_Doors/Dyslexic_Fudgicle_-_Impossible_Doors_-_05_Planet_Hitler)"; [<i class="fas fa-music"></i>]() Jim Gutherie, "[Personnel](https://jimguthrie.bandcamp.com/track/personnel)"; [<i class="fas fa-music"></i>]() Daniel Birch, "[Indigo Blocks](https://freemusicarchive.org/music/Daniel_Birch/indigo/daniel-birch-indigo-blocks)" and "[Blue Deeper than Indigo](https://freemusicarchive.org/music/Daniel_Birch/indigo/daniel-birch-blue-deeper-than-indigo)." 
  
 ---
 
