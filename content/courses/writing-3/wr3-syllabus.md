@@ -362,12 +362,20 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### { [<i class="fas fa-house-user"></i>]() } Monday, 1.18 
 {{< /hint >}} 
 
-- [<i class="fas fa-fist-raised"></i>]() Martin Luther King day. [What happens to a dream deferred?](https://youtu.be/6sT9Hjh0cHM?t=756)
+- [<i class="fas fa-fist-raised"></i>]() *Martin Luther King Day*. No classes. We will use the X-hour for an *optional* meeting, described below.
 
 
-#### `+ Texts`
 
-- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
+---
+
+{{< hint note >}} 
+#### { [<i class="fas fa-sync-alt"></i>]() | [<i class="fas fa-house-user"></i>]() } X-hour session | Meets either TU or TH
+{{< /hint >}} 
+
+- [<i class="far fa-clock"></i>]() Tuesday, 1.19 | X-hour | Section 7 @ 12:30-1:20
+- [<i class="far fa-clock"></i>]() Thursday, 1.21 | X-hour | Section 6 @ 12:30-1:20
+
+This is an *optional meeting* to discuss the previous workshops and lectures from week 2 or other course-related matters. Otherwise, complete the workshop independently and prepare for discussion. 
 
 #### ``+ Lectures & Workshops``
 
@@ -377,13 +385,6 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - This workshop will help you learn how to locate physical items in the library's stacks.
 
-
-#### ``+ Independent work``
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-- Complete the workshop.
-
-
 ---
 
 {{< hint note >}} 
@@ -392,11 +393,12 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 #### `+ Texts`
 
+- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
 - <i class="fa fa-download"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”
 
 #### ``+ Independent work``
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- Print out, read, annotate, and take critical notes on the readings, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
 
 #### `+ In-class work`
@@ -455,7 +457,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #### `+ Texts`
 
 - <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas. 
-    - *Resist the urge to watch it at faster than 1x speed*.  
+    - *Resist the urge to watch the film at faster than 1x speed*.  
 
 
 #### ``+ Independent work``
@@ -610,7 +612,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### `+ Texts`
 
 - <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.
-
+    - *Resist the urge to watch the film at faster than 1x speed*. 
 
 #### ``+ Independent work``
 
@@ -689,7 +691,6 @@ Recent years have seen an explosion of “reality” television programming base
 #### `+ Texts`
 
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/file/d/1IaT_9iMqJe8pDd2uSQI8TNHWt7pRWvN-/view?usp=sharing).
-
 - <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”
 
   
