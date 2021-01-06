@@ -242,7 +242,7 @@ All students are entitled to full access to this course, regardless of disabilit
 #
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.8
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.8
 {{< /hint >}} 
 
 #### `+ In-class work`
@@ -275,22 +275,22 @@ As you wait to do your winter conference with us, occupy yourselves with the fol
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.11
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.11
 {{< /hint >}} 
 
 #### ``+ Lectures & Workshops``
 
 
 {{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](/courses/workshops/cultural-studies)
-{{< /hint >}} 
-- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief (and wholly reductive) introduction to this form of inquiry.
-
-{{< hint note >}} 
 #### <i class="fas fa-file"></i>  [Introduction to Academic Research](/courses/workshops/academic-research-intro) 
 {{< /hint >}} 
   
 - A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
+
+{{< hint note >}} 
+####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](/courses/workshops/cultural-studies)
+{{< /hint >}} 
+- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief (and wholly reductive) introduction to this form of inquiry.
 
 #### ``+ Independent work``
 
@@ -299,7 +299,7 @@ As you wait to do your winter conference with us, occupy yourselves with the fol
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 1.13
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 1.13
 {{< /hint >}} 
 
 
@@ -319,7 +319,7 @@ As you wait to do your winter conference with us, occupy yourselves with the fol
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Friday, 1.15
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.15
 {{< /hint >}} 
 
 #### ``+ Lectures & Workshops``
@@ -359,7 +359,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.18 
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.18 
 {{< /hint >}} 
 
 - [<i class="fas fa-fist-raised"></i>]() *Martin Luther King Day*. No classes. We will use the X-hour for an *optional* meeting, described below.
@@ -369,7 +369,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() | [<i class="fas fa-house-user"></i>]() } X-hour session | Meets either TU or TH
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) | [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } X-hour session 
 {{< /hint >}} 
 
 - [<i class="far fa-clock"></i>]() Tuesday, 1.19 | X-hour | Section 7 @ 12:30-1:20
@@ -388,7 +388,7 @@ This is an *optional meeting* to discuss the previous workshops and lectures fro
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Wednesday, 1.20
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 1.20
 {{< /hint >}} 
 
 #### `+ Texts`
@@ -409,7 +409,7 @@ This is an *optional meeting* to discuss the previous workshops and lectures fro
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.22
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.22
 {{< /hint >}} 
 
 
@@ -450,7 +450,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 1.25
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.25
 {{< /hint >}} 
 
 
@@ -468,7 +468,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 1.27
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 1.27
 {{< /hint >}} 
 
 #### `+ Texts`
@@ -492,7 +492,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 1.29
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.29
 {{< /hint >}} 
 
 #### ``+ In-class work``
@@ -523,7 +523,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.1
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.1
 {{< /hint >}} 
 
 
@@ -540,7 +540,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.3
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.3
 {{< /hint >}} 
 
 #### `+ Lectures & Workshops`
@@ -568,7 +568,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.5
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.5
 {{< /hint >}} 
 
 
@@ -606,7 +606,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.8
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.8
 {{< /hint >}} 
 
 #### `+ Texts`
@@ -621,7 +621,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.10
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.10
 {{< /hint >}} 
 
 #### `+ Texts`
@@ -646,7 +646,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.12
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.12
 {{< /hint >}} 
 
 
@@ -685,7 +685,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.15
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.15
 {{< /hint >}} 
 
 #### `+ Texts`
@@ -710,7 +710,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.17
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.17
 {{< /hint >}} 
 
 #### ``+ Independent work``
@@ -720,7 +720,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.19 
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.19 
 {{< /hint >}} 
 
 #### ``+ In-class work``
@@ -753,7 +753,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 2.22
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.22
 {{< /hint >}} 
 
 
@@ -768,7 +768,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Wednesday, 2.24
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.24
 {{< /hint >}} 
 
 #### `+ Readings`
@@ -781,7 +781,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 2.26
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.26
 {{< /hint >}} 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -806,7 +806,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 #
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Monday, 3.1
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 3.1
 {{< /hint >}} 
 
 #### `+ In-class work`
@@ -816,7 +816,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Wednesday, 3.3
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 3.3
 {{< /hint >}} 
 
 #### `+ In-class work`
@@ -826,7 +826,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Friday, 3.5
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 3.5
 {{< /hint >}} 
 
 #### `+ In-class work`
@@ -852,7 +852,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 <div style="text-align:center">{{< figure src="/img/nuke-test2.jpg" >}}</div>
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>]() } Monday, 3.8
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 3.8
 {{< /hint >}} 
 
 #### ``+ Independent work``
@@ -862,7 +862,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>]() } Wednesday, 3.10
+#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 3.10
 {{< /hint >}} 
 
 #### ``+ In-class work``

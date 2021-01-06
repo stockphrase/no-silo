@@ -127,11 +127,10 @@ As a researcher you will encounter many problems, but one of the most annoying i
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  **Workshop 7: Bibliographic Software / Research Journal**
+####  <i class="fas fa-wrench"></i>  [**Workshop 7: Bibliographic Software / Research Journal**](/courses/workshops/bibliographic-management)
 {{< /hint >}} 
 
 Over your career as a student and a professional, you will make use of thousands of books, articles, and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
-
 
 ---
 
