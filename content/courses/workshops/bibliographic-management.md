@@ -18,7 +18,7 @@ When I was a kid my Dad would make my brother and me do yardwork with him. We di
 
 On one particular fall day my brother and I were horsing around instead of working. We were just little kids, and we would have preferred to be doing anything other than this job. So we raked a series of trails through the yard and chased each other, pretending that we were in the video game [Pac-Man](https://www.google.com/logos/2010/pacman10-i.html).  
 
-My Dad got frustrated with us and sat us down to teach us a lesson. "Boys," he said, "the job is the job. It has to get done. What you're doing is making extra work for yourselves." Gesturing to our system of trails with a leather-gloved hand, he said, "Never rake the same ground twice." 
+My Dad got frustrated with us and sat us down to teach us a lesson. "Boys," he said, "what you're doing is making extra work for yourselves." Gesturing to our system of trails with a leather-gloved hand, he said, "Never rake the same ground twice." 
 
 That last line has stayed with me for a long time. And I think it is pretty good advice for students and researchers. 
 
