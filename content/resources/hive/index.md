@@ -19,7 +19,7 @@ title: "+ Hive"
 
 {{< /hint >}}
 
-Each reading in the [WR2 syllabus](/courses/writing-2/wr2-syllabus) has an attached Google doc located in a link below it. And each of my course sections has their own dedicated Hive page. Please make sure to make your contribution to the proper course section, indicated with the following notation:
+We will use shared  Google docs to create the Hive resource. Each week containing course readings or films has one or more dedicated Hive documents. Please make sure to contribute to the Hive document for your course section. You may distinguish between these two documents by examining the superscript notations, as in the examples below:
 
 - [<i class="fab fa-forumbee"></i> <sup>6</sup>]() : Hive page for section 6
 - [<i class="fab fa-forumbee"></i> <sup>7</sup>]() : Hive page for section 7
