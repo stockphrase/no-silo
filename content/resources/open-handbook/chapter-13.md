@@ -219,7 +219,7 @@ A comma splice occurs when two independent clauses are joined by a comma. To rev
 
 ### 17. Capitalization error
 
-{{< tweet 1052556222459727872 >}}
+{{< figure src="/img/capitalization-error.png" >}}
 
 ### 18. Poorly integrated quotation
 
