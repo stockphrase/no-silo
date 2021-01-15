@@ -15,7 +15,7 @@ Peer review is a form of quality control in academic publishing. Before books or
 
 ## Determining if a source is peer-reviewed
 
-For novice researchers, distinguishing peer-reviewed sources from other published information can be challenging. Perhaps the best advice is to use only sources that you located within the library system, rather than things you found with a search engine on the open internet. You are far more likely to encounter trustworthy sources this way. Of course, is is also frequently the case that excellent information may be found on the open web; in these cases, we must use our best judgment to determine if the source is trustworthy or not. If you are confused about a source, ask your professor or one of the research librarians for assistance in making a determination.
+For novice researchers, distinguishing peer-reviewed sources from other published information can be challenging. Perhaps the best advice is to use only sources that you located within the library system, rather than things you found with a search engine on the open internet. You are far more likely to encounter trustworthy sources this way. Of course, it is also frequently the case that excellent information may be found on the open web; in these cases, we must use our best judgment to determine if the source is trustworthy or not. If you are confused about a source, ask your professor or one of the research librarians for assistance in making a determination.
 
 ## Quick tests for peer review 
 
