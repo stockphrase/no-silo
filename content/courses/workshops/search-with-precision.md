@@ -200,31 +200,152 @@ relevant results. *The question mark wild card should be used to replace a singl
 {{< /details >}} 
 
 
+
 ## Problem Set
 
 1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
 
 2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians available in our library.
 
+{{< details "Answer" closed >}} 
+
+#
+
+This research question seems to arise from someone who would like to get a general look at the universe of texts that have a particular thematic focus. We are not looking for a particular book; we want to find *all* of the works of fiction that deal with this historical conflict. This gets me thinking about using `controlled vocabulary` terms provided by [`subject headings`](/courses/workshops/academic-research-intro/#step-4a-use-subject-headings-to-systematically-survey-your-topic). 
+
+However, I didn't know what the proper subject headings were, so I started off with keyword searches using terms like these below, trying to capture some sources that I could use to isolate some subject headings:
+
+{{< hint note >}} 
+<i class="fas fa-search"></i> `Israel*` AND `Arab` AND `Fiction` 
+
+<i class="fas fa-search"></i> `Israel*` AND `Palestin*` AND `Fiction` 
+
+<i class="fas fa-search"></i> `Israel*` AND `Arab` AND `Motion Pictures` 
+{{< /hint >}}
+
+These keyword searches led to many good hits from which I extracted the following subject headings:
+
+- **Jewish-Arab relations**
+- **Fiction** 
+- **Motion Pictures**
+- **Palestinian Arabs**
+- **Arab-Israeli conflict** 
+- **Arab-Israeli conflict \-- Literature and the conflict**
+
+{{< hint note >}} 
+<i class="fas fa-search"></i> *[Click to view this search in catalog:](https://search.library.dartmouth.edu/discovery/search?query=sub,exact,Arab-Israeli%20conflict,AND&query=sub,exact,Fiction,AND&tab=All&search_scope=MyInst_and_CI&sortby=rank&vid=01DCL_INST:01DCL&mode=advanced&offset=0)*
+{{< /hint >}}
+
+{{< figure src="/img/arab-israeli-conflict.png" >}} 
+
+
+---
+
+
+{{< hint note >}} 
+<i class="fas fa-search"></i>  *[Click to view this search in catalog:](https://search.library.dartmouth.edu/discovery/search?query=sub,exact,Jewish-Arab%20relations,AND&query=sub,exact,fiction,AND&query=sub,exact,Palestinian%20Arabs,AND&tab=All&search_scope=MyInst_and_CI&sortby=rank&vid=01DCL_INST:01DCL&mfacet=tlevel,include,available_p,1&mode=advanced&offset=0)*
+{{< /hint >}}
+
+
+
+{{< figure src="/img/palestinian-israeli-fiction.png" >}} 
+
+These subject searches in the catalog allowed me to find *all the books* that we have on these subjects. This type of searching is very useful for getting the 20,000-foot view of a topic. At some point, however, you must narrow your focus. So you will likely have to do some additional searches once your interests become more precise.
+
+And since these subject searches are only going to return books (and some physical media), you should also think about proper keyword searches for academic databases which you must search separately. Since these searches are about fiction, we should find databases that specialize in fiction: the MLA database, for example. 
+
+{{< /details >}} 
+
+
 3. Find peer-reviewed sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
+
+{{< details "Answer" closed >}} 
+#
+Here I used two exact phrase searches and then used the library's search delimiters to narrow the search for peer-reviewed publications between the two years.
+
+<i class="fas fa-search"></i>  `"Moby Dick"` AND `"Cold War"`
+
+
+{{< hint note >}} 
+<i class="fas fa-search"></i>  [Click to view this search in the catalog](https://search.library.dartmouth.edu/discovery/search?query=any,contains,%22Moby%20Dick%22%20AND%20%22Cold%20War%22&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&facet=searchcreationdate,include,1990%7C,%7C2000&mfacet=tlevel,include,peer_reviewed,1&mode=basic&offset=0)
+{{< /hint >}}
+
+
+
+
+
+{{< figure src="/img/moby-cold-war.png" >}} 
+
+{{< /details >}} 
 
 4. You are curious if there is any scholarship on fictional portrayals of pandemic disease.
 
+{{< details "Answer" closed >}} 
+#
+
+This problem is also one that we should tackle though the use of a `controlled vocabulary` term. First I began with some general keywords that I associated with this idea: `pandemic` AND `fiction`. After finding a few relevant hits I was able to discover subject headings that allowed me to dive deeply into what is available on the subject. Significantly, I learned that the controlled vocabulary term I should probably use is "epidemic" and not "pandemic" as I had first thought:
+
+- **Plague in literature**
+- **Fiction \-- History and criticism**
+- **Fiction**
+- **Epidemics in literature**
+- **Diseases and literature**
+- **Criticism, interpretation, etc**
+
+
+{{< /details >}} 
+
 5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
+
+{{< details "Answer" closed >}} 
+#
+
+This problem is more challenging for several reasons: 1) the current pandemic is a very recent event, which makes finding peer-reviewed sources less likely; 2) the keyword "spy" is not very productive since the controlled vocabulary term preferred by libraries is "surveillance"; and 3) the word "surveillance" is also term of art that is used to describe the legitimate efforts by epidemiologists and government health organizations to understand the spread of disease, thus polluting our results with sources that we don't actually want. 
+
+To overcome these issues we may have to come at this by relying on journalism outlets we respect and any government publications or open-source intelligence we can find. And we may need to add additional keywords such as `rights,` `privacy`, `libert*`, or `freedom*` to try and find sources that favor our intentions with the keyword `surveillance`. 
+
+I started with a Google search using the following search string, which produced several good leads: 
+
+
+{{< hint note >}} 
+<i class="fas fa-search"></i>  [government* AND covid* AND surveillance AND privacy](https://www.google.com/search?q=government*+AND+covid*+AND+surveillance+AND+privacy&oq=government*+AND+covid*+AND+surveillance+AND+privacy)
+{{< /hint >}}
+
+
+
+- A number of these results cite other related texts in their bibliographies, so a [citation chase](/courses/workshops/academic-research-intro/#step-6-perform-citation-chases-2) will be helpful to locate other sources. 
+
+- We might further augment this search string by using the names of particular countries and/or intelligence services of interest.
+
+I reproduced this search string in our library and found several peer-reviewed articles:
+
+
+{{< hint note >}} 
+<i class="fas fa-search"></i>  [government* AND covid* AND surveillance AND privacy](https://search.library.dartmouth.edu/discovery/search?query=any,contains,government*%20AND%20covid*%20AND%20surveillance%20AND%20privacy&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&mfacet=tlevel,include,peer_reviewed,1&mode=basic)
+{{< /hint >}}
+
+
+
+
+
+{{< /details >}} 
 
 6. You are interested in female MMA fighters and want to know if there is any scholarship on this.
 
+{{< details "Answer" closed >}} 
+#
+
+This search gave us an opportunity to use a wildcard. By using "Wom?n" we can ensure that we get sources that reference both "women" and "woman". And the exact phrase search helps us find articles that only mention the words "mixed martial arts" in that exact order.
+
+{{< hint note >}} 
+<i class="fas fa-search"></i> [Wom?n AND "mixed martial arts"](https://search.library.dartmouth.edu/discovery/search?query=any,contains,Wom%3Fn%20AND%20%22mixed%20martial%20arts%22&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&facet=tlevel,include,peer_reviewed&offset=0)
+{{< /hint >}}
+
+{{< hint note >}} 
+<i class="fas fa-search"></i> [Wom?n AND "mixed martial arts" AND gender](https://search.library.dartmouth.edu/discovery/search?query=any,contains,Wom%3Fn%20AND%20%22mixed%20martial%20arts%22%20AND%20gender&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&facet=tlevel,include,peer_reviewed&offset=0)
+{{< /hint >}}
 
 
-<!---
-1. Israel* AND (Arab* OR Palestin*) AND (literature OR fiction OR film OR movie) 
-2. Israel* AND Palestin* AND (literature OR novel) apply Baker/Berry filter
-3. "Moby Dick" AND "Cold War"
-4. pandemic AND fiction. Find: https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033426335205706 Use Sub. Search.
-6. religion AND contagion AND (plague OR pandemic) 
-7. Wom?n AND "mixed martial arts" AND gender
-
-The one about COVID-19 and surveillance is a problem because this term is used about looking for cases by monitoring a population. But here we are talking about the spying on a population with the disease as an excuse. Hm. `COVID-19 AND surveillance AND "national intelligence"` or "intelligence services" Or, if you know a specific country and intel service: `COVID-19 AND surveillance AND GRU AND Russia`
---->
+{{< /details >}} 
 
 

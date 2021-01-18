@@ -12,7 +12,7 @@ title: "Writing 3: Syllabus"
 <div style="text-align:center">{{< figure src="/img/lastmantxt.jpg" >}}</div>
 --->
 
-{{< figure src="/img/header-end.jpg" >}}
+{{< figure src="/img/theend.png" >}}
 
 # Post-apocalyptic Fiction, Film, and Art
 
