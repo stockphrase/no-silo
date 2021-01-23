@@ -357,6 +357,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](https://docs.google.com/document/d/1ycrCCPZPVdnfu7wiqzBmai6NDqaTpbLW1r8ucu3IXZg/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](https://docs.google.com/document/d/1UC0mFoXat3PACPEVYhUF0nlgYX8lV5BMgX5YqAujBZ4/edit?usp=sharing)    
 
+- <i class="far fa-clipboard"></i> [Reading Notes](/courses/writing-3/reading-notes)
 ---
 {{< hint note >}} 
 #### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.18 

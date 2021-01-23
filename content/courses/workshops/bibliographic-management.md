@@ -23,7 +23,7 @@ Most of us are really terrible at this. It's an unfortunate aspect of human natu
 
 ## Using Zotero
 
-There are many possible ways to archive your work and resources. A notebook and a filing cabinet would work fine, for example. But there are more powerful choices. One amazing project you should try out is bibliographic manager called [Zotero](https://www.zotero.org/)---a free and powerful piece of software that can help you with many aspects of your research work. Zotero not only helps you preserve an organized record of your work and reading, it is also powerful tool to help you perform research and complete some of the more annoying and time-consuming aspects of research writing. This video is a short demonstration of some of the key features of Zotero. 
+There are many possible ways to archive your work and resources. A notebook and a filing cabinet would work fine, for example. But there are more powerful choices. One amazing project you should try out is a bibliographic manager called [Zotero](https://www.zotero.org/)---a free and powerful piece of software that can help you with many aspects of your research work. Zotero not only helps you preserve an organized record of your work and reading, it is also powerful tool to help you perform research and complete some of the more annoying and time-consuming aspects of research writing. This video is a short demonstration of some of the key features of Zotero. 
 
 {{< youtube tKJYrMhoIyM >}}
 

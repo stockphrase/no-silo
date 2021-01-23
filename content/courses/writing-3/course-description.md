@@ -37,7 +37,7 @@ bookToc: true
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [Course readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip)
+#### [Course readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip) 
 {{< /hint >}} 
 
  {{< /tab >}}

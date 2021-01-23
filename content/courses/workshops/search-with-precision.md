@@ -232,8 +232,10 @@ These keyword searches led to many good hits from which I extracted the followin
 - **Arab-Israeli conflict** 
 - **Arab-Israeli conflict \-- Literature and the conflict**
 
+Then I performed some subject searches like these:
+
 {{< hint note >}} 
-<i class="fas fa-search"></i> *[Click to view this search in catalog:](https://search.library.dartmouth.edu/discovery/search?query=sub,exact,Arab-Israeli%20conflict,AND&query=sub,exact,Fiction,AND&tab=All&search_scope=MyInst_and_CI&sortby=rank&vid=01DCL_INST:01DCL&mode=advanced&offset=0)*
+<i class="fas fa-search"></i> 1. *[Arab-Israeli conflict AND Fiction](https://search.library.dartmouth.edu/discovery/search?query=sub,exact,Arab-Israeli%20conflict,AND&query=sub,exact,Fiction,AND&tab=All&search_scope=MyInst_and_CI&sortby=rank&vid=01DCL_INST:01DCL&mode=advanced&offset=0)*
 {{< /hint >}}
 
 {{< figure src="/img/arab-israeli-conflict.png" >}} 
@@ -243,7 +245,7 @@ These keyword searches led to many good hits from which I extracted the followin
 
 
 {{< hint note >}} 
-<i class="fas fa-search"></i>  *[Click to view this search in catalog:](https://search.library.dartmouth.edu/discovery/search?query=sub,exact,Jewish-Arab%20relations,AND&query=sub,exact,fiction,AND&query=sub,exact,Palestinian%20Arabs,AND&tab=All&search_scope=MyInst_and_CI&sortby=rank&vid=01DCL_INST:01DCL&mfacet=tlevel,include,available_p,1&mode=advanced&offset=0)*
+<i class="fas fa-search"></i>  2. *[Arab-Israeli conflict AND Fiction AND Palestinian Arabs](https://search.library.dartmouth.edu/discovery/search?query=sub,exact,Jewish-Arab%20relations,AND&query=sub,exact,fiction,AND&query=sub,exact,Palestinian%20Arabs,AND&tab=All&search_scope=MyInst_and_CI&sortby=rank&vid=01DCL_INST:01DCL&mfacet=tlevel,include,available_p,1&mode=advanced&offset=0)*
 {{< /hint >}}
 
 
@@ -252,7 +254,7 @@ These keyword searches led to many good hits from which I extracted the followin
 
 These subject searches in the catalog allowed me to find *all the books* that we have on these subjects. This type of searching is very useful for getting the 20,000-foot view of a topic. At some point, however, you must narrow your focus. So you will likely have to do some additional searches once your interests become more precise.
 
-And since these subject searches are only going to return books (and some physical media), you should also think about proper keyword searches for academic databases which you must search separately. Since these searches are about fiction, we should find databases that specialize in fiction: the MLA database, for example. 
+And since these subject searches are only going to return books (and some physical media), you should also think about proper keyword searches for academic databases which you must search separately. Since these searches are about fiction, we should find databases that specialize in fiction: the [MLA database](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991033338273005706), for example. 
 
 {{< /details >}} 
 
@@ -261,13 +263,11 @@ And since these subject searches are only going to return books (and some physic
 
 {{< details "Answer" closed >}} 
 #
-Here I used two exact phrase searches and then used the library's search delimiters to narrow the search for peer-reviewed publications between the two years.
-
-<i class="fas fa-search"></i>  `"Moby Dick"` AND `"Cold War"`
+Here I used two exact phrase searches in a keyword search and then used the library's search delimiters to narrow the search for peer-reviewed publications between 1990 and 2000.
 
 
 {{< hint note >}} 
-<i class="fas fa-search"></i>  [Click to view this search in the catalog](https://search.library.dartmouth.edu/discovery/search?query=any,contains,%22Moby%20Dick%22%20AND%20%22Cold%20War%22&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&facet=searchcreationdate,include,1990%7C,%7C2000&mfacet=tlevel,include,peer_reviewed,1&mode=basic&offset=0)
+<i class="fas fa-search"></i>  [`"Moby Dick"` AND `"Cold War"`](https://search.library.dartmouth.edu/discovery/search?query=any,contains,%22Moby%20Dick%22%20AND%20%22Cold%20War%22&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&facet=searchcreationdate,include,1990%7C,%7C2000&mfacet=tlevel,include,peer_reviewed,1&mode=basic&offset=0)
 {{< /hint >}}
 
 
@@ -283,7 +283,7 @@ Here I used two exact phrase searches and then used the library's search delimit
 {{< details "Answer" closed >}} 
 #
 
-This problem is also one that we should tackle though the use of a `controlled vocabulary` term. First I began with some general keywords that I associated with this idea: `pandemic` AND `fiction`. After finding a few relevant hits I was able to discover subject headings that allowed me to dive deeply into what is available on the subject. Significantly, I learned that the controlled vocabulary term I should probably use is "epidemic" and not "pandemic" as I had first thought:
+This problem is also one that we should tackle though the use of a `controlled vocabulary` terms. First I began with some general keywords that I associated with this idea: `pandemic` AND `fiction`. After finding a few relevant hits I was able to discover subject headings that allowed me to dive deeply into what is available on the subject. Significantly, I learned that the controlled vocabulary term I should probably use is "epidemic" and not "pandemic" as I had first thought: 
 
 - **Plague in literature**
 - **Fiction \-- History and criticism**
