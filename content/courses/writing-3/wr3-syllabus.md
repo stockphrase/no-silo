@@ -386,6 +386,12 @@ This is an *optional meeting* to discuss the previous workshops and lectures fro
 
 - This workshop will help you learn how to locate physical items in the library's stacks.
 
+{{< hint note >}} 
+#### <i class="fas fa-wrench"></i> [Workshop 9: What is Peer Review?](/courses/workshops/peer-reviews)
+{{< /hint >}} 
+
+- This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
+
 ---
 
 {{< hint note >}} 
@@ -443,7 +449,7 @@ This is an *optional meeting* to discuss the previous workshops and lectures fro
 #
 
 
-Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
+Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://docs.google.com/document/d/1hVOK0U-I8Q26XLs3Ye4wnKcYE-zWBPYQIo5nVNzaCBk/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://docs.google.com/document/d/106DLYltHpdLI2ru7TBYNqgwHQjvwi9tOyidfHdtlIbU/edit?usp=sharing)    
@@ -457,7 +463,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas. 
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964). Film is in the "Media" section of Canvas. 
     - *Resist the urge to watch the film at faster than 1x speed*.  
 
 
@@ -530,8 +536,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 #### `+ Texts`
 
-- <i class="fas fa-video"></i>  Film, [*I am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas 
-    - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I am Legend* (only watch after completing the original film).
+- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas 
+    - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
 
 #### ``+ Independent work``
@@ -614,6 +620,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 - <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.
     - *Resist the urge to watch the film at faster than 1x speed*. 
+    
+
 
 #### ``+ Independent work``
 
@@ -635,7 +643,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ####  <i class="fas fa-wrench"></i> [Workshop 7: Bibliographic Software / Research Journal](/courses/workshops/bibliographic-management/)
 {{< /hint >}} 
 
-- Over your career as a student and a professional, you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
+- Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
 
 #### ``+ Independent work``

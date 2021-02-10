@@ -25,8 +25,6 @@ bookToC: false
 
 <i class="fas fa-question-circle"></i> [What are office hours?](https://vimeo.com/270014784)
 
-
-
 ## Office location
 
 <i class="fas fa-map-marker-alt"></i> 37 Dewey Field Road, room 224.

@@ -54,8 +54,8 @@ To begin, download the essay to your own computer. Before you make any alteratio
 [^1]: This student essay uses section headings to organize the essay. This is a personal choice, not a strict element of the Chicago style.
 [^2]: You are **not** required to make a `Bibliography` page, just a [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page for this assignment.
 
-<!---
-<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
---->
+## Answers
+
+- <i class="far fa-check-circle"></i> Check your work with [the answer key](/docs/chicago-workshop.pdf).
 
 

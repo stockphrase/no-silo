@@ -28,7 +28,7 @@ when you encounter this problem.
 
 A number of the best libraries in the world have formed a consortium
 designed to share resources and expand research opportunities for the
-entire academic community. As students at Dartmouth, you may
+entire academic community. As students at Dartmouth you may
 obtain borrowing privileges at any of the other participating libraries
 including Brown, Columbia, Cornell, Harvard, MIT, University of Chicago, University of Pennsylvania,
 Princeton, Yale, and the Center for Research Libraries. 
