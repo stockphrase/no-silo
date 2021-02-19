@@ -20,9 +20,6 @@ If you would like to collaborate on the project or have a correction, please [co
 
 ## Table of Contents
 
-* [A brief note on using this text](/resources/open-handbook/using-this-text)
-* [The core competencies of the rhetorical arts](core-competencies)
-
 - i. [Preface](/resources/open-handbook/preface/)
 - ii. [License](/resources/open-handbook/license/)
 - iii. [Acknowledgements](/resources/open-handbook/acknowledgments)
@@ -45,5 +42,6 @@ If you would like to collaborate on the project or have a correction, please [co
 <!---
 - 14. [On Style](/resources/open-handbook/chapter-14)
 --->
+* [The core competencies of the rhetorical arts](core-competencies)
 * [Index](/resources/open-handbook/keyword-index)
 

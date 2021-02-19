@@ -8,11 +8,12 @@ title: "Writing 3: Syllabus"
 
 <!---
 {{< youtube I03xFqbxUp8 >}}
-
-<div style="text-align:center">{{< figure src="/img/lastmantxt.jpg" >}}</div>
 --->
 
-{{< figure src="/img/theend.png" >}}
+<div style="text-align:center">{{< figure src="/img/header-end.jpg" >}}</div>
+
+
+
 
 # Post-apocalyptic Fiction, Film, and Art
 
@@ -619,10 +620,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### `+ Texts`
 
 - <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.
-    - *Resist the urge to watch the film at faster than 1x speed*. 
+    - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
     
-
-
 #### ``+ Independent work``
 
 - View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
@@ -702,17 +701,7 @@ Recent years have seen an explosion of “reality” television programming base
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/file/d/1IaT_9iMqJe8pDd2uSQI8TNHWt7pRWvN-/view?usp=sharing).
 - <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”
 
-  
-#### ``+ Lectures & Workshops``
-
-{{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  Workshop 8: Managing Large Research Projects
-{{< /hint >}} 
-
-- How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
-
-
-
+ 
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
@@ -731,6 +720,14 @@ Recent years have seen an explosion of “reality” television programming base
 {{< hint note >}} 
 #### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.19 
 {{< /hint >}} 
+
+#### ``+ Lectures & Workshops``
+
+{{< hint note >}} 
+####  <i class="fas fa-wrench"></i>  Lecture: Managing Large Research Projects
+{{< /hint >}} 
+
+- How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
 #### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
