@@ -49,7 +49,7 @@ number of sources you retrieve from a database. You can visualize the
 search of a large academic database or library catalog using the
 following diagram:
 
-<div style="text-align:center">{{< figure src="/img/and.png" >}}
+<div style="text-align:center">{{< figure src="/img/and.svg" >}}
 
 { linguistics `AND` cognitive `AND` childhood }</div>
 
@@ -70,7 +70,7 @@ two of the three search terms, it will be excluded from the results.
 Unlike the `AND` operator, `OR` seeks to *broaden* a search, as in
 this example:
 
-<div style="text-align:center">{{< figure src="/img/or.png" >}}
+<div style="text-align:center">{{< figure src="/img/or.svg" >}}
 
 
 { Virginia `OR` Ohio }</div>
@@ -96,7 +96,7 @@ produce far more results.
 The Boolean operator `NOT` is used to *subtract* or *screen out*
 topics or keywords that are unwanted within the search results.
 
-<div style="text-align:center">{{< figure src="/img/not.png" >}}
+<div style="text-align:center">{{< figure src="/img/not.svg" >}}
 
 
 { "alternative energy" `NOT` solar }</div>

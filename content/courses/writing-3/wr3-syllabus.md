@@ -762,7 +762,8 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 #### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.22
 {{< /hint >}} 
 
-
+- Independent work on research and essay draft.
+<!---
 #### `+ Texts`
 
 - <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
@@ -772,11 +773,13 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
 ---
-
+--->
 {{< hint note >}} 
 #### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.24
 {{< /hint >}} 
 
+- Independent work on research and essay draft.
+<!---
 #### `+ Readings`
 
 - <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012). Film is in the "Media" section of Canvas.
@@ -786,13 +789,19 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 - View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
 ---
+--->
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.26
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.26
 {{< /hint >}} 
 
+<!---
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions.
 - <i class="fa fa-wrench"></i> Essay 3 workshop.
+
+--->
+
+- Today's class will convert to an extra office hour.
 
 #### ``+ Due``
 
@@ -810,6 +819,10 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 {{< details "9 - Drafting, Revising, Presenting" >}}
 #
+
+This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. 
+
+- *Each of you should be prepared to present on Monday*. I will have my son Abel randomly number you from 1-15 to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
 
 {{< hint note >}} 
 #### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 3.1
@@ -855,7 +868,7 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 {{< details "10 - The End" >}}
 #
 
-<div style="text-align:center">{{< figure src="/img/nuke-test2.jpg" >}}</div>
+<div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>
 
 {{< hint note >}} 
 #### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 3.8
@@ -875,12 +888,21 @@ scholar Rob Nixon argues that we must sensitize ourselves to what he calls “sl
 
 - Tearful goodbyes.
 
+{{< hint note >}} 
+#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 3.12
+{{< /hint >}} 
+
+#### `+ Assignments`
+
+- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Final Grade](https://canvas.dartmouth.edu). (Due March 15).
+
 #### ``+ Due``
 {{< hint note >}}
 - <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu).
 - <i class="fa fa-bullseye"></i> Final draft of Author Page Due.
 
 {{< / hint >}}
+
 
 {{< /details >}}
 
