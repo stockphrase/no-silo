@@ -1,6 +1,6 @@
 ---
 title: + Bio
-bookToC: false
+bookToC: true
 ---
 
 

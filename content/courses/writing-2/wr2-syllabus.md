@@ -6,7 +6,6 @@ bookHidden: true
 title: "Writing 2: Syllabus"
 ---
 
-[<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=350 >}}</div>](/about)
 
 # Writing 2: Education and Authority
 
@@ -21,16 +20,6 @@ title: "Writing 2: Syllabus"
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
-## Student Survey
-
-{{< hint info >}}
-Teaching and learning during a pandemic presents unique challenges. We may not all be in the same location or timezone. And we may face difficult situations that prevent us from concentrating on our work and personal growth. It would help me if I knew a bit about your current situation as we begin our term together. 
-
----
-
-<i class="fas fa-star-of-life"></i> Please complete [this brief survey](https://forms.gle/eSB5NPfxrxoroNfe6) about your current situation and location as soon as possible.
-
-{{< /hint >}}
 
 ## Required Texts
 
@@ -76,7 +65,7 @@ Here is a list of the typical assignments and activities that we will do each we
 
 - As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
   the text by adding meaningful symbols, marginal notes, and questions
-  on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>1</sup>***: This requires that you print out the text before you begin reading it.</span> [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note<sup>2</sup>***: Readings from the *Open Handbook* do not need to be printed out or annotated.</span>
+  on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note***: This requires that you print out the text before you begin reading it.</span> [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note***: Readings from the *Open Handbook* do not need to be printed out or annotated.</span>
   Bring this annotated copy of the reading
   with you to class to help you engage in the group discussion and
   analysis. 
@@ -138,22 +127,6 @@ You might contribute to Hive by doing some of the following tasks:
 
 - Constructively question, respond, or correct the ideas or work of another student.
 
-<!---
-
-## Grading Breakdown
-
-
-The following assignments comprise your grade for the fall term:
-
-| Assignment       | Percentage         
-| ------------- |:-------------
-| Essay One     | 20%           
-| Essay Two     | 20%      
-| Essay Three   | 20%
-| Workshops     | 20%
-| Participation  | 20%    
-
---->
 
 ## Grading
 
@@ -186,8 +159,6 @@ All students are entitled to full access to this course, regardless of disabilit
 
 | Symbol                                  | Note                                                                          |
 |:---------------------------------------:|:----------------------------------------------------------------------------- |
-| [<i class="fas fa-sync-alt"></i>]()     | Synchronous class day via Zoom                                                |
-| [<i class="fas fa-house-user"></i>]()   | Independent work day from home                                                |
 | [<i class="fa fa-comments"></i>]()      | Conferences with professor                                                    |
 | <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
@@ -210,7 +181,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 9.14
+### <i class="fas fa-angle-double-right"></i> Monday, 9.13
 
 ---
 
@@ -229,7 +200,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Wednesday, 9.16
+### <i class="fas fa-angle-double-right"></i> Wednesday, 9.15
 
 ---
 
@@ -247,7 +218,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 9.18
+### <i class="fas fa-angle-double-right"></i> Friday, 9.17
 
 ---
 
@@ -271,10 +242,10 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Two" closed >}}
+{{< details "Week Two" open >}}
 #
 
-### { <i class="fas fa-house-user"></i> }  Monday, 9.21
+### <i class="fas fa-angle-double-right"></i>  Monday, 9.20
 
 ---
 
@@ -283,27 +254,37 @@ All students are entitled to full access to this course, regardless of disabilit
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
-
+  
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-
 - [Instructions for submitting to Hive](https://no-silo.com/resources/hive/).
-
 - <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 9.23
+#### ``+ In-class work``
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
+
+---
+
+### <i class="fas fa-angle-double-right"></i>  Wednesday, 9.22
 
 #### ``+ Independent work``
 
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for a discussion of the text on Friday. 
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for discussion.
+
+#### ``+ In-class work``
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
 - <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
 
 ---
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 9.25
+### <i class="fas fa-angle-double-right"></i>  Friday, 9.24
 
 ----
 
@@ -318,10 +299,10 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Three" closed >}}
+{{< details "Week Three" open >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 9.28
+### <i class="fas fa-angle-double-right"></i>  Monday, 9.27
 
 #### `+ Readings`
 
@@ -329,13 +310,13 @@ All students are entitled to full access to this course, regardless of disabilit
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 9.30
+### <i class="fas fa-angle-double-right"></i> Wednesday, 9.29
 
 #### `+ Readings`
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.2
+### <i class="fas fa-angle-double-right"></i> Friday, 10.1
 
 #### `+ In-class work`
 
@@ -360,10 +341,10 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Four" closed >}}
+{{< details "Week Four" open >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.5
+### <i class="fas fa-angle-double-right"></i> Monday, 10.4
 
 #### `+ Readings`
 
@@ -372,29 +353,37 @@ All students are entitled to full access to this course, regardless of disabilit
   - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
 
 
-
 #### ``+ Independent work``
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.7
+#### ``+ In-class work``
 
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading and Hive submissions
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.9
+### <i class="fas fa-angle-double-right"></i> Wednesday, 10.6
+#### ``+ Independent work``
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
 
+#### ``+ In-class work``
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
+
+### <i class="fas fa-angle-double-right"></i> Friday, 10.8
+#### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 - [Related News Story 1](https://drive.google.com/file/d/1MKXEwIzucqon6ZVvQ_JaR1BGBhe6FrO3/view?usp=sharing)
 - [Related News Story 2](https://drive.google.com/file/d/15yC7BX__UBhUkrzc88BszxZMvnx7UITq/view?usp=sharing)
 {{< /details >}}
 
-{{< details "Week Five" >}}
+{{< details "Week Five" open >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.12
+### <i class="fas fa-angle-double-right"></i>  Monday, 10.11
 
 #### `+ Readings`
 
@@ -408,13 +397,13 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.14
+### <i class="fas fa-angle-double-right"></i>  Wednesday, 10.13
 
 #### ``+ Independent work``
 
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.16
+### <i class="fas fa-angle-double-right"></i>  Friday, 10.15
 
 #### ``+ In-class work``
 
@@ -433,21 +422,21 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< details "Week Six" >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.19
+### <i class="fas fa-angle-double-right"></i>  Monday, 10.18
 
 #### ``+ Independent work``
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/) 
   Continue your work in the Hive page for the synthesis essay.
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.21
+### <i class="fas fa-angle-double-right"></i>  Wednesday, 10.20
 
 #### ``+ Independent work``
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/)
   Continue your work in the Hive page for the synthesis essay.
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.23
+### <i class="fas fa-angle-double-right"></i>  Friday, 10.22
 
 #### ``+ In-class work``
 
