@@ -82,7 +82,7 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 
 - <i class="fas fa-star-of-life"></i> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
 {{< /hint >}}
 
@@ -92,7 +92,7 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 
 Create an electronic document for composing critical notes. Take *detailed* notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to **1)** reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity; **2)** interrogate the text by asking questions, raising objections, and making observations; **3)** connect and compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*,
 {{< /hint >}}
 
@@ -107,7 +107,7 @@ We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://goo
 - <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [C hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 - <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fas fa-info-circle"></i> You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
 {{< /hint >}}
 
@@ -143,7 +143,9 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Growth
 - Effort
 
-This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
+{{< hint note >}}
+<i class="fas fa-info-circle"></i> This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
+{{< /hint >}}
 
 ---
 
@@ -157,43 +159,47 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ## Symbol Legend
 
+
 | Symbol                                  | Note                                                                          |
 |:---------------------------------------:|:----------------------------------------------------------------------------- |
-| [<i class="fa fa-comments"></i>]()      | Conferences with professor                                                    |
+| <i class="fa fa-comments"></i>         | Conferences with professor                                                    |
 | <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
-| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas                                                   |
+| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to [Canvas](https://canvas.dartmouth.edu/)                                                   |
 | <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/courses/writing-2/wr2-syllabus/#iii-contribute-to-hive) |
 | <i class="fas fa-code-branch"></i>      | Peer work, in pairs or groups                                                 |
 | <i class="fa fa-bullhorn"></i>          | Discussion topic                                                              |
 | <i class="fa fa-book-open"></i>         | Course reading from the [*Open Handbook*](/resources/open-handbook)           |
 | <i class="fa fa-download"></i></i>      | Course reading download (.pdf)                                                |
-| <i class="fa fa-question-circle"></i>   | Question of the Day™                                                          |
+| <i class="fa fa-question-circle"></i>   | Question of the day™                                                          |
+| <i class="fas fa-box-open"></i>         | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
+|<span style="color:#36935b"><i class="fas fa-circle"></i></span> <span style="color:#68829e"><i class="fas fa-circle"></i></i></span> <span style="color:#c1832c"><i class="fas fa-circle"></i></span> <span style="color:#c22e2e"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
-<!---| <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox) --->
+
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" closed >}}
+{{< details "Week One" open >}}
 
 # 
-
----
 
 ### <i class="fas fa-angle-double-right"></i> Monday, 9.13
 
 ---
-
-#### `+ In-class work`
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - *Review*: syllabus, course policies, websites
 - Time for questions
 
-#### ``+ Assignments``
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+{{< /hint >}}
 
-- *What is education? What is its purpose?* *What does it do?* *How does it shape us?* Do some thinking and note-taking on these
+- *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions. Arrive to class on Wednesday with some ideas that you can express and defend.
 
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
@@ -204,16 +210,27 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ---
 
-#### `+ Readings`
+
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
-
-#### ``+ In-class work``
+  
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
 
 - <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
 - <i class="fa fa-bullhorn"></i> Discuss readings
-- <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation) (print out worksheet before class)
+
+---
+
+- <i class="fa fa-wrench"></i> [Annotation Workshop](/courses/workshops/annotation)
+
+---
+
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
 
 ---
@@ -222,46 +239,57 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ---
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will exchange essays electronically.
 
-#### `+ Due`
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+{{< /hint >}}
 
-{{< hint info >}} 
-<i class="fa fa-bullseye"></i> Essay 1 Draft Due
 
+- <i class="fa fa-bullseye"></i> Essay 1 Draft Due
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
-{{< /hint >}} 
 
 {{< /details >}}
 
 {{< details "Week Two" open >}}
+
 #
 
 ### <i class="fas fa-angle-double-right"></i>  Monday, 9.20
 
 ---
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
   
-#### ``+ Independent work``
-
+{{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
+  
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-- [Instructions for submitting to Hive](https://no-silo.com/resources/hive/).
-- <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*.
+- [Instructions for submitting to Hive](https://no-silo.com/resources/hive/)
+- <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
@@ -270,17 +298,19 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i>  Wednesday, 9.22
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for discussion.
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
-- <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1IgIvT-9lJTwDCwe7g6QYohFD7JNi54oaZ-6uj1QiARA/edit?usp=sharing) 
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Argument Analysis Workshop](https://docs.google.com/document/d/1vJ7Q1puQHTi8ZiAN2TEsRe3LfDU1iv2Tk_tHTMHaizU/edit?usp=sharing) 
 
 ---
 
@@ -288,12 +318,18 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ----
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
+- <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
+  
 
-#### `+ Assignments`
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+{{< /hint >}}
 
 - <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
 
@@ -304,7 +340,9 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i>  Monday, 9.27
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
@@ -312,33 +350,32 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i> Wednesday, 9.29
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
 
 ### <i class="fas fa-angle-double-right"></i> Friday, 10.1
 
-#### `+ In-class work`
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 - <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
 
-#### `+ Due`
-
-{{< hint info >}} 
-<i class="fa fa-bullseye"></i> Argument Summary Workshop Due
-
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 {{< /hint >}}
 
-{{< hint info >}}
-<i class="fa fa-bullseye"></i> Essay One Final Due
-
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-  {{< /hint >}}
-
+- <i class="fa fa-bullseye"></i> Argument Summary Workshop Due 
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+- <i class="fa fa-bullseye"></i> Essay One Final Due 
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+ 
 {{< /details >}}
 
 {{< details "Week Four" open >}}
@@ -346,34 +383,51 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i> Monday, 10.4
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
 
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading and Hive submissions
 
 ### <i class="fas fa-angle-double-right"></i> Wednesday, 10.6
-#### ``+ Independent work``
+
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
+
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 
 ### <i class="fas fa-angle-double-right"></i> Friday, 10.8
-#### ``+ In-class work``
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 - [Related News Story 1](https://drive.google.com/file/d/1MKXEwIzucqon6ZVvQ_JaR1BGBhe6FrO3/view?usp=sharing)
@@ -385,13 +439,17 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i>  Monday, 10.11
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
 
@@ -399,13 +457,18 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i>  Wednesday, 10.13
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
 
 ### <i class="fas fa-angle-double-right"></i>  Friday, 10.15
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
@@ -413,7 +476,9 @@ All students are entitled to full access to this course, regardless of disabilit
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
 
-#### `+ Assignments`
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+{{< /hint >}}
 
 - <i class="fa fa-calendar-alt"></i> [Essay 2](/courses/writing-2/essay-2)
 
@@ -424,28 +489,37 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i>  Monday, 10.18
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/) 
   Continue your work in the Hive page for the synthesis essay.
 
 ### <i class="fas fa-angle-double-right"></i>  Wednesday, 10.20
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/)
   Continue your work in the Hive page for the synthesis essay.
 
 ### <i class="fas fa-angle-double-right"></i>  Friday, 10.22
 
-#### ``+ In-class work``
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2.
 
-#### `+ Due`
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+{{< /hint >}}
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fa fa-bullseye"></i> Essay 2 Draft Due
 
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
@@ -457,31 +531,39 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< details "Week Seven" >}}
 #
 
-### { <i class="fas fa-house-user"></i> } Monday, 10.26
+### <i class="fas fa-angle-double-right"></i> Monday, 10.25
 
-#### `+ Readings`
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+{{< /hint >}}
 
 - <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu)  (1998). Film is in the "Media" section of Canvas.
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
 
 - <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
 
-#### `+ Assignments`
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+{{< /hint >}}
 
 - <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 10.28
+### <i class="fas fa-angle-double-right"></i> Wednesday, 10.27
 
-#### ``+ Independent work``
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+{{< /hint >}} 
 
 - Work on Essay 3 drafts individually. Prepare for Friday group discussion on film and essay drafts.
 
-### { <i class="fas fa-sync-alt"></i> } Friday, 10.30
+### <i class="fas fa-angle-double-right"></i> Friday, 10.29
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss *Rushmore* film and theoretical essay drafts.
@@ -492,31 +574,37 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< details "Week Eight" >}}
 #
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 11.2
+### <i class="fas fa-angle-double-right"></i> Monday, 11.1
 
-#### `+ In-class work`
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3.
 
-#### `+ Due`
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+{{< /hint >}}
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fa fa-bullseye"></i> Essay 3 Draft Due
 
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< / hint >}}
 
-### { <i class="fas fa-house-user"></i> } Wednesday, 11.4
+### <i class="fas fa-angle-double-right"></i> Wednesday, 11.3
 
 - Drafting and revising work on Essay 2
 
-### { <i class="fas fa-house-user"></i> } Friday, 11.6
+### <i class="fas fa-angle-double-right"></i> Friday, 11.5
 
-#### `+ Due`
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+{{< /hint >}}
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fa fa-bullseye"></i> Essay 2 Final Due
 
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
@@ -544,9 +632,12 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< details "Week Ten" >}}
 #
 
-### { <i class="fas fa-sync-alt"></i> } Monday, 11.16
+### <i class="fas fa-angle-double-right"></i> Monday, 11.15
 
-#### `+ In-class work`
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - Grading oddities: the "ON" grade
@@ -554,13 +645,17 @@ All students are entitled to full access to this course, regardless of disabilit
 - End-of-term reflection and review
 - Introduction to Writing 3
 
-#### `+ Assignments`
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+{{< /hint >}}
 
 - <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
 
-#### `+ Due`
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+{{< /hint >}}
 
-{{< hint info >}}
+{{< hint note >}}
 <i class="fa fa-bullseye"></i> Essay 3 Final Due
 
 - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()

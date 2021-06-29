@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 64 64" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<rect x="59" y="59" width="2" height="2" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="3" y="59" width="2" height="2" fill="#db8030" data-original="#000000" style="" class=""/>
+	<path d="M46.363,14.954L37.613,7H26.387l-8.75,7.954c-0.015,0.014-0.026,0.032-0.041,0.046h28.808   C46.389,14.986,46.379,14.968,46.363,14.954z" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="27" y="3" width="10" height="2" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="24" y="29" width="16" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="42" y="23" width="6" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="42" y="29" width="6" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="42" y="35" width="6" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<path d="M42,21h6v-2.346c0-0.571-0.122-1.125-0.309-1.654H42V21z" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="24" y="35" width="16" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="16" y="29" width="6" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="16" y="35" width="6" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="12" y="41" width="40" height="2" fill="#db8030" data-original="#000000" style="" class=""/>
+	<path d="M50,45h-4H18h-4v14H7v2h50v-2h-7V45z M18,45.175l14,11.53l14-11.53V59H18V45.175z" fill="#db8030" data-original="#000000" style="" class=""/>
+	<path d="M22,17h-5.691C16.122,17.529,16,18.083,16,18.654V21h6V17z" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="24" y="17" width="16" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="16" y="23" width="6" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+	<rect x="24" y="23" width="16" height="4" fill="#db8030" data-original="#000000" style="" class=""/>
+</g>
+</g></svg>

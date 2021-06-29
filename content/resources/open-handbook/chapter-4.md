@@ -8,7 +8,7 @@ title: "The Joy of Reuse (Save Your Work)"
 {{< /hint >}}
 
 
-# Chapter Four: The Joy of Reuse
+# The Joy of Reuse
 
 ---
 
