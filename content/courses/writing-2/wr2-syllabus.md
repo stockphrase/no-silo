@@ -174,7 +174,7 @@ All students are entitled to full access to this course, regardless of disabilit
 | <i class="fa fa-download"></i></i>      | Course reading download (.pdf)                                                |
 | <i class="fa fa-question-circle"></i>   | Question of the day™                                                          |
 | <i class="fas fa-box-open"></i>         | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
-|<span style="color:#36935b"><i class="fas fa-circle"></i></span> <span style="color:#68829e"><i class="fas fa-circle"></i></i></span> <span style="color:#c1832c"><i class="fas fa-circle"></i></span> <span style="color:#c22e2e"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
+|<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
 
 
@@ -249,16 +249,16 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 {{< /hint >}}
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review. We will exchange essays electronically.
 
 {{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> **Due**
 {{< /hint >}}
 
 
 - <i class="fa fa-bullseye"></i> Essay 1 Draft Due
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 
 {{< /details >}}
@@ -276,7 +276,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}}
 
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
   
 {{< hint note >}}
@@ -284,8 +284,8 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}} 
   
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-- [Instructions for submitting to Hive](https://no-silo.com/resources/hive/)
-- <i class="fas fa-hourglass-end"></i> *Complete Hive work by 10pm EST*
+    - <i class="far fa-question-circle"></i> [*Instructions for submitting to Hive*](https://no-silo.com/resources/hive/)
+    - <i class="fas fa-hourglass-end"></i> *Complete Hive work by Sunday @ 10pm EST*
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -323,7 +323,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}}
 
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-wrench"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
   
 
@@ -346,7 +346,14 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
+
+---
 
 ### <i class="fas fa-angle-double-right"></i> Wednesday, 9.29
 
@@ -397,7 +404,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}} 
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+    - <i class="fas fa-hourglass-end"></i> *Complete Hive work by Sunday @ 10pm EST*
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -413,7 +420,7 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 {{< /hint >}} 
 
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -428,7 +435,7 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 {{< /hint >}}
 
-- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 - [Related News Story 1](https://drive.google.com/file/d/1MKXEwIzucqon6ZVvQ_JaR1BGBhe6FrO3/view?usp=sharing)
 - [Related News Story 2](https://drive.google.com/file/d/15yC7BX__UBhUkrzc88BszxZMvnx7UITq/view?usp=sharing)
@@ -452,8 +459,15 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}} 
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+    - <i class="fas fa-hourglass-end"></i> *Complete Hive work by Sunday @ 10pm EST*
 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Freire reading and Hive submissions
 
 ### <i class="fas fa-angle-double-right"></i>  Wednesday, 10.13
 
@@ -461,7 +475,15 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 {{< /hint >}} 
 
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Prepare for discussion of text on Friday. 
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Freire reading and Hive submissions
 
 ### <i class="fas fa-angle-double-right"></i>  Friday, 10.15
 
@@ -484,23 +506,25 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Six" >}}
+{{< details "Week Six" open >}}
 #
 
 ### <i class="fas fa-angle-double-right"></i>  Monday, 10.18
 
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
-{{< /hint >}} 
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/) 
   Continue your work in the Hive page for the synthesis essay.
 
 ### <i class="fas fa-angle-double-right"></i>  Wednesday, 10.20
 
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
-{{< /hint >}} 
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
 
 - <i class="fa fa-wrench"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/)
   Continue your work in the Hive page for the synthesis essay.
@@ -519,16 +543,12 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 {{< /hint >}}
 
-{{< hint note >}}
-<i class="fa fa-bullseye"></i> Essay 2 Draft Due
-
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-
-{{< /hint >}}
+- <i class="fa fa-bullseye"></i> Essay 2 Draft Due
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< /details >}}
 
-{{< details "Week Seven" >}}
+{{< details "Week Seven" open >}}
 #
 
 ### <i class="fas fa-angle-double-right"></i> Monday, 10.25
@@ -547,7 +567,15 @@ All students are entitled to full access to this course, regardless of disabilit
 
 - View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
 
-- <i class="fas fa-hourglass-end"></i> *Complete independent work by 10pm EST*.
+- <i class="fas fa-hourglass-end"></i> *Complete Hive work by Sunday @ 10pm EST*
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+
 
 {{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
@@ -557,16 +585,19 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ### <i class="fas fa-angle-double-right"></i> Wednesday, 10.27
 
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
-{{< /hint >}} 
 
-- Work on Essay 3 drafts individually. Prepare for Friday group discussion on film and essay drafts.
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+{{< /hint >}}
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-wrench"></i> Theoretical analysis workshop
+
 
 ### <i class="fas fa-angle-double-right"></i> Friday, 10.29
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss *Rushmore* film and theoretical essay drafts.
 - <i class="fa fa-wrench"></i> Essay 3 workshop
 
 {{< /details >}}
@@ -587,12 +618,10 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 {{< /hint >}}
 
-{{< hint note >}}
-<i class="fa fa-bullseye"></i> Essay 3 Draft Due
+- <i class="fa fa-bullseye"></i> Essay 3 Draft Due
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-
-{{< / hint >}}
+---
 
 ### <i class="fas fa-angle-double-right"></i> Wednesday, 11.3
 
@@ -605,9 +634,9 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}}
 
 {{< hint note >}}
-<i class="fa fa-bullseye"></i> Essay 2 Final Due
+- <i class="fa fa-bullseye"></i> Essay 2 Final Due
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
   {{< /hint >}}
 
 {{< /details >}}
@@ -640,7 +669,6 @@ All students are entitled to full access to this course, regardless of disabilit
 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- Grading oddities: the "ON" grade
 - Winter meeting
 - End-of-term reflection and review
 - Introduction to Writing 3
@@ -655,11 +683,8 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 {{< /hint >}}
 
-{{< hint note >}}
-<i class="fa fa-bullseye"></i> Essay 3 Final Due
 
-- <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-
-{{< / hint >}}
+- <i class="fa fa-bullseye"></i> Essay 3 Final Due
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
 
 {{< /details >}}
