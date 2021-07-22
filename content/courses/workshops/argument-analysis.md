@@ -24,7 +24,7 @@ Baker is a very playful writer; there is a lot of silliness and extravagant verb
 
 ## What to Do
 
-Create a document that simply presents Baker's argumentative claims as a numbered list arranged in a logical order. 
+Work with a partner to create a document that simply presents Baker's argumentative claims as a numbered list arranged in a logical order. 
 
 ---
 

@@ -16,39 +16,54 @@ This term we will do a series of workshops designed to learn and practice variou
 {{< tab "Writing 2" >}} 
 
 {{< hint note >}} 
-#### [Altering sources](/courses/workshops/altering-sources)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Altering sources](/courses/workshops/altering-sources)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Annotation](/courses/workshops/annotation) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Annotation](/courses/workshops/annotation) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Argument analysis](/courses/workshops/argument-analysis) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Argument analysis](/courses/workshops/argument-analysis) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Argument summary](/courses/workshops/argument-summary) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Argument summary](/courses/workshops/argument-summary) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Sentence variety](/courses/workshops/sentence-variety)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Bibliography | Works Cited](/courses/workshops/mla-bibliography)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Working with sources](/courses/workshops/working-sources)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer Review](/courses/workshops/peer-review)
+{{< /hint >}} 
+
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Sentence variety](/courses/workshops/sentence-variety)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Peer Review](/courses/workshops/peer-review)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
+{{< /hint >}} 
+
+---
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Synthesis workshop
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  Considering audience
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Theoretical analysis workshop
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  Rhetorical analysis 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Considering audience
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Rhetorical analysis 
 {{< /hint >}} 
 
 

@@ -18,7 +18,7 @@ bookToc: true
 
 {{< hint note >}} 
 
-[<i class="fas fa-circle"></i>]() The title of this course is: *The End: Post-Apocalyptic Fiction, Film and Art*
+<span style="color: var(--circle-dots)"><i class="fas fa-plus-circle"></i></span> The title of this course is: *The End: Post-Apocalyptic Fiction, Film and Art*
 
 {{< /hint >}}
 
@@ -29,15 +29,15 @@ bookToc: true
 {{< tab "Materials" >}} 
 
 {{< hint note >}} 
-#### [Syllabus](/courses/writing-3/wr3-syllabus/)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Syllabus](/courses/writing-3/wr3-syllabus/)
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [*The Open Handbook*](/resources/open-handbook/)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>   [*The Open Handbook*](/resources/open-handbook/)
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [Course readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>   [Course readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip) 
 {{< /hint >}} 
 
  {{< /tab >}}
@@ -101,7 +101,7 @@ This lecture will help you learn how to locate physical items in the library's s
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  [**Workshop 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
+####  <i class="fas fa-wrench"></i>  [**Workshop 4: Works Cited or Bibliography**](/courses/workshops/chicago-bibliography/)
 {{< /hint >}} 
 
 This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.

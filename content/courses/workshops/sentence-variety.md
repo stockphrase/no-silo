@@ -8,7 +8,6 @@ type: docs
 {{< hint note >}} 
 #### <i class="fas fa-dot-circle"></i>  **WR3** | [**Workshops**](/courses/workshops/) 
 {{< /hint >}}
-<div style="text-align:center">{{< figure src="/img/workshop3.png" width=150 >}}</div>
 
 # Sentence Variety
 

@@ -204,20 +204,20 @@ the following:
 
 <div style="text-align:center">{{< figure src="/img/README.png" >}}</div>
 
-<!--
+<!---
 <div class="container">
         <div class="raised-edge">
 
-`... /ProjectAlpha/README.md`
+# **README.md**
 
 ---
 
-### RESEARCH PROJECT ALPHA
+## **# RESEARCH PROJECT ALPHA**
 
 
-**[Include an short summary of the project here . . .]()**
+Include an short summary of the project here . . .
 
-### Researchers
+## <font color="#859900"><b># Researchers</b></font>
 
 - Jeff Goldbug: [jeff.g.goldbug19@dartmouth.edu]()
 
@@ -244,9 +244,9 @@ the following:
 
 . . . 
 
-### Documents
+**Documents**
 
-[/ProjectAlpha/Docs/]()
+<font color="#859900"><b>/ProjectAlpha/Docs/</b></font>
 
 -- 201910-Bibliography.docx (Project bibliography)
 

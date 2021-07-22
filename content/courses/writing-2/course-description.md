@@ -16,7 +16,7 @@ type: docs
 
 {{< hint note >}} 
 
-[<i class="fas fa-circle"></i>]() The title of this course is: *Education and Authority*
+<span style="color: var(--circle-dots)"><i class="fas fa-plus-circle"></i></span> The theme of this course is: *Education and Authority*
 
 {{< /hint >}}
 
@@ -26,11 +26,11 @@ type: docs
 {{< tab "Materials" >}} 
 
 {{< hint note >}} 
-#### [Syllabus](/courses/writing-2/wr2-syllabus) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Syllabus](/courses/writing-2/wr2-syllabus) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [*The Open Handbook*](/resources/open-handbook/)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [*The Open Handbook*](/resources/open-handbook/)
 {{< /hint >}} 
 
  {{< /tab >}}
@@ -38,15 +38,15 @@ type: docs
 {{< tab "Assignments" >}} 
 
 {{< hint note >}} 
-#### [Essay 1: Argument](/courses/writing-2/essay-1)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 1: Argument](/courses/writing-2/essay-1)
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [Essay 2: Synthesis](/courses/writing-2/essay-2)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 2: Synthesis](/courses/writing-2/essay-2)
 {{< /hint >}} 
 
 {{< hint note >}} 
-#### [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
 {{< /hint >}} 
 
 {{< /tab >}}
@@ -56,39 +56,53 @@ type: docs
 #
 
 {{< hint note >}} 
-#### [Altering sources](/courses/workshops/altering-sources)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Altering sources](/courses/workshops/altering-sources)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Annotation](/courses/workshops/annotation) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Annotation](/courses/workshops/annotation) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Argument analysis](/courses/workshops/argument-analysis) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Argument analysis](/courses/workshops/argument-analysis) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Argument summary](/courses/workshops/argument-summary) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Argument summary](/courses/workshops/argument-summary) 
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Sentence variety](/courses/workshops/sentence-variety)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Bibliography | Works Cited](/courses/workshops/mla-bibliography)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Working with sources](/courses/workshops/working-sources)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer Review](/courses/workshops/peer-review)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  [Peer Review](/courses/workshops/peer-review)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Sentence variety](/courses/workshops/sentence-variety)
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  Considering audience
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
+{{< /hint >}} 
+
+---
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Synthesis workshop
 {{< /hint >}} 
 
 {{< hint note >}} 
-####  Rhetorical analysis 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Theoretical analysis workshop
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Considering audience
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Rhetorical analysis 
 {{< /hint >}} 
 
 

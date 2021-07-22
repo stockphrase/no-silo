@@ -10,11 +10,6 @@ type: docs
 #### <i class="fas fa-dot-circle"></i>  **WR3** | [**Workshops**](/courses/workshops/) 
 {{< /hint >}}
 
-{{< hint note >}}
-
-#### [<i class="fas fa-virus-slash"></i>]() COVID-19: Remote Study and the Library
-Due to COVID-19, the library will be using DartDoc (described below) to give you access to books and book chapters that you need while away from campus. While I am sure that they will do the best they can, there will likely be a longer wait for books than if you just walked into the library and got it yourself. This puts you at something of a disadvantage, so [you will have to be crafty](https://www.youtube.com/watch?v=Zmvt7yFTtt8).  
-{{< /hint >}}
 
 # Getting Sh<sub>*</sub>t the Library Doesn't Have
 

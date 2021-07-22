@@ -21,9 +21,9 @@ bookToC: false
 - <i class="fas fa-clock"></i> TH 12:30--2
 - Or by appointment
 
-#### [<i class="fas fa-virus-slash"></i>]() *Due to the  COVID-19 pandemic, my office hours for 2020-21 will be held via [Zoom](https://dartmouth.zoom.us/)*. 
-
 <i class="fas fa-question-circle"></i> [What are office hours?](https://vimeo.com/270014784)
+
+---
 
 ## Office location
 

@@ -10,6 +10,11 @@ title: "End-of-term Reflection and Review"
 
 This assignment asks you to reflect on all of your work this term. Ideally, this assignment would be completed during the calm after exams while you are at home with your families. Your responses to the questions below will be used in a conference during the first week of classes this winter.
 
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-dot-circle"></i></span> The purpose of this assignment is explained somewhat in question #6 in the [FAQ](/resources/FAQs).
+{{< /hint >}}
+
+
 ## I. Review your writing
 
 Gather together all of the drafts from the three major writing assignments of the term. (You are [saving all your work](/resources/open-handbook/chapter-4/), right?) Re-read the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor and fellow students.
