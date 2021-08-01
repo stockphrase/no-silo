@@ -8,16 +8,20 @@ title: "End-of-term Reflection and Review"
 
 # Fall Reflection and Review
 
-This assignment asks you to reflect on all of your work this term. Ideally, this assignment would be completed during the calm after exams while you are at home with your families. Your responses to the questions below will be used in a conference during the first week of classes this winter.
-
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-dot-circle"></i></span> The purpose of this assignment is explained somewhat in question #6 in the [FAQ](/resources/FAQs).
+This assignment takes the place of a final exam and asks you to reflect on all of your work this term. **The reflections and self-evaluations your perform here will largely determine your final grade**. Please write down your responses and keep them in a safe place---they will be used in a conference during the first week of classes this winter term. 
+
+- My rationale for this assignment is explained somewhat in question #6 in the [FAQ](/resources/FAQs).
+
 {{< /hint >}}
 
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></i></span> Directions
+{{< /hint >}}
 
 ## I. Review your writing
 
-Gather together all of the drafts from the three major writing assignments of the term. (You are [saving all your work](/resources/open-handbook/chapter-4/), right?) Re-read the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor and fellow students.
+After submitting all of your work for the term, gather together all of the drafts from the three major writing assignments of the term. (You are [saving all your work](/resources/open-handbook/chapter-4/), right?) Carefully examine the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor, teaching assistant, and fellow students.
 
 For each of the three essays, write down a response to the following questions:
 
@@ -33,7 +37,7 @@ For each of the three essays, write down a response to the following questions:
 1. Thinking about your experience of the class as a whole, what have you learned?
 2. Was there something you expected to learn, but didn't?
 3. Are there specific things you would like to work on in the winter term?
-4. What is your biggest struggle as a writer and student?
+4. What do you struggle with as a writer and student?
 
 
 ## III. Review your participation
@@ -51,5 +55,11 @@ For each of the three essays, write down a response to the following questions:
 
 Taking into account all of these reflections and self-evaluations, what final grade would you suggest for yourself?
 
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+{{< /hint >}}
+
+- <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
 
 

@@ -9,12 +9,8 @@ type: docs
 # About
 
 [<i class="fa fa-book-open"></i>](#) **The Open Handbook**
-        
 
-The *Open Handbook* project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. 
-
-If you would like to collaborate on the project or have a correction, please [contact me](/about/contact). If you know your way around git, you can fork the project on <i class="fas fa-code-branch"></i> [GitHub](https://github.com/stockphrase/no-silo).
-
+The *Open Handbook* project is a free, open-source reference handbook that introduces students to the conventions of academic writing and research. If you would like to collaborate on the project or have a correction, please [contact me](/about/contact). If you know your way around git, you can fork the project on <i class="fas fa-code-branch"></i> [GitHub](https://github.com/stockphrase/no-silo). 
 
 ---
 

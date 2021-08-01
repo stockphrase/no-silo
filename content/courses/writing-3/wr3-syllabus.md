@@ -12,9 +12,6 @@ title: "Writing 3: Syllabus"
 
 <div style="text-align:center">{{< figure src="/img/header-end.jpg" >}}</div>
 
-
-
-
 # Post-apocalyptic Fiction, Film, and Art
 
 
