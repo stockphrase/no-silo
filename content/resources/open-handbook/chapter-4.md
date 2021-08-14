@@ -146,6 +146,13 @@ open them. There is no right or wrong way to make a filing system, and
 one size will not fit all. You will have to determine for yourself what
 system makes sense.
 
+<!---
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-hand-paper"></i></i></span> If you don't plan to work with huge file systems or lots of data, you may stop reading now. <span style="color: var(--due)"><i class="fas fa-hand-paper"></i></i></span>
+
+{{< /hint >}}
+--->
+
 ## Very large filing systems
 
 Most students will find the simple filing system
@@ -208,7 +215,10 @@ the following:
 <div class="container">
         <div class="raised-edge">
 
-# **README.md**
+{{< hint note >}}
+# README.md
+
+{{< /hint >}}
 
 ---
 
@@ -217,7 +227,7 @@ the following:
 
 Include an short summary of the project here . . .
 
-## <font color="#859900"><b># Researchers</b></font>
+## <font color="#859900"><b>## Researchers</b></font>
 
 - Jeff Goldbug: [jeff.g.goldbug19@dartmouth.edu]()
 
@@ -225,10 +235,10 @@ Include an short summary of the project here . . .
 
 - Chloe Vinyl-Siding: [chloe.vinyl-siding@gmail.com]()
 
+## <font color="#859900"><b>## Data Inventory</b></font>
 
-### Data Inventory 
+<font color="#859900"><b>/ProjectAlpha/Data/</b></font>
 
-[/ProjectAlpha/Data/]()
 
 -- 201907-EditData.xlsx (data on edits)
 
@@ -242,9 +252,9 @@ Include an short summary of the project here . . .
 
 -- 201911-VisualizationV02.py (Update; bugfix \#15)
 
-. . . 
+<font color="#859900"><b>. . . </b></font>
 
-**Documents**
+## <font color="#859900"><b>## Documents</b></font>
 
 <font color="#859900"><b>/ProjectAlpha/Docs/</b></font>
 
@@ -254,7 +264,7 @@ Include an short summary of the project here . . .
 
 
 
-### Updates
+## <font color="#859900"><b>## Updates</b></font>
 
 - 20191012: Updated bibliography entries
 

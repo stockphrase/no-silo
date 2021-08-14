@@ -68,7 +68,7 @@ man” (47).
 a healthy, conscious man” until he watched a condemned prisoner “[step] slightly aside to
 avoid a puddle” on the way to the gallows (47).
 
-4. By moving “slightly aside to avoid a puddle,” a condemned man makes George Orwell suddenly realize a “curious” truth---“what it means to destroy a healthy, conscious man” (47).
+4. By moving “slightly aside to avoid a puddle,” a condemned man makes George Orwell suddenly realize a most “curious” truth: “what it means to destroy a healthy, conscious man” (47).
 
 5. As the condemned man approaches the gallows and steps slightly aside to avoid a puddle,
 Orwell observes: “It is curious, but till that moment I had never realized what it means to

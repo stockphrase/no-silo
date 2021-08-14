@@ -62,7 +62,7 @@ Below you will find examples of these three categories of plagiarism, each one u
 
 <div style="text-align:center">{{< figure src="/img/source.png" width=100 >}}</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When academic territories were parceled out in the early twentieth
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When academic territories were parceled out in the early twentieth
 century, anthropology got the tellers of tales and history got the
 keepers of written records. As anthropology and history diverged, human
 differences that hinged on literacy assumed an undeserved significance.

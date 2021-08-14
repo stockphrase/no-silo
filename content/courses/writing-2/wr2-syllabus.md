@@ -5,7 +5,7 @@ bookToc: true
 bookHidden: true
 title: "Writing 2: Syllabus"
 ---
-
+[<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about/bio)
 
 # Writing 2: Education and Authority
 
@@ -67,7 +67,7 @@ Here is a list of the typical assignments and activities that we will do each we
 
 - After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
-The following three numbered sections explain each of these practices in more detail:
+The following three numbered sections explain these practices in more detail:
 
 ### I. Annotating Texts
 
@@ -381,6 +381,13 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
+{{< /hint >}}
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+- <i class="fa fa-bullhorn"></i> Discuss reading 
+- <i class="fas fa-code-branch"></i> In-class work on the [Working with Sources Workshop](/courses/workshops/working-sources/) and [Argument Summary Workshop](/courses/workshops/argument-summary)
 
 {{< /hint >}}
 
@@ -391,7 +398,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 - <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
 
@@ -647,7 +654,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Seven" open >}}
+{{< details "Week Seven" >}}
 #
 
 
@@ -813,6 +820,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+- <i class="fa fa-question-circle"></i> Question of the Day™ 
 - <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
 - Winter Meetings
 - Introduction to Writing 3
@@ -820,7 +828,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /hint >}}
 
 
-- <i class="fa fa-question-circle"></i> Question of the Day™ 
+
 
 
 {{< hint note >}}

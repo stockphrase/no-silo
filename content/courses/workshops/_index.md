@@ -32,6 +32,10 @@ This term we will do a series of workshops designed to learn and practice variou
 {{< /hint >}} 
 
 {{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Argument synthesis](/courses/workshops/argument-synthesis) 
+{{< /hint >}} 
+
+{{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Bibliography | Works Cited](/courses/workshops/mla-bibliography)
 {{< /hint >}} 
 
@@ -51,11 +55,7 @@ This term we will do a series of workshops designed to learn and practice variou
 ---
 
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Synthesis workshop
-{{< /hint >}} 
-
-{{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Theoretical analysis workshop
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Theoretical argument
 {{< /hint >}} 
 
 {{< hint note >}} 

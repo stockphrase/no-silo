@@ -18,7 +18,7 @@ In college you will encounter demanding texts of great complexity. You will be a
 
 ## What is annotation?
 
-Annotation refers to the process of making meaningful marks on a text as you read it. These marks are helpful for a number of reasons that I describe in the [first chapter](http://localhost:1313/resources/open-handbook/chapter-1/) of the *Open Handbook*. This chapter comes first because it is perhaps the most important new skill and habit that you can develop as a first-year student. 
+Annotation refers to the process of making meaningful marks on a text as you read it. These marks are helpful for a number of reasons that I describe in the [first chapter](/resources/open-handbook/chapter-1) of the *Open Handbook*. This chapter comes first because it is perhaps the most important new skill and habit that you can develop as a first-year student. 
 
 ## Annotation strategies
 

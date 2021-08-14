@@ -31,7 +31,7 @@ In the MLA style the final bibliography is known as the "Works Cited" page. The 
 ---
 
 ## Directions
-Your assignment is to create a Works Cited page using several provided sources as if you were using them for a paper. What is the proper way to represent them? You may use the [MLA bibliography](https://no-silo.com/resources/open-handbook/chapter-11-mla/) section to figure out how to cite these sources on the Works Cited page. 
+Your assignment is to create a Works Cited page using several provided sources as if you were using them for a paper. What is the proper way to represent them? You may use the [MLA bibliography](https://no-silo.com/resources/open-handbook/chapter-11-mla/) section of the *Open Handbook* to figure out how to cite these sources on the Works Cited page. 
 
 ---
 
