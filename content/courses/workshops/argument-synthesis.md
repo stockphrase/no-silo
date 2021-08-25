@@ -38,8 +38,8 @@ Walker Percy and Paulo Freire, each in their own way, ask us to consider the pro
 
 Much as you did in a previous workshop, map out all of these argumentative connections between the two texts, producing an organized list. Flag similar terms or language that can help you draw comparisons or make connections. Make sure to scrupulously cite each reference to the text so you won't waste time trying to find them again later. 
 
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 ---
 <!---

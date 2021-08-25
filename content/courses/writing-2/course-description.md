@@ -49,6 +49,7 @@ type: docs
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
 {{< /hint >}} 
 
+
 {{< /tab >}}
 
 {{< tab "Workshops" >}} 

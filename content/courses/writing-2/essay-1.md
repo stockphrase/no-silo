@@ -10,7 +10,7 @@ title: "Essay One"
 
 ---
 
-What is education? What is its purpose? How does it shape us? Write an essay exploring these questions.
+What is education? What is its purpose? Write an essay exploring these questions.
 
 ## Format and length
 
@@ -19,7 +19,7 @@ What is education? What is its purpose? How does it shape us? Write an essay exp
 
 ## Special requirement
 
-*Do not perform any research for this essay*. No googling. No library visits. Don’t ask your uncle, friends, or roommate. Just use your head and write what you think.
+*Do not perform any research for this essay*. No googling. No library visits. Don’t ask your uncle, friends, or roommate. Just use your head and write what you think (it will be ok).
 
 ---
 

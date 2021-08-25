@@ -32,7 +32,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Academic Honesty
 
-All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [**plagiarism**](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
+All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
 ## Attendance
 
@@ -44,8 +44,8 @@ unexcused absences may result in repercussions ranging from significant reductio
 You will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on `argumentation,` `synthesis,` `close reading,` and `theoretical analysis.` The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
 
 - **Formatting**: During the fall term papers must be submitted in the
-  [**MLA style**](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [**Chicago
-  style**](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
+  [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago
+  style](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
 
 - **Revisions**: It is my practice to return essay drafts to you
   within one week. Afterward, you will have a minimum of one week to
@@ -59,11 +59,9 @@ Here is a list of the typical assignments and activities that we will do each we
 
 - Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
-- As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up
-  the text by adding meaningful symbols, marginal notes, and questions
-  on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
+- As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
-- After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
+- After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
 - After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
@@ -74,13 +72,13 @@ The following three numbered sections explain these practices in more detail:
 Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. Your objective in annotation is to flag the key elements of a piece of writing---the `thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This kind of work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
 
 {{< hint note >}}
-<i class="fas fa-star-of-life"></i> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
 
 {{< /hint >}}
 
 
 {{< hint note >}}
-<i class="fas fa-info-circle"></i> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
 {{< /hint >}}
 
 ---
@@ -90,23 +88,14 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 Create an electronic document for composing critical notes. Take *detailed* notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to **1)** reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity; **2)** interrogate the text by asking questions, raising objections, and making observations; **3)** connect and compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint note >}}
-<i class="fas fa-info-circle"></i> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*,
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
 {{< /hint >}}
 
 ---
 
-### III. Contribute to Hive
+### III. Contribute to Hive 
 
-Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
-
-We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each reading in this syllabus has an attached Google doc located in a link beneath it. There is a Hive document dedicated to your course section, so please make sure to make your contribution to the proper one. You may distinguish the documents by examining the notations, as in the example below:
-
-- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [C hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
-- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
-
-{{< hint note >}}
-<i class="fas fa-info-circle"></i> You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
-{{< /hint >}}
+<i class="fab fa-forumbee"></i> [Hive](/resources/hive) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
 
 Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
@@ -124,6 +113,20 @@ You might contribute to Hive by doing some of the following tasks:
 
 - Constructively question, respond, or correct the ideas or work of another student.
 
+We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) and Google docs to create the Hive resource. Each reading in the syllabus has a corresponding Google document within the shared drive which we will use to collectively explore and interrogate the text. 
+
+{{< hint note >}}
+
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to Hive, please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
+
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 6 @ 11 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 7 @ 12 hour
+
+
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span>  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
+{{< /hint >}}
+
+---
 
 ## Grading
 
@@ -141,7 +144,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Effort
 
 {{< hint note >}}
-<i class="fas fa-info-circle"></i> This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
 {{< /hint >}}
 
 ---
@@ -178,7 +181,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" >}}
+{{< details "Week One" open >}}
 
 # 
 
@@ -216,7 +219,7 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-- <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1tLyoh227feECCQO9RkoRb2Y-OD8IEa0l8HguEsXc9wE/edit?usp=sharing)
+- <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1jp5ZFBZzS3mzM10OmV_UAMmNv6jL2qM1IldHVJHcji0/edit?usp=sharing)
 - <i class="fa fa-bullhorn"></i> Discuss readings
 - <i class="fas fa-code-branch"></i> [Annotation Workshop](/courses/workshops/annotation)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
@@ -269,9 +272,9 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-- <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/file/d/14_RjlQXhaJ8dtgVNPLUNq5FCg7m4iNIC/view?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://docs.google.com/document/d/1ooebI1b8QDP_npM_MFdlR_hR0MIY8WX-zHYS-0Jvwgw/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://docs.google.com/document/d/1fWnzFlo7k4sHymIexo1GELbtLHUxqi6CzU9NGnWu-fg/edit?usp=sharing) 
+- <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing) 
   
 
 {{< /hint >}}
@@ -430,9 +433,9 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-- <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/file/d/1Npjajz6W2kRdjqpPWf0qOPvYH7j8DhZr/view?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://docs.google.com/document/d/1TLc11xGsaP_VTwuh14wXMhn_kiJu_tHyZDLw5fNZupM/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://docs.google.com/document/d/1Syidjvwu0FbIt3Dj2rWJG9i4Zqoswx-HYCmVU3N98cU/edit?usp=sharing)    
+- <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
 
 
 {{< /hint >}}
@@ -486,8 +489,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9/)
-- [Percy, related news story 1](https://drive.google.com/file/d/1MKXEwIzucqon6ZVvQ_JaR1BGBhe6FrO3/view?usp=sharing)
-- [Percy, related news story 2](https://drive.google.com/file/d/15yC7BX__UBhUkrzc88BszxZMvnx7UITq/view?usp=sharing)
+- [Percy, related news story](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
 
 {{< /hint >}}
 
@@ -495,7 +497,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-bullhorn"></i> Discuss Percy and related news stories
+- <i class="fa fa-bullhorn"></i> Discuss Percy and related news story
 - <i class="fas fa-code-branch"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/)
   
 
@@ -518,9 +520,9 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-- <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/file/d/1hVLdjMKPdAzPsUoDOP7JtlYmRwbOC8sZ/view?usp=sharinga)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://docs.google.com/document/d/1VRrnVMaO16Wlu12MavyVSlMorNgZUWRH2klnIUSHP5M/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://docs.google.com/document/d/1M_1oRCd7GsKBePlNgCJuH0dwv4XUpCewQ9mJriK8aAI/edit?usp=sharing)
+- <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 
 {{< /hint >}}
@@ -575,8 +577,8 @@ All students are entitled to full access to this course, regardless of disabilit
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 - <i class="fas fa-search"></i> Review answers to [Altering Sources Workshop](/courses/workshops/altering-sources)
 - <i class="fas fa-code-branch"></i> [Argument Synthesis Workshop](/courses/workshops/argument-synthesis/)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/12eB9QlqAAA3fDIcvr8Hl4iGMmSHrc-X6DF25wcUOp2M/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://docs.google.com/document/d/1DnGaeMA3p0thblQQl00YfuCXkJvS_Ffx3LWt9Hmb37M/edit?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 {{< /hint >}}
 
@@ -663,9 +665,9 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu)  (1998). Film is in the "Media" section of Canvas.
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1swBE_HQIG-FXa88bC3Pgl-lRBQKcwSZHO47Z_LocV24/edit?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://docs.google.com/document/d/1xb_sVHHb-k_ElYTbxTwyizDaGlOLuRNdYxEJJYLALH0/edit?usp=sharing)
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). Film is in the "Media" section of Canvas.
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 {{< /hint >}}
 
 
@@ -796,22 +798,81 @@ All students are entitled to full access to this course, regardless of disabilit
 
 {{< /details >}}
 
-{{< details "Week Nine" >}}
+
+{{< details "Week Nine" open >}}
 #
 
-### <i class="fas fa-star-of-life"></i> Monday, 11.9
+## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9
 
-- <i class="fa fa-comments"></i> Conferences
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+- <i class="fa fa-download"></i>  Matthew Crawford, ["The Case for Working with your Hands"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
-### <i class="fas fa-star-of-life"></i> Wednesday, 11.11
 
-- <i class="fa fa-comments"></i> Conferences
+{{< /hint >}}
 
-### <i class="fas fa-star-of-life"></i> Friday, 11.13
 
-- <i class="fa fa-comments"></i> Conferences
+
+
+ {{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
+    - <i class="far fa-clock"></i> *Complete Hive work by Sunday @ 10pm EST*
+
+{{< /hint >}} 
+
+
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Crawford reading and Hive submissions
+
+{{< /hint >}}
+
+
+---
+
+## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.11
+
+{{< hint note >}}
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
+{{< /hint >}} 
+
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Crawford reading and Hive submissions
+
+{{< /hint >}}
+
+
+---
+
+## <i class="fas fa-chevron-circle-right"></i> Friday, 11.13
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+- <i class="fa fa-box"></i> Friday Soapbox
+- <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+{{< /hint >}}
+
+
+
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+- <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+{{< /hint >}}
+
 
 {{< /details >}}
+
 
 {{< details "Week Ten" >}}
 #
@@ -842,6 +903,8 @@ All students are entitled to full access to this course, regardless of disabilit
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 - <i class="fa fa-bullseye"></i> Essay 3 Final
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+- <i class="fa fa-wrench"></i> [Sentence Variety](/courses/workshops/sentence-variety) workshop
+    - <i class="fas fa-print"></i> Bring printout of your workshop to class
 
 {{< /hint >}}
 

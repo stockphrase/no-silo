@@ -21,6 +21,8 @@ bookToC: false
 - <i class="fas fa-clock"></i> TH 12:30--2
 - Or by appointment
 
+<span style="color: var(--due)"><i class="fas fa-virus"></i></span> Due to COVID-19, my office hours may be conducted via Zoom.
+
 <i class="fas fa-question-circle"></i> [What are office hours?](https://vimeo.com/270014784)
 
 ---

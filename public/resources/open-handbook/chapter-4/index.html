@@ -10,13 +10,13 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://no-silo.com/resources/open-handbook/chapter-4/" /><meta property="article:section" content="resources" />
 
-<meta property="article:modified_time" content="2021-07-21T20:53:34-04:00" />
+<meta property="article:modified_time" content="2021-08-14T14:40:30-04:00" />
 
 <title>The Joy of Reuse (Save Your Work) | No Silo</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/book.min.693652a2f3e822a107c16ec661d478b2841d12f3c9dfdcb1c8264d3fb7b2af6a.css" integrity="sha256-aTZSovPoIqEHwW7GYdR4soQdEvPJ39yxyCZNP7eyr2o=">
-<script defer src="/en.search.min.a69ac2913e00f0666303460c0122844959e55a8c0094d5070c0cdfe410d65400.js" integrity="sha256-pprCkT4A8GZjA0YMASKESVnlWowAlNUHDAzf5BDWVAA="></script>
+<link rel="stylesheet" href="/book.min.b3c6fbd58901de3687a6ae2b037f7b0047670694b521e81564a115718eb946d5.css" integrity="sha256-s8b71YkB3jaHpq4rA397AEdnBpS1IegVZKEVcY65RtU=">
+<script defer src="/en.search.min.1549e25ab22c4ead2ac880e288207ea85d7d4dddb4f7c41bc8ecb594a4de0ede.js" integrity="sha256-FUniWrIsTq0qyIDiiCB&#43;qF19Td2098QbyOy1lKTeDt4="></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -308,7 +308,8 @@ https://github.com/alex-shpak/hugo-book
         </li>
       </ul>
     </li>
-    <li><a href="#heading-2"></a>
+    <li><a href="#heading-2"></a></li>
+    <li><a href="#heading-3"></a>
       <ul>
         <li><a href="#file-naming-advice">File-naming advice</a></li>
         <li><a href="#naming-top-level-project-folders">Naming top-level project folders</a></li>
@@ -316,7 +317,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#a-very-large-file-system-example">A very large file system example</a></li>
       </ul>
     </li>
-    <li><a href="#heading-3"></a>
+    <li><a href="#heading-4"></a>
       <ul>
         <li><a href="#back-up-all-your-data">Back up all your data</a></li>
       </ul>
@@ -521,80 +522,64 @@ project.</p>
 </ul>
 <h3 id="example-readme-file">Example README file</h3>
 <h1 id="heading-2"></h1>
+<!---
 <div style="text-align:center"><figure>
     <img src="/img/README.png"/> 
 </figure>
 </div>
-<!---
+
+--->
 <div class="container">
         <div class="raised-edge">
-
 <blockquote class="book-hint note">
-  <h1 id="readmemd">README.md</h1>
+  <h2 id="readmemd">README.md</h2>
 
 </blockquote>
 
-
----
-
-## **# RESEARCH PROJECT ALPHA**
-
-
-Include an short summary of the project here . . .
-
-## <font color="#859900"><b>## Researchers</b></font>
-
-- Jeff Goldbug: [jeff.g.goldbug19@dartmouth.edu]()
-
-- Alain Frenchy: [alain.frenchy@stanford.edu]()
-
-- Chloe Vinyl-Siding: [chloe.vinyl-siding@gmail.com]()
-
-## <font color="#859900"><b>## Data Inventory</b></font>
-
-<font color="#859900"><b>/ProjectAlpha/Data/</b></font>
-
-
--- 201907-EditData.xlsx (data on edits)
-
--- 201907-EditData.RData (R dataset file)
-
--- 201907-GrantLetter.docx (Letter to rich foundation)
-
--- 201907-Visualization.py (Data visualization program)
-
--- 201910-VisualizationV01.py (Update; bugfix \#14)
-
--- 201911-VisualizationV02.py (Update; bugfix \#15)
-
-<font color="#859900"><b>. . . </b></font>
-
-## <font color="#859900"><b>## Documents</b></font>
-
-<font color="#859900"><b>/ProjectAlpha/Docs/</b></font>
-
--- 201910-Bibliography.docx (Project bibliography)
-
--- 201910-Presentation.pptx (Class presentation)
-
-
-
-## <font color="#859900"><b>## Updates</b></font>
-
-- 20191012: Updated bibliography entries
-
-- 20191028: Update to visualization program
-
-- 20191103: Update to visualization program
-
-
+<hr>
+<p><font color="#859900"><b># Research Project Alpha</b></font></p>
+<p>Include an short summary of the project here . . .</p>
+<p><font color="#859900"><b>## Researchers</b></font></p>
+<ul>
+<li>
+<p>Jeff Goldbug: <a href="">jeff.g.goldbug19@dartmouth.edu</a></p>
+</li>
+<li>
+<p>Alain Frenchy: <a href="">alain.frenchy@stanford.edu</a></p>
+</li>
+<li>
+<p>Chloe Vinyl-Siding: <a href="">chloe.vinyl-siding@gmail.com</a></p>
+</li>
+</ul>
+<p><font color="#859900"><b>## Data Inventory</b></font></p>
+<p><font color="#859900"><b>/ProjectAlpha/Data/</b></font></p>
+<p>&ndash; 201907-EditData.xlsx (data on edits)</p>
+<p>&ndash; 201907-EditData.RData (R dataset file)</p>
+<p>&ndash; 201907-GrantLetter.docx (Letter to rich foundation asking for $$)</p>
+<p>&ndash; 201907-Visualization.py (Data visualization program)</p>
+<p>&ndash; 201910-VisualizationV01.py (Update; bugfix #14)</p>
+<p>&ndash; 201911-VisualizationV02.py (Update; bugfix #15)</p>
+<p><font color="#859900"><b>. . . </b></font></p>
+<p><font color="#859900"><b>## Documents</b></font></p>
+<p><font color="#859900"><b>/ProjectAlpha/Docs/</b></font></p>
+<p>&ndash; 201910-Bibliography.docx (Project bibliography)</p>
+<p>&ndash; 201910-Presentation.pptx (Class presentation)</p>
+<p><font color="#859900"><b>## Updates</b></font></p>
+<ul>
+<li>
+<p>20191012: Updated bibliography entries</p>
+</li>
+<li>
+<p>20191028: Update to visualization program</p>
+</li>
+<li>
+<p>20191103: Update to visualization program</p>
+</li>
+</ul>
  <div class="edge-shadow"></div>
         </div>
       </div>    
-
-#
-
---->
+<h1 id="heading-3"></h1>
 <h2 id="file-naming-advice">File-naming advice</h2>
 <p>Avoid using spaces or underscores in the naming of folders, as some
 computer systems or programs will have difficulty with them. Instead,
@@ -653,7 +638,7 @@ human-readable.</p>
  <div class="edge-shadow"></div>
         </div>
       </div>    
-<h1 id="heading-3"></h1>
+<h1 id="heading-4"></h1>
 <h2 id="back-up-all-your-data">Back up all your data</h2>
 <p>All of this hard work of organizing will be for nothing, however, if you
 don&rsquo;t take pains to back up your data. <em>Please, I beg of you, back up
@@ -682,9 +667,9 @@ these words and not doing anything about it.</p>
 
 
 
-  <div><a class="flex align-center" href="https://github.com/stockphrase/no-silo/commit/c0408bebcb0a56ccb10ca40dc9295be03e1e1c46" title='Last modified by stockphrase | July 21, 2021' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/stockphrase/no-silo/commit/8736c6a0b95b0c59d3e1e4866494c6ad2583f42c" title='Last modified by stockphrase | August 14, 2021' target="_blank" rel="noopener">
       <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>July 21, 2021</span>
+      <span>August 14, 2021</span>
     </a>
   </div>
 
@@ -737,7 +722,8 @@ these words and not doing anything about it.</p>
         </li>
       </ul>
     </li>
-    <li><a href="#heading-2"></a>
+    <li><a href="#heading-2"></a></li>
+    <li><a href="#heading-3"></a>
       <ul>
         <li><a href="#file-naming-advice">File-naming advice</a></li>
         <li><a href="#naming-top-level-project-folders">Naming top-level project folders</a></li>
@@ -745,7 +731,7 @@ these words and not doing anything about it.</p>
         <li><a href="#a-very-large-file-system-example">A very large file system example</a></li>
       </ul>
     </li>
-    <li><a href="#heading-3"></a>
+    <li><a href="#heading-4"></a>
       <ul>
         <li><a href="#back-up-all-your-data">Back up all your data</a></li>
       </ul>

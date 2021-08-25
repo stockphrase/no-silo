@@ -209,25 +209,28 @@ the following:
 
 #
 
+<!---
 <div style="text-align:center">{{< figure src="/img/README.png" >}}</div>
 
-<!---
+--->
 <div class="container">
         <div class="raised-edge">
 
 {{< hint note >}}
-# README.md
+## README.md
 
 {{< /hint >}}
 
 ---
 
-## **# RESEARCH PROJECT ALPHA**
+ <font color="#859900"><b># Research Project Alpha</b></font>
+
 
 
 Include an short summary of the project here . . .
 
-## <font color="#859900"><b>## Researchers</b></font>
+
+ <font color="#859900"><b>## Researchers</b></font>
 
 - Jeff Goldbug: [jeff.g.goldbug19@dartmouth.edu]()
 
@@ -235,7 +238,7 @@ Include an short summary of the project here . . .
 
 - Chloe Vinyl-Siding: [chloe.vinyl-siding@gmail.com]()
 
-## <font color="#859900"><b>## Data Inventory</b></font>
+ <font color="#859900"><b>## Data Inventory</b></font>
 
 <font color="#859900"><b>/ProjectAlpha/Data/</b></font>
 
@@ -244,7 +247,7 @@ Include an short summary of the project here . . .
 
 -- 201907-EditData.RData (R dataset file)
 
--- 201907-GrantLetter.docx (Letter to rich foundation)
+-- 201907-GrantLetter.docx (Letter to rich foundation asking for $$)
 
 -- 201907-Visualization.py (Data visualization program)
 
@@ -254,7 +257,7 @@ Include an short summary of the project here . . .
 
 <font color="#859900"><b>. . . </b></font>
 
-## <font color="#859900"><b>## Documents</b></font>
+ <font color="#859900"><b>## Documents</b></font> 
 
 <font color="#859900"><b>/ProjectAlpha/Docs/</b></font>
 
@@ -263,8 +266,7 @@ Include an short summary of the project here . . .
 -- 201910-Presentation.pptx (Class presentation)
 
 
-
-## <font color="#859900"><b>## Updates</b></font>
+ <font color="#859900"><b>## Updates</b></font>
 
 - 20191012: Updated bibliography entries
 
@@ -279,7 +281,6 @@ Include an short summary of the project here . . .
 
 #
 
---->
 
 
 ## File-naming advice

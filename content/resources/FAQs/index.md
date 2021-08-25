@@ -85,6 +85,28 @@ College should be a series of experiences through which you *gain ownership over
 
 {{< /details >}}
 
+<!---
+{{< details "7. What should we call you?" >}}
+
+#
+> ### Honorifics and such...
+
+
+How should you address your teachers? 
+
+Almost every year a student will ask me "What do we call you?" on the first day of classes. This is a difficult question to answer. All of your teachers at Dartmouth have terminal degrees in at least one academic field. Usually this means a Ph.D. They publish books and articles. They are asked to give speeches and talk on television. For some faculty, this has become so related to their own sense of self-worth that they will visibly cringe if you call them "Bill" or, even worse, "Mr. Smith." Let's call this group the `Prouds`. 
+
+A second group, although just as accomplished as the Prouds, are less dependent on their academic accomplishments to gain psychological uplift. They would actually *prefer* if you called them by their first name in order to better signal a desire to close the distance between teacher and pupil. Let's call them `Brofessors` or `Brofs` for short. 
+
+A third group, perhaps the most interesting of the bunch, are the `pseudo-Brofs.` While they will look you directly in the eye and say "I don't care what you call me," or "call me Phyllis," in truth (for psychological reasons too complex to go into here) they crave the honorific "doctor" or "professor" even more than the Prouds. 
+
+Now, students, what does this mean for you? It means that unless you love to court danger and/or have too much integrity to submit to any form of authority, the safe move is probably to call all your teachers "professor X" or "doctor X." You can call me Alan (or can you?)
+
+
+{{< /details >}}
+
+--->
+
 {{< details "7. Are you as grumpy as this FAQ suggests?" >}}
 
 #
@@ -94,5 +116,8 @@ College should be a series of experiences through which you *gain ownership over
 Now [you kids get off my lawn!](https://en.wikipedia.org/wiki/You_kids_get_off_my_lawn!)
 
 {{< /details >}}
+
+
+
 
 

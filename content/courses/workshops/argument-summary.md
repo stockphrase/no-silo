@@ -20,7 +20,7 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 - One of the main skills required here is the ability to distinguish `assertions` & `claims` from `examples` & `metaphors.` Given the word limit in this assignment, you should focus on presenting the former pair and not the latter pair. Just present the argument to your reader as you understand it. 
 
-- Your work in the [argument analysis workshop](/courses/workshops/argument-analysis) should be very helpful to you. Although you may worked with partners to decide what to include in the summary, you must write your own.
+- Your previous work in the [argument analysis workshop](/courses/workshops/argument-analysis) should be very helpful to you. Although you may worked with partners to decide what to include in the summary, you must write your own.
 
 ## Common questions
 
