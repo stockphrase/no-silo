@@ -9,6 +9,7 @@ type: docs
 #### <i class="fas fa-dot-circle"></i>  **WR2** | [**Workshops**](/courses/workshops/) 
 {{< /hint >}}
 
+
 # Peer Review Work
 
 ---
@@ -24,6 +25,12 @@ Take a moment to reflect on your work. Consider the following questions and writ
 - How do you plan to make this draft better?
 - Do you have any specific things you'd like your reviewers to consider or help you with?
 - Do you have any questions?
+
+---
+
+| Download       | Purpose      
+| :-------------: |:-------------
+|<i class="fa fa-download "></i> [Worksheet](/docs/peer-review.docx)    | Use this peer review worksheet for steps I and II, described below. Give your worksheet back to your partner after reviewing his/her work. 
 
 
 

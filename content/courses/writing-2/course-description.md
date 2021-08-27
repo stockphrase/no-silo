@@ -16,11 +16,10 @@ type: docs
 
 {{< hint note >}} 
 
-<span style="color: var(--circle-dots)"><i class="fas fa-plus-circle"></i></span> The theme of this course is: *Education and Authority*
+<span style="color: var(--in-class)"><i class="fas fa-plus-circle"></i></span> The theme of this course is: *Education and Authority*
 
 {{< /hint >}}
 
----
 
 {{< tabs "WR3-Content" >}}
 {{< tab "Materials" >}} 
@@ -37,6 +36,7 @@ type: docs
 
 {{< tab "Assignments" >}} 
 
+### <span style="color: var(--in-class)"><i class="fas fa-plus-circle"></i></span> Major Assignments
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 1: Argument](/courses/writing-2/essay-1)
 {{< /hint >}} 
@@ -49,12 +49,10 @@ type: docs
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
 {{< /hint >}} 
 
+---
 
-{{< /tab >}}
+### <span style="color: var(--in-class)"><i class="fas fa-plus-circle"></i></span> Workshops
 
-{{< tab "Workshops" >}} 
-
-#
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Altering sources](/courses/workshops/altering-sources)
@@ -108,4 +106,7 @@ type: docs
 
 
  {{< /tab >}}
+
+
+
 

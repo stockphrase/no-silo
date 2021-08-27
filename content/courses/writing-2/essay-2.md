@@ -10,6 +10,13 @@ title: "Essay Two"
 
 ---
 
+## Format and length
+
+- 5-7 pages
+- Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
+
+---
+
 Percy and Freire, each in their own way, ask us to consider the problem of authority within educational systems or experiences. Write an essay that `synthesizes` their thinking, explaining how they both investigate the nature of this problem, examine its consequences, and offer solutions.
 
 As the name suggests, synthesis essays focus on combining and connecting. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments or ideas relate to one another.

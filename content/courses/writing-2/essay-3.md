@@ -23,6 +23,7 @@ Use Freire's essay as as theoretical lens. You will have to work hard to provide
 
 - For [more information](https://no-silo.com/resources/open-handbook/chapter-6/#theoretical-writing) on writing a theoretical argument.
 
+<!---
 ## Example of Theoretical Analysis
 
 Here is a slice of a theoretical analysis that might give you a sense of how to use the theory and provide proper context for your analysis:
@@ -32,6 +33,8 @@ Here is a slice of a theoretical analysis that might give you a sense of how to 
 >
 >There are numerous examples of Max's selfish failure to engage in the types of communication that Freire recommends. For example, [blah, blah, blah].
 
+--->
+---
 
 ## Stills from *Rushmore*
 

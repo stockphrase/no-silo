@@ -16,7 +16,6 @@ title: "Writing 2: Syllabus"
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
-
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
@@ -30,6 +29,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
 
+
 ## Academic Honesty
 
 All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
@@ -41,7 +41,7 @@ unexcused absences may result in repercussions ranging from significant reductio
 
 ## Papers
 
-You will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on `argumentation,` `synthesis,` `close reading,` and `theoretical analysis.` The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
+You will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `theoretical analysis`. You will compose a minimum of 20 pages for these formal essays; however, you will determine how many pages to submit for most assignments. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
 
 - **Formatting**: During the fall term papers must be submitted in the
   [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago
@@ -178,6 +178,28 @@ All students are entitled to full access to this course, regardless of disabilit
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
 
+## Basic Course Stats
+
+Are you a college admin or transfer student who needs some basic data about this course? Look no further:
+
+{{< details "Writing 2 by the Numbers" >}}
+#
+
+
+| Course element                                | Stats                                                                |
+|:----------------------------------------|:-----------------------------------------------------------------------------: |
+| Number of formal essays written by students                | 3                                  |
+| Minimum number of pages written by students in formal essays | 20                                                                 |
+| Number of short reading responses composed by students | 5 |
+| Number of course readings                      | 5                                                        |
+| Number of pages of professional writing read by students          | 54                                                                                  |
+| Number of films viewed                    | 1                                                                           |
+| Number of writing workshops                 | 8                                               |
+| Number of peer reviews made of other student's work | 4
+| Total cost of course textbooks & materials                      | $0.00                                                                                                |
+| Days when we eat donuts in class              | 1                                                                         |
+| Current age of professor  | 46
+{{< /details >}}
 
 ## Schedule of Readings and Assignments
 
@@ -799,7 +821,7 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< /details >}}
 
 
-{{< details "Week Nine" open >}}
+{{< details "Week Nine" >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9
@@ -920,3 +942,6 @@ All students are entitled to full access to this course, regardless of disabilit
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
     
     {{< /details >}}
+    
+    
+    
