@@ -13,6 +13,8 @@ title: "Essay Three"
 
 ---
 
+## Prompt
+
 Max Fischer has an insatiable appetite for extracurricular activities: fencing, bee-keeping, yankee racers, calligraphy, backgammon, theater, and on and on and on. These projects and clubs are forms of self-improvement---kinds of sovereign inquiry---but they completely dwarf his responsibilities in the traditional disciplines of formal education: geometry, history, English, etc. According to Dr. Guggenheim, Max is "one of the worst students" at Rushmore Academy.
 
 But what might Paulo Freire argue about Max's behavior as a human being and a scholar? How might we use Freire's ideas from "The 'Banking' Concept of Education" to analyze or judge the educational trajectory and behavior of Max?
@@ -22,6 +24,12 @@ Taking what you know of Freire's thinking in "The 'Banking' Concept of Education
 Use Freire's essay as as theoretical lens. You will have to work hard to provide your audience proper context---explanations of Freire's ideas and arguments which you will then use as a means of interpreting *Rushmore*. Imagine that your audience has not read Freire's essay. What ideas, arguments, and terms from Freire's essay will you need to carefully explain so that the audience will understand how they may be used to arrive at a new understanding of the film?
 
 - For [more information](https://no-silo.com/resources/open-handbook/chapter-6/#theoretical-writing) on writing a theoretical argument.
+
+
+{{< hint note >}} 
+
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
+{{< /hint >}} 
 
 <!---
 ## Example of Theoretical Analysis

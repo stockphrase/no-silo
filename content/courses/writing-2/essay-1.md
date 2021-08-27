@@ -10,8 +10,11 @@ title: "Essay One"
 
 ---
 
+## Prompt
 
 What is education? What is its purpose? Write an essay exploring these questions.
+
+## Length and format
 
 {{< hint note >}} 
 
@@ -24,6 +27,7 @@ What is education? What is its purpose? Write an essay exploring these questions
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
+---
 
 ## Special requirement
 
