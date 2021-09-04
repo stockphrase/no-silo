@@ -28,8 +28,6 @@ I always give each essay draft a full set of written comments. And I'm committed
 
 > ### Grumble, grumble...ok.
 
-I have softened on this a bit over the years, mostly because students always ignore my request that they bring a hard copy to my office. Also there is the crushing guilt I feel every time I walk by a tree and think of the toll this policy has had on the natural world. 
-
 In the past I've said no to this question because I found that students who bring laptops to my office often type the words that I say directly into their laptops. This potentially blurs the line between critique and authorship. Since it is important that you do your own work, it is best to avoid this problem/temptation by using a hard copy. But if you can avoid this temptation, I'm ok with your fancy technology. 
     
 {{< /details >}}
@@ -86,21 +84,39 @@ College should be a series of experiences through which you *gain ownership over
 {{< /details >}}
 
 <!---
+
 {{< details "7. What should we call you?" >}}
 
 #
 > ### Honorifics and such...
 
 
-How should you address your teachers? 
+Almost every year a student will ask me "What do we call you?" on the first day of classes. So how should you address your teachers? This is a difficult question to answer. Let's think about this rhetorically. Who is the audience we are addressing?
 
-Almost every year a student will ask me "What do we call you?" on the first day of classes. This is a difficult question to answer. All of your teachers at Dartmouth have terminal degrees in at least one academic field. Usually this means a Ph.D. They publish books and articles. They are asked to give speeches and talk on television. For some faculty, this has become so related to their own sense of self-worth that they will visibly cringe if you call them "Bill" or, even worse, "Mr. Smith." Let's call this group the `Prouds`. 
+{{< hint note >}}
+### <i class="fas fa-graduation-cap"></i> The Prouds
+{{< /hint >}}
+
+All of your teachers at Dartmouth have terminal degrees in at least one academic field. Usually this means a Ph.D. They publish books and articles. They are asked to give speeches and talk on television. For some faculty, this has become so related to their own sense of self-worth that they will visibly cringe if you call them "Bill" or, even worse, "Mr. Smith." Let's call this group the `Prouds`. 
+
+{{< hint note >}}
+### <i class="fas fa-graduation-cap"></i> The Brofs
+{{< /hint >}}
 
 A second group, although just as accomplished as the Prouds, are less dependent on their academic accomplishments to gain psychological uplift. They would actually *prefer* if you called them by their first name in order to better signal a desire to close the distance between teacher and pupil. Let's call them `Brofessors` or `Brofs` for short. 
 
-A third group, perhaps the most interesting of the bunch, are the `pseudo-Brofs.` While they will look you directly in the eye and say "I don't care what you call me," or "call me Phyllis," in truth (for psychological reasons too complex to go into here) they crave the honorific "doctor" or "professor" even more than the Prouds. 
+{{< hint note >}}
+### <i class="fas fa-graduation-cap"></i> The Pseudo-Brofs
+{{< /hint >}}
 
-Now, students, what does this mean for you? It means that unless you love to court danger and/or have too much integrity to submit to any form of authority, the safe move is probably to call all your teachers "professor X" or "doctor X." You can call me Alan (or can you?)
+A third group, perhaps the most interesting of the bunch, are the `pseudo-Brofs.` While they will look you directly in the eye and say "I don't care what you call me," or "call me Phyllis," in truth (for psychological reasons too complex to go into here) they crave the honorific "doctor" or "professor" even more than the Prouds, but are ashamed to admit it or enforce it. 
+
+
+{{< hint note >}}
+### <i class="fas fa-user"></i> The Student
+{{< /hint >}}
+
+Now, students, what does this mean for you? It means that unless you love to court danger and/or have too much integrity to submit to any form of authority, the safe move is probably to call all your teachers "professor X" or "doctor X."
 
 
 {{< /details >}}

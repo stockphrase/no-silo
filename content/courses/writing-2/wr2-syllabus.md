@@ -5,6 +5,8 @@ bookToc: true
 bookHidden: true
 title: "Writing 2: Syllabus"
 ---
+
+
 [<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about/bio)
 
 # Writing 2: Education and Authority
@@ -12,9 +14,58 @@ title: "Writing 2: Syllabus"
 ## Course Description
 
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary,` `paraphrase,` and `quotation.`
+**Writing 2-3** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
+
+## <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> COVID-19 Policies & Resources
+
+
+
+{{< details "COVID-19 Information" >}}
+
+#
+
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
+
+{{< /hint >}}
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you feel symptomatic, [contact Dartmouth Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately. 
+
+---
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Please wear your mask in class properly (covering both nose and mouth). 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Eating in class is not allowed. 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must drink something in class, do so quickly and then replace your mask. 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must cough or sneeze, do not remove your mask to do so.
+
+---
+
+- <span style="color: var(--in-class)"><i class="fas fa-money-bill-wave"></i></span> If you have trouble affording masks, please let me know.
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
+{{< /hint >}} 
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss a class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
+{{< /hint >}}
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> [Schedule a COVID-19 test](https://health-clinics.dartmouth.edu/).
+
+---
+ 
+- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
+
+
+{{< /details >}}
 
 ## Required Texts
 
@@ -28,30 +79,48 @@ During the winter term we will turn our focus to academic research. Our librarie
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
+                                                             
+<!---
+## Course at a Glance
 
+Basic information about this course for college administrators or transfer students.
+
+{{< details "Course Data" >}}
+#
+
+
+
+| Course element                                | Stats                                                                |
+|:----------------------------------------|:-----------------------------------------------------------------------------: |
+| Number of formal essays written by students                | 3                                  |
+| Minimum number of pages written by students in formal essays | 20                                                                 |
+| Number of short reading responses composed by students | 5 |
+| Number of primary course readings                      | 5                                                        |
+| Page count of primary course readings          | 55                                                                                  |
+| Number of secondary course handbook readings                   | 8                                                        |
+| Number of films viewed                    | 1                                                                           |
+| Number of writing workshops                 | 8                                               |
+| Number of peer reviews made of other student's work | 4
+| Total cost of course textbooks & materials                      | $0.00                                                                                                |
+| Days when we eat donuts in class              | 1                                                                        |
+| Current age of professor  | 46
+{{< /details >}}
+
+--->
 
 ## Academic Honesty
 
 All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
+---
+
 ## Attendance
 
-Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, **no more than three unexcused absences** in a single term will be acceptable for this course. *This policy applies to regular class meetings, assigned X hours, and TA meetings*. Four or more
-unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have an event that conflicts with participation in the course, please contact me beforehand to discuss appropriate accommodations.
+You are expected to attend class in person unless you have made alternative arrangements due to illness, medical reasons, or the need to isolate due to COVID-19. **For the health and safety of our class community, please do not attend class when you are sick or if you have been instructed by Student Health Services to stay home**.
 
-## Papers
 
-You will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `theoretical analysis`. You will compose a minimum of 20 pages for these formal essays; however, you will determine how many pages to submit for most assignments. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
 
-- **Formatting**: During the fall term papers must be submitted in the
-  [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago
-  style](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
-
-- **Revisions**: It is my practice to return essay drafts to you
-  within one week. Afterward, you will have a minimum of one week to
-  revise your writing. During this two-week revision cycle please feel free
-  to drop by my office hours (or make an appointment) to go over
-  your writing or discuss your ideas.
+---
 
 ## Typical Weekly Workflow
 
@@ -97,9 +166,9 @@ Create an electronic document for composing critical notes. Take *detailed* note
 
 <i class="fab fa-forumbee"></i> [Hive](/resources/hive) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
 
-Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
+Our objective for [Hive](/resources/hive) is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text. The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, [Hive](/resources/hive) will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
-You might contribute to Hive by doing some of the following tasks:
+You might contribute to [Hive](/resources/hive) by doing some of the following tasks:
 
 - Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
 
@@ -113,11 +182,11 @@ You might contribute to Hive by doing some of the following tasks:
 
 - Constructively question, respond, or correct the ideas or work of another student.
 
-We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) and Google docs to create the Hive resource. Each reading in the syllabus has a corresponding Google document within the shared drive which we will use to collectively explore and interrogate the text. 
+We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) and Google docs to create the [Hive](/resources/hive) resource. Each reading in the syllabus has a corresponding Google document within the shared drive which we will use to collectively explore and interrogate the text. 
 
 {{< hint note >}}
 
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to Hive, please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to [Hive](/resources/hive), please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
 
 - <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 6 @ 11 hour
 - <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 7 @ 12 hour
@@ -128,6 +197,23 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 ---
 
+
+## Formal Papers
+
+Students will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `theoretical analysis`. You must compose a minimum of 20 total pages for these formal essays; however, in most cases you will decide how many pages to turn in for each assignment. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
+
+- **Formatting**: During the fall term papers must be submitted in the
+  [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago
+  style](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the *Open Handbook*.
+
+- **Revisions**: It is my practice to return essay drafts to you
+  within one week. Afterward, you will have a minimum of one week to
+  revise your writing. During this two-week revision cycle please feel free
+  to drop by my office hours (or make an appointment) to go over
+  your writing or discuss your ideas.
+  
+---
+    
 ## Grading
 
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. 
@@ -143,19 +229,19 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Growth
 - Effort
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
-{{< /hint >}}
-
 ---
 
 ## Help With Your Writing
 
 There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes per week to go over your writing and plan revision. If you require further help, the [RWIT](https://students.dartmouth.edu/rwit/) program offers excellent peer tutoring on all phases of the writing process---from generating ideas to formal citation.
 
+---
+
 ## Students With Disabilities
 
-All students are entitled to full access to this course, regardless of disability. If you have a disability and anticipate needing accommodations in this course, please contact me as soon as possible to arrange a confidential meeting. Students requiring disability-related services must register with the [Student Accessibility Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
+Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
+
+---
 
 ## Symbol Legend
 
@@ -177,29 +263,6 @@ All students are entitled to full access to this course, regardless of disabilit
 | <i class="fas fa-box"></i>        | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
-
-## Basic Course Stats
-
-Are you a college admin or transfer student who needs some basic data about this course? Look no further:
-
-{{< details "Writing 2 by the Numbers" >}}
-#
-
-
-| Course element                                | Stats                                                                |
-|:----------------------------------------|:-----------------------------------------------------------------------------: |
-| Number of formal essays written by students                | 3                                  |
-| Minimum number of pages written by students in formal essays | 20                                                                 |
-| Number of short reading responses composed by students | 5 |
-| Number of course readings                      | 5                                                        |
-| Number of pages of professional writing read by students          | 54                                                                                  |
-| Number of films viewed                    | 1                                                                           |
-| Number of writing workshops                 | 8                                               |
-| Number of peer reviews made of other student's work | 4
-| Total cost of course textbooks & materials                      | $0.00                                                                                                |
-| Days when we eat donuts in class              | 1                                                                         |
-| Current age of professor  | 46
-{{< /details >}}
 
 ## Schedule of Readings and Assignments
 
@@ -285,7 +348,7 @@ Are you a college admin or transfer student who needs some basic data about this
 {{< /details >}}
 
 
-{{< details "Week Two" >}}
+{{< details "Week Two" open >}}
 
 #
 
@@ -368,7 +431,7 @@ Are you a college admin or transfer student who needs some basic data about this
 
 {{< /details >}}
 
-{{< details "Week Three" >}}
+{{< details "Week Three" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i>  Monday, 9.27
@@ -448,7 +511,7 @@ Are you a college admin or transfer student who needs some basic data about this
 
 {{< /details >}}
 
-{{< details "Week Four" >}}
+{{< details "Week Four" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i> Monday, 10.4
@@ -535,7 +598,7 @@ Are you a college admin or transfer student who needs some basic data about this
 
 {{< /details >}}
 
-{{< details "Week Five" >}}
+{{< details "Week Five" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i>  Monday, 10.11
@@ -623,7 +686,7 @@ Are you a college admin or transfer student who needs some basic data about this
 
 {{< /details >}}
 
-{{< details "Week Six" >}}
+{{< details "Week Six" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i>  Monday, 10.18
@@ -678,7 +741,7 @@ Are you a college admin or transfer student who needs some basic data about this
 
 {{< /details >}}
 
-{{< details "Week Seven" >}}
+{{< details "Week Seven" open >}}
 #
 
 
@@ -760,7 +823,7 @@ Are you a college admin or transfer student who needs some basic data about this
 
 {{< /details >}}
 
-{{< details "Week Eight" >}}
+{{< details "Week Eight" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i> Monday, 11.1
@@ -821,7 +884,7 @@ Are you a college admin or transfer student who needs some basic data about this
 {{< /details >}}
 
 
-{{< details "Week Nine" >}}
+{{< details "Week Nine" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9
@@ -896,7 +959,7 @@ Are you a college admin or transfer student who needs some basic data about this
 {{< /details >}}
 
 
-{{< details "Week Ten" >}}
+{{< details "Week Ten" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i> Monday, 11.15
@@ -942,6 +1005,5 @@ Are you a college admin or transfer student who needs some basic data about this
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
     
     {{< /details >}}
-    
-    
+  
     

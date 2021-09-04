@@ -14,8 +14,6 @@ title: "Essay One"
 
 What is education? What is its purpose? Write an essay exploring these questions.
 
-## Length and format
-
 {{< hint note >}} 
 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> No more than 3 pages

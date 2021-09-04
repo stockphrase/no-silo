@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. Among these are the formal `documentation of sources` and the integration of source materials through `summary,` `paraphrase,` and `quotation.`
+**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations.
 
 {{< hint note >}} 
 
@@ -107,6 +107,27 @@ type: docs
 
  {{< /tab >}}
 
+{{< tab "Course Data" >}}
+
+  
+
+### <span style="color: var(--in-class)"><i class="fas fa-plus-circle"></i></span> Writing 2 By the Numbers
 
 
+| Course element                                | Stats                                                                |
+|:----------------------------------------|:-----------------------------------------------------------------------------: |
+| Number of formal essays written by students                | 3                                  |
+| Minimum number of pages written by students in formal essays | 20                                                                 |
+| Number of short reading responses composed by students | 5 |
+| Number of primary course readings                      | 5                                                        |
+| Page count of primary course readings          | 55                                                                                  |
+| Number of secondary course handbook readings                   | 8                                                        |
+| Number of films viewed                    | 1                                                                           |
+| Number of writing workshops                 | 8                                               |
+| Number of peer reviews made of other student's work | 4
+| Total cost of course textbooks & materials                      | $0.00                                                                                                |
+| Days when we eat <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> donuts in class              | 1                                                                        |
+| Current age of professor  | 46
+   
 
+ {{< /tab >}}
