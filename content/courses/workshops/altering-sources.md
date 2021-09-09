@@ -55,7 +55,7 @@ Using the source text provided above, write the sentences or paragraphs assigned
 
 6. Rewrite your `paraphrase,` but this time integrate some of the author’s language (in the form of short quotations) that you feel is significant or memorable. Cite in MLA accordingly.
 
-7. Write a `summary` of this passage using a single sentence. 
+7. Write a `summary` of this passage using a single sentence. Cite in MLA accordingly.
 
 
 ---

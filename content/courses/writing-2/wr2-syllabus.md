@@ -27,13 +27,14 @@ During the winter term we will turn our focus to academic research. Our librarie
 #
 
 
+
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
 
 {{< /hint >}}
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you feel symptomatic, [contact Dartmouth Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately. 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you have symptoms, [contact Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately. 
 
 ---
 
@@ -44,14 +45,14 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ---
 
-- <span style="color: var(--in-class)"><i class="fas fa-money-bill-wave"></i></span> If you have trouble affording masks, please let me know.
+- <span style="color: var(--in-class)"><i class="fas fa-money-bill-wave"></i></span> If you have trouble affording appropriate masks, please let me know.
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
 {{< /hint >}} 
 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**.
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss a class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
@@ -114,9 +115,21 @@ All work submitted in this course must be your own and be written exclusively fo
 
 ---
 
-## Attendance
+## Attendance Policy
 
-You are expected to attend class in person unless you have made alternative arrangements due to illness, medical reasons, or the need to isolate due to COVID-19. **For the health and safety of our class community, please do not attend class when you are sick or if you have been instructed by Student Health Services to stay home**.
+Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, no more than three unexcused absences in a single term will be acceptable for this course. This policy applies to regular class meetings, assigned X hours, and TA meetings. Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i> **Pandemic exceptions to the attendance policy:** </span>
+{{< /hint >}} 
+
+
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
+
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you have COVID-19 symptoms, stay home and [contact Dartmouth Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
+
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**. 
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you miss a class or a TA session due to illness or its prevention, please [email me](mailto:covid@no-silo.com) to explain and receive makeup information.
 
 
 
@@ -200,7 +213,7 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 ## Formal Papers
 
-Students will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `theoretical analysis`. You must compose a minimum of 20 total pages for these formal essays; however, in most cases you will decide how many pages to turn in for each assignment. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
+Students will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `theoretical analysis`. You must compose a minimum of 20 total pages for these formal essays; however, in most cases you will decide the number of pages to turn in for each assignment. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
 
 - **Formatting**: During the fall term papers must be submitted in the
   [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago
@@ -262,6 +275,8 @@ Students requesting disability-related accommodations and services for this cour
 | <i class="fa fa-question-circle"></i>   | Question of the day™                                                          |
 | <i class="fas fa-box"></i>        | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
+
+
 
 
 ## Schedule of Readings and Assignments
@@ -348,7 +363,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< /details >}}
 
 
-{{< details "Week Two" open >}}
+{{< details "Week Two" >}}
 
 #
 
@@ -431,90 +446,11 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /details >}}
 
-{{< details "Week Three" open >}}
+
+{{< details "Week Three" >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i>  Monday, 9.27
-
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
-
-{{< /hint >}}
-
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-
-- <i class="fa fa-bullhorn"></i> Discuss readings 
-- <i class="fas fa-code-branch"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
-
-{{< /hint >}}
-
-
-
-{{< hint note >}}
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-- <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
-{{< /hint >}}
-
-
-
----
-
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 9.29
-
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
-{{< /hint >}}
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-
-- <i class="fa fa-bullhorn"></i> Discuss reading 
-- <i class="fas fa-code-branch"></i> In-class work on the [Working with Sources Workshop](/courses/workshops/working-sources/) and [Argument Summary Workshop](/courses/workshops/argument-summary)
-
-{{< /hint >}}
-
-
----
-
-## <i class="fas fa-chevron-circle-right"></i> Friday, 10.1
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-- <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
-- <i class="fa fa-code-branch"></i> Peer review of [Argument Summary Workshop](/courses/workshops/argument-summary)
-
-{{< /hint >}}
-
-
-
-
-{{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
-- <i class="fa fa-bullseye"></i> Argument Summary Workshop 
-    - <i class="fas fa-print"></i> Bring printout of your workshop to class
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-- <i class="fa fa-bullseye"></i> Working with Sources Workshop
-    - <i class="fas fa-print"></i> Bring printout of your workshop to class
-- <i class="fa fa-bullseye"></i> Essay One Final 
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
- 
-
-{{< /hint >}}
-
-
-{{< /details >}}
-
-{{< details "Week Four" open >}}
-#
-
-## <i class="fas fa-chevron-circle-right"></i> Monday, 10.4
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
@@ -548,7 +484,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.6
+## <i class="fas fa-chevron-circle-right"></i> Wednesday, 9.29
 
  {{< hint note >}}
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
@@ -569,22 +505,24 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 10.8
+## <i class="fas fa-chevron-circle-right"></i> Friday, 10.1
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9/)
-- [Percy, related news story](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
+- <i class="far fa-newspaper"></i> [Percy, related news story](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
 
 {{< /hint >}}
+
+
 
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Percy and related news story
-- <i class="fas fa-code-branch"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/)
-  
+- <i class="fas fa-code-branch"></i> [Working with Sources Workshop](/courses/workshops/working-sources/) 
 
 {{< /hint >}}
 
@@ -592,16 +530,29 @@ Students requesting disability-related accommodations and services for this cour
     
 {{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-- <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/)
+- <i class="fas fa-code-branch"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
 
 {{< /hint >}}
 
+
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+- <i class="fa fa-bullseye"></i> Argument Summary Workshop 
+    - <i class="fas fa-print"></i> Bring printout of your workshop to class
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+- <i class="fa fa-bullseye"></i> Essay One Final 
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+ 
+
+{{< /hint >}}
+
+
 {{< /details >}}
 
-{{< details "Week Five" open >}}
+{{< details "Week Four" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i>  Monday, 10.11
+## <i class="fas fa-chevron-circle-right"></i> Monday, 10.4
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
@@ -634,7 +585,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>  Wednesday, 10.13
+## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.6
 
  {{< hint note >}}
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
@@ -654,16 +605,14 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>  Friday, 10.15
+## <i class="fas fa-chevron-circle-right"></i> Friday, 10.8
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
-- <i class="fas fa-search"></i> Review answers to [Altering Sources Workshop](/courses/workshops/altering-sources)
+- <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 - <i class="fas fa-code-branch"></i> [Argument Synthesis Workshop](/courses/workshops/argument-synthesis/)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 {{< /hint >}}
 
@@ -678,7 +627,7 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< hint note >}}
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
-- [Altering Sources Workshop](/courses/workshops/altering-sources)
+- <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
 
 {{< /hint >}}
@@ -686,10 +635,13 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /details >}}
 
-{{< details "Week Six" open >}}
+{{< details "Week Five" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i>  Monday, 10.18
+## <i class="fas fa-chevron-circle-right"></i>  Monday, 10.11
+
+
+
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -703,7 +655,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>   Wednesday, 10.20
+## <i class="fas fa-chevron-circle-right"></i>   Wednesday, 10.13
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -717,7 +669,14 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>  Friday, 10.22
+## <i class="fas fa-chevron-circle-right"></i>  Friday, 10.15
+
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9/)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
+{{< /hint >}}
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -727,6 +686,11 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /hint >}}
 
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+- <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/)
+
+{{< /hint >}}
 
 
 {{< hint note >}}
@@ -741,11 +705,11 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /details >}}
 
-{{< details "Week Seven" open >}}
+{{< details "Week Six" >}}
 #
 
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 10.25
+## <i class="fas fa-chevron-circle-right"></i> Monday, 10.18
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
@@ -778,6 +742,23 @@ Students requesting disability-related accommodations and services for this cour
 
 
 
+---
+
+## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.20
+
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fas fa-code-branch"></i> Theoretical analysis & visual rhetoric workshop
+
+
+{{< /hint >}}
+
+
+
+
 {{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 
@@ -785,19 +766,60 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /hint >}}
 
+---
+
+## <i class="fas fa-chevron-circle-right"></i> Friday, 10.22
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+- <i class="fa fa-box"></i> Friday Soapbox
+- <i class="fas fa-search"></i> Review answers to [Altering Sources Workshop](/courses/workshops/altering-sources)
+{{< /hint >}}
+
+
+
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+- <i class="fa fa-wrench"></i> [Bibliography | Works Cited](/courses/workshops/mla-bibliography) workshop
+{{< /hint >}}
+
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+- <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources)
+    - <i class="fas fa-print"></i> Bring printout of your workshop to class
+
+{{< /hint >}}
+
+{{< /details >}}
+
+
+{{< details "Week Seven" >}}
+#
+
+
+## <i class="fas fa-chevron-circle-right"></i> Monday, 10.25
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+- <i class="fa fa-code-branch"></i> Peer work
+- <i class="fas fa-poo-storm"></i> Open-source brainstorming
+- <i class="far fa-edit"></i> Revision 
+{{< /hint >}}
+
+
 
 ---
 
 ## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.27
 
-
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
-- <i class="fas fa-code-branch"></i> Theoretical analysis workshop
 
-
+- <i class="fa fa-code-branch"></i> Peer work
+- <i class="fas fa-poo-storm"></i> Open-source brainstorming
+- <i class="far fa-edit"></i> Revision 
 {{< /hint >}}
 
 
@@ -809,64 +831,11 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fas fa-code-branch"></i> Essay 3 workshop
-{{< /hint >}}
-
-
-
-{{< hint note >}}
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-- <i class="fa fa-wrench"></i> [Bibliography | Works Cited](/courses/workshops/mla-bibliography) workshop
-{{< /hint >}}
-
-
-
-{{< /details >}}
-
-{{< details "Week Eight" open >}}
-#
-
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.1
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3.
-{{< /hint >}}
-
-
-
-{{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
-
-- <i class="fa fa-bullseye"></i> Essay 3 Draft
-    - <i class="fas fa-print"></i> Bring printout of your essay to class
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
-
-{{< /hint >}}
-
-
----
-
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.3
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-
-- Drafting and revising work on Essay 2
-{{< /hint >}}
-
----
-
-## <i class="fas fa-chevron-circle-right"></i> Friday, 11.5
-
-{{< hint note >}}
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-
-- <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-search"></i> Review answers to [Bibliography | Works Cited](/courses/workshops/mla-bibliography) workshop
+ 
 {{< /hint >}}
+
+
 
 {{< hint note >}}
 
@@ -880,14 +849,13 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /hint >}}
 
-
 {{< /details >}}
 
 
-{{< details "Week Nine" open >}}
+{{< details "Week Eight" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9
+## <i class="fas fa-chevron-circle-right"></i> Monday, 11.1
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
@@ -920,34 +888,40 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.11
-
-{{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
-
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
-{{< /hint >}} 
-
+## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.3
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Crawford reading and Hive submissions
-
+- <i class="fa fa-code-branch"></i> Peer Review
+- <i class="fas fa-poo-storm"></i> Open-source brainstorming
+- <i class="far fa-edit"></i> Revision 
 {{< /hint >}}
+
+
 
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 11.13
+## <i class="fas fa-chevron-circle-right"></i> Friday, 11.5
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3
 {{< /hint >}}
 
+
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+
+- <i class="fa fa-bullseye"></i> Essay 3 Draft
+    - <i class="fas fa-print"></i> Bring printout of your essay to class
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
+
+{{< /hint >}}
 
 
 {{< hint note >}}
@@ -959,10 +933,62 @@ Students requesting disability-related accommodations and services for this cour
 {{< /details >}}
 
 
-{{< details "Week Ten" open >}}
+
+
+{{< details "Week Nine" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.15
+## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+- [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
+
+{{< /hint >}}
+
+{{< hint note >}}
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+
+- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
+{{< /hint >}}
+
+
+
+
+
+---
+
+## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.11
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+- [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
+
+{{< /hint >}}
+
+
+---
+
+## <i class="fas fa-chevron-circle-right"></i> Friday, 11.13
+
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+- <i class="fa fa-box"></i> Friday Soapbox
+- <i class="fas fa-search"></i> Review answers to [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+
+{{< /hint >}}
+
+
+{{< /details >}}
+
+
+{{< details "Week Ten" >}}
+#
+
+## <i class="fas fa-chevron-circle-right"></i> Monday, 11.15 (Last day)
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -974,26 +1000,17 @@ Students requesting disability-related accommodations and services for this cour
 {{< /hint >}}
 
 
-
-
-
-{{< hint note >}}
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-
-- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
-{{< /hint >}}
-
+## <i class="fas fa-chevron-circle-right"></i> Friday, 11.19
 
 {{< hint note >}}
+
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+
 - <i class="fa fa-bullseye"></i> Essay 3 Final
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
-- <i class="fa fa-wrench"></i> [Sentence Variety](/courses/workshops/sentence-variety) workshop
-    - <i class="fas fa-print"></i> Bring printout of your workshop to class
+
 
 {{< /hint >}}
-
-
 
 
 {{< /details >}}
@@ -1003,7 +1020,4 @@ Students requesting disability-related accommodations and services for this cour
 
 - <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
-    
-    {{< /details >}}
-  
     

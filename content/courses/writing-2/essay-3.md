@@ -46,7 +46,7 @@ Here is a slice of a theoretical analysis that might give you a sense of how to 
 
 ## Stills from *Rushmore*
 
-When we analyze a film or images we can do much more than merely discuss the narrative arc or the dialog. The movie is a visual medium, so how do the images convey meaning? Costuming, gestures, body positioning, props, camera angles, lighting, framing, etc. help to construct a mood and signify meanings that we may interpret. In short, a film is a text. And when we write about film, we pay attention to how it is constructed to produce these effects by performing "close readings" in our analysis. We might practice by reading one or more of these stills:
+When we analyze a film we can do much more than merely discuss the narrative arc or the dialog. The movie is a visual medium, so how do the visual elements help to convey meaning? Costuming, gestures, body positioning, props, camera angles, lighting, framing, etc. help to construct a mood and signify meanings that we may interpret. In short, a film is a text. And when we write about film, we pay attention to how it is constructed to produce these effects by performing "close readings" in our analysis. We might practice by reading one or more of these stills:
 
 <div style="text-align:center">{{< figure src="/img/rushmore/bleacher.png" >}}</div>
 
