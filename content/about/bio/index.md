@@ -10,15 +10,13 @@ I grew up on a mountain swallowed up by [kudzu](https://en.wikipedia.org/wiki/Ku
 
 In college and graduate school I studied nineteenth-century American literature, culture, and history. I'm interested in backcountry settlements in the early republic and conflicts between Native peoples and settlers. 
 
-I teach writing and research to first-year students at Dartmouth College.
+I teach writing and research at Dartmouth College.
 
 I wrote [*The Open Handbook*](/resources/open-handbook)---a free, open-source reference book that introduces students to the conventions of academic writing and research. 
 
 I'm a mildly accomplished computer nerd. I like open-source software and culture. I'm a fan of Canonical's [Ubuntu](https://ubuntu.com) and System 76's [Pop!_OS](https://pop.system76.com/). I'm particularly enthused by the [Pandoc](https://pandoc.org/), [Markdown](https://daringfireball.net/projects/markdown/syntax), and [Hugo](https://gohugo.io/) projects.
 
-I'm married with two small children and a cat. The cat is also from Tennessee. That is the only good thing about the cat. 
-
-Lately I've been listening to [The National](https://americanmary.com/), [Future Islands](https://future-islands.com/), and [Aidan Knight](https://www.aidanknight.com/) a lot. 
+Lately, I've been listening to [The National](https://americanmary.com/), [Future Islands](https://future-islands.com/), and [Aidan Knight](https://www.aidanknight.com/) a lot. 
 
 
 

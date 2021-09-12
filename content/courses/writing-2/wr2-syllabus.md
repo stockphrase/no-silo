@@ -18,6 +18,7 @@ title: "Writing 2: Syllabus"
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
+
 ## <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> COVID-19 Policies & Resources
 
 
@@ -34,7 +35,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 {{< /hint >}}
 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you have symptoms, [contact Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately. 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you have COVID-19 symptoms, [contact Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
 
 ---
 
@@ -68,6 +69,8 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 {{< /details >}}
 
+
+
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
@@ -80,34 +83,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
-                                                             
-<!---
-## Course at a Glance
-
-Basic information about this course for college administrators or transfer students.
-
-{{< details "Course Data" >}}
-#
-
-
-
-| Course element                                | Stats                                                                |
-|:----------------------------------------|:-----------------------------------------------------------------------------: |
-| Number of formal essays written by students                | 3                                  |
-| Minimum number of pages written by students in formal essays | 20                                                                 |
-| Number of short reading responses composed by students | 5 |
-| Number of primary course readings                      | 5                                                        |
-| Page count of primary course readings          | 55                                                                                  |
-| Number of secondary course handbook readings                   | 8                                                        |
-| Number of films viewed                    | 1                                                                           |
-| Number of writing workshops                 | 8                                               |
-| Number of peer reviews made of other student's work | 4
-| Total cost of course textbooks & materials                      | $0.00                                                                                                |
-| Days when we eat donuts in class              | 1                                                                        |
-| Current age of professor  | 46
-{{< /details >}}
-
---->
+ 
 
 ## Academic Honesty
 
@@ -129,7 +105,7 @@ Regular attendance is expected. Bracketing religious observance, severe illness,
 - <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you have COVID-19 symptoms, stay home and [contact Dartmouth Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
 
 - <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**. 
-- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you miss a class or a TA session due to illness or its prevention, please [email me](mailto:covid@no-silo.com) to explain and receive makeup information.
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you miss a class or a TA session due to illness, please [email me](mailto:covid@no-silo.com) to explain and receive makeup information.
 
 
 
@@ -299,8 +275,12 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions. Arrive to class on Wednesday with some ideas that you can express and defend.
-  
+
+- <i class="far fa-file"></i> Read this [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully. If you have questions afterward, please pose them to me on Wednesday
+
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
+
+
 
 {{< /hint >}}
 
@@ -988,7 +968,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Week Ten" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.15 (Last day)
+## <i class="fas fa-chevron-circle-right"></i> Monday, 11.15 (Last day of class)
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -1007,7 +987,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
 - <i class="fa fa-bullseye"></i> Essay 3 Final
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 
 {{< /hint >}}
@@ -1018,6 +998,18 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Exam Week" >}}
 #
 
+## <i class="fas fa-chevron-circle-right"></i> Monday, 11.22
+
+{{< hint note >}}
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+
 - <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
+
+{{< /hint >}}
+
+
+
+
     
