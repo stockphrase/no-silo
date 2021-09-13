@@ -275,9 +275,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions. Arrive to class on Wednesday with some ideas that you can express and defend.
-
-- <i class="far fa-file"></i> Read this [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully. If you have questions afterward, please pose them to me on Wednesday
-
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully. If you have questions afterward, please pose them to me on Wednesday
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 
 
@@ -290,7 +288,9 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}}
+
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully.
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
   
