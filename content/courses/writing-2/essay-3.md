@@ -11,6 +11,11 @@ title: "Essay Three"
 
 # Essay Three: Theoretical Analysis
 
+
+>"I would do without theory if I could! The problem is, I cannot. You cannot. Because the world presents itself in the chaos of appearances, and the only way in which one can understand, break down, analyze, grasp, in order to do something about the present conjuncture that confronts one, is to break into that series of congealed and opaque appearances with the only tools you have: concepts, ideas, and thoughts."
+
+--Stuart Hall
+
 ---
 
 ## Prompt

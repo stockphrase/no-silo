@@ -45,7 +45,7 @@ using a system of symbols and marginal notes made on the document
 itself. There is no right or wrong way to mark up a text, but you should
 develop a system that you are comfortable with and try to stick with it.
 Writing while you read will help you stay focused and read critically.
-In fact, I would argue that if you are not writing while you read---by
+In fact, I would argue that if you are not writing while you read a text---by
 putting it into your own words through `annotation,` `summary,` `paraphrase,` and `quotation`---then you are not reading critically at all.
 
 Your objective in annotation is to flag the key elements of a piece of

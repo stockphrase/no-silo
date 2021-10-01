@@ -34,5 +34,9 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 ---
 
+## My attempt
+
+<i class="fa fa-download"></i></i>  Summary of [Baker's "Changes of Mind,"](/docs/baker-summary.pdf) by Alan Taylor
+
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 

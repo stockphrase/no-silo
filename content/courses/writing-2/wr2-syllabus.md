@@ -80,9 +80,10 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 | Link                                   | Purpose                                                                                                              |
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
-| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
-| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
-| [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
+| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook)  |
+| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media                                                                       |
+| [Hive](/resources/hive)                | A shared Google drive for collaborative work                                                                         |
+| [FAQs](/resources/FAQs)                | Frequently asked questions about the course
  
 
 ## Academic Honesty
@@ -237,7 +238,7 @@ Students requesting disability-related accommodations and services for this cour
 
 | Symbol                                  | Note                                                                          |
 |:---------------------------------------:|:----------------------------------------------------------------------------- |
-| <i class="fa fa-comments"></i>         | Conferences with professor                                                    |
+| <i class="fa fa-comments"></i>         | Conferences with professor                                                     |
 | <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
@@ -257,7 +258,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" open >}}
+{{< details "Week One" >}}
 
 # 
 
@@ -275,7 +276,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions. Arrive to class on Wednesday with some ideas that you can express and defend.
-- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully. If you have questions afterward, please pose them to me on Wednesday
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; if you have questions afterward, please pose them to me on Wednesday
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 
 
@@ -286,11 +287,10 @@ Students requesting disability-related accommodations and services for this cour
 
 ## <i class="fas fa-chevron-circle-right"></i> Wednesday, 9.15 
 
-
 {{< hint note >}}
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
-- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully.
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
   
@@ -395,6 +395,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
+- <i class="fas fa-code-branch"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
 
 
 {{< /hint >}}
@@ -427,7 +428,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< /details >}}
 
 
-{{< details "Week Three" >}}
+{{< details "Week Three" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i>  Monday, 9.27
@@ -437,7 +438,6 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
-
 
 {{< /hint >}}
 
@@ -1008,8 +1008,5 @@ Students requesting disability-related accommodations and services for this cour
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
 
 {{< /hint >}}
+{{< /details >}}
 
-
-
-
-    

@@ -83,7 +83,7 @@ College should be a series of experiences through which you *gain ownership over
 
 {{< /details >}}
 
-<!---
+
 
 {{< details "7. What should we call you?" >}}
 
@@ -91,13 +91,13 @@ College should be a series of experiences through which you *gain ownership over
 > ### Honorifics and such...
 
 
-Almost every year a student will ask me "What do we call you?" on the first day of classes. So how should you address your teachers? This is a difficult question to answer. Let's think about this rhetorically. Who is the audience we are addressing?
+Almost every year a student will ask me "What do we call you?" on the first day of classes. So how should you address your teachers at college? This is a difficult question to answer. Let's think about this rhetorically. Who is the audience we are addressing?
 
 {{< hint note >}}
 ### <i class="fas fa-graduation-cap"></i> The Prouds
 {{< /hint >}}
 
-All of your teachers at Dartmouth have terminal degrees in at least one academic field. Usually this means a Ph.D. They publish books and articles. They are asked to give speeches and talk on television. For some faculty, this has become so related to their own sense of self-worth that they will visibly cringe if you call them "Bill" or, even worse, "Mr. Smith." Let's call this group the `Prouds`. 
+All of your teachers at Dartmouth have terminal degrees in at least one academic field. Usually this means a Ph.D. They publish books and articles. They are asked to give speeches and talk on television. Some of them are legitimately famous. For some faculty this has become so central to their sense of self-worth that they will visibly cringe if you call them "Bill" or, even worse, "Mr. Smith." Let's call this group the `Prouds`. 
 
 {{< hint note >}}
 ### <i class="fas fa-graduation-cap"></i> The Brofs
@@ -109,21 +109,35 @@ A second group, although just as accomplished as the Prouds, are less dependent 
 ### <i class="fas fa-graduation-cap"></i> The Pseudo-Brofs
 {{< /hint >}}
 
-A third group, perhaps the most interesting of the bunch, are the `pseudo-Brofs.` While they will look you directly in the eye and say "I don't care what you call me," or "call me Phyllis," in truth (for psychological reasons too complex to go into here) they crave the honorific "doctor" or "professor" even more than the Prouds, but are ashamed to admit it or enforce it. 
+A third group, perhaps the most interesting of the bunch, are the `pseudo-Brofs.` While they will look you directly in the eye and say "I don't care what you call me," or "call me Phyllis," in truth (for psychological reasons too complex to go into here) they crave the honorific "doctor" or "professor" even more than the Prouds, but they are too ashamed to admit it and too cowardly to enforce it. 
 
 
 {{< hint note >}}
 ### <i class="fas fa-user"></i> The Student
 {{< /hint >}}
 
-Now, students, what does this mean for you? It means that unless you love to court danger and/or have too much integrity to submit to any form of authority, the safe move is probably to call all your teachers "professor X" or "doctor X."
+Now, students, what does this mean for you? It means that unless you love to court danger and/or have too much integrity to submit to any form of authority, the safe move is probably to call all your teachers "professor X" or "doctor X" to avoid giving offense. 
 
 
 {{< /details >}}
 
---->
 
-{{< details "7. Are you as grumpy as this FAQ suggests?" >}}
+
+
+
+{{< details "8. Do I need to print out and annotate this reading?" >}}
+
+#
+
+> ### Follow this flowchart.
+
+
+<div style="text-align:center">{{< figure src="/img/print-flow.png" >}}</div>
+
+{{< /details >}}
+
+
+{{< details "9. Are you as grumpy as this FAQ suggests?" >}}
 
 #
 
