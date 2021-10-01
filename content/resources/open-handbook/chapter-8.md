@@ -88,6 +88,7 @@ how your views relate to the views of the other writers you present in your writ
 Here is an example of a student properly using signal phrases and
 citations to indicate borrowings from other sources:
 
+##
 
 <div class="container">
         <div class="raised-edge">
@@ -113,7 +114,11 @@ prosperity, radical socio-political change, and modernization in China
 cultural transformation---an expression of nostalgia for a simpler time
 in the ancient Chinese past (22). But which is the correct answer? Did
 Taoism emerge in a time of poverty or a time of plenty? <span class="highlight">In my view,</span>
-both views are problematic . . .
+both views are problematic . . . 
+
+---
+
+- <span style="color: var(--readings)"><i class="fas fa-exclamation-triangle"></i></span> **Please Note**: the example text above is *completely made up* and bears no relationship to Taoism, Chinese history, or actual scholarship. 
           <div class="edge-shadow"></div>
         </div>
       </div>
