@@ -43,7 +43,7 @@ Your assignment is to create a Works Cited page using several provided sources a
 |<i class="fa fa-download "></i> [Source 1](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991007282289705706)    | Checked out of the library
 |<i class="fa fa-download "></i> [Source 2](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991001174069705706) | Checked out of the library
 |<i class="fa fa-download "></i> [Source 3](https://www.jstor.org/stable/27825065)| Found online
-|<i class="fa fa-download "></i> [Source 4](https://www.amazon.com/George-Washington-Reconsidered-Don-Higginbotham/dp/081392006X/ref=sr_1_1?s=books&ie=UTF8&qid=1318834103&sr=1-1)  | Checked out of the library and are only using essay #2, by Higginbotham)
+|<i class="fa fa-download "></i> [Source 4](https://www.amazon.com/George-Washington-Reconsidered-Don-Higginbotham/dp/081392006X/ref=sr_1_1?s=books&ie=UTF8&qid=1318834103&sr=1-1)  | Checked out of the library and are only using essay #2, by Higginbotham
 |<i class="fa fa-download "></i> [Source 5](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031134839705706) | A source you own in your private collection
 |<i class="fa fa-download "></i> [Source 6](https://www.thedartmouth.com/article/2021/07/new-hampshire-supreme-court-unanimously-strikes-down-sb-3-again-certifying-students-right-to-vote-in-state)| Found online
 
@@ -52,6 +52,11 @@ Your assignment is to create a Works Cited page using several provided sources a
 
 ## Answers
 
-- <i class="far fa-check-circle"></i> Check your work with `the answer key`
+{{< hint note >}} 
+
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My [attempt to complete this workshop](/docs/works-cited-answers.pdf).
+
+
+{{< /hint >}}
 
 

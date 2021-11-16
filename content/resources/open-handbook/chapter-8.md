@@ -228,9 +228,9 @@ maintained. Our body and our mind evolved precisely to live in this
 particular planetary environment and no other. When we debase the global
 environment and extinguish the variety of life, we are dismantling a
 support system that is too complex to understand, let alone replace, in
-the foreseeable future (238).
+the foreseeable future.
 
--- E.O. Wilson, "[Is Humanity Suicidal?](https://doi-org.dartmouth.idm.oclc.org/10.1016/0303-2647(93)90052-E)"
+-- E.O. Wilson, "[Is Humanity Suicidal?](https://doi-org.dartmouth.idm.oclc.org/10.1016/0303-2647(93)90052-E)", pp. 238.
           <div class="edge-shadow"></div>
         </div>
       </div>

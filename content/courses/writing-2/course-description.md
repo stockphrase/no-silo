@@ -127,7 +127,7 @@ type: docs
 | Number of peer reviews made of other student's work | 4
 | Total cost of course textbooks & materials                      | $0.00                                                                                                |
 | Days when we eat <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> donuts in class              | 1                                                                        |
-| Current age of professor  | 46
+| Current age of professor  | 47
    
 
  {{< /tab >}}

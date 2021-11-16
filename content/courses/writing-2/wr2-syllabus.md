@@ -231,6 +231,19 @@ There are many sources of help for your writing assignments. I am happy to meet 
 
 Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
 
+
+## Mental Health & Wellbeing
+
+The academic environment is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: 
+- Your undergraduate dean: http://www.dartmouth.edu/~upperde/
+- The Counseling Center: http://www.dartmouth.edu/~chd/
+- The Student Wellness Center: http://www.dartmouth.edu/~healthed/ 
+- The student-led Dartmouth Mental Health Union and their Peer Support Program in Collis (and other programs) may additionally be helpful to you
+- The student-led Sexual Assault Peer Alliance (SAPAs): https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas
+
+
+Please make me aware of anything that will hinder your success in this course. I will help and I will put you in touch with others who can help even more.  The earlier I am aware of issues, the more I can do to assist you.
+
 ---
 
 ## Symbol Legend
@@ -428,7 +441,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< /details >}}
 
 
-{{< details "Week Three" open >}}
+{{< details "Week Three" >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i>  Monday, 9.27
@@ -694,7 +707,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). Film is in the "Media" section of Canvas.
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). Film is in the "Course Media" section of Canvas.
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 {{< /hint >}}
@@ -915,7 +928,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 
-{{< details "Week Nine" >}}
+{{< details "Week Nine" open >}}
 #
 
 ## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9

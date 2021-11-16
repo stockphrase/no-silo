@@ -12,12 +12,6 @@ title: "Essay Three"
 # Essay Three: Theoretical Analysis
 
 
->"I would do without theory if I could! The problem is, I cannot. You cannot. Because the world presents itself in the chaos of appearances, and the only way in which one can understand, break down, analyze, grasp, in order to do something about the present conjuncture that confronts one, is to break into that series of congealed and opaque appearances with the only tools you have: concepts, ideas, and thoughts."
-
---Stuart Hall
-
----
-
 ## Prompt
 
 Max Fischer has an insatiable appetite for extracurricular activities: fencing, bee-keeping, yankee racers, calligraphy, backgammon, theater, and on and on and on. These projects and clubs are forms of self-improvement---kinds of sovereign inquiry---but they completely dwarf his responsibilities in the traditional disciplines of formal education: geometry, history, English, etc. According to Dr. Guggenheim, Max is "one of the worst students" at Rushmore Academy.
@@ -36,18 +30,30 @@ Use Freire's essay as as theoretical lens. You will have to work hard to provide
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
-<!---
+---
+
 ## Example of Theoretical Analysis
 
-Here is a slice of a theoretical analysis that might give you a sense of how to use the theory and provide proper context for your analysis:
+{{< details "Theory Example" >}}
+
+#
 
 
->Although Freire argues that liberation education culminates in a collective effort to change the world, Max's efforts in this regard fail to embrace the communitarian philosophy that Freire espouses. Freire insists that education and knowledge may only exist in dialogue---in the open exchange of ideas between equal partners engaged in a process of mutual inquiry (88). For Freire, these moments of co-inquiry inevitably lead to praxis---where the views, ideas, and values held by a community are used to transform the world into a more democratic and free society (75). While Max is keen to change the world, shaping it to his needs and wants, his praxis is always self-interested; he fails to understand Freire's imperatives of community, dialogue, and consensus. In essence, rather than shape the world *with* others, as Freire implores, Max insists on altering the world for himself alone.
+Here is a slice of a theoretical analysis that might give you a sense of how to use the theory and provide proper context for your analysis. We might imagine discovering the following paragraph several pages into the argument:
+
+
+>Although Freire argues that liberation education culminates in a collective effort to change the world, Max's efforts in this regard fail to embrace the communitarian philosophy that Freire espouses. Freire insists that education and knowledge may only exist in *dialogue*---in the open exchange of ideas between equal partners engaged in a process of mutual inquiry (88). For Freire, these moments of co-inquiry inevitably lead to praxis---where the views, ideas, and values held by a community are used to transform the world into a more democratic and free society (75). While Max is keen to change the world, shaping it to his needs and wants, his praxis is always self-interested; he fails to understand Freire's imperatives of community, dialogue, and consensus. In essence, rather than shape the world *with* others, as Freire implores, Max insists on altering the world for himself alone.
 >
->There are numerous examples of Max's selfish failure to engage in the types of communication that Freire recommends. For example, [blah, blah, blah].
+>Perhaps the most revealing instance of Max's failed praxis is his effort to construct a world-class aquarium on the Rushmore campus. [Blah, blah, blah].
 
---->
----
+A key feature of this sort of theoretical analysis is that you will use the words and terms and ideas Freire offers in his theory to help you perform the analysis of the film. So we might bring Freire in at key moments in our discussion of the aquarium to explain how what Max is doing is not what Freire would advocate and *explicily demonstrate that by quoting and citing key parts of Freire's essay* to help prove our case. 
+
+{{< /details >}}
+
+## Analyzing Visual Media
+
+{{< details "Analyzing Visual Media" >}}
+#
 
 ## Stills from *Rushmore*
 
@@ -71,7 +77,7 @@ When we analyze a film we can do much more than merely discuss the narrative arc
 
 <div style="text-align:center">{{< figure src="/img/rushmore/fencing.png" >}}</div>
 
-
+{{< /details >}}
 
 ---
 

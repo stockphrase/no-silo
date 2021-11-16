@@ -50,13 +50,14 @@ Using the source text provided above, write the sentences or paragraphs assigned
 4. Write a sentence with a quotation using `brackets` in a quotation to alter capitalization.
 
 
-5. Write a complete `paraphrase` of this text without quotation. Think of paraphrase as a translation from English into English---express the same ideas as another writer but use your own words and sentence structure. In this paraphrase, consider that your audience may not have read the essay from which this quotation was excerpted. What sorts of context should you provide to help them understand? Cite in MLA accordingly.
+## Example Sentences
+
+{{< hint note >}} 
+
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My [attempt to complete this workshop](/docs/altering-sources-answers.pdf).
 
 
-6. Rewrite your `paraphrase,` but this time integrate some of the author’s language (in the form of short quotations) that you feel is significant or memorable. Cite in MLA accordingly.
-
-7. Write a `summary` of this passage using a single sentence. Cite in MLA accordingly.
-
+{{< /hint >}}
 
 ---
 <!---

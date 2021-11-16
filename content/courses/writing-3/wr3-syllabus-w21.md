@@ -6,10 +6,6 @@ bookHidden: true
 title: "Writing 3: Syllabus"
 ---
 
-
-{{< youtube I03xFqbxUp8 >}}
-
-
 <div style="text-align:center">{{< figure src="/img/header-end.jpg" >}}</div>
 
 # Post-apocalyptic Fiction, Film, and Art
@@ -18,6 +14,59 @@ title: "Writing 3: Syllabus"
 ## Course Description
 
 Why do we feel such an attraction to disaster? Why do we produce novels, films, and other forms of art that contemplate the end of humanity? Scholars from many disciplines have offered theories about the appeal and meaning of such spectacles of apocalyptic destruction. We will read some of this critical literature, examining views from disciplines such as psychology, sociology, cultural studies, and religion. In addition to these assigned readings, each of you will engage in your own original process of inquiry on a related topic of your choosing. You will present your findings frequently to the community of scholars in our class, sharing and discussing your research discoveries and insights. Ultimately, you will produce a lengthy work of original scholarship that will contribute to this field of inquiry
+
+---
+
+
+## <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> COVID-19 Policies & Resources
+
+
+
+{{< details "COVID-19 Information" >}}
+
+#
+
+
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
+
+{{< /hint >}}
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you have COVID-19 symptoms, [contact Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
+
+---
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Please wear your mask in class properly (covering both nose and mouth). 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Eating in class is not allowed. 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must drink something in class, do so quickly and then replace your mask. 
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must cough or sneeze, do not remove your mask to do so.
+
+---
+
+- <span style="color: var(--in-class)"><i class="fas fa-money-bill-wave"></i></span> If you have trouble affording appropriate masks, please let me know.
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
+{{< /hint >}} 
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
+{{< /hint >}}
+
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> [Schedule a COVID-19 test](https://health-clinics.dartmouth.edu/).
+
+---
+ 
+- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
+
+
+{{< /details >}}
 
 ---
 
@@ -45,6 +94,7 @@ the following:
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
 - [Winter readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip)
+- [*The Road*](https://www.amazon.com/dp/0307387895/ref=cm_sw_em_r_mt_dp_Y7QYHN0PMJPY1BB87FZA), by Cormac McCarthy
 
 ---
 
@@ -58,37 +108,109 @@ the following:
 | [The End](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) | A research archive built by our class.
 ---
 
+
+
 ## Academic Honesty
 
-All work submitted for this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [**plagiarism**](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
+All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
 ---
 
-## Attendance
+## Attendance Policy
 
-Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, **no more than three unexcused absences** in a single term will be acceptable for this course. *This policy applies to regular class meetings, assigned X hours, and TA meetings*. Four or more
-unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have an event that conflicts with participation in the course, please contact me beforehand to discuss appropriate accommodations.
+Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, no more than three unexcused absences in a single term will be acceptable for this course. This policy applies to regular class meetings, assigned X hours, and TA meetings. Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i> **Pandemic exceptions to the attendance policy:** </span>
+{{< /hint >}} 
+
+
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
+
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you have COVID-19 symptoms, stay home and [contact Dartmouth Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
+
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**. 
+- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you miss a class or a TA session due to illness, please [email me](mailto:covid@no-silo.com) to explain and receive makeup information.
+
+
 
 ---
 
 ## Typical Weekly Workflow
 
-Below is a list of the typical assignments and activities we will do each week. These are described in more depth in the [Major Assignments](/courses/writing-3/wr3-syllabus/#major-assignments) section below.
+Here is a list of the typical assignments and activities that we will do each week:
 
 - Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
-- As you read, I ask that you [**annotate**](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. [<i class="fas fa-exclamation-circle"></i>]() <span class="highlight">***Note***: This requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
+- As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
-- After annotating the text, take [**critical notes**](/resources/open-handbook/chapter-2/) on it in a separate document. These notes will be valuable to you later, when you write your essays.
+- After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
 - After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
+The following three numbered sections explain these practices in more detail:
+
+### I. Annotating Texts
+
+Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. Your objective in annotation is to flag the key elements of a piece of writing---the `thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This kind of work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
+
+{{< /hint >}}
+
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
 {{< /hint >}}
 
 ---
+
+### II. Critical Reading Notes
+
+Create an electronic document for composing critical notes. Take *detailed* notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to **1)** reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity; **2)** interrogate the text by asking questions, raising objections, and making observations; **3)** connect and compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
+
+{{< hint note >}}
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
+{{< /hint >}}
+
+---
+
+### III. Contribute to Hive 
+
+<i class="fab fa-forumbee"></i> [Hive](/resources/hive) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. 
+
+Our objective for [Hive](/resources/hive) is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text. The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, [Hive](/resources/hive) will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
+
+You might contribute to [Hive](/resources/hive) by doing some of the following tasks:
+
+- Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
+
+- Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
+
+- Define difficult vocabulary.
+
+- Flag a key portion of the essay that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
+
+- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
+
+- Constructively question, respond, or correct the ideas or work of another student.
+
+We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) and Google docs to create the [Hive](/resources/hive) resource. Each reading in the syllabus has a corresponding Google document within the shared drive which we will use to collectively explore and interrogate the text. 
+
+{{< hint note >}}
+
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to [Hive](/resources/hive), please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
+
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 6 @ 11 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 7 @ 12 hour
+
+
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span>  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
+{{< /hint >}}
+
+---
+
 
 ## Grading
 
@@ -193,7 +315,7 @@ There are many sources of help for your writing assignments. I am happy to meet 
 
 ## Required Conference
 
-Each of you must attend a brief conference with me and our teaching assistant during the first two weeks of class. During this meeting we will discuss the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) assignment you completed over the holiday break. We will decide together what grade you earned during the fall term.  
+Each of you must attend a brief conference with me and our teaching assistant during the first two weeks of class. During this meeting we will discuss the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) assignment you completed last fall.
 
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
@@ -215,22 +337,23 @@ All students are entitled to full access to this course, regardless of disabilit
 
 | Symbol                                  | Note                                                                          |
 |:---------------------------------------:|:----------------------------------------------------------------------------- |
-| [<i class="fas fa-sync-alt"></i>]()     | Synchronous class day via Zoom            |
-| [<i class="fas fa-house-user"></i>]()   | Independent work day from home                                                |
-| [<i class="fa fa-comments"></i>]()      |  [Winter conference](/courses/writing-3/wr3-syllabus/#required-conference) with professor & TA 
+| <i class="fa fa-comments"></i>         | Conferences with professor                                                     |
 | [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
-| <i class="fa fa-calendar-alt"></i>      | A new assignment   
+| <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
-| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to Canvas                                                   |
-| <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/courses/writing-3/wr3-syllabus/#5-contribute-to-hive) |
+| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to [Canvas](https://canvas.dartmouth.edu/)                  |
+| <i class="fas fa-print"></i>            | Print out work and bring to class                                             |
+| <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/resources/hive/) |
 | <i class="fas fa-code-branch"></i>      | Peer work, in pairs or groups                                                 |
 | <i class="fa fa-bullhorn"></i>          | Discussion topic                                                              |
 | <i class="fa fa-book-open"></i>         | Course reading from the [*Open Handbook*](/resources/open-handbook)           |
 | <i class="fa fa-download"></i></i>      | Course reading download (.pdf)                                                |
-| <i class="fa fa-question-circle"></i>   | Question of the Day™                                                          |
+| <i class="fa fa-question-circle"></i>   | Question of the day™                                                          |
+| <i class="fas fa-box"></i>        | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
+|<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
-<!---| <i class="fas fa-box"></i> | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox) --->
+
 
 
 ## Schedule of Readings and Assignments

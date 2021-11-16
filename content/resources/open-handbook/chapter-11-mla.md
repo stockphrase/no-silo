@@ -884,12 +884,13 @@ Freeman, Dianna. *Still Life 7*. 2009, Hunter Museum of Art, Chattanooga.
 {{< mla-ref >}}
 Anderson, Wes, director. *Rushmore*. Buena Vista International, 1998.
 
-Anderson, Wes, director. *Rushmore*. Performance by Bill Murray, Buena Vista International, 1998.
+*Rushmore*. Directed by Wes Anderson, performance by Bill Murray, Buena Vista International, 1998.
 
 {{< /mla-ref >}}
 
 
-- If the focus of your writing is on a particular performer rather than the film as a whole, include the lead performers in the film after the director. 
+- If the focus of your writing is on a *particular performer* rather than the film as a whole, include the lead performers in the film after the director. 
+- If the focus of your writing is on *the film as a whole*, rather than a particular performer or creator, you may begin with the title of the film.
 
 ---
 
@@ -897,7 +898,7 @@ Anderson, Wes, director. *Rushmore*. Performance by Bill Murray, Buena Vista Int
 
 {{< mla-ref >}}
 
-Gibson, Liesl. "How to Sew a Button with Liesl Gibson." *YouTube*, uploaded by Creativebug Studios, 28 July, 2014. https://www.\\youtube.com/watch?v=7mX1qyzYMJw
+Gibson, Liesl. "How to Sew a Button with Liesl Gibson." *YouTube*, uploaded by Creativebug Studios, 28 July 2014, https://www.youtube.com/watch?v=7mX1qyzYMJw
 
 {{< /mla-ref >}}
 
