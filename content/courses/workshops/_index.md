@@ -128,7 +128,7 @@ This lecture will help you learn how to locate physical items in the library's s
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  [**Workshop 4: Works Cited or Bibliography**](/courses/workshops/bibliography/)
+####  <i class="fas fa-wrench"></i>  [**Workshop 4: Works Cited or Bibliography**](/courses/workshops/chicago-bibliography/)
 {{< /hint >}} 
 
 This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.

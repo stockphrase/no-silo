@@ -104,7 +104,61 @@ library stacks.
 
 # Workshop
 
-In a normal year when you are on campus and there is no pandemic, I would assign you each a book to find in the shelves and ask you to post a selfie with it in the stacks. But since most of you are not on campus, this will not be possible. 
 
-Instead, find some book that you have lying around the house and locate it in our online catalog. Using the call number, try to find the exact location of of this book using the two methods described above.
+Below, find an assigned book for you to locate in the stacks. Each of you must do the following:
+
+1. Locate your book using the call number; 
+
+2. Take a selfie with the book (or the hole where is should be, if it is checked out), 
+
+3. Name the photo using this convention: `first initial-lastname.jpg` (a-taylor.jpg),
+
+4. Send the photo to me [via this email](<mailto:alan@no-silo.com?subject=Find a book workshop>).
+
+- Please don't remove the book from the shelf (unless you really want to check it out at the Circulation desk). 
+
+### WR-003-06
+
+| Student  |  Book | Photo     
+|:----------|:-------------|:---------|
+| Cabrera-Najarro | [*The Sixth Extinction*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991004577379705706) | ![X](/img/workshop/x.jpg)
+| Ejimofor | [*Apocalypse and Post-politics*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991003591709705706) | ![X](/img/workshop/x.jpg)
+| Ford | [*The Contemporary Post-apocalyptic Novel*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991033390577405706)| ![X](/img/workshop/x.jpg)
+| Guzman | [*A Libertarian Walks into a Bear*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033596077705706)| ![X](/img/workshop/x.jpg)
+| Haskins | [*River of Dark Dreams: Slavery and Empire in the Cotton Kingdom*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991002139129705706) | ![X](/img/workshop/x.jpg)
+| Isles | [*The Chattel Principle*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991001997009705706)| ![X](/img/workshop/x.jpg)
+| Kong | [*Denial of Death*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004991049705706) | ![X](/img/workshop/x.jpg)
+| Lone | [*The Ends of the World*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991021335019705706) | ![X](/img/workshop/x.jpg)
+| McGill | [*Out of the Wreck I Rise*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991028857039705706) | ![X](/img/workshop/x.jpg)
+| Muhammad | [*Who's Swearing Now?*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033552471705706)  | ![X](/img/workshop/x.jpg)
+| Najeeb | [*New Hampshire*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991028856559705706) | ![X](/img/workshop/x.jpg)
+| Rosales | [*Family Names in New Hampshire Town Histories*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991020322759705706) | ![X](/img/workshop/x.jpg)
+| Starr | [*The Myth of Sisyphus*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004935809705706) | ![X](/img/workshop/x.jpg)
+| Sutton | [*Cocaine Nation*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991022912529705706) | ![X](/img/workshop/x.jpg)
+
+### WR-003-07
+
+| Student  |  Book | Photo     
+|:----------|:-------------|:---------|
+| Campbell | [*The Sixth Extinction*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991004577379705706) | ![X](/img/workshop/x.jpg)
+| Cheng | [*Apocalypse and Post-politics*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991003591709705706) | ![X](/img/workshop/x.jpg)
+| Haile | [*The Contemporary Post-apocalyptic Novel*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991033390577405706)| ![X](/img/workshop/x.jpg)
+| Lee | [*A Libertarian Walks into a Bear*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033596077705706)| ![X](/img/workshop/x.jpg)
+| Lorijn | [*River of Dark Dreams: Slavery and Empire in the Cotton Kingdom*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991002139129705706) | ![X](/img/workshop/x.jpg)
+| Myrthil | [*The Chattel Principle*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991001997009705706)| ![X](/img/workshop/x.jpg)
+| x | [*Denial of Death*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004991049705706) | ![X](/img/workshop/x.jpg)
+| Nguyen | [*The Ends of the World*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991021335019705706) | ![X](/img/workshop/x.jpg)
+| Richards-Baker | [*Out of the Wreck I Rise*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991028857039705706) | ![X](/img/workshop/x.jpg)
+| Seburn | [*Who's Swearing Now?*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033552471705706)  | ![X](/img/workshop/x.jpg)
+| Sjoenell | [*New Hampshire*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991028856559705706) | ![X](/img/workshop/x.jpg)
+| Strazzolini | [*Family Names in New Hampshire Town Histories*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991020322759705706) | ![X](/img/workshop/x.jpg)
+| Wilhelm | [*The Myth of Sisyphus*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004935809705706) | ![X](/img/workshop/x.jpg)
+| Yuan | [*Cocaine Nation*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991022912529705706) | ![X](/img/workshop/x.jpg)
+
+
+
+
+
+
+
 

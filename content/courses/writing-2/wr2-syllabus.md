@@ -235,11 +235,11 @@ Students requesting disability-related accommodations and services for this cour
 ## Mental Health & Wellbeing
 
 The academic environment is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: 
-- Your undergraduate dean: http://www.dartmouth.edu/~upperde/
-- The Counseling Center: http://www.dartmouth.edu/~chd/
-- The Student Wellness Center: http://www.dartmouth.edu/~healthed/ 
+- Your [undergraduate dean](http://www.dartmouth.edu/~upperde/) 
+- The [Counseling Center](http://www.dartmouth.edu/~chd/) 
+- The [Student Wellness Center](http://www.dartmouth.edu/~healthed/ ) 
 - The student-led Dartmouth Mental Health Union and their Peer Support Program in Collis (and other programs) may additionally be helpful to you
-- The student-led Sexual Assault Peer Alliance (SAPAs): https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas
+- The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas) 
 
 
 Please make me aware of anything that will hinder your success in this course. I will help and I will put you in touch with others who can help even more.  The earlier I am aware of issues, the more I can do to assist you.

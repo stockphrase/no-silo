@@ -26,8 +26,6 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 #
 
-
-
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
 
@@ -68,7 +66,7 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 {{< /details >}}
 
----
+
 
 ## Course Objectives
 
@@ -275,8 +273,8 @@ Hive is an open-source repository containing notes, ideas, and questions about o
 
 We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each week containing course readings or films has a dedicated Hive document. Please make sure to contribute to the Hive document for your course section. You may distinguish between these two documents by examining the superscript notations, as in the examples below:
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [C hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
-- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [D hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
+- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [11 hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
+- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [12 hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
 
 {{< hint note >}}
 [<i class="fas fa-circle"></i>]()  You must use your Dartmouth login credentials to access the shared drive, not your personal Gmail account. You may authenticate using this G-Suite link: https://google.dartmouth.edu/
@@ -329,9 +327,20 @@ The meeting is also designed to discuss any concerns that you may have about the
 
 ## Students With Disabilities
 
-All students are entitled to full access to this course, regardless of disability. If you have a disability and anticipate needing accommodations in this course, please contact me as soon as possible to arrange a confidential meeting. Students requiring disability-related services must register with the [Student Accessibility Services](http://www.dartmouth.edu/~accessibility/) office. Once SAS has authorized services, students must show the originally signed SAS Services and Consent Form and/or a letter on SAS letterhead to me. If you have questions about whether you qualify to receive academic adjustments and services, you should contact the SAS office. All inquiries and discussions will remain confidential.
+Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
 
 ---
+
+## Mental Health & Wellbeing
+
+The academic environment is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: 
+- Your [undergraduate dean](http://www.dartmouth.edu/~upperde/) 
+- The [Counseling Center](http://www.dartmouth.edu/~chd/) 
+- The [Student Wellness Center](http://www.dartmouth.edu/~healthed/ )
+- The student-led Dartmouth Mental Health Union and their Peer Support Program in Collis (and other programs) may additionally be helpful to you
+- The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas) 
+
+Please make me aware of anything that will hinder your success in this course. I will help and I will put you in touch with others who can help even more.  The earlier I am aware of issues, the more I can do to assist you.
 
 ## Symbol Legend
 
@@ -341,7 +350,7 @@ All students are entitled to full access to this course, regardless of disabilit
 | [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
 | <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
-| <i class="fa fa-bullseye"></i>          | Assignment due                                                                |
+| <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>          | Assignment due                                                                |
 | <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to [Canvas](https://canvas.dartmouth.edu/)                  |
 | <i class="fas fa-print"></i>            | Print out work and bring to class                                             |
 | <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/resources/hive/) |
@@ -354,8 +363,6 @@ All students are entitled to full access to this course, regardless of disabilit
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
 
-
-
 ## Schedule of Readings and Assignments
 
 {{< details "1 - Course Introduction" >}}
@@ -363,16 +370,17 @@ All students are entitled to full access to this course, regardless of disabilit
 #
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.8
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.7
 {{< /hint >}} 
 
-#### `+ In-class work`
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-- Class reunion, course overview & housekeeping.
+- Class reunion, course overview, syllabus tour, housekeeping matters.
 
+---
 
-#### `+ Assignments`
-- <i class="fa fa-calendar-alt"></i>  Review your responses to the [End-of-Term Review](/courses/writing-2/quarterly-review/) to prepare for the winter conference.
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
+- <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
 - <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing).
 
 {{< /details >}}
@@ -382,87 +390,62 @@ All students are entitled to full access to this course, regardless of disabilit
 {{< details "2 - Winter Conferences" >}}
 #
 
-This week is dedicated to our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective work](/courses/writing-2/quarterly-review/) that you completed over the holiday break. We will also think ahead to things you would like to work on during the winter term.
+This week we will meet for our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective assignment](/courses/writing-2/quarterly-review/) that you completed last fall. We will also think ahead to things you would like to work on during the winter term.
 
 {{< hint note >}} 
 
 
-- Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
+<i class="fas fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
-As you wait to do your winter conference with us, occupy yourselves with the following important lectures and workshops:
+
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.11
+
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.10
+
 {{< /hint >}} 
 
-#### ``+ Lectures & Workshops``
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
+- <i class="far fa-file"></i>  [`Introduction to Academic Research`](/courses/workshops/academic-research-intro) | A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
 
-{{< hint note >}} 
-#### <i class="fas fa-file"></i>  [Introduction to Academic Research](/courses/workshops/academic-research-intro) 
-{{< /hint >}} 
-  
-- A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
-
-{{< hint note >}} 
-####  <i class="fas fa-microphone-alt"></i>  [Introduction to Cultural Studies](/courses/workshops/cultural-studies)
-{{< /hint >}} 
-- This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief (and wholly reductive) introduction to this form of inquiry.
-
-#### ``+ Independent work``
-
-- Complete the lecture and workshop. 
+- <i class="fas fa-microphone-alt"></i>  [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief introduction to this form of inquiry.
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 1.13
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.12
 {{< /hint >}} 
 
 
-#### ``+ Lectures & Workshops``
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+
+- <i class="fas fa-wrench"></i> [`Workshop 1: Searching with Precision`](/courses/workshops/search-with-precision/) | This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
 
 
-{{< hint note >}} 
-####  <i class="fas fa-wrench"></i> [Workshop 1: Searching with Precision](/courses/workshops/search-with-precision/)
-{{< /hint >}} 
-
-- This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
-
-#### ``+ Independent work``
-
-- Complete the workshop. 
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.15
+####  <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.14
 {{< /hint >}} 
 
-#### ``+ Lectures & Workshops``
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-{{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 2: Finding Periodicals & Electronic Databases](/courses/workshops/find-periodicals)
-{{< /hint >}} 
 
-- This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
+- <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals) | This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
 
-#### ``+ Independent work``
 
-- Complete the workshop. 
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-#### `+ Due`
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Create a barebones [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) and link to it on our [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
-{{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  Create a barebones [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) and link to it on our [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-
-{{< /hint >}} 
 
 
 {{< /details >}}
@@ -477,90 +460,95 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](https://docs.google.com/document/d/1ycrCCPZPVdnfu7wiqzBmai6NDqaTpbLW1r8ucu3IXZg/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](https://docs.google.com/document/d/1UC0mFoXat3PACPEVYhUF0nlgYX8lV5BMgX5YqAujBZ4/edit?usp=sharing)    
-
+<!---
 - <i class="far fa-clipboard"></i> [Reading Notes](/courses/writing-3/reading-notes)
+--->
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.18 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Monday, 1.17 
 {{< /hint >}} 
 
-- [<i class="fas fa-fist-raised"></i>]() *Martin Luther King Day*. No classes. We will use the X-hour for an *optional* meeting, described below.
+- [<i class="fas fa-fist-raised"></i>](https://www.youtube.com/watch?v=DKWCxKq0i1k) *Martin Luther King Day*. No classes. We will use the X-hour this week.
 
 
-
----
-
-{{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) | [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } X-hour session 
-{{< /hint >}} 
-
-- [<i class="far fa-clock"></i>]() Tuesday, 1.19 | X-hour | Section 7 @ 12:30-1:20
-- [<i class="far fa-clock"></i>]() Thursday, 1.21 | X-hour | Section 6 @ 12:30-1:20
-
-This is an *optional meeting* to discuss the previous workshops and lectures from week 2 or other course-related matters. Otherwise, complete the workshop independently and prepare for discussion. 
-
-#### ``+ Lectures & Workshops``
-
-{{< hint note >}} 
-####  <i class="fas fa-wrench"></i>   [Workshop 3: Finding Books and other Physical Holdings in the Library](/courses/workshops/locate-books)
-{{< /hint >}} 
-
-- This workshop will help you learn how to locate physical items in the library's stacks.
-
-{{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 9: What is Peer Review?](/courses/workshops/peer-reviews)
-{{< /hint >}} 
-
-- This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 1.20
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  X-hour session 
 {{< /hint >}} 
 
-#### `+ Texts`
+- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 7 @ 12:15-1:05
+- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 6 @ 1:20-2:10
+
+---
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
-- <i class="fa fa-download"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”
 
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
-- Print out, read, annotate, and take critical notes on the readings, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-
-#### `+ In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss readings.
-
----
-
-{{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.22
-{{< /hint >}} 
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
 
-#### `+ Texts`
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-- <i class="fa fa-download"></i> Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”
+- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | This workshop will help you learn how to locate physical items in the library's stacks.
 
-#### ``+ Independent work``
+- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*
-
-#### `+ In-class work`
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading.
 
-#### `+ Due`
+---
 
 {{< hint note >}} 
-
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Wednesday, 1.19
 {{< /hint >}} 
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.21
+{{< /hint >}} 
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+
+
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+
+
 
 {{< /details >}}
 
@@ -578,17 +566,16 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 1.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.24
 {{< /hint >}} 
 
 
-#### `+ Texts`
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964). Film is in the "Media" section of Canvas. 
-    - *Resist the urge to watch the film at faster than 1x speed*.  
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964). Film is in the "Media" section of Canvas. | *Resist the urge to watch the film at faster than 1x speed*.  
 
 
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
@@ -596,22 +583,19 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 1.27
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.26
 {{< /hint >}} 
 
-#### `+ Texts`
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
 
 - <i class="fa fa-download"></i> Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”
 
-#### ``+ Lectures & Workshops``
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-{{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 4: Works Cited or Bibliography](/courses/workshops/bibliography/)
-{{< /hint >}} 
+- <i class="fas fa-wrench"></i> [`Workshop 4: Works Cited or Bibliography`](/courses/workshops/bibliography/) | This lecture will help you gain familiarity with constructing a Chicago style bibliography for a research paper or project.
 
-- This lecture will help you gain familiarity with constructing a bibliography for a research paper or project.
-
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
@@ -620,21 +604,21 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 1.29
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.28
 {{< /hint >}} 
 
-#### ``+ In-class work``
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fas fa-wrench"></i> Go over Workshop 4 answers.
 - <i class="fa fa-bullhorn"></i> Discuss film, Hive submissions, and research proposals.
-#### `+ Due`
 
-{{< hint note >}} 
-- <i class="fa fa-bullseye"></i> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-{{< /hint >}} 
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+
+
 
 {{< /details >}}
 
@@ -651,66 +635,65 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.1
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.31
 {{< /hint >}} 
 
 
-#### `+ Texts`
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas 
     - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
 
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.3
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.2
 {{< /hint >}} 
 
-#### `+ Lectures & Workshops`
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-{{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  [Workshop 5: Cutting Corners in Research](/courses/workshops/cutting-corners/)
-{{< /hint >}} 
+- <i class="fas fa-wrench"></i>  [`Workshop 5: Cutting Corners in Research`](/courses/workshops/cutting-corners/) | The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 
-- The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+- <i class="fas fa-wrench"></i> [`Workshop 6: "Getting Sh*t the Library Doesn't Have"`](/courses/workshops/inter-library-loan) | As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes our library doesn't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
 
 
-{{< hint note >}} 
-#### <i class="fas fa-wrench"></i> [Workshop 6: "Getting Sh*t the Library Doesn't Have"](/courses/workshops/inter-library-loan)
-{{< /hint >}} 
-
-
-- As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes our library doesn't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
-
-
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Complete the workshops.
-- Prepare for discussion of texts on Friday. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Review workshops
+
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.5
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.4
 {{< /hint >}} 
 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
 
-#### ``+ Due``
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-{{< hint note >}} 
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
-- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
-{{< /hint >}} 
 
 
 {{< /details >}}
@@ -734,65 +717,72 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.8
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.7
 {{< /hint >}} 
 
-#### `+ Texts`
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
 
 - <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
     
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.10
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.9
 {{< /hint >}} 
 
-#### `+ Texts`
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fa fa-download"></i>  Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”
 
-#### `+ Lectures & Workshops`
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-{{< hint note >}} 
-####  <i class="fas fa-wrench"></i> [Workshop 7: Bibliographic Software / Research Journal](/courses/workshops/bibliographic-management/)
-{{< /hint >}} 
-
-- Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
+- <i class="fas fa-wrench"></i> [`Workshop 7: Bibliographic Software / Research Journal`](/courses/workshops/bibliographic-management/) | Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
 
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 - Complete the workshop.
 
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
----
-
-{{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.12
-{{< /hint >}} 
-
-
-#### ``+ In-class work``
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and reading.
 
 
-#### ``+ Due``
+
+---
 
 {{< hint note >}} 
-- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i> [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
-
-
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.11
 {{< /hint >}} 
+
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
+
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  [Research Essay Draft I](https://canvas.dartmouth.edu/) (3-5 pages).
 
 
 
@@ -813,55 +803,58 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.15
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.14
 {{< /hint >}} 
 
-#### `+ Texts`
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/file/d/1IaT_9iMqJe8pDd2uSQI8TNHWt7pRWvN-/view?usp=sharing).
 - <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”
 
  
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
+
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.17
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.16
 {{< /hint >}} 
 
-#### ``+ Independent work``
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
 - <i class="fas fa-search"></i> Independent research on essay topic.
 
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.19 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.18 
 {{< /hint >}} 
 
-#### ``+ Lectures & Workshops``
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-{{< hint note >}} 
-####  <i class="fas fa-wrench"></i>  Lecture: Managing Large Research Projects
-{{< /hint >}} 
+- <i class="fas fa-wrench"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
-- How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-#### ``+ In-class work``
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film, reading, Hive submissions, and research proposals.
+- <i class="fa fa-bullhorn"></i> Discuss research proposals.
 
-#### ``+ Due``
-
-{{< hint note >}} 
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
 
-- <i class="fa fa-bullseye"></i>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
-{{< /hint >}} 
+
 
 
 
@@ -871,66 +864,71 @@ Recent years have seen an explosion of “reality” television programming base
 
 {{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
-We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however,
-scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
+We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://docs.google.com/document/d/1iz17XoW6GxQmslBFgVmd0tsrbnLttNo5BV61NGVS-Xc/edit?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://docs.google.com/document/d/1QrQevT_-RxjfRj26VCwbx3-vJh0zu5GEau5ALveKnEY/edit?usp=sharing)    
 
 ---
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 2.22
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
 {{< /hint >}} 
 
-- Independent work on research and essay draft.
-<!---
-#### `+ Texts`
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
 
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+
 ---
---->
+
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 2.24
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
 {{< /hint >}} 
 
-- Independent work on research and essay draft.
-<!---
-#### `+ Readings`
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012). Film is in the "Media" section of Canvas.
 
-#### ``+ Independent work``
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
 ---
---->
+
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 2.26
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
 {{< /hint >}} 
 
-<!---
+
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions.
 - <i class="fa fa-wrench"></i> Essay 3 workshop.
 
---->
 
-- Today's class will convert to an extra office hour.
 
-#### ``+ Due``
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-{{< hint note >}} 
-- <i class="fa fa-bullseye"></i>  Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <i class="fa fa-bullseye"></i> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
 
-{{< /hint >}} 
+
 
 
 {{< /details >}}
@@ -945,40 +943,39 @@ This week is dedicated to our presentations. Each of you will make a short prese
 - *Each of you should be prepared to present on Monday*. I will have my son Abel randomly number you from 1-15 to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 3.1
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.28
 {{< /hint >}} 
 
-#### `+ In-class work`
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-- <i class="fas fa-comment-alt"></i> Presentation Group 1.
+- [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 1.
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 3.3
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 3.2
 {{< /hint >}} 
 
-#### `+ In-class work`
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-- <i class="fas fa-comment-alt"></i> Presentation Group 2.
+- [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 2.
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 3.5
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.4
 {{< /hint >}} 
 
-#### `+ In-class work`
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-- <i class="fas fa-comment-alt"></i> Presentation Group 3.
+- [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 3.
 
-#### ``+ Due``
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-{{< hint note >}} 
 
-- <i class="fa fa-bullseye"></i>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
-{{< /hint >}} 
+
 
 
 {{< /details >}}
@@ -991,37 +988,40 @@ This week is dedicated to our presentations. Each of you will make a short prese
 <div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Monday, 3.8
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.7
 {{< /hint >}} 
 
-#### ``+ Independent work``
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-- Finalize revisions to final paper.
+- Final question of the day.
+- Tearful goodbyes.
+- <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
+
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
+
+- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
+
 
 ---
 
 {{< hint note >}} 
-#### { [<i class="fas fa-sync-alt"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Wednesday, 3.10
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.11
 {{< /hint >}} 
 
-#### ``+ In-class work``
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-- Tearful goodbyes.
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  [Final Essays Due](https://canvas.dartmouth.edu).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Final draft of Author Page Due. 
 
 {{< hint note >}} 
-#### { [<i class="fas fa-house-user"></i>](/courses/writing-3/wr3-syllabus/#symbol-legend) } Friday, 3.12
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.14
 {{< /hint >}} 
 
-#### `+ Assignments`
+---
 
-- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Final Grade](https://canvas.dartmouth.edu). (Due March 15).
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-#### ``+ Due``
-{{< hint note >}}
-- <i class="fa fa-bullseye"></i> [Final Essays Due](https://canvas.dartmouth.edu).
-- <i class="fa fa-bullseye"></i> Final draft of Author Page Due.
-
-{{< / hint >}}
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
 
 
 {{< /details >}}
