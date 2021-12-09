@@ -37,7 +37,7 @@ bookToc: true
 {{< /hint >}} 
 
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>   [Course readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>   [Course readings]() (.pdfs) 
 {{< /hint >}} 
 
  {{< /tab >}}
@@ -45,16 +45,6 @@ bookToc: true
 
 {{< tab "Lectures & Workshops" >}} 
 
-<!---
-{{< hint note >}} 
-####  <i class="fas fa-video"></i>  **Introduction to Writing 3**
-{{< /hint >}} 
-
-This lecture provides a brief introduction to our WR3 course objectives, assignments, and topic.
-
-
----
---->
 
 {{< hint note >}} 
 ####  <i class="fas fa-microphone-alt"></i>  [**Introduction to Cultural Studies**](/courses/workshops/cultural-studies)

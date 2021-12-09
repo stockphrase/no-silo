@@ -769,6 +769,12 @@ Smith, Jim. "Remembering Tony." *The New Yorker*, Jan. 2010, pp. 12-18.
 
 ---
 
+**Date of Access**
+
+- The MLA no longer requires the date of access for online sources. However, providing the date of access may be helpful to the reader if you expect that the content being cited may be altered or revised in some way. To add this information to a citation, include the following at the end of your entry: `Accessed 25 Oct. 2015.`
+
+---
+
 ### Article in an online database:
 
 {{< mla-ref >}}

@@ -91,7 +91,7 @@ the following:
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
-- [Winter readings](https://drive.google.com/file/d/14mWNLIZWi15kdaxUPdCkN3znjWLGHJgu/view?usp=sharing) (.zip)
+- [Winter readings](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing) (.pdf)
 - [*The Road*](https://www.amazon.com/dp/0307387895/ref=cm_sw_em_r_mt_dp_Y7QYHN0PMJPY1BB87FZA), by Cormac McCarthy
 
 ---
@@ -138,13 +138,13 @@ Regular attendance is expected. Bracketing religious observance, severe illness,
 
 Here is a list of the typical assignments and activities that we will do each week:
 
-- Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
+1. Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
 
-- As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
+2. As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
-- After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
+3. After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in a separate document. These notes will be valuable to you later, when you write your essays.
 
-- After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
+4. After annotating and taking notes, contribute to [Hive](/resources/hive)---our open-source repository of notes, ideas, and questions about our course readings.
 
 The following three numbered sections explain these practices in more detail:
 
@@ -262,7 +262,7 @@ Each of you will curate a webpage dedicated to your research project. We will ca
 - a weekly reflective blog post about the progress of your research project (see #7 below).
 
 {{< hint note >}}
-[<i class="fas fa-star-of-life"></i>](/courses/writing-3/author-page) I have placed a [model author page](/courses/writing-3/author-page) on the course website.
+[<i class="fas fa-star-of-life"></i>](/courses/writing-3/author-page) I have created a [model author page](/courses/writing-3/author-page) on the course website.
 {{< /hint >}}
 
 
@@ -271,25 +271,15 @@ Each of you will curate a webpage dedicated to your research project. We will ca
 
 Hive is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course texts we encounter. 
 
-We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each week containing course readings or films has a dedicated Hive document. Please make sure to contribute to the Hive document for your course section. You may distinguish between these two documents by examining the superscript notations, as in the examples below:
+- *Your contributions to Hive are a key element in your class participation*. 
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ [11 hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
-- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ [12 hour](https://www.dartmouth.edu/reg/docs/class_schedule.pdf)
+We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://google.dartmouth.edu/) to create the Hive resource. Each week containing course readings or films has a dedicated Hive document. Please make sure to contribute to the Hive document for your course section.
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]()  You must use your Dartmouth login credentials to access the shared drive, not your personal Gmail account. You may authenticate using this G-Suite link: https://google.dartmouth.edu/
+[<i class="fas fa-star-of-life"></i>](/courses/writing-3/author-page) Instructions and ideas for Hive contributions are [described in more detail above](/courses/writing-3/wr3-syllabus-w22/#iii-contribute-to-hive).
 {{< /hint >}}
 
-Our objective for Hive is to explore meaning, discover argumentative structures, evaluate supporting evidence, ask probing questions, connect to other readings, link to relevant resources, and think critically about the implications of a text.  The “[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)” is capable of discovering and creating far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
 
-You might contribute to Hive by doing some of the following tasks:
-
-- Help create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence.
-- Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
-- Define difficult vocabulary.
-- Flag a key portion of the essay or film that seems worthy of discussion or analysis and explain why it seems significant, or build on the thought of another student who has done so.
-- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
-- Constructively question, respond, or correct the ideas or work of another student.
 
 ### 6. Critical Reading Notes
 
@@ -318,7 +308,7 @@ Each of you must attend a brief conference with me and our teaching assistant du
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>](https://docs.google.com/spreadsheets/d/1jSvZOU4cw-_TqmaL5x5xVUL_4DQYk8YUQVgHkbHhQaw/edit?usp=sharing) To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -337,10 +327,12 @@ The academic environment is challenging, our terms are intensive, and classes ar
 - Your [undergraduate dean](http://www.dartmouth.edu/~upperde/) 
 - The [Counseling Center](http://www.dartmouth.edu/~chd/) 
 - The [Student Wellness Center](http://www.dartmouth.edu/~healthed/ )
-- The student-led Dartmouth Mental Health Union and their Peer Support Program in Collis (and other programs) may additionally be helpful to you
+- The student-led [Dartmouth Mental Health Union](https://engage.dartmouth.edu/organization/dartmouth-student-mental-health-union)
 - The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas) 
 
 Please make me aware of anything that will hinder your success in this course. I will help and I will put you in touch with others who can help even more.  The earlier I am aware of issues, the more I can do to assist you.
+
+---
 
 ## Symbol Legend
 
@@ -365,7 +357,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ## Schedule of Readings and Assignments
 
-{{< details "1 - Course Introduction" >}}
+{{< details "1 - Course Introduction" open >}}
 
 #
 
@@ -381,7 +373,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
-- <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing).
+- <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing).
 
 {{< /details >}}
 
@@ -395,7 +387,7 @@ This week we will meet for our winter conferences. In this conference you will s
 {{< hint note >}} 
 
 
-<i class="fas fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/1J2_tme1xFdI5_Zw9IY7eTBCXO9dAwC_BNdOIVzXmClc/edit?usp=sharing). The conference will be held in my office hour Zoom room.
+<i class="fas fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -439,6 +431,11 @@ This week we will meet for our winter conferences. In this conference you will s
 
 - <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals) | This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
 
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading and workshops.
+
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
@@ -458,8 +455,8 @@ This week we will meet for our winter conferences. In this conference you will s
 
 Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](https://docs.google.com/document/d/1ycrCCPZPVdnfu7wiqzBmai6NDqaTpbLW1r8ucu3IXZg/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](https://docs.google.com/document/d/1UC0mFoXat3PACPEVYhUF0nlgYX8lV5BMgX5YqAujBZ4/edit?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 <!---
 - <i class="far fa-clipboard"></i> [Reading Notes](/courses/writing-3/reading-notes)
 --->
@@ -560,8 +557,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://docs.google.com/document/d/1hVOK0U-I8Q26XLs3Ye4wnKcYE-zWBPYQIo5nVNzaCBk/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://docs.google.com/document/d/106DLYltHpdLI2ru7TBYNqgwHQjvwi9tOyidfHdtlIbU/edit?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
@@ -572,7 +569,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964). Film is in the "Media" section of Canvas. | *Resist the urge to watch the film at faster than 1x speed*.  
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Media" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.  
 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
@@ -593,7 +590,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-- <i class="fas fa-wrench"></i> [`Workshop 4: Works Cited or Bibliography`](/courses/workshops/bibliography/) | This lecture will help you gain familiarity with constructing a Chicago style bibliography for a research paper or project.
+- <i class="fas fa-wrench"></i> [`Workshop 4: Works Cited or Bibliography`](/courses/workshops/chicago-bibliography/) | This lecture will help you gain familiarity with constructing a Chicago style bibliography for a research paper or project.
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
@@ -629,8 +626,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #
 
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 5](https://docs.google.com/document/d/1vqlQfglqcPTw4VuCKAqlMUh6KwRGo8MNeffrfVsMQzk/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 5](https://docs.google.com/document/d/1kQVt-i7dkNPySeRl1cIX6Grbjn5RDscwiP2WpyPilg0/edit?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 5](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 5](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
@@ -641,7 +638,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007). Film is in the "Media" section of Canvas 
+- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Media" section of Canvas 
     - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
 
@@ -652,7 +649,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
 
 ---
 
@@ -709,10 +706,10 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 >---Robin Wood
 
 
-Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This begs several questions. Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
+Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This prompts several questions: Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://docs.google.com/document/d/1EktnjiQ_sHK5UENcrb45I6r4rtRMfEK0ImbuH5DLMyM/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://docs.google.com/document/d/1XqmqcpjN0Huzw2VWS0fkOeSqsAKiy_ihHnQT4cxDUSA/edit?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
@@ -723,7 +720,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 
-- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968). Film is in the "Media" section of Canvas.
+- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Media" section of Canvas.
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
     
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
@@ -734,7 +731,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film
+- <i class="fa fa-bullhorn"></i> Discuss film.
 
 ---
 
@@ -798,8 +795,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 7](https://docs.google.com/document/d/1m3ssooyIGGi8Cnx0GfY2yxu-6NqVPUWGxOh7YHLZxHM/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 7](https://docs.google.com/document/d/14lFa9NDav9dBYnGKsl80P0StMdCqRI2AGAaLi_9fzlE/edit?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 7](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 7](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 {{< hint note >}} 
@@ -808,7 +805,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/file/d/1IaT_9iMqJe8pDd2uSQI8TNHWt7pRWvN-/view?usp=sharing).
+- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing).
 - <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”
 
  
@@ -862,12 +859,95 @@ Recent years have seen an explosion of “reality” television programming base
 
 ##
 
+{{< details "8 - Imagining the End: Cormac McCarthy"  >}}
+#
+
+
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+
+---
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
+{{< /hint >}} 
+
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 1-96.
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
+{{< /hint >}} 
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 96-190.
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
+{{< /hint >}} 
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 190-287.
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
+
+
+
+
+{{< /details >}}
+
+
+
+<!---
+
+##
+
 {{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
 We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://docs.google.com/document/d/1iz17XoW6GxQmslBFgVmd0tsrbnLttNo5BV61NGVS-Xc/edit?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://docs.google.com/document/d/1QrQevT_-RxjfRj26VCwbx3-vJh0zu5GEau5ALveKnEY/edit?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 {{< hint note >}} 
@@ -899,7 +979,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012). Film is in the "Media" section of Canvas.
+- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Media" section of Canvas.
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
@@ -918,8 +998,6 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions.
-- <i class="fa fa-wrench"></i> Essay 3 workshop.
-
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
@@ -932,6 +1010,8 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 
 {{< /details >}}
+
+--->
 
 ##
 

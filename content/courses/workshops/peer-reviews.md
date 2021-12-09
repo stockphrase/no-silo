@@ -31,9 +31,15 @@ Here are a few test criteria that you may use to make a judgment call about whet
 
 ## How to find peer-reviewed sources
 
-Many periodical databases *only* contain peer-reviewed academic articles. A good example is JSTOR. Any article you find there will have been peer reviewed. Many other databases, such as Academic Search Complete, have search limiters that can be selected to ensure that the search results only contain peer-reviewed sources. Our own library catalog search engine provides the ability to limit the search to peer-reviewed books and periodicals.
+Many periodical databases *only* contain peer-reviewed academic articles. A good example is [JSTOR](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991022910609705706). Any article you find there will have been peer reviewed. Many other databases, such as [Academic Search Complete](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033277618505706), have search limiters that can be selected to ensure that the search results only contain peer-reviewed sources. Our own [library catalog search engine](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&lang=en&mode=advanced) provides the ability to limit the search to peer-reviewed books and periodicals.
 
 ## Workshop
+
+1. Visit JSTOR, Academic Search Complete, Web of Science, and our library catalog. Perform an identical search with keywords and compare the results. Then limit the results by filtering the results to include only peer-reviewed items. What happens? 
+
+- JSTOR: `post-apocalyptic` = 26,694 results
+- Academic Search Complete: `post-apocalyptic` = 882 results w/ peer-review: 308
+- Web of Science: `post-apocalyptic` = 306
 
 
 
