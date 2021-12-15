@@ -17,7 +17,7 @@ Periodicals are publications that are published at regular intervals, such as sc
 
 However, a common problem for undergraduate researchers is not knowing which databases or journals are appropriate to search in for information on a particular topic. There is no shame in this: unless you are a professional scholar, it is difficult to know what the leading journals are in a particular field of study. This is also a problem for faculty performing research outside of their areas of expertise. For example, an English professor would know that the academic journal PMLA or the database JSTOR are excellent places to look for articles on Herman Melville’s novel *Moby Dick*, but a physicist might not know where to begin.
 
-To resolve this problem, our library has organized periodical databases by discipline in the [Database Finder](https://researchguides.dartmouth.edu/az.php). You may also browse alphabetically if you know the name of the database you are looking for. This is designed to help you locate the specific journals, periodical databases, and reference materials that are appropriate for each discipline or research subject. 
+To solve this problem, our library has organized periodical databases by discipline in the [Database Finder](https://researchguides.dartmouth.edu/az.php). You may also browse alphabetically if you know the name of the database you are looking for. This is designed to help you locate the specific journals, periodical databases, and reference materials that are appropriate for each discipline or research subject. 
 
 
 ## Workshop
@@ -29,7 +29,7 @@ When you search for periodicals, it is best to choose a database that has good c
 - **Web of Science**
 - **ProQuest Central**
 
-Locate these databases at the [library website](https://www.library.dartmouth.edu/): `Home > Other Resources > Databases`. Open a tab in your browser for each database for testing purposes.
+Locate these databases at the [library website](https://www.library.dartmouth.edu/) with the top-level navigation: `Home > Research Support > Databases`. Alternatively, you may use the [Database Finder](https://researchguides.dartmouth.edu/az.php). Open a tab in your browser for each database for testing purposes.
 
 - Each database is unique, so you will have to familiarize yourself with how it works. Poke around a bit and get the lay of the land. Get to know these databases by using a keyword [search string](/courses/workshops/search-with-precision/) that you associate with your research project. Use the same search strings in each of the databases and see how the results differ.
 

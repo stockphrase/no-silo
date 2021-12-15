@@ -63,6 +63,8 @@ two of the three search terms, it will be excluded from the results.
 
 {{< /details >}}
 
+##
+
 {{< details "OR" closed >}} 
 
 #
@@ -89,9 +91,11 @@ produce far more results.
 
 {{< /details >}} 
 
+##
+
 {{< details "NOT" closed >}} 
 
-#
+##
 
 The Boolean operator `NOT` is used to *subtract* or *screen out*
 topics or keywords that are unwanted within the search results.
@@ -144,6 +148,7 @@ articles with the keyword of **Ohio** to all the articles with the keyword **Vir
 
 {{< /details >}} 
 
+##
 
 {{< details "Exact phrase searches" closed >}} 
 
@@ -169,6 +174,8 @@ contain items that have that exact phrase within the document or title.
 
 
 {{< /details >}} 
+
+##
 
 {{< details "Truncation and wildcards" closed >}} 
 
@@ -205,7 +212,7 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
 
-2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians available in our library.
+2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians *available in our library*.
 
 <!---
 {{< details "Answer" closed >}} 

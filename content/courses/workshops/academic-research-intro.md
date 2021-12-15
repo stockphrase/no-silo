@@ -25,7 +25,7 @@ Perhaps the most common feature of books designed to help students do academic r
 The narrative of the research process found in books is misleading because it often presents an idealized and simplified description of how a project is conceived, develops, and concludes. The truth of the matter is that academic research is rarely a logical, linear operation. A list of steps can never fully prepare a researcher for the nature of true inquiry---with all its serendipitous discovery and unanticipated failure. Research is a surprising, exhilarating, and fulfilling experience, but it is also *a messy, recursive, and frequently frustrating one*.  When students try research for the first time and experience difficulty and confusion instead of an orderly march to success, they often feel as if they aren't good enough or smart enough to do research. So if you feel confused and overwhelmed at moments, you should know that is perfectly normal and you're probably doing just fine. 
 
 
-> [<i class="fas fa-circle"></i>]() **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
+> <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **The most important keys for success are consistent effort over time, determination, organization, and knowing when to ask for help**. 
 
 
 With that stated, what I describe below presents a set of steps virtually identical to what I've just savagely criticized. The difference is that I won't pretend that following a list of procedures will somehow magically produce an exemplary research essay. Every project is different and demands something different from the researcher. Every project requires that you learn new skills and find new sources of aid. To be successful at research requires a lot of hard work, creativity, inspiration, intelligence, and help from others. These complexities are impossible to capture in a checklist. Accordingly, the information below is not a manual of procedures; it provides only a general description of the research process and some common strategies that may help you along the way. 
@@ -33,7 +33,7 @@ With that stated, what I describe below presents a set of steps virtually identi
 Research (like many things in life) is something that you must do in order to learn. Mistakes and confusion are great teachers if we are patient with them---they help reveal the limits of our skills and the horizon of our knowledge. Over time, and with experience, you will gain better research instincts. It is important to try on your own, but it is nice to have someone you can ask for help when things get really tough. I am honored to be your person. And there are [many others at the library who are happy to help](https://researchguides.dartmouth.edu/subjectlibrarians) who have specialized training that far exceeds my own. 
 
 {{< hint note >}}
-<i class="far fa-calendar-check"></i> [**Click here to make an appointment with a research librarian**](https://libcal.dartmouth.edu/appointments/) 
+<i class="fas fa-mouse-pointer"></i> [**Click here to make an appointment with a research librarian**](https://libcal.dartmouth.edu/appointments/) 
 {{< /hint >}}
 
 
@@ -159,7 +159,7 @@ Library searching is done by querying databases with a set of keywords. Perhaps 
 Inventing good keywords often requires some metacritical thinking (thinking about your thinking). And you may need to ask someone who already knows a lot about your subject to help you with selecting your keywords. Searching with improper keywords will leave you with the impression that there is nothing in the library on your topic, which is almost certainly not the case. 
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() To put things bluntly, if your keywords suck you will not find good sources.  
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> To put things bluntly, if your keywords suck you will not find good sources.  
 {{< /hint >}}
 
 Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing the population's social media accounts. Using the word "spy" turns out not to be the best keyword; the keyword "surveillance" was far more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Thus, research is an iterative, accretive process---not a linear one**.  

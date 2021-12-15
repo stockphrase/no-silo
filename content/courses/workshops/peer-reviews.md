@@ -35,11 +35,11 @@ Many periodical databases *only* contain peer-reviewed academic articles. A good
 
 ## Workshop
 
-1. Visit JSTOR, Academic Search Complete, Web of Science, and our library catalog. Perform an identical search with keywords and compare the results. Then limit the results by filtering the results to include only peer-reviewed items. What happens? 
+1. Visit our library catalog search and perform a search without the peer review box checked. What happens to the search results when you use the limiter? 
 
-- JSTOR: `post-apocalyptic` = 26,694 results
-- Academic Search Complete: `post-apocalyptic` = 882 results w/ peer-review: 308
-- Web of Science: `post-apocalyptic` = 306
+2. Visit Academic Search Complete and perform a search without the peer review box checked. What happens to the search results when you use the limiter? 
+
+3. Find a few other databases associated with a research topic or field of study that is important to you. You can use the Research Guides to locate them. View a few of these databases, selected at random, and see how they approach, or fail to approach, this feature.
 
 
 

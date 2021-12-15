@@ -379,10 +379,10 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ##
 
-{{< details "2 - Winter Conferences" >}}
+{{< details "2 - Intro to Library Research & Winter Conferences" >}}
 #
 
-This week we will meet for our winter conferences. In this conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective assignment](/courses/writing-2/quarterly-review/) that you completed last fall. We will also think ahead to things you would like to work on during the winter term.
+This week we will gain an overview on library research and learn some basic skills for querying catalogs and databases. We will also meet together for our winter conferences. In the winter conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective assignment](/courses/writing-2/quarterly-review/) you completed last fall. We will also think ahead to things you would like to work on during the winter term.
 
 {{< hint note >}} 
 
@@ -404,8 +404,6 @@ This week we will meet for our winter conferences. In this conference you will s
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
 - <i class="far fa-file"></i>  [`Introduction to Academic Research`](/courses/workshops/academic-research-intro) | A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
-
-- <i class="fas fa-microphone-alt"></i>  [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief introduction to this form of inquiry.
 
 ---
 
@@ -434,7 +432,7 @@ This week we will meet for our winter conferences. In this conference you will s
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading and workshops.
+- <i class="fa fa-bullhorn"></i> Discuss lectures and workshops.
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
@@ -514,6 +512,9 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+
+- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief introduction to this form of inquiry.
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
@@ -787,13 +788,9 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ##
 
-{{< details "7 - TEOTWAWKI: Prepping for the End" >}}
-
+{{< details "7 - Imagining the End: Cormac McCarthy"  >}}
 #
 
----
-
-Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 7](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 7](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
@@ -801,6 +798,91 @@ Recent years have seen an explosion of “reality” television programming base
 ---
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.14
+{{< /hint >}} 
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 1-96.
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.16
+{{< /hint >}} 
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 96-190.
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.18
+{{< /hint >}} 
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 190-287.
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+
+
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+
+
+
+
+{{< /details >}}
+
+
+
+##
+
+
+{{< details "8 - TEOTWAWKI: Prepping for the End" >}}
+
+#
+
+---
+
+Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
+
+- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+
+---
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
@@ -821,7 +903,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.16
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
@@ -833,7 +915,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.18 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
 {{< /hint >}} 
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
@@ -847,96 +929,14 @@ Recent years have seen an explosion of “reality” television programming base
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-
-
-
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
 
 
 {{< /details >}}
 
 ##
-
-{{< details "8 - Imagining the End: Cormac McCarthy"  >}}
-#
-
-
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
-
----
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
-{{< /hint >}} 
-
-
-
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 1-96.
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
-
----
-
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
-{{< /hint >}} 
-
-
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 96-190.
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
----
-
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
-{{< /hint >}} 
-
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 190-287.
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
-
-
-
-
-{{< /details >}}
-
-
 
 <!---
 

@@ -35,7 +35,7 @@ Let's break down the call number into its constituent parts:
 
 ## Steps to find a book on the shelf
 
-### Method A:
+### <i class="fas fa-search-location"></i> Method A
 
 {{< details "Step 1: Letter Line" closed >}} 
 
@@ -50,6 +50,8 @@ Use the **letter line** to determine the floor of the library where the book is 
 <div style="text-align:center">{{< figure src="/img/collection-map.png" >}}</div>
 
 {{< /details >}}
+
+##
 
 {{< details "Step 2: Whole Number Line" closed >}} 
 
@@ -70,6 +72,8 @@ Since `F 24` is within this range, our example book is in that row. Once in the 
 
 {{< /details >}}
 
+##
+
 {{< details "Step 3: Cutter Line" closed >}} 
 
 #
@@ -89,8 +93,16 @@ Maps of the library's floorplans are affixed to the walls on each floor. Free pa
 
 
 
-### Method B:
-(Is a secret)
+### <i class="fas fa-user-secret"></i> Method B
+
+{{< details "Step 1" closed >}} 
+
+#
+
+<span style="color: var(--due)"><i class="fas fa-lock"></i></span> Method B is top secret. (I will reveal it at the appropriate time). 
+
+{{< /details >}}
+
 <!---
 
 {{< details "Or Just Forget All That" closed >}} 
@@ -117,11 +129,11 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 
 2. Take a selfie with the book (or the hole where is should be, if it is checked out), 
 
-3. Name the photo using the number next to your name: `1.jpg` or `18.jpg`,
+3. Name the photo using the number next to your name (ex: `1.jpg`, `18.jpg`),
 
 4. Send the photo to me [via this email](<mailto:alan@no-silo.com?subject=Find a book workshop>).
 
-- Please don't remove the book from the shelf. 
+<span style="color: var(--due)"><i class="fas fa-exclamation-triangle"></i> </span> If you remove the book from the shelf, please do not reshelve it yourself. Instead, drop it off at the return window at the Circulation Desk. 
 
 ### WR-003-06
 
