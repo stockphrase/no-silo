@@ -5,7 +5,9 @@ bookToc: true
 bookHidden: true
 title: "Writing 2: Syllabus"
 ---
-
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR2** | **Syllabus**
+{{< /hint >}}
 
 [<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about/bio)
 

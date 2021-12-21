@@ -31,15 +31,15 @@ Here are a few test criteria that you may use to make a judgment call about whet
 
 ## How to find peer-reviewed sources
 
-Many periodical databases *only* contain peer-reviewed academic articles. A good example is [JSTOR](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991022910609705706). Any article you find there will have been peer reviewed. Many other databases, such as [Academic Search Complete](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991033277618505706), have search limiters that can be selected to ensure that the search results only contain peer-reviewed sources. Our own [library catalog search engine](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&lang=en&mode=advanced) provides the ability to limit the search to peer-reviewed books and periodicals.
+Many periodical databases *only* contain peer-reviewed academic articles. A good example is [JSTOR](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991022910609705706). Any article you find there will have been peer reviewed. Many other databases, such as [Academic Search Complete](http://dartmouth.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=a9h), have search limiters that can be selected to ensure that the search results only contain peer-reviewed sources. Our own [library catalog search engine](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&lang=en&mode=advanced) provides the ability to limit the search to peer-reviewed books and periodicals.
 
 ## Workshop
 
-1. Visit our library catalog search and perform a search without the peer review box checked. What happens to the search results when you use the limiter? 
+1. Visit our [library catalog search](https://www.library.dartmouth.edu/) and perform a search without the peer review box checked. Use the search string `zombie AND apocalypse`. What happens to the search results when you choose to filter the results by selecting `peer-reviewed content` in the left pane? 
 
-2. Visit Academic Search Complete and perform a search without the peer review box checked. What happens to the search results when you use the limiter? 
+2. Visit [Academic Search Complete](http://dartmouth.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=a9h) and perform the same search. This database uses the term `Scholarly (Peer Reviewed) Journals` for its search limiter. What happens to the search results when you use the limiter? 
 
-3. Find a few other databases associated with a research topic or field of study that is important to you. You can use the Research Guides to locate them. View a few of these databases, selected at random, and see how they approach, or fail to approach, this feature.
+3. Find a few other databases associated with a research topic or field of study that is important to you. You can use the [Research Guides](https://researchguides.dartmouth.edu/?b=s) to locate them. View a few of these databases, selected at random, and see how they approach, or fail to approach, this feature.
 
 
 

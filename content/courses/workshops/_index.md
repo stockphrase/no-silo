@@ -119,8 +119,9 @@ This lecture will help you learn how to locate online periodicals (such as magaz
 ---
 
 {{< hint note >}} 
-####  <i class="fas fa-wrench"></i>   [**Workshop 3: Finding books and other physical holdings in the library**](/courses/workshops/locate-books)
+####  <i class="fas fa-wrench"></i>   [**Workshop 3: Finding Books and other Physical Holdings in the Library**](/courses/workshops/locate-books)
 {{< /hint >}} 
+
 
 This lecture will help you learn how to locate physical items in the library's stacks.
 

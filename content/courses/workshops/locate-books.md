@@ -148,7 +148,7 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 | 7.| Kong | [*Denial of Death*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004991049705706) | ![X](/img/workshop/7.jpg)
 | 8.| Lone | [*The Ends of the World*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991021335019705706) | ![X](/img/workshop/8.jpg)
 | 9. |McGill | [*Out of the Wreck I Rise*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991028857039705706) | ![X](/img/workshop/9.jpg)
-| 10.| Muhammad | [*Who's Swearing Now?*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033552471705706)  | ![X](/img/workshop/10.jpg)
+| 10.| Muhammad | [*Snobbery*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991031759169705706)  | ![X](/img/workshop/10.jpg)
 | 11.| Najeeb | [*New Hampshire*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991028856559705706) | ![X](/img/workshop/11.jpg)
 | 12.| Rosales | [*Family Names in New Hampshire Town Histories*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991020322759705706) | ![X](/img/workshop/12.jpg)
 | 13.| Starr | [*The Myth of Sisyphus*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004935809705706) | ![X](/img/workshop/13.jpg)

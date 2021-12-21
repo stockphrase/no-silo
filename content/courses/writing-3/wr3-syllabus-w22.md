@@ -5,6 +5,10 @@ bookToc: true
 bookHidden: true
 title: "Writing 3: Syllabus"
 ---
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i>  **WR3** | **Syllabus**
+{{< /hint >}}
+
 
 <div style="text-align:center">{{< figure src="/img/header-end.jpg" >}}</div>
 
@@ -226,7 +230,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Effort
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>](https://wac.colostate.edu/docs/books/labor/appendixa.pdf) This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
+[<i class="fas fa-star-of-life"></i>](https://wac.colostate.edu/docs/books/labor/appendixa.pdf) This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
 
 {{< /hint >}}
 
@@ -240,7 +244,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 You will write one formal research essay, 15 pages or more in length. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi) and contain a minimum of 15 [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources.
+[<i class="fas fa-star-of-life"></i>]() The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi) and contain a minimum of 15 [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources.
 {{< /hint >}}
 
 ### 2. Research Workshops
@@ -262,7 +266,7 @@ Each of you will curate a webpage dedicated to your research project. We will ca
 - a weekly reflective blog post about the progress of your research project (see #7 below).
 
 {{< hint note >}}
-[<i class="fas fa-star-of-life"></i>](/courses/writing-3/author-page) I have created a [model author page](/courses/writing-3/author-page) on the course website.
+[<i class="fas fa-star-of-life"></i>](/courses/writing-3/author-page) I have created a [model author page](/courses/writing-3/author-page) on the course website that you may use as a template.
 {{< /hint >}}
 
 
@@ -286,12 +290,12 @@ We will use shared <i class="fab fa-google-drive"></i> [Google docs](https://goo
 Take detailed notes on each course text. Your aim here should be to reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation. Carefully document page numbers during this activity. Interrogate the text by asking questions, raising objections, and noting observations. Connect and compare the reading to others we have read. Link to any outside research you perform and define unfamiliar terms or words. At the end of this process, you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged as you read. If the text is a film, take detailed notes on elements of the film that seem significant. Don't forget to note the timestamp.
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() For more detailed information on the creation and purpose of these notes, read the chapter entitled [“Annotation and Critical Reading”](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
+[<i class="fas fa-star-of-life"></i>]() For more detailed information on the creation and purpose of these notes, read the chapter entitled [“Annotation and Critical Reading”](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
 {{< /hint >}}
 
 ### 7. End-of-Week Journal Reflection
 
-Compose a weekly reflective "blog" post on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) that details your efforts that week to further your research project. At the beginning, these posts will likely be searching, inarticulate musings as you think out loud about something you'd like to research. However, as your research intensifies and comes into focus, these posts should begin to include the steps that you took that week to further the project in some way. What kind of research problems or difficulties did you encounter? What sources did you locate? How is the project evolving as you read and think more deeply on your subject? In essence, I would like you to blog your experiences as a novice researcher engaged in your first big research project. Significantly: the things you say in your posts will help me, the teaching assistant, and your colleagues assist you with your project.
+Compose a weekly reflective "blog" post on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) that details your efforts that week to further your research project. At the beginning, these posts will likely be searching, inarticulate musings as you think through possible ideas for a research project. However, as your research intensifies and comes into focus, these posts should begin to include the steps that you took that week to further the project in some way. What kind of research problems or difficulties did you encounter? What sources did you locate? How is the project evolving as you read and think more deeply on your subject? In essence, I would like you to blog your experiences as a novice researcher engaged in your first big research project. Significantly: the things you say in your posts will help me, the teaching assistant, and your colleagues assist you with your project.
 
 ---
 
@@ -308,7 +312,7 @@ Each of you must attend a brief conference with me and our teaching assistant du
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). All meetings will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -324,11 +328,11 @@ Students requesting disability-related accommodations and services for this cour
 ## Mental Health & Wellbeing
 
 The academic environment is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: 
-- Your [undergraduate dean](http://www.dartmouth.edu/~upperde/) 
-- The [Counseling Center](http://www.dartmouth.edu/~chd/) 
-- The [Student Wellness Center](http://www.dartmouth.edu/~healthed/ )
-- The student-led [Dartmouth Mental Health Union](https://engage.dartmouth.edu/organization/dartmouth-student-mental-health-union)
-- The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas) 
+- Your [undergraduate dean](http://www.dartmouth.edu/~upperde). 
+- The [Counseling Center](http://www.dartmouth.edu/~chd). 
+- The [Student Wellness Center](http://www.dartmouth.edu/~healthed).
+- The student-led [Dartmouth Mental Health Union](https://engage.dartmouth.edu/organization/dartmouth-student-mental-health-union).
+- The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas). 
 
 Please make me aware of anything that will hinder your success in this course. I will help and I will put you in touch with others who can help even more.  The earlier I am aware of issues, the more I can do to assist you.
 
@@ -354,6 +358,24 @@ Please make me aware of anything that will hinder your success in this course. I
 | <i class="fas fa-box"></i>        | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
+<!---
+
+## Color Alerts
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> 
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+
+--->
 
 ## Schedule of Readings and Assignments
 
@@ -362,7 +384,7 @@ Please make me aware of anything that will hinder your success in this course. I
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Wednesday, 1.5
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
@@ -375,14 +397,26 @@ Please make me aware of anything that will hinder your success in this course. I
 - <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
 - <i class="fas fa-check-square"></i> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing).
 
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.7
+{{< /hint >}} 
+
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+
+
+- <i class="far fa-file"></i>  [`Introduction to Academic Research`](/courses/workshops/academic-research-intro) | A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
+
+
 {{< /details >}}
 
 ##
 
-{{< details "2 - Intro to Library Research & Winter Conferences" >}}
+{{< details "2 - Library Research, Cultural Studies, & Winter Conferences" >}}
 #
 
-This week we will gain an overview on library research and learn some basic skills for querying catalogs and databases. We will also meet together for our winter conferences. In the winter conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective assignment](/courses/writing-2/quarterly-review/) you completed last fall. We will also think ahead to things you would like to work on during the winter term.
+This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). Finally, we meet together for our winter conferences. In the winter conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective assignment](/courses/writing-2/quarterly-review/) you completed last fall. We will also think ahead to specific things you would like to work on during the winter term.
 
 {{< hint note >}} 
 
@@ -390,8 +424,6 @@ This week we will gain an overview on library research and learn some basic skil
 <i class="fas fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 
 {{< /hint >}}
-
-
 
 ---
 
@@ -403,7 +435,8 @@ This week we will gain an overview on library research and learn some basic skil
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-- <i class="far fa-file"></i>  [`Introduction to Academic Research`](/courses/workshops/academic-research-intro) | A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
+- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief introduction to this form of inquiry.
+
 
 ---
 
@@ -432,7 +465,7 @@ This week we will gain an overview on library research and learn some basic skil
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss lectures and workshops.
+- <i class="fa fa-bullhorn"></i> Discuss lectures and review workshops.
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
@@ -447,7 +480,7 @@ This week we will gain an overview on library research and learn some basic skil
 
 ##
 
-{{< details "3 - Disaster, Apocalypse, and the State of Nature" >}}
+{{< details "3 - Disaster, Apocalypse, & the State of Nature" >}}
 
 #
 
@@ -491,12 +524,12 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | This workshop will help you learn how to locate physical items in the library's stacks.
 
-- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
+
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
+- <i class="fa fa-bullhorn"></i> Discuss reading and workshop.
 
 ---
 
@@ -514,12 +547,12 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This lecture provides a brief introduction to this form of inquiry.
+- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
+- <i class="fa fa-bullhorn"></i> Discuss reading and workshop.
 
 ---
 
@@ -552,7 +585,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ##
 
-{{< details "4 - The Apocalypse and the Other I" >}}
+{{< details "4 - The Apocalypse & the Other I" >}}
 #
 
 
@@ -570,7 +603,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Media" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.  
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.  
 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
@@ -623,7 +656,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "5 - The Apocalypse and the Other II" >}}
+{{< details "5 - The Apocalypse & the Other II" >}}
 #
 
 
@@ -639,7 +672,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Media" section of Canvas 
+- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Panopto Video" section of Canvas 
     - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
 
@@ -698,7 +731,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "6 - The Zombie, Civil Rights, and Race" >}}
+{{< details "6 - The Zombie, Civil Rights, & Race" >}}
 #
 
 
@@ -721,7 +754,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 
-- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Media" section of Canvas.
+- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Panopto Video" section of Canvas.
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
     
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
@@ -910,7 +943,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and reading.
-- <i class="fas fa-search"></i> Independent research on essay topic.
+
 
 
 ---
@@ -979,7 +1012,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Media" section of Canvas.
+- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Panopto Video" section of Canvas.
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
