@@ -27,13 +27,13 @@ Take a moment to reflect on your work. Consider the following questions and writ
 - Do you have any questions?
 
 ---
-
+<!---
 | Download       | Purpose      
 | :-------------: |:-------------
 |<i class="fa fa-download "></i> [Worksheet](/docs/peer-review.docx)    | Use this peer review worksheet for steps I and II, described below. Give your worksheet back to your partner after reviewing his/her work. 
 
 
-<!---
+
 
 ## Step I: Make a basic outline
 
@@ -85,7 +85,7 @@ The radically simplified version of the essay that results from this process may
 
 ## Respond
 
-After you've outlined the essay's arguments, try to offer several clear ideas on how the essay could be improved. Assuming most of you are working in Microsoft Word, you may use the comment feature to add your observations to the outline of your colleague's essay.
+After you've read the essay carefully, try to offer several clear ideas on how the essay could be improved. Assuming most of you are working in Microsoft Word, you may use the comment feature to add your observations to the outline of your colleague's essay.
 
 You might consider some of the following for guidance or inspiration:
 

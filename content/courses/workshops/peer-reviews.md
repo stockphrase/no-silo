@@ -35,9 +35,9 @@ Many periodical databases *only* contain peer-reviewed academic articles. A good
 
 ## Workshop
 
-1. Visit our [library catalog search](https://www.library.dartmouth.edu/) and perform a search without the peer review box checked. Use the search string `zombie AND apocalypse`. What happens to the search results when you choose to filter the results by selecting `peer-reviewed content` in the left pane? 
+1. Visit our [library catalog](https://www.library.dartmouth.edu/) and perform a search *without* the peer review box checked. Use the search string `zombie AND apocalypse`. What happens to the search results when you choose to filter the results by selecting `peer-reviewed content` in the left pane? 
 
-2. Visit [Academic Search Complete](http://dartmouth.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=a9h) and perform the same search. This database uses the term `Scholarly (Peer Reviewed) Journals` for its search limiter. What happens to the search results when you use the limiter? 
+2. Visit the database [Academic Search Complete](http://dartmouth.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&profile=ehost&defaultdb=a9h) and perform the same search as above. This database uses the term `Scholarly (Peer Reviewed) Journals` for its search limiter. What happens to the search results when you use the limiter? 
 
 3. Find a few other databases associated with a research topic or field of study that is important to you. You can use the [Research Guides](https://researchguides.dartmouth.edu/?b=s) to locate them. View a few of these databases, selected at random, and see how they approach, or fail to approach, this feature.
 

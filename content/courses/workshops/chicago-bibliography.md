@@ -36,7 +36,7 @@ Take a few moments to scan though this [student essay in the Chicago style](/doc
 
 - >[<i class="fas fa-circle"></i>]() How is the block quote handled differently in Chicago compared to MLA?
 
-- >[<i class="fas fa-circle"></i>]() What is the relationship between the following entries on the `Notes` page: 3 and 11? 9 and 10; 3 and 4?  
+- >[<i class="fas fa-circle"></i>]() What is the relationship between the following entries on the `Notes` page: 3 and 11? 9 and 10? 3 and 4?  
 
 
 The *Open Handbook* has detailed information on formatting of both the [MLA](https://no-silo.com/resources/open-handbook/chapter-11-mla/) and [Chicago](https://no-silo.com/resources/open-handbook/chapter-11-chi/) bibliography to guide you. 
@@ -47,9 +47,11 @@ Your assignment is to “translate” this [student essay](/docs/egoist-mla-stud
 
 To begin, download the essay to your own computer. Before you make any alterations, it might be wise to write out a detailed list of things that must be translated. The list of questions above may be of great assistance to you. You may need to consult the *Open Handbook* to come up with your plan of action.
 
-- You will find it difficult to force Microsoft Word into submission and make it do your bidding for the page numbering and the endnotes. While I don't personally use Word, Microsoft provides some [advice about page numbering](https://support.microsoft.com/en-us/office/start-page-numbering-later-in-your-document-c73e3d55-d722-4bd0-886e-0b0bd0eb3f02) on their support site. I have some further advice about the `Notes` page that I will relay to you in a class demo.
+- You will find it difficult to force Microsoft Word into submission and make it do your bidding for the page numbering and the endnotes. While I don't personally use Word, Microsoft provides some [advice about page numbering](https://support.microsoft.com/en-us/office/start-page-numbering-later-in-your-document-c73e3d55-d722-4bd0-886e-0b0bd0eb3f02) on their support site. 
 
-- As you construct your [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page you must determine what *type* of source is being cited in the MLA paper. Is this a `book by one author`? A `scholarly journal`? A `work in an anthology`? Something else? Once you identify the type of source being referenced in the MLA paper, you can use the *Open Handbook* chapter on the [Chicago Style](https://no-silo.com/resources/open-handbook/chapter-11-chi/) to figure out how to present this type of source in the Chicago style's note form. Have fun! 
+- You will also have problems if you attempt to use the automated numbered endnotes that Word creates at the end of your document. Namely, you will not be able to force Word to use the proper spacing and indentation required by the Chicago style. Therefore, I suggest that you type up a separate `Notes` page, bypassing Word's "helpful" feature.
+
+- As you construct your [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page you must determine what *type* of source is being cited in the MLA paper. Is this a `book by one author`? A `scholarly journal`? A `work in an anthology`? Something else? Once you identify the type of source being referenced in the MLA paper, you can use the *Open Handbook* chapter on the [Chicago Style](https://no-silo.com/resources/open-handbook/chapter-11-chi/) to figure out how to present this type of source in the Chicago style's note form. Have fun! (You won't). 
 
 [^1]: This student essay uses section headings to organize the essay. This is a personal choice, not a strict element of the Chicago style.
 [^2]: You are **not** required to make a `Bibliography` page, just a [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page for this assignment.

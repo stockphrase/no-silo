@@ -5,9 +5,9 @@ bookToC: false
 
 ## Contact
 
-<i class="fas fa-envelope"></i> [Email](mailto:alan@no-silo.com) | <i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) 
+{{< button href="mailto:alan@no-silo.com" >}}<i class="fas fa-envelope"></i> Write me{{< /button >}}
 
-<i class="fas fa-fingerprint"></i> PGP Fingerprint:
+ <i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) | <i class="fas fa-fingerprint"></i> PGP Fingerprint:
 
 `A14D 400A 810B CB92 F903`
 

@@ -20,3 +20,6 @@ I'm a mildly accomplished computer nerd. I like open-source software and culture
 Lately, I've been listening to [The National](https://americanmary.com/), [Future Islands](https://future-islands.com/), [The War on Drugs](https://www.thewarondrugs.net/), and [Aidan Knight](https://www.aidanknight.com/) a lot. 
 
 I'm not that [Alan Taylor](https://en.wikipedia.org/wiki/Alan_Taylor_(historian)).
+
+
+
