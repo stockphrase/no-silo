@@ -358,7 +358,7 @@ Please make me aware of anything that will hinder your success in this course. I
 | <i class="fas fa-box"></i>        | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
 |<i class="fas fa-video"></i>| Film|
 |<i class="fas fa-laptop-house"></i>| Zoom class meeting|
-|<i class="fas fa-stethoscope"></i> |Research progress checkup |
+|<span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> |Research progress checkup |
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
 <!---
@@ -396,18 +396,15 @@ Please make me aware of anything that will hinder your success in this course. I
 
 {{< hint note >}} 
 
-- <span style="color: var(--due)"><i class="fas fa-plane-departure"></i></span> *Due to many students being unable to attend this class in person due to pandemic travel issues, we will meet together online via Zoom (links in [Canvas](https://canvas.dartmouth.edu))*. 
+- <span style="color: var(--due)"><i class="fas fa-plane-departure"></i></span> *Due to many students being unable to attend this class in person due to pandemic travel issues, we will meet together online via Zoom (link in [Canvas](https://canvas.dartmouth.edu) and via email)*. 
 {{< /hint >}} 
-
-<!---
-- <span style="color: var(--in-class)"><i class="fas fa-video"></i></span> Class reunion, course overview, syllabus tour, housekeeping matters. *We will meet via Zoom* (links in Canvas).
---->
 
 ---
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
-- <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
+
 - <span style="color: var(--independent)"><i class="far fa-snowflake"></i></span> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing).
+- <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
 
 ---
 
@@ -428,12 +425,12 @@ Please make me aware of anything that will hinder your success in this course. I
 {{< details "2 - Library Research, Cultural Studies, & Winter Conferences" >}}
 #
 
-This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). Finally, we meet together for our winter conferences. In the winter conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [end-of-term reflective assignment](/courses/writing-2/quarterly-review/) you completed last fall. We will also think ahead to specific things you would like to work on during the winter term.
+This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). Finally, we meet together for our winter conferences. In the winter conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) you completed last term. We will also think ahead to specific things you would like to work on during the winter term.
 
 {{< hint note >}} 
 
 
-<i class="fas fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). The conference will be held in my office hour Zoom room.
+<i class="far fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). The conference will be held in my office hour Zoom room.
 
 {{< /hint >}}
 
@@ -515,7 +512,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  X-hour session 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.18 (X-hour session)
 {{< /hint >}} 
 
 - [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 7 @ 12:15-1:05
@@ -579,13 +576,13 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*
+- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well.*
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss reading.
-- <i class="fas fa-stethoscope"></i> Research progress checkup.
+- <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> Research progress checkup.
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
@@ -665,7 +662,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-wrench"></i> Review Workshop 4 answers.
 - <i class="fa fa-bullhorn"></i> Discuss film, reading, and Hive submissions.
-- <i class="fas fa-stethoscope"></i> Research progress checkup.
+- <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span>  Research progress checkup.
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
@@ -741,7 +738,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
-- <i class="fas fa-stethoscope"></i> Research progress checkup.
+- <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> Research progress checkup.
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
@@ -1066,8 +1063,6 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
 
 
-
-
 {{< /details >}}
 
 --->
@@ -1132,9 +1127,10 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
-- - <i class="fa fa-question-circle"></i> Final Question of the Day™
-- <i class="fas fa-sad-tear"></i> Tearful goodbyes.
+- <i class="fa fa-question-circle"></i> Final Question of the Day™
 - <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
+- <span style="color: var(--tears)"><i class="fas fa-tint"></i></span> Tearful goodbyes.
+
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 

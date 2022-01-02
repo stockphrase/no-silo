@@ -39,6 +39,11 @@ Let's look at our example text at closer range. *The Dark Knight* emerged in the
 
 {{< youtube Kr7AONv3FSg >}}
 
+<!---
+
+- Lucius Fox knows that Batman is Bruce Wayne. So why does Batman keep disguising his voice with the absurd growl? I need to know this.
+--->
+  
 We can see that the film explores the temptation to throw out essential liberties or exceed legal limits in the face of a terrorist threat. Specifically, *Dark Knight* explores the ethics of nullifying a fundamental right to privacy in order to prevent future terrorist acts and loss of life---mirroring the actions of the Bush administration in secretly tasking various US security organizations with monitoring the communications of all Americans to root out terrorist plots. We might push this reading further by examining how the other aspects of the film wrestle with the ethics of torture and [extraordinary rendition](https://en.wikipedia.org/wiki/Extraordinary_rendition#:~:text=had%20been%20received.-,Definitions,law%20(see%3A%20kidnapping).) in the context of counterterrorism, also preoccupations of the Bush administration at the time.
 
 While this is not yet a complete reading of the film, we have identified an aspect of this cultural artifact that relates to its historical context. From here we might ask whether the film works as an apologia for the Bush administration's actions during this period or whether it mounts a critique or articulates a warning about such actions. We may have opposing views on the matter as readers due to a number of complex factors that help struture our views. In any case, I hope this gives you some sense of the thinking that leads to analysis and argument in a cultural studies project. 
