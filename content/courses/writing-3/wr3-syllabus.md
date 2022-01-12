@@ -17,7 +17,7 @@ title: "Writing 3: Syllabus"
 
 ## Course Description
 
-Why do we feel such an attraction to disaster? Why do we produce novels, films, and other forms of art that contemplate the end of humanity? Scholars from many disciplines have offered theories about the appeal and meaning of such spectacles of apocalyptic destruction. We will read some of this critical literature, examining views from disciplines such as psychology, sociology, cultural studies, and religion. In addition to these assigned readings, each of you will engage in your own original process of inquiry on a related topic of your choosing. You will present your findings frequently to the community of scholars in our class, sharing and discussing your research discoveries and insights. Ultimately, you will produce a lengthy work of original scholarship that will contribute to this field of inquiry
+Why do we feel such an attraction to disaster? Why do we produce novels, films, and other forms of art that contemplate the end of humanity? Scholars from many disciplines have offered theories about the appeal and meaning of such spectacles of apocalyptic destruction. We will read some of this critical literature, examining views from disciplines such as psychology, sociology, cultural studies, and religion. In addition to these assigned readings, each of you will engage in your own original process of inquiry on a related topic of your choosing. You will present your findings frequently to the community of scholars in our class, sharing and discussing your research discoveries and insights. Ultimately, you will produce a lengthy work of original scholarship that will contribute to this field of inquiry.
 
 ---
 
@@ -55,6 +55,7 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**.
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If student absences due to COVID-19 become a problem from a pedagogical perspective, this class will move online.
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
@@ -65,7 +66,7 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 ---
  
-- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
+- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated or boosted, [find a shot near you](https://www.vaccines.gov/).
 
 
 {{< /details >}}
@@ -307,12 +308,12 @@ There are many sources of help for your writing assignments. I am happy to meet 
 
 ## Required Winter Conference
 
-Each of you must attend a brief winter conference with me and our teaching assistant during the first two weeks of class. During this meeting we will discuss the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) assignment you completed last fall.
+Each of you must attend a brief winter conference with me and our teaching assistant during the first two weeks of class. During this meeting we will discuss the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) assignment you completed last term.
 
 The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). All meetings will be held in my office hour Zoom room (link in Canvas).
+<span style="color: var(--independent)"><i class="fas fa-mitten"></i></span>  To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). All meetings will be held in my office hour Zoom room (link in Canvas).
 
 {{< /hint >}}
 
@@ -359,6 +360,7 @@ Please make me aware of anything that will hinder your success in this course. I
 |<i class="fas fa-video"></i>| Film|
 |<i class="fas fa-laptop-house"></i>| Zoom class meeting|
 |<span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> |Research progress checkup |
+|<span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> | Winter conferences|
 |<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
 <!---
@@ -403,7 +405,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 
-- <span style="color: var(--independent)"><i class="far fa-snowflake"></i></span> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing).
+- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing).
 - <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
 
 ---
@@ -411,6 +413,8 @@ Please make me aware of anything that will hinder your success in this course. I
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.7
 {{< /hint >}} 
+
+- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> [Winter Conferences](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). 
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
@@ -442,6 +446,8 @@ This week we will continue our overview of library research, learning some basic
 
 {{< /hint >}} 
 
+- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> [Winter Conferences](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). 
+
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
 - <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This audio lecture provides a brief introduction to this form of inquiry.
@@ -453,6 +459,7 @@ This week we will continue our overview of library research, learning some basic
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.12
 {{< /hint >}} 
 
+- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> [Winter Conferences](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). 
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 

@@ -6,12 +6,11 @@ bookHidden: true
 bookToc: true
 ---
 
-
 {{< figure src="/img/hercules.jpg" >}}
 
 {{< hint note >}} 
 
-[<i class="fas fa-star-of-life"></i>]() This is a mockup of an Author Page for a research project. Create your own page as a Google Doc; or, if you prefer, you may use the [Journeys](https://journeys.dartmouth.edu/) WordPress platform. Put a link to your project on our course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This is a mockup of an Author Page for a research project. Use this as a template for your own project. Create your own Author Page as a Google doc; or, if you prefer, you may use the [Journeys](https://journeys.dartmouth.edu/) WordPress platform. Put a link to your project on our course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
 
 {{< /hint >}} 
 
@@ -60,3 +59,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, 
 ### Week 5:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dolor tellus, cursus ut urna at, placerat laoreet diam. Nam sed est at ante ornare consequat. Donec lectus odio, sollicitudin at egestas pellentesque, semper vitae libero. In tristique pharetra nibh sit amet luctus. Nunc condimentum dictum vulputate. Etiam non purus erat. Praesent vitae lorem ut elit tincidunt molestie. Nulla pretium neque ante, vel porta est ullamcorper consequat.
+
