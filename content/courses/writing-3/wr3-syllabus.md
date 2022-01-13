@@ -522,8 +522,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.18 (X-hour session)
 {{< /hint >}} 
 
-- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 7 @ 12:15-1:05
-- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 6 @ 1:20-2:10
+- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 6 @ 12:15-1:05
+- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 7 @ 1:20-2:10
 
 ---
 
