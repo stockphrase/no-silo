@@ -108,7 +108,9 @@ the following:
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                        |
-| [The End](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) | A research archive built by our class.
+| [Author Pages](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) | A research archive built by our class.          |
+|[The End](/courses/writing-3/post-apocalyptic-thoughts) |Random aphorisms on the (post)apocalyptic |
+
 ---
 
 
@@ -384,7 +386,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ## Schedule of Readings and Assignments
 
-{{< details "1 - Course Introduction" open >}}
+{{< details "1 - Course Introduction" >}}
 
 #
 
@@ -595,7 +597,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Submit work for [Workshop 3](/courses/workshops/locate-books).
 
 
 {{< /details >}}
@@ -606,7 +608,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #
 
 
-Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
+Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
@@ -622,6 +624,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 - <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.  
 
+- <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s).
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
@@ -673,7 +676,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of current research.
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of *current* research.
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
 
@@ -683,7 +686,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "5 - The Apocalypse & the Other II" >}}
+{{< details "5 - The Apocalypse & the Other II" open >}}
 #
 
 
@@ -695,6 +698,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.31
 {{< /hint >}} 
+
 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
@@ -710,6 +714,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
+
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
 
 ---
@@ -741,6 +746,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.4
 {{< /hint >}} 
+
 
 
 - <i class="fa fa-box"></i> Friday Soapbox

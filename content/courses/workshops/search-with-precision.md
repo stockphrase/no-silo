@@ -214,12 +214,12 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians *available in our library*.
 
-<!---
+
 {{< details "Answer" closed >}} 
 
 #
 
-This research question seems to arise from someone who would like to get a general look at the universe of texts that have a particular thematic focus. We are not looking for a particular book; we want to find *all* of the works of fiction that deal with this historical conflict. This gets me thinking about using `controlled vocabulary` terms provided by [`subject headings`](/courses/workshops/academic-research-intro/#step-4a-use-subject-headings-to-systematically-survey-your-topic). 
+This research question seems to arise from someone who would like to get a general look at the universe of texts that have a particular thematic focus. We are not looking for a particular book; we want to find *all* of the works of fiction that deal with this historical conflict. This gets me thinking about using [`controlled vocabulary`](https://en.wikipedia.org/wiki/Controlled_vocabulary) terms provided by [`subject headings`](/courses/workshops/academic-research-intro/#step-4a-use-subject-headings-to-systematically-survey-your-topic). 
 
 However, I didn't know what the proper subject headings were, so I started off with keyword searches using terms like these below, trying to capture some sources that I could use to isolate some subject headings:
 
@@ -266,15 +266,15 @@ And since these subject searches are only going to return books (and some physic
 
 {{< /details >}} 
 
---->
+
 
 3. Find peer-reviewed sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
 
-<!---
+
 
 {{< details "Answer" closed >}} 
 #
-Here I used two exact phrase searches in a keyword search and then used the library's search delimiters to narrow the search for peer-reviewed publications between 1990 and 2000.
+Here I used two `exact phrase` searches in a keyword search and then used the library's search delimiters to narrow the search for peer-reviewed publications between 1990 and 2000.
 
 
 {{< hint note >}} 
@@ -289,16 +289,16 @@ Here I used two exact phrase searches in a keyword search and then used the libr
 
 {{< /details >}} 
 
---->
+
 
 4. You are curious if there is any scholarship on fictional portrayals of pandemic disease.
 
-<!---
+
 
 {{< details "Answer" closed >}} 
 #
 
-This problem is also one that we should tackle though the use of a `controlled vocabulary` terms. First I began with some general keywords that I associated with this idea: `pandemic` AND `fiction`. After finding a few relevant hits I was able to discover subject headings that allowed me to dive deeply into what is available on the subject. Significantly, I learned that the controlled vocabulary term I should probably use is "epidemic" and not "pandemic" as I had first thought: 
+This problem is also one that we should tackle though the use of [`controlled vocabulary`](https://en.wikipedia.org/wiki/Controlled_vocabulary) terms. First I began with some general keywords that I associated with this idea: `pandemic` AND `fiction`. After finding a few relevant hits I was able to discover subject headings that allowed me to dive deeply into what is available on the subject. Significantly, I learned that the controlled vocabulary term I should probably use is "epidemic" and not "pandemic" as I had first thought: 
 
 - **Plague in literature**
 - **Fiction \-- History and criticism**
@@ -310,16 +310,15 @@ This problem is also one that we should tackle though the use of a `controlled v
 
 {{< /details >}} 
 
---->
+
 
 5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
-<!---
 
 {{< details "Answer" closed >}} 
 #
 
-This problem is more challenging for several reasons: 1) the current pandemic is a very recent event, which makes finding peer-reviewed sources less likely; 2) the keyword "spy" is not very productive since the controlled vocabulary term preferred by libraries is "surveillance"; and 3) the word "surveillance" is also term of art that is used to describe the legitimate efforts by epidemiologists and government health organizations to understand the spread of disease, thus polluting our results with sources that we don't actually want. 
+This problem is more challenging for several reasons: 1) the current pandemic is a very recent event, which makes finding peer-reviewed sources less likely; 2) the keyword "spy" is not very productive since the [`controlled vocabulary`](https://en.wikipedia.org/wiki/Controlled_vocabulary) term preferred by libraries is "surveillance"; and 3) the word "surveillance" is also term of art that is used to describe the legitimate efforts by epidemiologists and government health organizations to understand the spread of disease, thus polluting our results with sources that we don't actually want. 
 
 To overcome these issues we may have to come at this by relying on journalism outlets we respect and any government publications or open-source intelligence we can find. And we may need to add additional keywords such as `rights,` `privacy`, `libert*`, or `freedom*` to try and find sources that favor our intentions with the keyword `surveillance`. 
 
@@ -345,11 +344,10 @@ I reproduced this search string in our library and found several peer-reviewed a
 
 {{< /details >}} 
 
---->
 
 6. You are interested in female MMA fighters and want to know if there is any scholarship on this.
 
-<!---
+
 
 {{< details "Answer" closed >}} 
 #
@@ -367,4 +365,4 @@ This search gave us an opportunity to use a wildcard. By using "Wom?n" we can en
 
 {{< /details >}} 
 
---->
+

@@ -58,6 +58,6 @@ To begin, download the essay to your own computer. Before you make any alteratio
 
 ## Answers
 
-- <i class="far fa-check-circle"></i> Check your work with `the answer key`.
+- <i class="far fa-check-circle"></i> Check your work with [the answer key](/docs/workshop-4-answers.pdf).
 
 

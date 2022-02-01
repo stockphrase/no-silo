@@ -69,7 +69,7 @@ DartDoc account. Make sure to download the .pdf to your computer as they disappe
 
 ### Recall Request
 
-If a book is owned by our library, but checked out by another patron, you have one final option: a recall request. If a book is currently on loan, its catalog entry will contain a link that you may use to request a recall of the book. After your initiate a recall, the patron who has borrowed the book will receive a notice that they must return it. 
+If a book is owned by our library, but checked out by another patron, you have one final option: a recall request. If a book is currently on loan, its catalog entry will contain a link that you may use to request a recall of the book. After you initiate a recall, the patron who has borrowed the book will receive a notice that they must return it. 
 
 I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games academics play, *and we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. A very devious person would wait the full two weeks, return it to circulation, then immediately recall it back from you.[^3] That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
 

@@ -6,9 +6,10 @@ bookHidden: true
 bookToc: true
 ---
 
-# Week One
 
-`Disaster, Apocalypse, and the State of Nature`
+# Disaster, Apocalypse, and the State of Nature
+
+# Reading Notes
 
 
 ## Thomas Hobbes, *Leviathan* (1651)
@@ -211,7 +212,7 @@ This sense of equality leads to three causes of "quarrel":
     ​4 **Rejection of social revision and pluralism**: Nilges argues
     that current cinema narratives reject any progressive or radical
     suggestions about pluralism, and the acceptance of others into the
-    human family. Instead, there is a conservativism that harkens back
+    human family. Instead, there is a conservatism that harkens back
     to more traditional arrangements. (*I Am Legend* is used as an
     example).
 

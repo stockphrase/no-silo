@@ -37,7 +37,7 @@ bookToc: true
 {{< /hint >}} 
 
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>   [Course readings]() (.pdfs) 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>   [Course readings](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing) (.pdfs) 
 {{< /hint >}} 
 
  {{< /tab >}}

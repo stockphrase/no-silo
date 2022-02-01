@@ -101,12 +101,6 @@ Maps of the library's floorplans are affixed to the walls on each floor. Free pa
 
 <span style="color: var(--due)"><i class="fas fa-lock"></i></span> Method B is top secret. (I will reveal it at the appropriate time). 
 
-{{< /details >}}
-
-<!---
-
-{{< details "Or Just Forget All That" closed >}} 
-
 A new update to Dartmouth's catalog as of 2014 allows you to simply click the "map it" button next to the item's [listing in the catalog](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031290259705706). 
 
 <div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>
@@ -118,7 +112,8 @@ library stacks.
 
 {{< /details >}}
 
---->
+
+
 
 # Workshop
 
@@ -165,13 +160,13 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 | 19.| Lee | [*The Internal Enemy*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991003261619705706)| ![X](/img/workshop/19.jpg)
 | 20.| Lorijn | [*The Embers and the Stars*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991013953759705706) | ![X](/img/workshop/20.jpg)
 | 21.| Myrthil | [*Jan Patočka: Philosophy and Selected Writings*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991007870239705706)| ![X](/img/workshop/21.jpg)
-| 22.| -- | [*Silk Parachute*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991017996199705706) | ![X](/img/workshop/22.jpg)
+| 22.| Pringle | [*Silk Parachute*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991017996199705706) | ![X](/img/workshop/22.jpg)
 | 23.| Nguyen | [*Uncommon Carriers*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991005153549705706) | ![X](/img/workshop/23.jpg)
 | 24.| Richards-Baker | [*Outcroppings*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991008540159705706) | ![X](/img/workshop/24.jpg)
 | 25.| Seburn | [*Reconstructing the Native South*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991027027899705706)  | ![X](/img/workshop/25.jpg)
 | 26.| Sjoenell | [*Ledger Narratives*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991001014539705706) | ![X](/img/workshop/26.jpg)
 | 27.| Strazzolini | [*Disturbing Calculations*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991009368549705706) | ![X](/img/workshop/27.jpg)
-| 28.| Wilhelm | [*Tom Taylor's Civil War*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991022051929705706) | ![X](/img/workshop/28.jpg)
+| 28.| -- | [*Tom Taylor's Civil War*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991022051929705706) | ![X](/img/workshop/28.jpg)
 | 29.| Yuan | [*András Visky's Barrack Dramaturgy*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991021322409705706) | ![X](/img/workshop/29.jpg)
 | 30.| -- | [*The Virtues of Mendacity*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991020256589705706) | ![X](/img/workshop/30.jpg)
 
