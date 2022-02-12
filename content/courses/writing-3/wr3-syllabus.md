@@ -6,7 +6,7 @@ bookHidden: true
 title: "Writing 3: Syllabus"
 ---
 {{< hint note >}} 
-#### <i class="fas fa-dot-circle"></i>  **WR3** | **Syllabus**
+#### <i class="fas fa-dot-circle"></i> **WR3** | **Syllabus**
 {{< /hint >}}
 
 
@@ -686,7 +686,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "5 - The Apocalypse & the Other II" open >}}
+{{< details "5 - The Apocalypse & the Other II" >}}
 #
 
 
@@ -778,6 +778,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fa-solid fa-bacteria"></i> Foof!
 
 ---
 
@@ -810,6 +811,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fa fa-download"></i>  Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”
+    - <i class="fas fa-video"></i> [Scene from *White Zombie* (1932) at Murder Legendere's plantation](https://youtu.be/NV3B2z0HkKA?t=741).
 
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
@@ -856,7 +858,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ##
 
-{{< details "7 - Imagining the End: Cormac McCarthy"  >}}
+{{< details "7 - Imagining the End: Cormac McCarthy" open >}}
 #
 
 
