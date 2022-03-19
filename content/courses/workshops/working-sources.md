@@ -46,6 +46,7 @@ Completing this assignment will in no way make you proficient at the integration
 
 5. Quote from this passage using the MLA block quote format, then cite according to MLA.
 
+<!---
 ## Example Sentences
 
 {{< hint note >}} 
@@ -55,7 +56,7 @@ Completing this assignment will in no way make you proficient at the integration
 
 {{< /hint >}}
 
-
+--->
 
 ---
 

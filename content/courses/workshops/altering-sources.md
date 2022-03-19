@@ -49,7 +49,7 @@ Using the source text provided above, write the sentences or paragraphs assigned
 3. Write a sentence with a quotation that uses `brackets` to give the reader clarifying information, then cite according to MLA. 
 4. Write a sentence with a quotation using `brackets` in a quotation to alter capitalization.
 
-
+<!---
 ## Example Sentences
 
 {{< hint note >}} 
@@ -59,8 +59,6 @@ Using the source text provided above, write the sentences or paragraphs assigned
 
 {{< /hint >}}
 
----
-<!---
-<i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 --->
+
 

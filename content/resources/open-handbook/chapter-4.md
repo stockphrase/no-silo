@@ -11,6 +11,17 @@ title: "The Joy of Reuse (Save Your Work)"
 # The Joy of Reuse
 
 ---
+  <small>
+
+You do not rise to the level of your goals. You fall to the level of your systems (28).
+
+--- James Clear, *Atomic Habits*
+
+  </small>
+
+---
+
+---
 
 ## Save all your work
 

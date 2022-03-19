@@ -778,7 +778,6 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
-- <i class="fa-solid fa-bacteria"></i> Foof!
 
 ---
 
@@ -858,7 +857,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ##
 
-{{< details "7 - Imagining the End: Cormac McCarthy" open >}}
+{{< details "7 - Imagining the End: Cormac McCarthy" >}}
 #
 
 
@@ -909,6 +908,10 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.18
 {{< /hint >}} 
+
+<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+
+- <i class="fas fa-wrench"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
@@ -987,10 +990,6 @@ Recent years have seen an explosion of “reality” television programming base
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
 {{< /hint >}} 
-
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
-
-- <i class="fas fa-wrench"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
@@ -1087,7 +1086,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 {{< details "9 - Drafting, Revising, Presenting" >}}
 #
 
-This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. 
+This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. Feel free to use a visuals, such as a PowerPoint slides or handouts.  
 
 - *Each of you should be prepared to present on Monday*. I will have my son Abel randomly number you from 1-15 to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
 
@@ -1131,7 +1130,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 ##
 
-{{< details "10 - The End" >}}
+{{< details "10 - The End" open >}}
 #
 
 <div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>
