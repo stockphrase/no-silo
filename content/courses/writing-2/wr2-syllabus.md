@@ -8,9 +8,9 @@ title: "Writing 2: Syllabus"
 {{< hint note >}} 
 #### <i class="fas fa-dot-circle"></i>  **WR2** | **Syllabus**
 {{< /hint >}}
-
+<!---
 [<div style="text-align:center">{{< figure src="/img/prof.jpg" title="Meet Your Professor" width=400 >}}</div>](/about/bio)
-
+--->
 # Writing 2: Education and Authority
 
 ## Course Description
@@ -275,263 +275,227 @@ Please make me aware of anything that will hinder your success in this course. I
 
 {{< details "Week One" >}}
 
-# 
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 9.13 
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.12
+{{< /hint >}} 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - *Review*: syllabus, course policies, websites
 - Time for questions
-{{< /hint >}}
-
-
-{{< hint note >}}
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-- Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
-  questions. Arrive to class on Wednesday with some ideas that you can express and defend.
-- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; if you have questions afterward, please pose them to me on Wednesday
-- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
-
-
-
-{{< /hint >}}
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 9.15 
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
+- Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
+  questions. Arrive to class on Wednesday with some ideas that you can express and defend.
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; if you have questions afterward, please pose them to me on Wednesday.
+- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 
-{{< hint note >}}
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.14 
+{{< /hint >}} 
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
   
-{{< /hint >}}
 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1jp5ZFBZzS3mzM10OmV_UAMmNv6jL2qM1IldHVJHcji0/edit?usp=sharing)
 - <i class="fa fa-bullhorn"></i> Discuss readings
 - <i class="fas fa-code-branch"></i> [Annotation Workshop](/courses/workshops/annotation)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
 
-{{< /hint >}}
 
 
 ---
-## <i class="fas fa-chevron-circle-right"></i> Friday, 9.17
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.16 
+{{< /hint >}} 
 
 
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
-{{< /hint >}}
 
-
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review
 
-{{< /hint >}}
 
 
 
-{{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> **Due**
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
 - <i class="fa fa-bullseye"></i> Essay 1 Draft
     - <i class="fas fa-print"></i> Bring a printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 
-{{< /hint >}}
-
-
-
 
 {{< /details >}}
 
+##
 
 {{< details "Week Two" >}}
 
 #
 
-## <i class="fas fa-chevron-circle-right"></i>  Monday, 9.20
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.19 
+{{< /hint >}} 
 
 
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing) 
   
 
-{{< /hint >}}
 
 
-{{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work** 
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
     - <i class="far fa-question-circle"></i> [*Instructions for submitting to Hive*](https://no-silo.com/resources/hive/)
     - <i class="far fa-clock"></i> *Complete Hive work by Sunday @ 10pm EST*
 
-{{< /hint >}} 
   
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
 
 
-{{< /hint >}}
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>  Wednesday, 9.22
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.21
+{{< /hint >}} 
 
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+
+
+
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there. Reflect further on the reading and prepare for discussion.
 
 
-{{< /hint >}} 
 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and Hive submissions
 - <i class="fas fa-code-branch"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
 
 
-{{< /hint >}}
-
 
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>  Friday, 9.24 
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.23
+{{< /hint >}} 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-code-branch"></i> [Argument Analysis Workshop](/courses/workshops/argument-analysis) 
-  
 
 
-{{< /hint >}}
-
-
-
-{{< hint note >}}
-
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 
 - <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
-{{< /hint >}}
 
 
 {{< /details >}}
 
+##
 
 {{< details "Week Three" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i>  Monday, 9.27
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.26
+{{< /hint >}} 
 
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
 
-{{< /hint >}}
 
 
-
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
     - <i class="far fa-clock"></i> *Complete Hive work by Sunday @ 10pm EST*
 
-{{< /hint >}} 
 
-
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading and Hive submissions
 
 
-{{< /hint >}}
 
 
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 9.29
-
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
-
-- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there
-
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.28
 {{< /hint >}} 
 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+
+- <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there
+
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Percy reading & Hive submissions
 
 
-{{< /hint >}}
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 10.1
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.30
+{{< /hint >}} 
 
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
 - <i class="far fa-newspaper"></i> [Percy, related news story](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
 
-{{< /hint >}}
 
-
-
-
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Percy and related news story
 - <i class="fas fa-code-branch"></i> [Working with Sources Workshop](/courses/workshops/working-sources/) 
 
-{{< /hint >}}
-
-
-    
-{{< hint note >}}
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - <i class="fas fa-code-branch"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
 
-{{< /hint >}}
 
-
-{{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-bullseye"></i> Argument Summary Workshop 
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
@@ -539,96 +503,83 @@ Please make me aware of anything that will hinder your success in this course. I
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm]()
  
 
-{{< /hint >}}
-
 
 {{< /details >}}
+
+##
 
 {{< details "Week Four" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 10.4
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.3
+{{< /hint >}} 
 
-{{< hint note >}}
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
+
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 
-{{< /hint >}}
 
-
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
     - <i class="far fa-clock"></i> *Complete Hive work by Sunday @ 10pm EST*
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss Freire reading and Hive submissions
+
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.5
 {{< /hint >}} 
 
 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss Freire reading and Hive submissions
-
-
-{{< /hint >}}
-
-
-
----
-
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.6
-
- {{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
+<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
 - <i class="fab fa-forumbee"></i> Return to Hive and engage the work of your peers there.
-{{< /hint >}} 
 
 
-
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading and Hive submissions
 
-{{< /hint >}}
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 10.8
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.7
+{{< /hint >}} 
 
-{{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
+
+
+<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss Freire reading
 - <i class="fas fa-search"></i> Review answers to [Working with Sources Workshop](/courses/workshops/working-sources/)
 - <i class="fas fa-code-branch"></i> [Argument Synthesis Workshop](/courses/workshops/argument-synthesis/)
 
-{{< /hint >}}
 
 
-{{< hint note >}}
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 
 - <i class="fa fa-calendar-alt"></i> [Essay 2](/courses/writing-2/essay-2)
-{{< /hint >}}
 
 
-
-{{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
 
-{{< /hint >}}
-
 
 {{< /details >}}
+
+##
 
 {{< details "Week Five" >}}
 #

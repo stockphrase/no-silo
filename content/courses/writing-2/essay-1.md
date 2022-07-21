@@ -33,6 +33,7 @@ What is education? What is its purpose? Write an essay exploring these questions
 
  
 ---
+<!---
 
 {{< hint note >}} 
 <span style="color: var(--readings)"><i class="fas fa-clipboard"></i></span> First Draft Notes
@@ -193,8 +194,9 @@ Another thing to reconsider is the summary conclusion that is a hallmark of the 
 
 If we imagine that the reader has a good grasp on what you've just argued, how should your piece end? What do you need to say or do or explain to achieve closure? What do you hope the reader takes away from your argument? What should they do in response to it? 
 
+{{< /details >}}
 
----
+--->
 
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 

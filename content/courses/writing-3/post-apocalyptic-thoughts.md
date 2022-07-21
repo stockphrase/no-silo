@@ -9,7 +9,7 @@ bookToc: true
 
 # Ideas on the (Post)Apocalyptic
 
-- The post-apocalyptic narrative is a fantasy or species of wish-fulfillment that expresses a desire for the end of civilization as we know it. The popularity of such films suggest a range of audience responses and psychological conditions behind this wish:
+- The post-apocalyptic narrative is a fantasy or species of wish-fulfillment that expresses a desire for the end of civilization as we know it. The popularity of such films and novels suggest a range of audience responses and psychological conditions behind this wish:
 
 >1. Economic despair and disempowering socio-economic structuring lead to a fanciful embrace of post-apocalyptic narrative as a balm, compensation, a comfort. We imagine a future where all systems of power, all hierarchies of values, all bureaucracies and governing institutions are utterly leveled, creating a landscape of pure possibility where anything is possible. A Nietzschean "re-evaluation of all values" begins. The rigid class system enforced by unbridgeable chasms of wealth withers away, leaving only a meritocracy based in strength, wit, and a willingness to commit violence. Your station in life is determined by your fitness, not the position to which you are born: your future is no longer predetermined by your origins. A plumber becomes the leader of the new order.   
 
