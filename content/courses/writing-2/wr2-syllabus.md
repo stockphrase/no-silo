@@ -273,7 +273,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" >}}
+{{< details "Week One" open >}}
 
 
 {{< hint note >}} 
@@ -553,7 +553,7 @@ Please make me aware of anything that will hinder your success in this course. I
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.7
 {{< /hint >}} 
 
 
@@ -584,206 +584,167 @@ Please make me aware of anything that will hinder your success in this course. I
 {{< details "Week Five" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i>  Monday, 10.11
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.10
+{{< /hint >}} 
 
-
-
-
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fas fa-code-branch"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/) 
   Continue your work in the Hive page for the synthesis essay.
   
-
-{{< /hint >}}
-
-
-
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>   Wednesday, 10.13
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.12
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fas fa-code-branch"></i> [Argument Synthesis Workshop *cont.*](/courses/workshops/argument-synthesis/)
   Continue your work in the Hive page for the synthesis essay.
   
 
-{{< /hint >}}
-
 
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i>  Friday, 10.15
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.14
+{{< /hint >}} 
 
-{{< hint note >}}
+
+
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Altering Sources"](/resources/open-handbook/chapter-9/)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Plagiarism"](/resources/open-handbook/chapter-10/)
-{{< /hint >}}
 
-{{< hint note >}}
+
+
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2.
 
 
-{{< /hint >}}
-
-{{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/)
 
-{{< /hint >}}
-
-
-{{< hint note >}}
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 - <i class="fa fa-bullseye"></i> Essay 2 Draft
     - <i class="fas fa-print"></i> Bring printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu/)
 
 
-{{< /hint >}}
-
 
 {{< /details >}}
+
+#
 
 {{< details "Week Six" >}}
 #
 
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 10.18
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.17
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
 - <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). Film is in the "Course Media" section of Canvas.
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
-{{< /hint >}}
 
 
-
-
- {{< hint note >}}
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 
 - View and take critical notes on the film, then post your contributions to the Hive page dedicated to the reading. *Read and engage the work of your peers there as well*. 
     - <i class="far fa-clock"></i> *Complete Hive work by Sunday @ 10pm EST*
-    
-{{< /hint >}} 
+   
 
-
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
 
-{{< /hint >}}
-
-
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.20
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.19
+{{< /hint >}} 
 
-
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
 - <i class="fas fa-code-branch"></i> Theoretical analysis & visual rhetoric workshop
 
 
-{{< /hint >}}
-
-
-
-
-{{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 
 - <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
-{{< /hint >}}
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 10.22
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.21
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-search"></i> Review answers to [Altering Sources Workshop](/courses/workshops/altering-sources)
-{{< /hint >}}
 
-
-
-{{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - <i class="fa fa-wrench"></i> [Bibliography | Works Cited](/courses/workshops/mla-bibliography) workshop
-{{< /hint >}}
 
-{{< hint note >}}
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 - <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources)
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
 
-{{< /hint >}}
-
 {{< /details >}}
+
+# 
 
 
 {{< details "Week Seven" >}}
 #
 
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 10.25
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.24
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-code-branch"></i> Peer work
 - <i class="fas fa-poo-storm"></i> Open-source brainstorming
 - <i class="far fa-edit"></i> Revision 
-{{< /hint >}}
-
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 10.27
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.26
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-code-branch"></i> Peer work
 - <i class="fas fa-poo-storm"></i> Open-source brainstorming
 - <i class="far fa-edit"></i> Revision 
-{{< /hint >}}
+
 
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 10.29
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.28
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-search"></i> Review answers to [Bibliography | Works Cited](/courses/workshops/mla-bibliography) workshop
  
-{{< /hint >}}
-
-
-
-{{< hint note >}}
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
@@ -793,162 +754,135 @@ Please make me aware of anything that will hinder your success in this course. I
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
 
 
-{{< /hint >}}
-
 {{< /details >}}
 
+#
 
 {{< details "Week Eight" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.1
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.31
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 - <i class="fa fa-download"></i>  Matthew Crawford, ["The Case for Working with your Hands"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
   - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
-
-{{< /hint >}}
-
-
-
-
- {{< hint note >}}
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
     - <i class="far fa-clock"></i> *Complete Hive work by Sunday @ 10pm EST*
 
-{{< /hint >}} 
-
-
-
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Crawford reading and Hive submissions
 
-{{< /hint >}}
-
-
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.3
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.2
+{{< /hint >}} 
 
-{{< hint note >}}
+
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-code-branch"></i> Peer Review
 - <i class="fas fa-poo-storm"></i> Open-source brainstorming
 - <i class="far fa-edit"></i> Revision 
-{{< /hint >}}
-
-
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 11.5
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.4
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3
-{{< /hint >}}
 
 
-{{< hint note >}}
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
 - <i class="fa fa-bullseye"></i> Essay 3 Draft
     - <i class="fas fa-print"></i> Bring printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
-{{< /hint >}}
 
-
-{{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
-{{< /hint >}}
+
 
 
 {{< /details >}}
 
-
-
-
-{{< details "Week Nine" open >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.9
 
-{{< hint note >}}
+{{< details "Week Nine" >}}
+#
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.7
+{{< /hint >}} 
+
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
 
-{{< /hint >}}
 
-{{< hint note >}}
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 
 - <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
-{{< /hint >}}
-
-
-
 
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Wednesday, 11.11
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.9
+{{< /hint >}} 
 
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
 
-{{< /hint >}}
-
 
 ---
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 11.13
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.11
+{{< /hint >}} 
 
-
-{{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fas fa-search"></i> Review answers to [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
 
-{{< /hint >}}
-
 
 {{< /details >}}
 
+#
 
 {{< details "Week Ten" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.15 (Last day of class)
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.14
+{{< /hint >}} 
 
-{{< hint note >}}
+
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™ 
 - <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
 - Winter Meetings
 - Introduction to Writing 3
 
-{{< /hint >}}
 
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.18
+{{< /hint >}} 
 
-## <i class="fas fa-chevron-circle-right"></i> Friday, 11.19
-
-{{< hint note >}}
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
@@ -956,23 +890,21 @@ Please make me aware of anything that will hinder your success in this course. I
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 
-{{< /hint >}}
-
-
 {{< /details >}}
+
+#
 
 {{< details "Exam Week" >}}
 #
 
-## <i class="fas fa-chevron-circle-right"></i> Monday, 11.22
-
-{{< hint note >}}
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.21
+{{< /hint >}} 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
 - <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.21](https://canvas.dartmouth.edu/)
 
-{{< /hint >}}
 {{< /details >}}
 
