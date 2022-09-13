@@ -21,8 +21,8 @@ title: "+ Hive"
 
 We will use shared Google docs to create the Hive resource. Each week containing course readings or films has one or more dedicated Hive documents that are housed in a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) folder. Each of my course sections has a dedicated drive and you will only be able to contribute to the course section of which you are a member. You may distinguish the links to these folders with the superscript notation on the link, as in the examples below:
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 6 @ 11 hour
-- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 7 @ 12 hour
+- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 3 @ 11 hour
+- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 4 @ 12 hour
 
 
 ## How to contribute

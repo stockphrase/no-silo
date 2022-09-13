@@ -16,12 +16,12 @@ title: "Writing 2: Syllabus"
 ## Course Description
 
 
-**Writing 2-3** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
+Writing 2-3 is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
 
-## <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> COVID-19 Policies & Resources
+## <span style="color: var(--due)"><i class="fas fa-virus"></i></span> COVID-19 Policies & Resources
 
 
 
@@ -29,26 +29,28 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 #
 
-
-
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
 
 {{< /hint >}}
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you have COVID-19 symptoms, [contact Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i> **Do not attend class**</span> if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you test positive: wear a mask, follow [isolation protocol](https://covid.dartmouth.edu/isolation-guidance-faqs), and notify close contacts.
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you are a close contact, wear a mask and follow the [college's policies on testing](https://covid.dartmouth.edu/testing-health).
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Students must report positive results to the [Dartmouth College Health Service](mailto:dicks.house.nurse@dartmouth.edu).
 
+<!---
 ---
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Please wear your mask in class properly (covering both nose and mouth). 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Eating in class is not allowed. 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must drink something in class, do so quickly and then replace your mask. 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must cough or sneeze, do not remove your mask to do so.
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Please wear your mask in class properly (covering both nose and mouth). 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Eating in class is not allowed. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you must drink something in class, do so quickly and then replace your mask. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you must cough or sneeze, do not remove your mask to do so.
 
 ---
 
 - <span style="color: var(--in-class)"><i class="fas fa-money-bill-wave"></i></span> If you have trouble affording appropriate masks, please let me know.
+--->
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
@@ -62,12 +64,11 @@ During the winter term we will turn our focus to academic research. Our librarie
 {{< /hint >}}
 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> [Schedule a COVID-19 test](https://health-clinics.dartmouth.edu/).
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
 
 ---
  
 - <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
-
 
 {{< /details >}}
 
@@ -75,17 +76,17 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Required Texts
 
-- [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
+- [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor.
 - Other course readings are embedded in the syllabus below.
 
 ## Important Links
 
 | Link                                   | Purpose                                                                                                              |
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
-| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook)  |
-| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media                                                                       |
-| [Hive](/resources/hive)                | A shared Google drive for collaborative work                                                                         |
-| [FAQs](/resources/FAQs)                | Frequently asked questions about the course
+| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook).  |
+| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                       |
+| [Hive](/resources/hive)                | A shared Google drive for collaborative work.                                                                         |
+| [FAQs](/resources/FAQs)                | Frequently asked questions about the course.
  
 
 ## Academic Honesty
@@ -102,14 +103,13 @@ Regular attendance is expected. Bracketing religious observance, severe illness,
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i> **Pandemic exceptions to the attendance policy:** </span>
 {{< /hint >}} 
 
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**.
+{{< /hint >}} 
 
-- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
-
-- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you have COVID-19 symptoms, stay home and [contact Dartmouth Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
-
-- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**. 
-- <span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you miss a class or a TA session due to illness, please [email me](mailto:covid@no-silo.com) to explain and receive makeup information.
-
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="fas fa-head-side-cough"></i></span> If you miss a class or a TA session due to illness or its prevention, please [email me](mailto:covid@no-silo.com) to explain and receive makeup information.
+{{< /hint >}} 
 
 
 ---
@@ -133,7 +133,7 @@ The following three numbered sections explain these practices in more detail:
 Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. Your objective in annotation is to flag the key elements of a piece of writing---the `thesis,` argumentative `claims,` and pieces of `evidence.` In addition, use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This kind of work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> It is not required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> It is *not* required to print out and annotate readings from the [*Open Handbook*](/resources/open-handbook).
 
 {{< /hint >}}
 
@@ -146,7 +146,17 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 
 ### II. Critical Reading Notes
 
-Create an electronic document for composing critical notes. Take *detailed* notes on each reading. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to **1)** reduce the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity; **2)** interrogate the text by asking questions, raising objections, and making observations; **3)** connect and compare the reading to others we have read; **4)** define any unfamiliar terms and link the text to any outside research you perform. At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
+Create an electronic document for composing critical notes dedicated to each reading. Take *detailed* notes on each of our course texts. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to:
+
+- **Reduce** the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity.
+
+- **Interrogate** the text by asking questions, raising objections, and making observations.
+
+- **Connect and compare** the reading to others we have read.
+
+- **Define** any unfamiliar terms and link the text to any outside research you perform.
+
+At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the *Open Handbook*.
@@ -180,8 +190,8 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to [Hive](/resources/hive), please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
 
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 6 @ 11 hour
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 7 @ 12 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>3</sup></span> : Hive page for section 3 @ 11 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>4</sup></span> : Hive page for section 4 @ 12 hour
 
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span>  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
@@ -240,11 +250,11 @@ The academic environment is challenging, our terms are intensive, and classes ar
 - Your [undergraduate dean](http://www.dartmouth.edu/~upperde/) 
 - The [Counseling Center](http://www.dartmouth.edu/~chd/) 
 - The [Student Wellness Center](http://www.dartmouth.edu/~healthed/ ) 
-- The student-led Dartmouth Mental Health Union and their Peer Support Program in Collis (and other programs) may additionally be helpful to you
+- The student-led [Dartmouth Mental Health Union](https://engage.dartmouth.edu/organization/dartmouth-student-mental-health-union)
 - The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/outreach/sexual-assault-peer-alliance-sapas/active-sapas) 
 
 
-Please make me aware of anything that will hinder your success in this course. I will help and I will put you in touch with others who can help even more.  The earlier I am aware of issues, the more I can do to assist you.
+Please make me aware of anything that will hinder your success in this course. 
 
 ---
 
@@ -291,7 +301,7 @@ Please make me aware of anything that will hinder your success in this course. I
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions. Arrive to class on Wednesday with some ideas that you can express and defend.
-- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; if you have questions afterward, please pose them to me on Wednesday.
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 
 
@@ -303,7 +313,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
-- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully
+- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; note any questions or needs for clarification
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
   
@@ -352,7 +362,7 @@ Please make me aware of anything that will hinder your success in this course. I
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.19 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.19 
 {{< /hint >}} 
 
 
@@ -360,8 +370,8 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing) 
   
 
 
@@ -437,8 +447,8 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
+  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
 
 
 
@@ -518,8 +528,8 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 
 
@@ -650,8 +660,8 @@ Please make me aware of anything that will hinder your success in this course. I
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
 - <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). Film is in the "Course Media" section of Canvas.
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
@@ -767,8 +777,8 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 - <i class="fa fa-download"></i>  Matthew Crawford, ["The Case for Working with your Hands"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 

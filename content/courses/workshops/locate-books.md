@@ -112,10 +112,10 @@ library stacks.
 
 <div style="text-align:center">{{< figure src="/img/map.png" >}}</div>
 
-{{< /details >}}
+
 
 --->
-
+{{< /details >}}
 
 # Workshop
 
@@ -126,7 +126,7 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 
 2. Take a selfie with the book (or the hole where is should be, if it is checked out), 
 
-3. Name the photo using the number next to your name (ex: `1.jpg`, `18.jpg`),
+3. Save the photo as a .jpg and name the photo using the number next to your name (ex: `1.jpg`, `18.jpg`),
 
 4. Send the photo to me [via this email](<mailto:alan@no-silo.com?subject=Find a book workshop>).
 

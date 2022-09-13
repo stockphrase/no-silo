@@ -91,7 +91,7 @@ College should be a series of experiences through which you *gain ownership over
 > ### Honorifics and such...
 
 
-Almost every year a student will ask me "What do we call you?" on the first day of classes. So how should you address your teachers at college? This is a difficult question to answer. Let's think about this rhetorically. Who is the audience we are addressing?
+Almost every year a student will ask me "What do we call you?" on the first day of classes. So how should you address your teachers at college? This is a difficult question to answer. Let's think about this rhetorically and consider our audience:
 
 {{< hint note >}}
 ### <i class="fas fa-graduation-cap"></i> The Prouds
@@ -137,7 +137,17 @@ Now, students, what does this mean for you? It means that unless you love to cou
 {{< /details >}}
 
 
-{{< details "9. Are you as grumpy as this FAQ suggests?" >}}
+{{< details "9. Will we use the X hours?" >}}
+
+#
+
+> ### Nope.
+
+X hours are X-tra. They exist so that we can make up days that we miss or if we get behind for some unforeseen reason. For example, if I miss some classes due to illness, I may use the X hours to catch up and get the course back on track. Otherwise, I will use the X hour time for my office hours. 
+
+{{< /details >}}
+
+{{< details "10. Are you as grumpy as this FAQ suggests?" >}}
 
 #
 

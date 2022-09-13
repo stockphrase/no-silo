@@ -12,7 +12,7 @@ type: docs
 
 ---
 
-**Writing 2** is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations.
+Writing 2 is an introduction to academic writing. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts and articulating responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations.
 
 {{< hint note >}} 
 

@@ -15,22 +15,24 @@ type: docs
 
 As the name suggests, synthesis involves *combining* and *connecting*. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments relate to each another. 
 
-Students attempting synthesis for the first time often make the mistake of organizing their essays by source. For example, they will introduce two authors in their introduction, summarize Author A for a few paragraphs, summarize Author B for a few paragraphs, then conclude the essay by noting the broad similarities and differences in the two authors’ thinking. This is *not* synthesis.
-
-In a synthesis essay you should try to organize your essay by *topic* or *questions at issue* rather than by source. Instead of summarizing the essays separately, a synthesis will attempt to discover the various things that the authors discuss---the questions, ideas, and arguments they have in common---then present those things in an organized and meaningful way to an audience who is unfamiliar with the texts. Thus, your objective in a synthesis is to bring two or more distinct sources into a relationship by explaining to your reader the various ways in which the sources are in *dialogue*.
-
-To begin a synthesis, ask yourself the following questions about the readings you plan to synthesize:
+To begin a synthesis, ask yourself these (and similar) questions about the readings you plan to synthesize:
 
 >1. What issues, topics, or problems do the source materials have in common?  
->2. Are their arguments those things similar, or do they differ in some respects? 
->3. What reasoning supports their arguments? 
->4. Do they offer similar conclusions or are there significant differences?
+>2. Are the arguments presented similar, or do they differ in some respects? 
+>3. What reasoning supports the arguments? Are there differences or similarities there?  
+>4. Do the texts offer similar conclusions or are there significant differences?
 
-Answering these questions makes it easier to write an essay examining the relationship between the various authors’ *arguments*, comparing and contrasting their views.
+The work of synthesis will go much more smoothly (and with much less frustration) if you first answer these questions and perform an exhaustive comparative analysis of the texts' attributes and relationships. 
+
+Students attempting synthesis for the first time often make the mistake of organizing their essays by *source*. For example, they will introduce two authors in their introduction, summarize Author A for a few paragraphs, summarize Author B for a few paragraphs, then conclude the essay by noting the broad similarities and differences in the two authors’ thinking. This is *not* synthesis.
+
+In a synthesis essay you should try to organize your essay by *topic* or *questions at issue* rather than by source. Instead of summarizing the essays separately, a synthesis will attempt to discover the various things that the authors discuss---the questions, ideas, and arguments they have in common---then present those things in an organized and meaningful way to an audience who is unfamiliar with the texts. Thus, your objective in a synthesis is to bring two or more distinct sources into a relationship by explaining to your reader the various ways in which the sources are in *dialogue*.
 
 {{< hint info >}}
 <i class="fas fa-exclamation-circle"></i> Synthesis is very *textual* in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using [summary](/resources/open-handbook/chapter-8/), [paraphrase](/resources/open-handbook/chapter-8/), and [quotation](/resources/open-handbook/chapter-8/), compare and contrast the authors’ positions; make sure to cite each reference a text appropriately. Use clear [signal phrases](/resources/open-handbook/chapter-8/) to alert the reader when you transition between your presentations of the various author’s ideas or works.
 {{< /hint >}}
+
+---
 
 ## Workshop
 
@@ -38,8 +40,8 @@ Walker Percy and Paulo Freire, each in their own way, ask us to consider the pro
 
 Much as you did in a previous workshop, map out all of these argumentative connections between the two texts, producing an organized list. Flag similar terms or language that can help you draw comparisons or make connections. Make sure to scrupulously cite each reference to the text so you won't waste time trying to find them again later. 
 
-  - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>7</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 ---
 <!---

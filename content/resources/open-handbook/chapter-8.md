@@ -24,12 +24,12 @@ The ugly fact is books are made out of books.
 
 Academic writing always involves integrating the thinking of others into
 your own writing. There are only three ways that the words and ideas of
-others may appear in your writing: [**summary**](/resources/open-handbook/chapter-6), [**paraphrase**](/resources/open-handbook/chapter-6), and
-[**quotation**](/resources/open-handbook/chapter-6). Writing an academic paper requires a mastery of all
+others may appear in your writing: [summary](/resources/open-handbook/chapter-6), [paraphrase](/resources/open-handbook/chapter-6), and
+[quotation](/resources/open-handbook/chapter-6). Writing an academic paper requires a mastery of all
 three skills. It is critical to always give credit to the other authors
 whose ideas or words you borrow. Failing to do so may result in the
-accusation of [**plagiarism**](/resources/open-handbook/chapter-10). The way scholars avoid
-plagiarism is by using `signal phrases` and [**citations**](/resources/open-handbook/chapter-11).
+accusation of [plagiarism](/resources/open-handbook/chapter-10). The way scholars avoid
+plagiarism is by using `signal phrases` and [citations](/resources/open-handbook/chapter-11).
 
 
 # Using signal phrases
@@ -40,10 +40,10 @@ Signal phrases are words that tell your readers that you are borrowing
 text or ideas from a source. The borrowed material could be quoted,
 summarized, or paraphrased. The signal phrase, as the name suggests,
 tells your reader that you are about to begin borrowing; after you have
-presented the borrowed material, the concluding [**citation**](/resources/open-handbook/chapter-11) tells
+presented the borrowed material, the concluding [citation](/resources/open-handbook/chapter-11) tells
 the reader that the borrowing has concluded. Using signal phrases and
 citations to bookend your borrowings from other texts helps you avoid
-[**plagiarism**](/resources/open-handbook/chapter-10), organize your writing, and help your readers understand
+[plagiarism](/resources/open-handbook/chapter-10), organize your writing, and help your readers understand
 how your views relate to the views of the other writers you present in your writing.
 
 ## Why use them?
@@ -66,7 +66,7 @@ how your views relate to the views of the other writers you present in your writ
     reader.
 
 -   Using these signal phrases will help you to avoid
-    [**plagiarism**](/resources/open-handbook/chapter-10).
+    [plagiarism](/resources/open-handbook/chapter-10).
 
 ## How do you construct a signal phrase?
 
@@ -186,7 +186,7 @@ For most other circumstances, `summary` or `paraphrase` of the original language
 -   Provide a `citation` in your chosen format, such as MLA or
     Chicago.
 
--   If necessary, use [**ellipsis**](/resources/open-handbook/chapter-9) or [**brackets**](/resources/open-handbook/chapter-9) to alter the source, satisfy grammar, or provide clarifying information.
+-   If necessary, use [ellipsis](/resources/open-handbook/chapter-9) or [brackets](/resources/open-handbook/chapter-9) to alter the source, satisfy grammar, or provide clarifying information.
 
 ## What should I avoid?
 
@@ -331,7 +331,7 @@ another.
 -   Since summaries do not use quotation marks, you must take care to
     indicate to your readers that you are borrowing from the work of
     others. This is primarily accomplished through the use of a
-    `signal phrase` and a [**citation**](/resources/open-handbook/chapter-11). Think of the signal phrase and the
+    `signal phrase` and a [citation](/resources/open-handbook/chapter-11). Think of the signal phrase and the
     citation as a way to bookend a borrowing from a source. The signal
     phrase alerts readers that you are about to borrow from another
     text; the citation is used to show that the borrowing has
@@ -344,7 +344,7 @@ another.
     borrowed material, even though you have greatly condensed it and put
     it entirely in your own words. Make sure that any summarized
     material is introduced with a `signal phrase` and concluded with a
-    [**citation**](/resources/open-handbook/chapter-11).
+    [citation](/resources/open-handbook/chapter-11).
 
 ## Example of a summary
 
@@ -406,7 +406,7 @@ risk compromising your authority with your readers.
 -   Like summaries, paraphrases do not use quotation marks. As a result,
     you must take care to indicate to your readers that you are
     borrowing from the work of others with a `signal phrase` and
-    [**citation**](/resources/open-handbook/chapter-11). As you move from your own writing to the paraphrase
+    [citation](/resources/open-handbook/chapter-11). As you move from your own writing to the paraphrase
     of others, use a signal phrase to indicate this transition.
 
 -   End the paraphrase with an appropriate citation.
@@ -416,9 +416,9 @@ risk compromising your authority with your readers.
 -   **Avoid plagiarizing**. Remember, paraphrased material is still
     borrowed material, even though you have put it in your own words.
     Make sure that any paraphrased material is introduced with a
-    `signal phrase` and concluded with a [**citation**](/resources/open-handbook/chapter-11).
+    `signal phrase` and concluded with a [citation](/resources/open-handbook/chapter-11).
 
--   **Avoid patchwriting.** [**patchwriting**](/resources/open-handbook/chapter-10) is a process of merely
+-   **Avoid patchwriting.** [patchwriting](/resources/open-handbook/chapter-10) is a process of merely
     changing a word or a phrase here or there from the original text and
     presenting the result as your own writing. Instead, ensure that you
     use your own words and sentence structure in your paraphrase.
