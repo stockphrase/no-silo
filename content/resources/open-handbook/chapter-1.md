@@ -147,8 +147,8 @@ annotation and critical reading:
 
 -   **Summarize**. Write keywords or make "microsummaries" in the
     margins next to each paragraph. Later, you will not have to re-read
-    the entire document to find your place. These can be especially
-    useful if you later use this text in your own writing.
+    the entire document. These can be especially
+    useful for test preparation or if you later use the text in your own writing.
 
 -   **Connect**. Find connections between the reading and others within
     the course or your broader reading experience. Develop the capacity

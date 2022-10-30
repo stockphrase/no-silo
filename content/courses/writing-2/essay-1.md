@@ -33,7 +33,7 @@ What is education? What is its purpose? Write an essay exploring these questions
 
  
 ---
-<!---
+
 
 {{< hint note >}} 
 <span style="color: var(--readings)"><i class="fas fa-clipboard"></i></span> First Draft Notes
@@ -108,9 +108,9 @@ In the first draft I saw many students who were confused about **everyday** (as 
 
 For no particular reason I have discovered that if you can put an f-bomb between **every** and **day** then it should be *two words*:
 
-- <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span>  I go to the store every f*ing day. 
+- <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span>  I go to the store every [f*ing] day. 
 
-- <span style="color: var(--due)"><i class="fas fa-times-circle"></i></span> These are my every f*ing day pants.
+- <span style="color: var(--due)"><i class="fas fa-times-circle"></i></span> These are my every [f*ing] day pants.
 
 A clever way to remember this:
 
@@ -190,13 +190,12 @@ Everyone was taught the 5-paragraph essay form in high school. There is an intro
 
 The problem is that you can't really do much in 5-paragraphs and your time at Dartmouth will require you to reach for rhetorical forms that can accommodate much more complexity. One place to begin is to imagine that your paper is as many paragraphs as needed in order to justify the thesis. There is no magic number of paragraphs. There is no recipe or formula. 
 
-Another thing to reconsider is the summary conclusion that is a hallmark of the 5-paragraph essay. I saw many of these. You say what you've just said again at the end. Strong readers might find this somewhat insulting since it assumes we can't understand what we just read or hold these ideas in our heads for 5 paragraphs. 
+Another thing to reconsider is the `summary conclusion` that is a hallmark of the 5-paragraph essay. I saw many of these. You say what you've just said again at the end. Strong readers might find this somewhat insulting since it assumes we can't understand what we just read or hold these ideas in our heads for 5 paragraphs. 
 
 If we imagine that the reader has a good grasp on what you've just argued, how should your piece end? What do you need to say or do or explain to achieve closure? What do you hope the reader takes away from your argument? What should they do in response to it? 
 
 {{< /details >}}
 
---->
 
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 

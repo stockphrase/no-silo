@@ -21,8 +21,8 @@ title: "+ Hive"
 
 We will use shared Google docs to create the Hive resource. Each week containing course readings or films has one or more dedicated Hive documents that are housed in a shared <i class="fab fa-google-drive"></i> [Google drive](https://google.dartmouth.edu/) folder. Each of my course sections has a dedicated drive and you will only be able to contribute to the course section of which you are a member. You may distinguish the links to these folders with the superscript notation on the link, as in the examples below:
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> : Hive page for section 3 @ 11 hour
-- <i class="fab fa-forumbee"></i> <sup>7</sup> : Hive page for section 4 @ 12 hour
+- <i class="fab fa-forumbee"></i> <sup>3</sup> : Hive page for section 3 @ 11 hour
+- <i class="fab fa-forumbee"></i> <sup>4</sup> : Hive page for section 4 @ 12 hour
 
 
 ## How to contribute
@@ -44,7 +44,9 @@ You might contribute to Hive by doing some of the following tasks:
 
 ## Cite your work
 
-Although I don't imagine honeybees do this, I ask you to cite your individual contributions to the Hive. You may do this by creating a tag based on your initials. For example, I will be [@ACT]() in these exchanges. As you contribute ideas, questions, observations, or flag key portions of the text's argument, don't forget to credit yourself for your work. This will help us later, in case we'd like to thank you, discuss your idea, or cite you in our own writing. And a large part of your participation will be figured from your engagement within the Hive.
+Although I don't imagine honeybees do this, I ask you to cite your individual contributions to the Hive. You may do this by using a new feature in Google Docs called [smart chips](https://support.google.com/docs/answer/10710316?hl=en). You can cite your contribution by typing the '[@]()' symbol and the begin typing your Dartmouth email address until it appears in the dropdown list. Select your address and then your name will appear in the document to identify you as the contributor. The result will resemble the following: `Alan Taylor`. 
+
+As you contribute ideas, questions, observations, or flag key portions of the text's argument, don't forget to credit yourself for your work. This will help us later, in case we'd like to thank you, discuss your idea, or cite you in our own writing. And a large part of your participation will be figured from your engagement within the Hive.
 
 ## Example page
 
@@ -75,10 +77,10 @@ Here is a mockup of a page in Hive dedicated to our first reading. It might rese
 
 ### Discussion
 
-- [@RJB](): I notice that the Baker keeps utilizing a series of very strange metaphors throughout his piece that are designed to help us understand something curious about the human mind that we have perhaps never considered before. Specifically, ...
-- [@JBB](): The story about the **shoe on the bus** was completely incomprehensible to me. Did anyone understand the point of this? How is it related to Baker's broader argument? Is it evidence for one of his claims? I'm lost here.
-- \+ [@MRK](): Yeah [@JBB](), that story about the bus was confusing, but I think what Baker is doing with this story does illustrate a central premise of his piece that ...
-- \+ [@ACT](): Well, ACTUALLY...
+- `Robin Bryant`: I notice that the Baker keeps utilizing a series of very strange metaphors throughout his piece that are designed to help us understand something curious about the human mind that we have perhaps never considered before. Specifically, ...
+- `John Barley`: The story about the **shoe on the bus** was completely incomprehensible to me. Did anyone understand the point of this? How is it related to Baker's broader argument? Is it evidence for one of his claims? I'm lost here.
+- \+ `Mark Sois`: Yeah John Barley, that story about the bus was confusing, but I think what Baker is doing with this story does illustrate a central premise of his piece that ...
+- \+ `Alan Taylor`: Well, ACTUALLY...
           <div class="edge-shadow"></div>
         </div>
       </div>

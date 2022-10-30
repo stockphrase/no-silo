@@ -21,8 +21,6 @@ You do not rise to the level of your goals. You fall to the level of your system
 
 ---
 
----
-
 ## Save all your work
 
 Most students complete their school work, turn it in to their professor,

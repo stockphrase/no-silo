@@ -454,7 +454,6 @@ This week we will continue our overview of library research, learning some basic
 
 - <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This audio lecture provides a brief introduction to this form of inquiry.
 
-
 ---
 
 {{< hint note >}} 
@@ -466,8 +465,6 @@ This week we will continue our overview of library research, learning some basic
 <span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
 - <i class="fas fa-wrench"></i> [`Workshop 1: Searching with Precision`](/courses/workshops/search-with-precision/) | This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
-
-
 
 ---
 
@@ -492,8 +489,6 @@ This week we will continue our overview of library research, learning some basic
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
 
-
-
 {{< /details >}}
 
 ##
@@ -515,8 +510,6 @@ Philosophers and social scientists have attempted to explain the origins of civi
 {{< /hint >}} 
 
 - [<i class="fas fa-fist-raised"></i>](https://youtu.be/DKWCxKq0i1k?t=351) *Martin Luther King Day*. No classes. We will use the X-hour this week.
-
-
 
 ---
 

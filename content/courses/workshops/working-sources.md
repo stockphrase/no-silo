@@ -18,7 +18,7 @@ type: docs
 
 Perhaps the most challenging aspect of academic writing is the integration of source materials. Students often imagine that the most difficult thing about using sources is learning how and when to use a citation. While accurately documenting sources is a vital aspect of any process of inquiry, citing the page number of a source is not the only skill that is required. You must also learn how to artfully use [signal phrases](/resources/open-handbook/chapter-8) to announce borrowed ideas or words and transition to another source or back to your own ideas. Further, the integration of the source may occur in many forms: [summary](/resources/open-handbook/chapter-8), [paraphrase](/resources/open-handbook/chapter-8), or [quotation](/resources/open-handbook/chapter-8) (and often a mix of all three). To do any of these well requires excellent reading comprehension skills and a metacritical awareness of when it is preferable to use one form of integration over another. That's a lot to orchestrate and get right. 
 
-This workshop asks you to practice several key moves that are used in academic writing, all of which are described at length in the ["Working with Sources"](/resources/open-handbook/chapter-8) chapter of the [*Open Handbook*](/resources/open-handbook). You will use a passage from one of our course readings to complete the workshop, excerpted below. 
+This workshop asks you to practice several key moves that are used in academic writing, all of which are described at length in the ["Working with Sources"](/resources/open-handbook/chapter-8) chapter of the [*Open Handbook*](/resources/open-handbook). You will use the passage below to complete the workshop. 
 
 Completing this assignment will in no way make you proficient at the integration of sources. It will, however, help you conceptualize how sources are included in academic writing and give you a sense of what you need to work on in the future.
 
@@ -36,6 +36,8 @@ Completing this assignment will in no way make you proficient at the integration
 
 ## Workshop
 
+Complete the following writing exercises using the passage excerpted from Percy's essay above as your source text. Some of these exercises ask you to write a single sentence; others will require that you write a more lengthy response. If you are uncertain about to do summary, paraphrase, quotation, or citation, consult the readings in the handbook linked to above.
+
 1. Use a signal phrase with the author’s name to introduce a quotation from this text and then cite according to MLA. (See ["in-text citations"](/resources/open-handbook/chapter-11-mla/#mla-in-text-citations))
 
 2. Use a signal phrase *without* the author's name to introduce a quotation and then cite according to MLA. (See ["in-text citations"](/resources/open-handbook/chapter-11-mla/#mla-in-text-citations))
@@ -46,7 +48,7 @@ Completing this assignment will in no way make you proficient at the integration
 
 5. Quote from this passage using the MLA block quote format, then cite according to MLA.
 
-<!---
+
 ## Example Sentences
 
 {{< hint note >}} 
@@ -56,7 +58,7 @@ Completing this assignment will in no way make you proficient at the integration
 
 {{< /hint >}}
 
---->
+
 
 ---
 

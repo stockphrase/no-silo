@@ -369,7 +369,7 @@ inclined to put myth over reality, more inclined to measure their
 beliefs by the standard of accuracy and practicality. (35)
 
 Patricia Nelson Limerick, [*The Legacy of
-Conquest*](http://libcat.dartmouth.edu/record=b1422593~S1).
+Conquest*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991010528669705706).
 
  <div class="edge-shadow"></div>
         </div>
@@ -446,7 +446,7 @@ inclined to put myth over reality, more inclined to measure their
 beliefs by the standard of accuracy and practicality. (35)
 
 Patricia Nelson Limerick, [*The Legacy of
-Conquest*](http://libcat.dartmouth.edu/record=b1422593~S1).
+Conquest*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991010528669705706).
 
  <div class="edge-shadow"></div>
         </div>

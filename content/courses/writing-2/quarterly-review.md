@@ -21,13 +21,13 @@ This assignment takes the place of a final exam and asks you to reflect on all o
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></i></span> **Step 1**: Review your writing
 {{< /hint >}}
 
-After submitting all of your work for the term, gather together all of the drafts from the three major writing assignments of the term. (You are [saving all your work](/resources/open-handbook/chapter-4/), right?) Carefully examine the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor, teaching assistant, and fellow students.
+After submitting all of your work for the term, gather together all of the drafts from the three major writing assignments. (You are [saving all your work](/resources/open-handbook/chapter-4/), right?) Carefully examine the drafts for each of the main essay assignments in order, from first draft to final draft. Take time to compare the pieces and notice how they evolved due to your own process of revision and in response to the commentary you received from your professor, teaching assistant, and fellow students.
 
 - *For each of the three essays, write down a response to the following questions*:
 
 1. How did your essay change from first draft to final form?
 2. What was particularly strong about this revised, final version?
-3. What things could you still improve in this final draft? 
+3. What things could you still improve upon in this final draft? 
 4. What were you particularly proud of in the final draft?
 4. Considering the whole process of writing this essay, what did you learn?
 

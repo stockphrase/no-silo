@@ -143,7 +143,7 @@ Now, students, what does this mean for you? It means that unless you love to cou
 
 > ### Nope.
 
-X hours are X-tra. They exist so that we can make up days that we miss or if we get behind for some unforeseen reason. For example, if I miss some classes due to illness, I may use the X hours to catch up and get the course back on track. Otherwise, I will use the X hour time for my office hours. 
+X hours are X-tra. They exist so that we can make up days that we miss or if we get behind for some unforeseen reason. For example, if I miss some classes due to illness, I may use the X hours to catch up and get the course back on track. Otherwise, I will use the X hour time for my [office hours](/about/contact). 
 
 {{< /details >}}
 

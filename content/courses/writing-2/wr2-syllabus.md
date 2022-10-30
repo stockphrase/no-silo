@@ -283,7 +283,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" open >}}
+{{< details "Week One" >}}
 
 
 {{< hint note >}} 
@@ -333,7 +333,6 @@ Please make me aware of anything that will hinder your success in this course.
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.16 
 {{< /hint >}} 
 
-
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
@@ -341,8 +340,6 @@ Please make me aware of anything that will hinder your success in this course.
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review
-
-
 
 
 
@@ -768,7 +765,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 #
 
-{{< details "Week Eight" >}}
+{{< details "Week Eight" open >}}
 #
 
 {{< hint note >}} 

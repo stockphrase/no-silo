@@ -79,11 +79,15 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 {{< /hint >}} 
 
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer Review](/courses/workshops/peer-review)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer review](/courses/workshops/peer-review)
 {{< /hint >}} 
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Sentence variety](/courses/workshops/sentence-variety)
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Show, don't tell](/courses/workshops/show-not-tell)
 {{< /hint >}} 
 
 {{< hint note >}} 

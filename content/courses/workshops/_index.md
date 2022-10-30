@@ -40,12 +40,16 @@ This term we will do a series of workshops designed to learn and practice variou
 {{< /hint >}} 
 
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer Review](/courses/workshops/peer-review)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer review](/courses/workshops/peer-review)
 {{< /hint >}} 
 
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Sentence variety](/courses/workshops/sentence-variety)
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Show, don't tell](/courses/workshops/show-not-tell)
 {{< /hint >}} 
 
 {{< hint note >}} 
