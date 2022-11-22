@@ -632,7 +632,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "5 - The Apocalypse & the Other II" >}}
+{{< details "5 - The Apocalypse & the Other II" open >}}
 #
 
 
@@ -646,19 +646,12 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 {{< /hint >}} 
 
 
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Panopto Video" section of Canvas 
-
+- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Panopto Video" section of Canvas. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 - <i class="fas fa-video"></i> [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
@@ -669,22 +662,14 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.2
 {{< /hint >}} 
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-wrench"></i>  [`Workshop 5: Cutting Corners in Research`](/courses/workshops/cutting-corners/) | The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
-
-- <i class="fas fa-wrench"></i> [`Workshop 6: "Getting Sh*t the Library Doesn't Have"`](/courses/workshops/inter-library-loan) | As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes our library doesn't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
-
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Complete the workshops.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
-- <i class="fa fa-bullhorn"></i> Review workshops
+- <i class="fas fa-wrench"></i>  [`Workshop 5: Cutting Corners in Research`](/courses/workshops/cutting-corners/) | The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
+- <i class="fas fa-wrench"></i> [`Workshop 6: "Getting Sh*t the Library Doesn't Have"`](/courses/workshops/inter-library-loan) | As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes our library doesn't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
 
 
 ---
@@ -711,7 +696,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "6 - The Zombie, Civil Rights, & Race" >}}
+{{< details "6 - The Zombie, Civil Rights, & Race" open >}}
 #
 
 
@@ -731,18 +716,12 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.7
 {{< /hint >}} 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-
-- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Panopto Video" section of Canvas.
+- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Panopto Video" section of Canvas. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
     
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film.
@@ -753,26 +732,17 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.9
 {{< /hint >}} 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa fa-download"></i>  Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”
+- <i class="fa-solid fa-file-pdf"></i> [Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
     - <i class="fas fa-video"></i> [Scene from *White Zombie* (1932) at Murder Legendere's plantation](https://youtu.be/NV3B2z0HkKA?t=741).
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
 
-- <i class="fas fa-wrench"></i> [`Workshop 7: Bibliographic Software / Research Journal`](/courses/workshops/bibliographic-management/) | Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
-
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-- Complete the workshop.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and reading.
+- <i class="fas fa-wrench"></i> [`Workshop 7: Bibliographic Software / Research Journal`](/courses/workshops/bibliographic-management/) | Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
 
 
@@ -783,15 +753,18 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 {{< /hint >}} 
 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
+
+- Complete your essay draft.
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-bullhorn"></i> Discuss film and reading.
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review.
 
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> `Due`
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -803,7 +776,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ##
 
-{{< details "7 - Imagining the End: Cormac McCarthy" >}}
+{{< details "7 - Imagining the End: Cormac McCarthy" open >}}
 #
 
 
@@ -816,15 +789,11 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 {{< /hint >}} 
 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 1-96.
+- <i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 1-96. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading.
@@ -837,38 +806,30 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 {{< /hint >}} 
 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 96-190.
+- <i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 96-190. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading.
+
 ---
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.18
 {{< /hint >}} 
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-wrench"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+- <i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 190-287. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
-- <i class="fa fa-download"></i> Cormac McCarthy, *The Road*, 190-287.
 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
-- Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
+- <i class="fa-solid fa-person-chalkboard"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading.
 
