@@ -371,7 +371,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ## Schedule of Readings and Assignments
 
-{{< details "1 - Course Introduction" open >}}
+{{< details "1 - Course Introduction" >}}
 
 #
 
@@ -407,7 +407,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ##
 
-{{< details "2 - Introduction to Library Research" open >}}
+{{< details "2 - Introduction to Library Research" >}}
 #
 
 This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). 
@@ -421,15 +421,13 @@ This week we will continue our overview of library research, learning some basic
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-code-pull-request"></i> [`Searching with Precision`](/courses/workshops/search-with-precision/)
-    - Watch the video and study the information on searching with precision. 
+- <i class="fa-solid fa-code-pull-request"></i> [`Searching with Precision`](/courses/workshops/search-with-precision/) | Watch the video and study the information on searching with precision. 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa-solid fa-person-chalkboard"></i> Lecture: Searching with Precision
-- <i class="fas fa-wrench"></i> [`Workshop 1: Searching with Precision`](/courses/workshops/search-with-precision/)
-    - This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
+- <i class="fas fa-wrench"></i> [`Workshop 1: Searching with Precision`](/courses/workshops/search-with-precision/) | This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
 
 ---
 
@@ -441,13 +439,11 @@ This week we will continue our overview of library research, learning some basic
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-code-pull-request"></i> [`Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals)
-    - Read about periodicals and electronic databases. We will do the workshop portion in class. 
+- <i class="fa-solid fa-code-pull-request"></i> [`Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals) | Read about periodicals and electronic databases. We will do the workshop portion in class. 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
-- <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals)
-    - This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
+- <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals) | This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
 - <i class="fa fa-bullhorn"></i> Discuss lectures and do workshops
 
 
@@ -460,8 +456,7 @@ This week we will continue our overview of library research, learning some basic
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies)
-    - This class will frequently use a mode of analysis associated with cultural studies. This audio lecture provides a brief introduction to this form of inquiry/analysis.
+- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This audio lecture provides a brief introduction to this form of inquiry/analysis.
 
 ---
 
@@ -482,7 +477,7 @@ This week we will continue our overview of library research, learning some basic
 
 ##
 
-{{< details "3 - Disaster, Apocalypse, & the State of Nature" open >}}
+{{< details "3 - Disaster, Apocalypse, & the State of Nature" >}}
 
 #
 
@@ -515,17 +510,15 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 
 
-- [<i class="fa-solid fa-file-pdf"></i> Thomas Hobbes, selection from *Leviathan* (1651)](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) 
-    - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-- <i class="fa-solid fa-code-pull-request"></i> [`Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books)
-    - Study the portion about finding books and other items in the library stacks; we will complete the workshop portion in class.
+- <i class="fa-solid fa-file-pdf"></i> [Thomas Hobbes, selection from *Leviathan* (1651)](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+
+- <i class="fa-solid fa-code-pull-request"></i> [`Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | Study the portion about finding books and other items in the library stacks; we will complete the workshop portion in class.
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading
-- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books)
-    - This workshop will help you learn how to locate physical items in the library's stacks.
+- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | This workshop will help you learn how to locate physical items in the library's stacks.
 
 ---
 
@@ -535,10 +528,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- [<i class="fa-solid fa-file-pdf"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link)
-    - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-- <i class="fas fa-wrench"></i> [`What is Peer Review?`](/courses/workshops/peer-reviews)
-    - Complete the reading to understand the purpose of peer review and how to recognize peer-reviewed articles and books; we will do the workshop portion in class.
+- <i class="fa-solid fa-file-pdf"></i> [Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- <i class="fas fa-wrench"></i> [`What is Peer Review?`](/courses/workshops/peer-reviews) | Complete the reading to understand the purpose of peer review and how to recognize peer-reviewed articles and books; we will do the workshop portion in class.
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -554,21 +545,18 @@ Philosophers and social scientists have attempted to explain the origins of civi
 {{< /hint >}} 
 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa fa-download"></i> Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”
+- <i class="fa-solid fa-file-pdf"></i>  [Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well.*
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-bullhorn"></i> Discuss reading.
 - <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> Research progress checkup.
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fa fa-bullseye"></i> `Due`</span> 
 
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -579,7 +567,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ##
 
-{{< details "4 - The Apocalypse & the Other I" >}}
+{{< details "4 - The Apocalypse & the Other I" open >}}
 #
 
 
@@ -595,17 +583,13 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 {{< /hint >}} 
 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.  
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.  
 
-- <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s).
+- <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s) | Skim this reading to gain an overview of the important historical/cultural events in this decade.
 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
@@ -616,25 +600,14 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.26
 {{< /hint >}} 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
+- <i class="fa-solid fa-file-pdf"></i> [Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
-- <i class="fa fa-download"></i> Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”
-
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
-
-- <i class="fas fa-wrench"></i> [`Workshop 4: Works Cited or Bibliography`](/courses/workshops/chicago-bibliography/) | This lecture will help you gain familiarity with constructing a Chicago style bibliography for a research paper or project.
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-- Complete the workshop.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading and Hive submissions.
-
 
 ---
 
@@ -642,22 +615,20 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.28
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fas fa-wrench"></i> Review Workshop 4 answers.
-- <i class="fa fa-bullhorn"></i> Discuss film, reading, and Hive submissions.
+- <i class="fa fa-bullhorn"></i> Discuss film, reading, and Hive submissions.                                   
 - <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span>  Research progress checkup.
+- <i class="fas fa-wrench"></i> [`Workshop 4: Works Cited or Bibliography`](/courses/workshops/chicago-bibliography/) | This workshop will help you gain familiarity with constructing a Chicago style bibliography for a research paper or project.
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fa fa-bullseye"></i> `Due`</span> 
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page): research proposal (250 words), annotated bibliography of *current* research.
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
 
-
 {{< /details >}}
-
 
 ##
 
@@ -679,7 +650,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
 
 - <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Panopto Video" section of Canvas 
-    - [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
+
+- <i class="fas fa-video"></i> [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
@@ -689,7 +661,6 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
 
 ---
