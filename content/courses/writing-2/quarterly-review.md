@@ -9,7 +9,7 @@ title: "End-of-term Reflection and Review"
 # Fall Reflection and Review
 
 {{< hint note >}}
-This assignment takes the place of a final exam and asks you to reflect on all of your work this term. **The reflections and self-evaluations your perform here will largely determine your final grade**. Please write down your responses and keep them in a safe place---they will be used in a conference during the first week of classes this winter term. 
+This assignment takes the place of a final exam and asks you to reflect on all of your work this term. **The reflections and self-evaluations you perform here will largely determine your final grade**. Please write down your responses and keep them in a safe place---they will be used in a conference during the first week of classes this winter term. 
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> My rationale for this assignment is explained somewhat in question #6 in the [FAQ](/resources/FAQs).
 

@@ -94,11 +94,11 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
 {{< /hint >}} 
 
----
-
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Theoretical argument
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Theoretical argument](/courses/workshops/theoretical-argument/)
 {{< /hint >}} 
+
+---
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Considering audience

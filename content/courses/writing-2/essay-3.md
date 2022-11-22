@@ -24,6 +24,10 @@ Use Freire's essay as as theoretical lens. You will have to work hard to provide
 
 - For [more information](https://no-silo.com/resources/open-handbook/chapter-6/#theoretical-writing) on writing a theoretical argument.
 
+<!---
+Let's assume that your readers have seen this film, but have not read Freire. You are a guy who is interested in offering a new way of interpreting this beloved film by making a theoretical analysis using Freire's famous essay. Your readers will not have heard of Freire or read his essay, but they will be very curious about how the theory helps us understand the film and the trajectory of the main character, Max Fischer. Your readers will read your essay and feel that you've really hit on something important by making this analysis, as they will see the film in a completely new light that they would have never considered without your help. This is because you have carefully explained important concepts and arguments that Freire makes and then showing how those things may be used as a way of seeing or understanding the action in the film. They will thank you for your service and brilliant contribution to the conversation about this film. 
+--->
+
 
 {{< hint note >}} 
 

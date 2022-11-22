@@ -207,7 +207,6 @@ relevant results. *The question mark wild card should be used to replace a singl
 {{< /details >}} 
 
 
-
 ## Problem Set
 
 1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.

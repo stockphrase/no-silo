@@ -231,6 +231,15 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Growth
 - Effort
 
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
+
+
+
+{{< hint note >}}
+<span style="color: var(--due)"><i class="fas fa-star-of-life"></i></span> To earn this right (and pass the course), all assignments must be completed and a solid attendance record must be kept. </span>
+{{< /hint >}}
+
+
 ---
 
 ## Help With Your Writing
@@ -765,7 +774,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 #
 
-{{< details "Week Eight" open >}}
+{{< details "Week Eight" >}}
 #
 
 {{< hint note >}} 
@@ -807,7 +816,7 @@ Please make me aware of anything that will hinder your success in this course.
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+- <i class="fa fa-wrench"></i> [Show, don't tell](/courses/workshops/show-not-tell/) workshop
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3
 
 
@@ -819,7 +828,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-- <i class="fa fa-wrench"></i> [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+- <i class="fa fa-wrench"></i> [Show, don't tell](/courses/workshops/show-not-tell) workshop
 
 
 
@@ -864,14 +873,14 @@ Please make me aware of anything that will hinder your success in this course.
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fas fa-search"></i> Review answers to [Sentence Variety Workshop](/courses/workshops/sentence-variety) workshop
+- <i class="fas fa-search"></i> Review answers to [Show, don't tell](/courses/workshops/show-not-tell/) workshop
 
 
 {{< /details >}}
 
 #
 
-{{< details "Week Ten" >}}
+{{< details "Week Ten" open >}}
 #
 
 {{< hint note >}} 

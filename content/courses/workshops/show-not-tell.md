@@ -60,14 +60,14 @@ Again, summary and paraphrase are critical skills; however, when you state that 
 
 ### Directions:
 
-Rewrite the following three `telling` sentences, transforming them into two `showing` ones. Your second sentence should use a completely new sentence structure, as in the example above.
+Rewrite the following three `telling` sentences to make two separate `showing` ones. Your second sentence should use a completely new sentence structure, as in the example above.
 
 {{< details "Passage 1" >}}
 #
 
 --- *From* Paulo Freire, "The 'Banking' Concept of Education," p. 72.
 
-> Education thus becomes an act of depositing, in which the students are the depositories and the teacher is the depositor. Instead of communicating, the teacher issues communiqués and makes deposits which the students patiently receive, memorize, and repeat. This is the "banking" concept of education, in which the scope of action allowed to the students extens only as far as receiving, filing, and storing the deposits. 
+> Education thus becomes an act of depositing, in which the students are the depositories and the teacher is the depositor. Instead of communicating, the teacher issues communiqués and makes deposits which the students patiently receive, memorize, and repeat. This is the "banking" concept of education, in which the scope of action allowed to the students extends only as far as receiving, filing, and storing the deposits. 
 
 
 ---
@@ -76,8 +76,9 @@ Rewrite the following three `telling` sentences, transforming them into two `sho
 
 ---
 
-- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span>
-- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span>
+- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span> Freire criticizes a model of education that he likens to banking, where "the students are the depositories and the teacher is the depositor" (72). Instead of dialogue and true communication, "the teacher issues communiqués and makes deposits which the students patiently receive, memorize, and repeat."
+ 
+- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> Freire described what he calls the "'banking' concept of education," where students are treated as "depositories" and are only permitted the actions of "receiving, filing, and storing the deposits" made by teachers. 
 
 {{< /details >}} 
 
@@ -97,8 +98,9 @@ Rewrite the following three `telling` sentences, transforming them into two `sho
 
 ---
 
-- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span>
-- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span>
+- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span> Percy argues that we no longer see the Grand Canyon authentically and without influence as its original discoverer could; instead, we must view the place through "approved circumstances," through a complex lens comprised of all the images, descriptions, and representations of the place that we have been exposed to in our lifetimes (72).  
+
+- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> For Percy, viewing the canyon as its original discoverer did is not virutually impossible, since our view is now conditioned by what he calls "preformulation," an exposure to symbolic representations such as a "picture postcard, geography book, tourist folders, and the words Grand Canyon" (47).
 
 {{< /details >}} 
 
@@ -115,14 +117,20 @@ Rewrite the following three `telling` sentences, transforming them into two `sho
 
 ---
 
-- <span style="color: var(--due)"><i class="far fa-dot-circle"></i> `Telling`</span>: xxx
+- <span style="color: var(--due)"><i class="far fa-dot-circle"></i> `Telling`</span>: Baker warns us that the detection of a change of mind often sends us on an investigation into the past, where we make up false narratives to help explain why our opinions change (7).
 
 ---
 
-- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span>
-- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span>
+- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span> Baker argues that while we can't completely discount "sudden conversions and wrenching insights," for the most part we manufacture false narratives of this sort to explain how a change of mind occurred (7).
+
+- <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> While Baker allows that we may sometimes experience a "sudden conversion" that changes our minds, most often we "we fasten on to these only in hindsight, and exaggerate them for the sake of narrative," giving us a false sense of control or comprehension (7). 
 
 {{< /details >}} 
 
+<!---
+A student essay example:
+
+Percy and Freire both explain the dire consequences of the education system that limits the minds of students in a similar way. Percy highlights the negative impact that occurs when students see things as they are presented to them without thinking critically. His main issue with this loss of sovereignty is that students are blinded to the things they encounter and miss out on all of the knowledge they could have gained. Freire, on the other hand, focuses on the dehumanization of students that are brought up in an oppressive school system that takes away their ability to think for themselves. He emphasizes that our ability to ask questions is what makes us human, so taking away this part of us is taking away our given liberties of being human.
 
 
+--->

@@ -56,11 +56,11 @@ This term we will do a series of workshops designed to learn and practice variou
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
 {{< /hint >}} 
 
----
-
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Theoretical argument
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Theoretical argument](/courses/workshops/theoretical-argument/)
 {{< /hint >}} 
+
+---
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Considering audience

@@ -123,7 +123,7 @@ All work submitted in this course must be your own and be written exclusively fo
 
 ## Attendance Policy
 
-Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, no more than three unexcused absences in a single term will be acceptable for this course. This policy applies to regular class meetings, assigned X hours, and TA meetings. Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
+Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, **no more than three unexcused absences in a single term will be acceptable for this course**. This policy applies to regular class meetings, assigned X hours, and TA meetings. Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i> **Pandemic exceptions to the attendance policy:** </span>
@@ -223,20 +223,20 @@ Decades of research on grading concludes that it is counterproductive, even harm
 
 For the reasons described by Kohn (and ones we explored in the fall term), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. Ultimately, you will have to decide how best to express your ideas. But at no point will this complex, important work be reduced to a percentage or letter grade. 
 
-At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics:
+At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics, inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf):
 
 - Participation
 - Attendance
 - Collaboration and sharing
 - Late, incomplete, missing work
 - Growth
-- Effort
+- Effort 
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This list was partially inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf).
+
+<span style="color: var(--due)"><i class="fas fa-star-of-life"></i></span> To pass this course *all assignments must be completed and a solid [attendance record](/courses/writing-3/wr3-syllabus/#attendance-policy) must be kept*. </span>
 
 {{< /hint >}}
-
 
 ---
 
@@ -308,20 +308,6 @@ There are many sources of help for your writing assignments. I am happy to meet 
 
 ---
 
-## Required Winter Conference
-
-Each of you must attend a brief winter conference with me and our teaching assistant during the first two weeks of class. During this meeting we will discuss the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) assignment you completed last term.
-
-The meeting is also designed to discuss any concerns that you may have about the fall term or any goals that you may have going forward into the winter term. If there are particular things you would like to work on in your writing, please come prepared to discuss them.
-
-{{< hint note >}}
-<span style="color: var(--independent)"><i class="fas fa-mitten"></i></span>  To sign up for a session, [use the schedule here](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). All meetings will be held in my office hour Zoom room (link in Canvas).
-
-{{< /hint >}}
-
-
----
-
 ## Students With Disabilities
 
 Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
@@ -345,25 +331,24 @@ Please make me aware of anything that will hinder your success in this course. I
 
 | Symbol                                  | Note                                                                          |
 |:---------------------------------------:|:----------------------------------------------------------------------------- |
-| <i class="fa fa-comments"></i>         | Conferences with professor                                                     |
 | [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  | Student presentations                                                     |
+|<span style="color: var(--night)"><i class="fa-solid fa-moon"></i></span>| Homework |
+|<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> | In-class work  |
 | <i class="fa fa-calendar-alt"></i>      | A new major assignment                                                        |
 | <i class="fa fa-wrench"></i>            | Workshop assignment                                                           |
 | <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>          | Assignment due                                                                |
-| <i class="fas fa-cloud-upload-alt"></i> | Upload assignment to [Canvas](https://canvas.dartmouth.edu/)                  |
 | <i class="fas fa-print"></i>            | Print out work and bring to class                                             |
 | <i class="fab fa-forumbee"></i>         | Contribute to [Hive](/resources/hive/) |
 | <i class="fas fa-code-branch"></i>      | Peer work, in pairs or groups                                                 |
 | <i class="fa fa-bullhorn"></i>          | Discussion topic                                                              |
-| <i class="fa fa-book-open"></i>         | Course reading from the [*Open Handbook*](/resources/open-handbook)           |
-| <i class="fa fa-download"></i></i>      | Course reading download (.pdf)                                                |
+| <i class="fa-solid fa-person-chalkboard"></i> | In-class lecture |
+| <i class="fa-solid fa-file-pdf"></i>   | Course reading download (.pdf)                                                |
+| <i class="fa-solid fa-code-pull-request"></i>  | Learn something new |
 | <i class="fa fa-question-circle"></i>   | Question of the day™                                                          |
 | <i class="fas fa-box"></i>        | Friday [Soap Box](https://en.wikipedia.org/wiki/Soapbox)                      |
 |<i class="fas fa-video"></i>| Film|
-|<i class="fas fa-laptop-house"></i>| Zoom class meeting|
+|<i class="fas fa-microphone-alt"></i> | Audio lecture |
 |<span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> |Research progress checkup |
-|<span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> | Winter conferences|
-|<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> <span style="color: var(--due)"><i class="fas fa-circle"></i></span> | Color alerts used to organize weekly coursework  |
 
 <!---
 
@@ -386,7 +371,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ## Schedule of Readings and Assignments
 
-{{< details "1 - Course Introduction" >}}
+{{< details "1 - Course Introduction" open >}}
 
 #
 
@@ -394,21 +379,11 @@ Please make me aware of anything that will hinder your success in this course. I
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Wednesday, 1.5
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> `In-class work` </span>
 
-- <span style="color: var(--in-class)"><i class="fas fa-laptop-house"></i></span> Class reunion, course overview, syllabus tour, housekeeping matters.
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- Class reunion, course overview, syllabus tour, housekeeping matters.
 
-{{< hint note >}} 
-
-- <span style="color: var(--due)"><i class="fas fa-plane-departure"></i></span> *Due to many students being unable to attend this class in person due to pandemic travel issues, we will meet together online via Zoom (link in [Canvas](https://canvas.dartmouth.edu) and via email)*. 
-{{< /hint >}} 
-
----
-
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
-
-- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing).
-- <i class="fa fa-calendar-alt"></i>  Review [Fall Reflection and Review](/courses/writing-2/quarterly-review/) responses to prepare for the winter conference.
 
 ---
 
@@ -416,55 +391,65 @@ Please make me aware of anything that will hinder your success in this course. I
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.7
 {{< /hint >}} 
 
-- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> [Winter Conferences](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). 
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+- <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)
+    - A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
 
+---
 
-- <i class="far fa-file"></i>  [`Introduction to Academic Research`](/courses/workshops/academic-research-intro) | A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
-
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+- <i class="fa fa-box"></i> Friday Soapbox
+- <i class="fa-solid fa-person-chalkboard"></i> Introduction to academic research
+- <i class="fa fa-bullhorn"></i> Discuss possible research ideas
 
 {{< /details >}}
 
 ##
 
-{{< details "2 - Library Research, Cultural Studies, & Winter Conferences" >}}
+{{< details "2 - Introduction to Library Research" open >}}
 #
 
-This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). Finally, we meet together for our winter conferences. In the winter conference you will sit down with me and the teaching assistant to examine your performance during the fall term. The main topic of conversation will be your responses to the [Fall Reflection and Review](/courses/writing-2/quarterly-review/) you completed last term. We will also think ahead to specific things you would like to work on during the winter term.
+This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). 
 
-{{< hint note >}} 
-
-
-<i class="far fa-check-square"></i>  Sign up for your winter conference [using the schedule](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). The conference will be held in my office hour Zoom room.
-
-{{< /hint >}}
 
 ---
 
 {{< hint note >}} 
-
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.10
-
 {{< /hint >}} 
 
-- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> [Winter Conferences](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). 
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+- <i class="fa-solid fa-code-pull-request"></i> [`Searching with Precision`](/courses/workshops/search-with-precision/)
+    - Watch the video and study the information on searching with precision. 
 
-- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies) | This class will frequently use a mode of analysis associated with cultural studies. This audio lecture provides a brief introduction to this form of inquiry.
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa-solid fa-person-chalkboard"></i> Lecture: Searching with Precision
+- <i class="fas fa-wrench"></i> [`Workshop 1: Searching with Precision`](/courses/workshops/search-with-precision/)
+    - This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
 
 ---
+
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.12
 {{< /hint >}} 
 
-- <span style="color: var(--independent)"><i class="fas fa-mitten"></i></span> [Winter Conferences](https://docs.google.com/spreadsheets/d/19dKXXnRrVKbfXOfNDx7VwcIe5LN-QSyPgfxCuGuNsHo/edit?usp=sharing). 
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-wrench"></i> [`Workshop 1: Searching with Precision`](/courses/workshops/search-with-precision/) | This workshop will help you learn how to query databases and catalogs with precision, saving you time and headaches.
+- <i class="fa-solid fa-code-pull-request"></i> [`Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals)
+    - Read about periodicals and electronic databases. We will do the workshop portion in class. 
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+
+- <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals)
+    - This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
+- <i class="fa fa-bullhorn"></i> Discuss lectures and do workshops
+
 
 ---
 
@@ -472,18 +457,22 @@ This week we will continue our overview of library research, learning some basic
 ####  <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.14
 {{< /hint >}} 
 
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
+
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
+
+- <i class="fas fa-microphone-alt"></i> [`Introduction to Cultural Studies`](/courses/workshops/cultural-studies)
+    - This class will frequently use a mode of analysis associated with cultural studies. This audio lecture provides a brief introduction to this form of inquiry/analysis.
+
+---
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss lecture.
+
+---
 
 
-- <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals) | This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-- <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-bullhorn"></i> Discuss lectures and review workshops.
-
-
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  `Due`
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Create a barebones [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) and link to it on our [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -493,7 +482,7 @@ This week we will continue our overview of library research, learning some basic
 
 ##
 
-{{< details "3 - Disaster, Apocalypse, & the State of Nature" >}}
+{{< details "3 - Disaster, Apocalypse, & the State of Nature" open >}}
 
 #
 
@@ -517,30 +506,26 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.18 (X-hour session)
 {{< /hint >}} 
 
-- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 6 @ 12:15-1:05
-- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 7 @ 1:20-2:10
+- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 3 @ 12:15-1:05
+- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 4 @ 1:20-2:10
 
 ---
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fa fa-download"></i> Thomas Hobbes, selection from *Leviathan* (1651).
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
-
-- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | This workshop will help you learn how to locate physical items in the library's stacks.
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+- [<i class="fa-solid fa-file-pdf"></i> Thomas Hobbes, selection from *Leviathan* (1651)](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) 
+    - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- <i class="fa-solid fa-code-pull-request"></i> [`Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books)
+    - Study the portion about finding books and other items in the library stacks; we will complete the workshop portion in class.
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading and workshop.
+- <i class="fa fa-bullhorn"></i> Discuss reading
+- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books)
+    - This workshop will help you learn how to locate physical items in the library's stacks.
 
 ---
 
@@ -548,21 +533,18 @@ Philosophers and social scientists have attempted to explain the origins of civi
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Wednesday, 1.19
 {{< /hint >}} 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa fa-download"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”
+- [<i class="fa-solid fa-file-pdf"></i> Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link)
+    - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- <i class="fas fa-wrench"></i> [`What is Peer Review?`](/courses/workshops/peer-reviews)
+    - Complete the reading to understand the purpose of peer review and how to recognize peer-reviewed articles and books; we will do the workshop portion in class.
 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
-
-- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews)
+    - This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
 - <i class="fa fa-bullhorn"></i> Discuss reading and workshop.
 
 ---
@@ -1007,7 +989,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 {{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
-We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to cognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
+We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to recognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
 - <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
@@ -1123,7 +1105,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 ##
 
-{{< details "10 - The End" open >}}
+{{< details "10 - The End" >}}
 #
 
 <div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>
