@@ -993,7 +993,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 {{< details "9 - Drafting, Revising, Presenting" >}}
 #
 
-This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. Feel free to use a visuals, such as a PowerPoint slides or handouts.  
+This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. Feel free to use a visual aid, such as PowerPoint slides or handouts.  
 
 - *Each of you should be prepared to present on Monday*. I will have my son Abel randomly number you from 1-15 to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
 
