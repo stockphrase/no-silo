@@ -667,7 +667,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
 - <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> Research progress checkup.
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -747,7 +747,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review.
 
 
-<span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -816,7 +816,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading.
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -848,17 +848,14 @@ Recent years have seen an explosion of “reality” television programming base
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
 {{< /hint >}} 
 
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing).
-- <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”
+- <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.” | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
- 
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
 
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -869,7 +866,7 @@ Recent years have seen an explosion of “reality” television programming base
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and reading.
@@ -881,13 +878,13 @@ Recent years have seen an explosion of “reality” television programming base
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review.
 - <i class="fa fa-bullhorn"></i> Discuss research proposals.
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -1008,7 +1005,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 - [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 3.
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
@@ -1047,7 +1044,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.11
 {{< /hint >}} 
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  [Final Essays Due](https://canvas.dartmouth.edu).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Final draft of Author Page Due. 
@@ -1058,7 +1055,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 ---
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+<span style="color: var(--due)"><i class="fas fa-circle"></i> `Due`</span>
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
 
