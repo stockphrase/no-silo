@@ -207,8 +207,8 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to [Hive](/resources/hive), please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
 
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 6 @ 11 hour
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 7 @ 12 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 3 @ 11 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 4 @ 12 hour
 
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span>  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
@@ -350,24 +350,7 @@ Please make me aware of anything that will hinder your success in this course. I
 |<i class="fas fa-microphone-alt"></i> | Audio lecture |
 |<span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> |Research progress checkup |
 
-<!---
 
-## Color Alerts
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-<span style="color: var(--lime-green)"><i class="fas fa-circle"></i></span> `Lectures & Workshops`
-
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-<span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> 
-
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
---->
 
 ## Schedule of Readings and Assignments
 
