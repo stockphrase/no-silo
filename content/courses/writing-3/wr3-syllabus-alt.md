@@ -550,7 +550,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ##
 
-{{< details "4 - The Apocalypse & the Other I" open >}}
+{{< details "4 - The Apocalypse & the Other I" >}}
 #
 
 
@@ -615,7 +615,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "5 - The Apocalypse & the Other II" open >}}
+{{< details "5 - The Apocalypse & the Other II" >}}
 #
 
 
@@ -679,7 +679,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "6 - The Zombie, Civil Rights, & Race" open >}}
+{{< details "6 - The Zombie, Civil Rights, & Race" >}}
 #
 
 
@@ -759,7 +759,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ##
 
-{{< details "7 - Imagining the End: Cormac McCarthy" open >}}
+{{< details "7 - Imagining the End: Cormac McCarthy" >}}
 #
 
 
@@ -851,7 +851,7 @@ Recent years have seen an explosion of “reality” television programming base
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing).
-- <i class="fa fa-download"></i> Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.” | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+- <i class="fa-solid fa-file-pdf"></i> [Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
 
 
