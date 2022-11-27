@@ -359,7 +359,7 @@ Please make me aware of anything that will hinder your success in this course. I
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Wednesday, 1.5
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Wednesday, 1.4
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> `In-class work` </span>
@@ -371,7 +371,7 @@ Please make me aware of anything that will hinder your success in this course. I
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.6
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -399,7 +399,7 @@ This week we will continue our overview of library research, learning some basic
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.10
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.9
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -416,7 +416,7 @@ This week we will continue our overview of library research, learning some basic
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.12
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.11
 {{< /hint >}} 
 
 
@@ -433,7 +433,7 @@ This week we will continue our overview of library research, learning some basic
 ---
 
 {{< hint note >}} 
-####  <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.14
+####  <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.13
 {{< /hint >}} 
 
 
@@ -473,7 +473,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 --->
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Monday, 1.17 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Monday, 1.16 
 {{< /hint >}} 
 
 - [<i class="fas fa-fist-raised"></i>](https://youtu.be/DKWCxKq0i1k?t=351) *Martin Luther King Day*. No classes. We will use the X-hour this week.
@@ -481,7 +481,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.18 (X-hour session)
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.17 (X-hour session)
 {{< /hint >}} 
 
 - [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 3 @ 12:15-1:05
@@ -506,7 +506,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Wednesday, 1.19
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Wednesday, 1.18
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -524,7 +524,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.20
 {{< /hint >}} 
 
 
@@ -562,7 +562,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.24
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.23
 {{< /hint >}} 
 
 
@@ -580,7 +580,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.26
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.25
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -595,7 +595,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.28
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.27
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -625,7 +625,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.31
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.30
 {{< /hint >}} 
 
 
@@ -642,7 +642,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.2
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.1
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -658,7 +658,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.4
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.3
 {{< /hint >}} 
 
 
@@ -696,7 +696,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.6
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -712,7 +712,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.9
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.8
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -732,7 +732,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.11
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.10
 {{< /hint >}} 
 
 
@@ -768,7 +768,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.14
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.13
 {{< /hint >}} 
 
 
@@ -785,7 +785,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.16
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.15
 {{< /hint >}} 
 
 
@@ -801,7 +801,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.18
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.17
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -845,7 +845,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.20
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -863,7 +863,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.22
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -875,7 +875,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.24
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -978,30 +978,30 @@ This week is dedicated to our presentations. Each of you will make a short prese
 - *Each of you should be prepared to present on Monday*. I will have my son Abel randomly number you from 1-15 to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.28
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.27
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 1.
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 3.2
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 3.1
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 2.
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.4
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.3
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 3.
 
@@ -1023,25 +1023,21 @@ This week is dedicated to our presentations. Each of you will make a short prese
 <div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.6
 {{< /hint >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Final Question of the Day™
 - <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
 - <span style="color: var(--tears)"><i class="fas fa-tint"></i></span> Tearful goodbyes.
-
-
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
-
 - <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
 
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.11
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.10
 {{< /hint >}} 
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
@@ -1050,12 +1046,12 @@ This week is dedicated to our presentations. Each of you will make a short prese
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Final draft of Author Page Due. 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.14
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.13
 {{< /hint >}} 
 
 ---
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i> `Due`</span>
+<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
 
