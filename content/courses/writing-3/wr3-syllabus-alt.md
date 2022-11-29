@@ -10,7 +10,7 @@ title: "Writing 3: Syllabus"
 {{< /hint >}}
 
 
-<div style="text-align:center">{{< figure src="/img/header-end.jpg" >}}</div>
+<div style="text-align:center">{{< figure src="/img/sampleapoc.jpg" >}}</div>
 
 # Post-apocalyptic Fiction, Film, and Art
 
@@ -26,6 +26,7 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 
 
+
 {{< details "COVID-19 Information" >}}
 
 #
@@ -35,19 +36,23 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 {{< /hint >}}
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> **Do not attend class** if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19.
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you have COVID-19 symptoms, [contact Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) immediately for instructions. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i> **Do not attend class**</span> if you have *any* [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you test positive: wear a mask, follow [isolation protocol](https://covid.dartmouth.edu/isolation-guidance-faqs), and notify close contacts.
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you are a close contact, wear a mask and follow the [college's policies on testing](https://covid.dartmouth.edu/testing-health).
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Students must report positive results to the [Dartmouth College Health Service](mailto:dicks.house.nurse@dartmouth.edu).
 
+<!---
 ---
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Please wear your mask in class properly (covering both nose and mouth). 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> Eating in class is not allowed. 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must drink something in class, do so quickly and then replace your mask. 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you must cough or sneeze, do not remove your mask to do so.
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Please wear your mask in class properly (covering both nose and mouth). 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Eating in class is not allowed. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you must drink something in class, do so quickly and then replace your mask. 
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you must cough or sneeze, do not remove your mask to do so.
 
 ---
 
 - <span style="color: var(--in-class)"><i class="fas fa-money-bill-wave"></i></span> If you have trouble affording appropriate masks, please let me know.
+--->
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
@@ -55,21 +60,21 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> There **will be no penalty for missing class due to COVID-19 illness or its prevention**.
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If student absences due to COVID-19 become a problem from a pedagogical perspective, this class will move online.
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
 {{< /hint >}}
 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> [Schedule a COVID-19 test](https://health-clinics.dartmouth.edu/).
+- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
 
 ---
  
-- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated or boosted, [find a shot near you](https://www.vaccines.gov/).
-
+- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
 
 {{< /details >}}
+
+
 
 
 
