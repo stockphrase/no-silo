@@ -136,7 +136,7 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 
 | No. | Student  |  Book | Photo     
 |:--:|:----------|:-------------|:---------|
-| 1.| Khe'-G.C.Baron | [*The Sixth Extinction*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991004577379705706) | ![X](/img/workshop/1.jpg)
+| 1.| | [*The Sixth Extinction*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991004577379705706) | ![X](/img/workshop/1.jpg)
 | 2.|  Grace.A.Bech | [*Apocalypse and Post-politics*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991003591709705706) | ![X](/img/workshop/2.jpg)
 | 3.| Giuliana.A.Fernandez.Arce | [*The Contemporary Post-apocalyptic Novel*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991033390577405706)| ![X](/img/workshop/3.jpg)
 | 4.| Joseph.R.Gizmunt | [*A Libertarian Walks into a Bear*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033596077705706)| ![X](/img/workshop/4.jpg)
@@ -156,9 +156,9 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 
 | No. | Student  |  Book | Photo     
 |:--:|:----------|:-------------|:---------|
-| 16.| Rev.L.Alberta | [*The Snows of Kilimanjaro*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004995939705706) | ![X](/img/workshop/16.jpg)
+| 16.|  | [*The Snows of Kilimanjaro*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991004995939705706) | ![X](/img/workshop/16.jpg)
 | 17.| Dhanush.Balaji | [*Green Hills of Africa*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991011495999705706) | ![X](/img/workshop/17.jpg)
-| 18.| Navya.Bharadwaj | [*Polynesian Tattooing*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991008586299705706)| ![X](/img/workshop/18.jpg)
+| 18.| Rev.L.Alberta | [*Polynesian Tattooing*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991008586299705706)| ![X](/img/workshop/18.jpg)
 | 19.| Jamal.M.Cooper | [*The Internal Enemy*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991003261619705706)| ![X](/img/workshop/19.jpg)
 | 20.| Jaidyn.E.Curry | [*The Embers and the Stars*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991013953759705706) | ![X](/img/workshop/20.jpg)
 | 21.| Francesco.Dembinski | [*Jan Patočka: Philosophy and Selected Writings*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991007870239705706)| ![X](/img/workshop/21.jpg)

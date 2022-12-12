@@ -10,7 +10,7 @@ title: "Writing 3: Syllabus"
 {{< /hint >}}
 
 
-<div style="text-align:center">{{< figure src="/img/sampleapoc.jpg" >}}</div>
+{{< figure src="/img/the-end-header.png" >}}
 
 # Post-apocalyptic Fiction, Film, and Art
 
@@ -69,13 +69,10 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 - <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
 
 ---
- 
+
 - <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
 
 {{< /details >}}
-
-
-
 
 
 ## Course Objectives
@@ -226,7 +223,7 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. 
 
-For the reasons described by Kohn (and ones we explored in the fall term), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. Ultimately, you will have to decide how best to express your ideas. But at no point will this complex, important work be reduced to a percentage or letter grade. 
+For the reasons described by Kohn (and ones we explored in the fall term), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback on how to improve (at least from where I'm sitting). You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. Ultimately, you will have to decide how best to express your ideas. But at no point will this complex, important work be reduced to a percentage or letter grade. 
 
 At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics, inspired by the grading contract in Asao B. Inoue's [*Labor-based Grading Contracts*](https://wac.colostate.edu/docs/books/labor/appendixa.pdf):
 
@@ -381,8 +378,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)
-    - A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
+- <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)| A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
 
 ---
 
@@ -522,8 +518,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews)
-    - This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
+- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
 - <i class="fa fa-bullhorn"></i> Discuss reading and workshop.
 
 ---
@@ -639,6 +634,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 - <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Panopto Video" section of Canvas. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 - <i class="fas fa-video"></i> [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
   
+
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -709,6 +705,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 - <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Panopto Video" section of Canvas. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
     
+
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -1062,5 +1059,4 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 
 {{< /details >}}
-
 
