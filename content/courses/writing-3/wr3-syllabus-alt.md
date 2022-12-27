@@ -234,10 +234,8 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Growth
 - Effort 
 
-{{< hint note >}}
-
-<span style="color: var(--due)"><i class="fas fa-star-of-life"></i></span> To pass this course *all assignments must be completed and a solid [attendance record](/courses/writing-3/wr3-syllabus/#attendance-policy) must be kept*. </span>
-
+{{< hint danger >}}
+<span style="color: var(--due)"><i class="fa-solid fa-skull-crossbones"></i> **Nota bene:**</span> To pass this course *all assignments must be completed and an acceptable [attendance record](/courses/writing-3/wr3-syllabus/#attendance-policy) must be kept*.
 {{< /hint >}}
 
 ---
@@ -428,7 +426,7 @@ This week we will continue our overview of library research, learning some basic
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fas fa-wrench"></i> [`Workshop 2: Finding Periodicals & Electronic Databases`](/courses/workshops/find-periodicals) | This workshop will help you learn how to locate online periodicals (such as scholarly journal articles).
-- <i class="fa fa-bullhorn"></i> Discuss lectures and do workshops
+- <i class="fa fa-bullhorn"></i> Discuss lecture and do workshop
 
 
 ---
