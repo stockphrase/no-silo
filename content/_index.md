@@ -14,8 +14,8 @@ type: docs
 
 The idea for this site came from a talk I gave to the faculty of the [Writing Program](https://writing-speech.dartmouth.edu) at Dartmouth College in 2020 about tearing down information silos and creating an open-source teaching culture among our faculty. 
 
-> No Silo's contents are free for use with a <i class="fa-brands fa-creative-commons"></i> Creative Commons [ <i class="fa-brands fa-creative-commons-by"></i> <i class="fa-brands fa-creative-commons-nc"></i>
- 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. 
+> No Silo's contents are free for use with a Creative Commons { [<i class="fa-brands fa-creative-commons"></i> <i class="fa-brands fa-creative-commons-by"></i> <i class="fa-brands fa-creative-commons-nc"></i>
+ 4.0](https://creativecommons.org/licenses/by-nc/4.0/) } license. 
 
 
 
