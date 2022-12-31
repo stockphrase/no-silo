@@ -851,7 +851,7 @@ Recent years have seen an explosion of “reality” television programming base
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing).
-- <i class="fa-solid fa-file-pdf"></i> [Casey Kelly, “The Man-pocalypse: Doomsday Preppers and the Rituals of Apocalyptic Manhood.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+- <i class="fa-solid fa-file-pdf"></i> [Gwendolyn Audrey Foster, “Consuming the Apocalypse, Marketing Bunker Materiality.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
 
 
