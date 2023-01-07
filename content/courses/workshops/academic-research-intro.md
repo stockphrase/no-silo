@@ -169,7 +169,7 @@ Significantly, you may not be able to determine the best keywords for searching 
 
 ### Step 3: Search for Books and Periodicals
 
-The library uses special software designed to augment the searching of the its holdings known as a "[discovery layer](https://en.wikipedia.org/wiki/Discovery_layer)." Dartmouth's main library [search engine](https://search.library.dartmouth.edu/) currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
+The library uses special software known as a "[discovery layer](https://en.wikipedia.org/wiki/Discovery_layer)" to aid in the searching of the its holdings. Dartmouth's main library [search engine](https://search.library.dartmouth.edu/) currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
 
 After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm (which may, or may not, be a good thing). After entering your keywords, you will notice ways to further refine your search by clicking on several options within the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page. Or limit the search to [peer-reviewed](/courses/workshops/peer-reviews) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches, if desired. It is usually worth your time to further limit your searches in this way.
 
@@ -192,7 +192,7 @@ Your initial keyword searches will lead to a number of books that are useful to 
 
 ### Step 4b: Use subject headings to find closely related books
  
-Perhaps the most helpful thing about subject headings is they are an easy means of finding additional (and closely related) sources on your topic once you have acquired one. For example, if you discover that historian Alan Taylor's[^1] book *[The Civil War of 1812](http://libcat.dartmouth.edu/record=b4878766)* is an important source for your research project, you can use the book's subject headings to find *all* of the other books written on those topics in your library. As you may see from this example, the Library of Congress assigned the book the following three subject headings:
+Perhaps the most helpful thing about subject headings is they are an easy means of finding additional (and closely related) sources on your topic once you have acquired one. For example, if you discover that historian Alan Taylor's[^1] book *[The Civil War of 1812](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991022941679705706)* is an important source for your research project, you can use the book's subject headings to find *all* of the other books written on those topics in your library. As you may see from this example, the Library of Congress assigned the book the following three subject headings:
 
 {{< figure src="/img/copyright-page.png" >}}
 

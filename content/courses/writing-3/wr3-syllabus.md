@@ -389,7 +389,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ##
 
-{{< details "2 - Introduction to Library Research" >}}
+{{< details "2 - Introduction to Library Research" open >}}
 #
 
 This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). 
