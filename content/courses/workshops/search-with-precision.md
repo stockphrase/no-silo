@@ -318,7 +318,7 @@ This problem is also one that we should tackle though the use of [`controlled vo
 {{< details "Answer" closed >}} 
 #
 
-This problem is more challenging for several reasons: 1) the current pandemic is a very recent event, which makes finding peer-reviewed sources less likely; 2) the keyword "spy" is not very productive since the [`controlled vocabulary`](https://en.wikipedia.org/wiki/Controlled_vocabulary) term preferred by libraries is "surveillance"; and 3) the word "surveillance" is also term of art that is used to describe the legitimate efforts by epidemiologists and government health organizations to understand the spread of disease, thus polluting our results with sources that we don't actually want. 
+This problem is more challenging for several reasons: 1) the current pandemic is a very recent event, which means peer-reviewed sources are less numerous than many other topics; 2) the keyword "spy" is not very productive since the [`controlled vocabulary`](https://en.wikipedia.org/wiki/Controlled_vocabulary) term preferred by libraries is "surveillance"; and 3) the word "surveillance" is also term of art that is used to describe the legitimate efforts by epidemiologists and government health organizations to understand the spread of disease, thus polluting our results with sources that we don't actually want. 
 
 To overcome these issues we may have to come at this by relying on journalism outlets we respect and any government publications or open-source intelligence we can find. And we may need to add additional keywords such as `rights,` `privacy`, `libert*`, or `freedom*` to try and find sources that favor our intentions with the keyword `surveillance`. 
 
@@ -328,7 +328,6 @@ I started with a Google search using the following search string, which produced
 {{< hint note >}} 
 <i class="fas fa-search"></i>  [government* AND covid* AND surveillance AND privacy](https://www.google.com/search?q=government*+AND+covid*+AND+surveillance+AND+privacy&oq=government*+AND+covid*+AND+surveillance+AND+privacy)
 {{< /hint >}}
-
 
 
 - A number of these results cite other related texts in their bibliographies, so a [citation chase](/courses/workshops/academic-research-intro/#step-6-perform-citation-chases-2) will be helpful to locate other sources. 
