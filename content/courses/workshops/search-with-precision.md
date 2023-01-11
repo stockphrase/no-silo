@@ -213,7 +213,6 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians *available in our library*.
 
-<!---
 {{< details "Answer" closed >}} 
 
 #
@@ -265,11 +264,9 @@ And since these subject searches are only going to return books (and some physic
 
 {{< /details >}} 
 
---->
-
 3. Find peer-reviewed sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
 
-<!---
+
 
 {{< details "Answer" closed >}} 
 #
@@ -288,12 +285,12 @@ Here I used two `exact phrase` searches in a keyword search and then used the li
 
 {{< /details >}} 
 
---->
+
 
 4. You are curious if there is any scholarship on fictional portrayals of pandemic disease.
 
 
-<!---
+
 
 {{< details "Answer" closed >}} 
 #
@@ -310,11 +307,11 @@ This problem is also one that we should tackle though the use of [`controlled vo
 
 {{< /details >}} 
 
---->
+
 
 5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
-<!---
+
 {{< details "Answer" closed >}} 
 #
 
@@ -342,12 +339,11 @@ I reproduced this search string in our library and found several peer-reviewed a
 {{< /hint >}}
 
 {{< /details >}} 
---->
+
 
 6. You are interested in female MMA fighters and want to know if there is any scholarship on this.
 
 
-<!---
 {{< details "Answer" closed >}} 
 #
 
@@ -360,7 +356,7 @@ This search gave us an opportunity to use a wildcard. By using "Wom?n" we can en
 {{< hint note >}} 
 <i class="fas fa-search"></i> [Wom?n AND "mixed martial arts" AND gender](https://search.library.dartmouth.edu/discovery/search?query=any,contains,Wom%3Fn%20AND%20%22mixed%20martial%20arts%22%20AND%20gender&tab=All&search_scope=MyInst_and_CI&vid=01DCL_INST:01DCL&facet=tlevel,include,peer_reviewed&offset=0)
 {{< /hint >}}
---->
+
 
 {{< /details >}} 
 

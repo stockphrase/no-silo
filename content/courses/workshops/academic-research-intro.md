@@ -223,26 +223,17 @@ Since your research process will cause you to encounter a variety of unfamiliar 
 Thus, a research project should always involve the reading of general `reference materials` about the topic. Before you can ask an
 intelligent question about your topic or contribute to an ongoing scholarly conversation, you need to develop a working knowledge of basic facts to serve as a foundation for your project. The best way to develop this basic understanding is to examine [peer-reviewed](/courses/workshops/peer-reviews) reference works such as encyclopedias, biographies, dictionaries, and other forms of `reference material`.
 
-Baker-Berry library has a number of helpful reference resources in this regard. If you visit the [Library Reference Resources](http://researchguides.dartmouth.edu/reference) link in the Library's [Research Guides](http://researchguides.dartmouth.edu/), you will find an impressive array of organized reference materials like bibliographies, encyclopedias, and dictionaries. Most of them are fully
-digitized and do not even require a trip to the library. Always start
-your research project with reference works and gain a basic grounding of
-your topic before developing your research question or thesis. For
-example, before you begin an essay on Iraqi feminism in the 1960s, you
-should read the Wikipedia article on the modern history of Iraq to get a
-broad sense of the context you are entering with your writing. Other
-helpful background information aids of note:
+Baker-Berry library has a number of helpful reference resources in this regard. If you visit the [Library Reference Resources](https://researchguides.dartmouth.edu/c.php?g=59451&p=9491778) link in the Library's [Research Guides](http://researchguides.dartmouth.edu/), you will find an impressive array of organized reference materials like bibliographies, encyclopedias, and dictionaries. Most of them are fully
+digitized and do not even require a trip to the library. Always start your research project with reference works and gain a basic grounding of your topic before developing your research question or thesis. For
+example, before you begin an essay on Iraqi feminism in the 1960s, you should read the Wikipedia article on the modern history of Iraq to get a broad sense of the context you are entering with your writing. Other helpful background information aids of note:
 
 -   [Wikipedia](http://www.wikipedia.org), [CIA World
     Factbook](https://www.cia.gov/library/publications/the-world-factbook/),
     [Oxford Reference Online](http://www.oxfordreference.com/),
     [Britannica Online](http://www.search.eb.com/).
 
-A word of warning about Wikipedia (and internet sources in general): it
-has not been through a process of scholarly [peer-review](/courses/workshops/peer-reviews). For that reason, it
-is unwise to rely on Wikipedia as a source for a research project. Use
-Wikipedia to gain background information on your topic and lead you to
-other authoritative sources, but when it comes time to write your essay,
-use a peer-reviewed source.
+A word of warning about Wikipedia (and internet sources in general): it has not been through a process of scholarly [peer-review](/courses/workshops/peer-reviews). For that reason, it
+is unwise to rely on Wikipedia as a source for a research project. Use Wikipedia to gain background information on your topic and lead you to other authoritative sources, but when it comes time to write your essay, use a peer-reviewed source.
 
 ### Step 6: Perform citation chases [^2] 
 
