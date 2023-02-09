@@ -102,7 +102,7 @@ Maps of the library's floorplans are affixed to the walls on each floor. Free pa
 
 <span style="color: var(--due)"><i class="fas fa-lock"></i></span> Method B is top secret. (I will reveal it at the appropriate time). 
 
-<!--
+
 A new update to Dartmouth's catalog as of 2014 allows you to simply click the "map it" button next to the item's [listing in the catalog](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031290259705706). 
 
 <div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>
@@ -113,8 +113,6 @@ library stacks.
 <div style="text-align:center">{{< figure src="/img/map.png" >}}</div>
 
 
-
---->
 {{< /details >}}
 
 # Workshop
@@ -134,10 +132,10 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 
 ### WR-003-03
 
-| No. | Student  |  Book | Photo     
+| No. | Student  |  Book | Photo |   
 |:--:|:----------|:-------------|:---------|
 | 1.| | [*The Sixth Extinction*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991004577379705706) | ![X](/img/workshop/1.jpg)
-| 2.|  Grace Bech | [*Apocalypse and Post-politics*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991003591709705706) | ![X](/img/workshop/2.jpg)
+| 2.|  Grace Bech | [*Apocalypse and Post-politics*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991003591709705706) | ![X](/img/workshop/2.jpg) 
 | 3.| Giuliana Fernandez Arce | [*The Contemporary Post-apocalyptic Novel*](https://search.library.dartmouth.edu/permalink/01DCL_INST/fg48vn/alma991033390577405706)| ![X](/img/workshop/3.jpg)
 | 4.| Joseph Gizmunt | [*A Libertarian Walks into a Bear*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033596077705706)| ![X](/img/workshop/4.jpg)
 | 5.| Nicolas Halverson De Lacalle | [*River of Dark Dreams*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991002139129705706) | ![X](/img/workshop/5.jpg)
@@ -171,10 +169,6 @@ Below, find an assigned book for you to locate in the stacks. Each of you must d
 | 28.| Tom Thomas | [*Tom Taylor's Civil War*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991022051929705706) | ![X](/img/workshop/28.jpg)
 | 29.| Olivia Urse | [*András Visky's Barrack Dramaturgy*](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991021322409705706) | ![X](/img/workshop/29.jpg)
 | 30.| Raul Mbeki | [*The Virtues of Mendacity*](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991020256589705706) | ![X](/img/workshop/30.jpg)
-
-
-
-
 
 
 

@@ -32,9 +32,9 @@ First, let's stipulate that nothing can replace carefully reading a book or arti
 
 4. **Scan the topic sentences**. One final test may be to skim the topic sentences of each paragraph in a chapter or article. Since the topic sentences generally state the paragraph's purpose, you can often gain important intelligence on the whole text by reading them alone. 
 
-5. **Surgical strikes with the index**. Scholarly books often contain an index at the end of the text where key terms, events, or people are listed along with a page number. With this information you can quickly scan a book for keywords that are relevant for your line of inquiry and then visit those pages of the book to see if deeper reading is merited. 
+5. **Surgical strikes with the index**. Scholarly books often contain an [index](/img/index-book.png) at the end of the text where key terms, events, or people are listed along with a page number. With this information you can quickly scan a book for keywords that are relevant for your line of inquiry and then visit those pages of the book to see if deeper reading is merited. 
 
-6. **Read book reviews.** Academic works are often reviewed by other academics in the pages of related academic journals. If you place the book's title in the search field of a relevant database and use the search delimiter for "review articles," you should receive a list of reviews. These reviews are usually only 2-3 pages in length, offer a precise summary of the book's contents, and make some evaluative remarks at the end about the book's value to the field of study. 
+6. **Read book reviews.** Academic works are often reviewed by other academics in the pages of related academic journals. If you place the book's title in the search field of a [relevant database](http://dartmouth.idm.oclc.org/login?url=http://www.jstor.org/) and use the search delimiter for "review articles," you should receive a list of reviews. These reviews are usually only 2-3 pages in length, offer a precise summary of the book's contents, and make some evaluative remarks at the end about the book's value to the field of study. 
 
 ---
 

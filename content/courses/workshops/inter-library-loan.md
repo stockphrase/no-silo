@@ -53,7 +53,7 @@ containing information about when the book must be returned to avoid punishing f
 
 If there is a book or article you would like to read that is not
 available through Borrow Direct, you may request it from Dartmouth's
-interlibrary loan program, known as [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/logon.html).[^1] To request an item, visit
+interlibrary loan program, known as [DartDoc](https://library.dartmouth.edu/tools/ezProxy/lspLogin/DartDoc/debug).[^1] To request an item, visit
 the DartDoc webpage, select the appropriate form (article, book, book chapter,
 etc.), and send your request electronically to the office. Staff will
 request your item from another library, who will ship the book to our

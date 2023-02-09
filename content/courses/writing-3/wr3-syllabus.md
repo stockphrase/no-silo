@@ -209,8 +209,8 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to [Hive](/resources/hive), please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
 
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>6</sup></span> : Hive page for section 3 @ 11 hour
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>7</sup></span> : Hive page for section 4 @ 12 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>3</sup></span> : Hive page for section 3 @ 11 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>4</sup></span> : Hive page for section 4 @ 12 hour
 
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span>  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
@@ -244,10 +244,18 @@ At the end of the term we will reflect together on your progress, effort, partic
 
 ### 1. Formal Research Essay
 
-You will write one formal research essay, 15 pages or more in length. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
+You will write one formal research essay. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi) and contain a minimum of 15 [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources.
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i> Essay requirements:</span> 
+
+- The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi). You may choose to use either footnotes or endnotes for your citations; no bibliography page is required. 
+
+- It must contain a minimum of 15 [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources. 
+
+- Sources that are not peer-reviewed may also be used. However, be judicious if you do so. 
+ 
+- Your essay should be 3,700 words, or about 15 pages in length.
 {{< /hint >}}
 
 ### 2. Research Workshops
@@ -389,7 +397,7 @@ Please make me aware of anything that will hinder your success in this course. I
 
 ##
 
-{{< details "2 - Introduction to Library Research" open >}}
+{{< details "2 - Introduction to Library Research" >}}
 #
 
 This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). 
@@ -465,8 +473,8 @@ This week we will continue our overview of library research, learning some basic
 
 Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 3](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 3](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 3](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 3](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 <!---
 - <i class="far fa-clipboard"></i> [Reading Notes](/courses/writing-3/reading-notes)
 --->
@@ -530,6 +538,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 - <i class="fa-solid fa-file-pdf"></i>  [Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
+- [Reading Notes](/courses/writing-3/reading-notes/)
+
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -554,8 +564,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 4](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 4](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 4](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 4](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
@@ -567,6 +577,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.  
+
+  - <i class="fas fa-camera-retro"></i>  [Stills from *The Last Man on Earth*](/courses/writing-3/last-man-stills). 
 
 - <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s) | Skim this reading to gain an overview of the important historical/cultural events in this decade.
 
@@ -617,8 +629,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 #
 
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 5](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 5](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 5](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 5](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
@@ -678,7 +690,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "6 - The Zombie, Civil Rights, & Race" >}}
+{{< details "6 - The Zombie, Civil Rights, & Race" open >}}
 #
 
 
@@ -689,8 +701,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This prompts several questions: Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
@@ -763,8 +775,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 #
 
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 7](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 7](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 7](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 7](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 {{< hint note >}} 
@@ -774,7 +786,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 1-96. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+- ~~<i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 1-96. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.~~ 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -791,7 +803,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 96-190. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+- ~~<i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 96-190. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.~~ 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -806,7 +818,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 190-287. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+- ~~<i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 190-287. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.~~ 
 
 
 
@@ -840,8 +852,8 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
+- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 {{< hint note >}} 

@@ -47,7 +47,9 @@ Your assignment is to “translate” this [student essay](/docs/egoist-mla-stud
 
 To begin, download the essay to your own computer. Before you make any alterations, it might be wise to write out a detailed list of things that must be translated. The list of questions above may be of great assistance to you. You may need to consult the *Open Handbook* to come up with your plan of action.
 
-- You will find it difficult to force Microsoft Word into submission and make it do your bidding for the page numbering and the endnotes. While I don't personally use Word, Microsoft provides some [advice about page numbering](https://support.microsoft.com/en-us/office/start-page-numbering-later-in-your-document-c73e3d55-d722-4bd0-886e-0b0bd0eb3f02) on their support site. 
+- You will find it difficult to force Microsoft Word into submission and make it do your bidding for the page numbering and the endnotes. While I don't personally use Word, Microsoft provides some [advice about page numbering](https://support.microsoft.com/en-us/office/start-page-numbering-later-in-your-document-c73e3d55-d722-4bd0-886e-0b0bd0eb3f02) on their support site. Or you can download this template I ripped off from another university:
+
+    - [Chicago Style Template](/docs/chicago-style-template.docx) (.docx)
 
 - You will also have problems if you attempt to use the automated numbered endnotes that Word creates at the end of your document. Namely, you will not be able to force Word to use the proper spacing and indentation required by the Chicago style. Therefore, I suggest that you type up a separate `Notes` page, bypassing Word's "helpful" feature.
 
@@ -56,9 +58,9 @@ To begin, download the essay to your own computer. Before you make any alteratio
 [^1]: This student essay uses section headings to organize the essay. This is a personal choice, not a strict element of the Chicago style.
 [^2]: You are **not** required to make a `Bibliography` page, just a [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page for this assignment.
 
-<!---
+
 ## Answers
 
 - <i class="far fa-check-circle"></i> Check your work with [the answer key](/docs/workshop-4-answers.pdf).
 
---->
+

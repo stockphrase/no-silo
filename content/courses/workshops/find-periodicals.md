@@ -19,6 +19,7 @@ However, a common problem for undergraduate researchers is not knowing which dat
 
 To solve this problem, our library has organized periodical databases by discipline in the [Database Finder](https://researchguides.dartmouth.edu/az.php). You may also browse alphabetically if you know the name of the database you are looking for. This is designed to help you locate the specific journals, periodical databases, and reference materials that are appropriate for each discipline or research subject. 
 
+- On a related note, don't get me started about the [sad state of academic publishing](https://archaeopop.blogspot.com/2011/12/academic-publishers-suicide-bombers.html).
 
 ## Workshop
 

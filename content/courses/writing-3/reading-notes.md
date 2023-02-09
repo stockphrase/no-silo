@@ -64,67 +64,34 @@ This sense of equality leads to three causes of "quarrel":
     of survival. There is no “mine” and "thine," no property: just
     what we have as long as we can keep it.
 
-## Curtis, *Post-Apocalyptic Fiction and the Social Contract*
+## Claire Curtis, _Post-Apocalyptic Fiction and the Social Contract_, “Introduction”
 
--   The book is about **social contract theory**, the **state of
-    nature**, and postapocalyptic fiction. *The main thesis is that this
-    fiction is about our desire to “start over”* (2).
+  
+- The book is about social contract theory, the state of nature, and post-apocalyptic fiction. The main thesis is that this fiction is about our desire to “start over” (2).
 
--   This fiction describes a surviving remnant of humanity within the
-    blank slate of the *state of nature*. As such, it foregrounds human
-    motivations, human nature, the different ways that we “seek to live
-    together” and the conflict between those two visions.
+- This fiction describes a surviving remnant of humanity within the blank slate of the state of nature. As such, it foregrounds human motivations, human nature, the different ways that we “seek to live together” and the conflict between those two visions.
 
--   This fiction imaginatively considers the “conditions under which we
-    would like to live” (2).
+- This fiction imaginatively considers the “conditions under which we would like to live” (2).
 
--   Curtis notes that this form of fiction has completely “suffused the
-    popular culture” (3). I wonder: what does that say about our views
-    on the civilization we’ve built?
+- Curtis notes that this form of fiction has completely “suffused the popular culture” (3). I wonder: what does that say about our views on the civilization we’ve built? What does it suggest about us and our present-day culture that our popular art forms are so obsessed with this? This would be a cultural studies-type interpretive move.
 
--   Curtis argues that Social Contract Theory is always “backward”
-    looking: it attempts to justify the present civilization and state
-    of affairs. In that sense, it is a conservative exercise or theory.
-    However, postapocalyptic fiction is “forward looking” in that it
-    imagines what *could* be. Thus, it is potentially “utopian” in nature.
-    While Curtis doesn’t say this, we might just say that it is a
-    revolutionary act.
+- Curtis argues that social contract theory is always “backward” looking: it attempts to *justify* the present civilization and state of affairs—it is a [whiggish](https://en.wikipedia.org/wiki/Whig_history) historical vantage. In that sense, it is a conservative exercise or theory. However, post-apocalyptic fiction is “forward looking” in that it imagines what could be. Thus, it is potentially “utopian” in nature. While Curtis doesn’t say this, we might just say that it is a revolutionary act to produce such imaginings in that they are implicitly a criticism of the status quo and its various social arrangements. Like social contract theory, it questions the legitimacy and inevitability of the State.
 
--   ​(4) Social Contract Theory is dry; Post-apocalyptic fiction
-    dramatizes the theory, helps us imagine it, makes it more powerful.
-    The Post-apocalyptic fiction is *cathartic*, in that by seeing the
-    fictional destruction we are purged of our fears or “awakened” to
-    the need to prevent it. Post-apocalyptic fiction provides a “useful
-    fiction” that we may use to “come together and renegotiate our
-    lives”: How do we want to live? (6).
+- Social contract theory is dry and boring; post-apocalyptic fiction dramatizes the theory, helps us imagine it, makes it more powerful and personal (4). Post-apocalyptic fiction is **cathartic**, in that by seeing the fictional destruction we are purged of our fears or “awakened” to the need to prevent it. It is often a warning, a call to action—it has a political objective. Post-apocalyptic fiction provides a “useful fiction” that we may use to “come together and renegotiate our lives.” It asks the question: How do we want to live? (6).
 
--   **Great quote here about the multiple purposes of Post-apocalyptic fiction**. It destroys all systems of order. All hierarchies, all
-    laws and systems, all constraints about sexuality and gender, and
-    morality. We can built the world again. They provide an opportunity
-    to examine our civilization, our nations, our cultures and evaluate
-    them. Again, this is a radical, revolutionary act to imagine the
-    destruction of the current order (6-7).
+- Post-apocalyptic fiction is similar to older narratives like the utopian or pioneer text, but offers a narrative more suited for modern life.
 
--   There are dystopian fictions where there is no starting over (like
-    in *The Road*), and utopian fictions where we start over again (7)
+- Great quote here about the multiple purposes of post-apocalyptic fiction: It destroys all systems of order: “All hierarchies, all laws and systems for organizing people have been destroyed,” all constraints about sexuality, gender, morality. We can build the world again. They provide an opportunity to examine our civilization, our nations, our cultures and re-evaluate them. Again, this can be a radical, revolutionary act to imagine the destruction of the current order (6-7).
 
--   PAF allows us to ask: “what do we fear, what do we desire, how do we
-    plan to allay those fears and realize those desires”? (7).
+- Curtis describes two modes of this PAF: There are dystopian fictions where there is no starting over (like in _The Road_), and utopian fictions where we start over again (7). This might be helpful in doing some cultural analysis. What mode is dominant at the time? What does this suggest about the culture performing the imaginings?
 
--   **Narrative structure of PAF**: 1) White man is the hero —\>
-    DESTRUCTION —\> He finds a companion —\> They encounter “the other”
-    —\> THREAT —\> Form larger community —\> Connect with other
-    communities —\> Defeat Others.
+- PAF allows us to ask: “what do we fear, what do we desire, how do we plan to allay those fears and realize those desires”? (7).
 
--   (10). **Purpose of State of Nature theory is to argue against the
-    idea that government is natural (like divine right of kings)**.
-    Instead, it is a construct, something made by mankind. Thus, it can
-    be revised, altered. Allows us to imagine what kind of world or
-    government we would want to have in place of the existing one. PAF
-    makes that much more dramatic and personal.
+- Narrative structure of Post-apocalyptic fiction: 1) White man is the hero —>DESTRUCTION —> He finds a companion —> They encounter “the other”—> THREAT —> Form larger community —> Connect with other communities —> Defeat Others. This structure emulates the social contract theory in that it shows the need for some kind of social agreement that can govern human interests and produce outcomes that are equitable.
 
--   She mentions John Rawls’ idea of the “Original Position” from his
-    *Theory of Justice* (1973).
+- Purpose of social contract theory is to: 1) _argue against the idea that government is natural_ (like divine right of kings) (10). Instead, it is a _construct_, something made by mankind. Thus, it can be revised, altered. This allows us to imagine what kind of world or government we would want to have in place of the existing one. 2) Offers a “mechanism” for “seeing humans as they actually are” absent some controlling authority or system of rules/laws. 3) Allows us to consider what kind of society we would like to inhabit, what kind of government we’d like to live under.
+
+- She mentions [John Rawls'](https://en.wikipedia.org/wiki/John_Rawls) idea of the “[Original Position](https://en.wikipedia.org/wiki/Original_position)” from his _Theory of Justice_ (1973).
 
 
 
@@ -185,31 +152,29 @@ This sense of equality leads to three causes of "quarrel":
     it makes possible a new world that is “more enjoyable than our
     present” (24-5).
 
--   **This leads us to the historical question: what is it about today’s world that we fear or don’t like?**
+**This leads us to the historical question: what is it about today’s world that we fear or don’t like?**
 
-    ​1 **Globalization**: After 9/11 we want to isolate ourselves;
+1. **Globalization**: After 9/11 we want to isolate ourselves;
     however, our economy is so entwined with the rest of the world that
     this is impossible.
 
-    ​2 **Global Identity**: We have become post-national in our
+2. **Global Identity**: We have become post-national in our
     identities, favoring a “citizen of the world” model of identity.
     However, this “stateless” identity is precisely the identity assumed
-    by terrorists, who are stateless actors who have no national home.
-
-    As a result, we fear that we are fighting our own “dark double”
+    by terrorists, who are stateless actors who have no national home. As a result, we fear that we are fighting our own “dark double”
     (28-9). As a result, Nilges argues, that our cinema and literature
     depict our fights against terror as losing battles. For example,
     Jack Bauer in *24* might catch one terrorist, but the next “day” a
     new terrorist plot spawns again, which he will have to battle. It is
     never ending.
 
-    3 **Crisis of the white male**. Heroic, white male characters from
+3. **Crisis of the white male**. Heroic, white male characters from
     the 80s, like *Die Hard*’s John McClane, are useless against new
     threats, like cyber warfare. In the past they could save the world;
     but it today’s world their old bag of tricks don’t work. They appear
     impotent.
 
-    ​4 **Rejection of social revision and pluralism**: Nilges argues
+4. **Rejection of social revision and pluralism**: Nilges argues
     that current cinema narratives reject any progressive or radical
     suggestions about pluralism, and the acceptance of others into the
     human family. Instead, there is a conservatism that harkens back
