@@ -690,7 +690,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 ##
 
-{{< details "6 - The Zombie, Civil Rights, & Race" open >}}
+{{< details "6 - The Zombie, Civil Rights, & Race" >}}
 #
 
 
@@ -699,7 +699,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 >---Robin Wood
 
 
-Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This prompts several questions: Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was an mindless, cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
+Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This prompts several questions: Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was a cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
 
 - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
 - <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
@@ -894,6 +894,7 @@ Recent years have seen an explosion of “reality” television programming base
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review.
+- <i class="fa fa-code-branch"></i> [On Introductions](/courses/workshops/introductions/).
 - <i class="fa fa-bullhorn"></i> Discuss research proposals.
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
@@ -1029,7 +1030,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 ##
 
-{{< details "10 - The End" >}}
+{{< details "10 - The End" open >}}
 #
 
 <div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>

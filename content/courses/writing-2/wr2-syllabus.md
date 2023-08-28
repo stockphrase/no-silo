@@ -190,8 +190,8 @@ We will use a shared <i class="fab fa-google-drive"></i> [Google drive](https://
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> When you make your contributions to [Hive](/resources/hive), please ensure that you post in the Google drive associated with your course section. To make this easier, I have flagged the links to each section with an exponential notation, as in the example below: 
 
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>3</sup></span> : Hive page for section 3 @ 11 hour
-- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>4</sup></span> : Hive page for section 4 @ 12 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>1</sup></span> : Hive page for section 1 @ 11 hour
+- <span style="color: var(--in-class)"><i class="fab fa-forumbee"></i> <sup>2</sup></span> : Hive page for section 2 @ 12 hour
 
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span>  You must use your Dartmouth login credentials to access the drive, not your personal Gmail account. Please authenticate using this G-Suite link: https://google.dartmouth.edu/
@@ -244,7 +244,9 @@ At the end of the term we will reflect together on your progress, effort, partic
 
 ## Help With Your Writing
 
-There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes per week to go over your writing and plan revision. If you require further help, the [RWIT](https://students.dartmouth.edu/rwit/) program offers excellent peer tutoring on all phases of the writing process---from generating ideas to formal citation.
+There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes per week to go over your writing and plan revision. 
+
+If you require further help, the [Dartmouth Writing Center](http://dartgo.org/writingcenter) is a free support service that is dedicated to helping students through all stages of the writing process and at any point in their undergraduate careers. In one-on-one appointments, peer tutors use facilitative approaches to engage students in active dialogue about writing and help them grow as writers. Tutors can help students develop strategies for generating ideas, find and evaluate research sources, outline and organize information, and revise completed drafts. Students may schedule an appointment with a peer tutor by visiting [Dartmouth Writing Center website](http://dartgo.org/writingcenter).
 
 ---
 
@@ -292,11 +294,11 @@ Please make me aware of anything that will hinder your success in this course.
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" >}}
+{{< details "Week One" open >}}
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.12
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.11
 {{< /hint >}} 
 
 
@@ -309,15 +311,14 @@ Please make me aware of anything that will hinder your success in this course.
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
-  questions. Arrive to class on Wednesday with some ideas that you can express and defend.
-- <i class="far fa-file"></i> Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully
+  questions. Arrive to class on Wednesday with some ideas that you can express and defend
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.14 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.13 
 {{< /hint >}} 
 
 
@@ -339,7 +340,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.16 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.15 
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
@@ -368,7 +369,7 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.19 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.18 
 {{< /hint >}} 
 
 
@@ -376,8 +377,8 @@ Please make me aware of anything that will hinder your success in this course.
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing) 
+  - <i class="fab fa-forumbee"></i> <sup>1</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>2</sup> [Hive page for Baker](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing) 
   
 
 
@@ -400,7 +401,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.20
 {{< /hint >}} 
 
 
@@ -424,7 +425,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.23
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.22
 {{< /hint >}} 
 
 
@@ -447,14 +448,14 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.26
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.25
 {{< /hint >}} 
 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Walker Percy, ["The Loss of the Creature"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
+  - <i class="fab fa-forumbee"></i> <sup>1</sup> [Hive page for Percy](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>2</sup>  [Hive page for Percy](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)    
 
 
 
@@ -474,7 +475,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.28
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.27
 {{< /hint >}} 
 
 
@@ -492,7 +493,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.30
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.29
 {{< /hint >}} 
 
 
@@ -528,14 +529,14 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.3
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.2
 {{< /hint >}} 
 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>1</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>2</sup> [Hive page for Freire](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 
 
@@ -551,7 +552,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.5
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.4
 {{< /hint >}} 
 
 
@@ -569,7 +570,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.6
 {{< /hint >}} 
 
 
@@ -601,7 +602,7 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.10
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.9
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -611,7 +612,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.12
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.11
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -624,7 +625,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.14
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.13
 {{< /hint >}} 
 
 
@@ -660,14 +661,14 @@ Please make me aware of anything that will hinder your success in this course.
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.17
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.16
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 
 - <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). Film is in the "Course Media" section of Canvas.
-  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>1</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>2</sup> [Hive page for *Rushmore*](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
@@ -685,7 +686,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.19
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.18
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -702,7 +703,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.20
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -727,7 +728,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.24
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.23
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -739,7 +740,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.26
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.25
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -753,7 +754,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.28
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.27
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -778,13 +779,13 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.31
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.30
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
 - <i class="fa fa-download"></i>  Matthew Crawford, ["The Case for Working with your Hands"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>1</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>2</sup> [Hive page for Crawford](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 - Print out, read, annotate, and take critical notes on the reading, then post your contributions to the dedicated Hive page. *Read and engage the work of your peers there as well*. 
@@ -797,7 +798,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.2
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.1
 {{< /hint >}} 
 
 
@@ -810,7 +811,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.4
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.3
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -841,7 +842,7 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.6
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -857,7 +858,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.9
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.8
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -868,7 +869,7 @@ Please make me aware of anything that will hinder your success in this course.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.11
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.10
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -880,11 +881,11 @@ Please make me aware of anything that will hinder your success in this course.
 
 #
 
-{{< details "Week Ten" open >}}
+{{< details "Week Ten" >}}
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.14
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.13
 {{< /hint >}} 
 
 
@@ -896,7 +897,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.18
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.17
 {{< /hint >}} 
 
 
@@ -914,13 +915,13 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.20
 {{< /hint >}} 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
 - <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.21](https://canvas.dartmouth.edu/)
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.20](https://canvas.dartmouth.edu/)
 
 {{< /details >}}
 

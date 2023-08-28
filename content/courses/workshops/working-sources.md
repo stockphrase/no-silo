@@ -48,7 +48,7 @@ Complete the following writing exercises using the passage excerpted from Percy'
 
 5. Quote from this passage using the MLA block quote format, then cite according to MLA.
 
-
+<!---
 ## Example Sentences
 
 {{< hint note >}} 
@@ -57,7 +57,7 @@ Complete the following writing exercises using the passage excerpted from Percy'
 
 
 {{< /hint >}}
-
+--->
 
 
 ---

@@ -34,6 +34,7 @@ What is education? What is its purpose? Write an essay exploring these questions
  
 ---
 
+<!---
 
 {{< hint note >}} 
 <span style="color: var(--readings)"><i class="fas fa-clipboard"></i></span> First Draft Notes
@@ -196,7 +197,7 @@ If we imagine that the reader has a good grasp on what you've just argued, how s
 
 {{< /details >}}
 
-
+--->
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 
 

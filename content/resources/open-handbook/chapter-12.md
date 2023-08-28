@@ -17,6 +17,13 @@ status: under-revision
 
    ---Mark Rippetoe
    
+   Human beings aren’t skeptical of arguments that give them exactly what they want, so bad arguments are often most interesting as indices of desire.
+   
+   ---[John Holbo](https://crookedtimber.org/2009/11/22/why-did-the-modernists-love-sans-serif/)
+
+
+
+   
    </small>
 
 ---
