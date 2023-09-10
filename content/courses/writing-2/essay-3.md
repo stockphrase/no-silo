@@ -22,6 +22,8 @@ Taking what you know of Freire's thinking in "The 'Banking' Concept of Education
 
 Use Freire's essay as as theoretical lens. You will have to work hard to provide your audience proper context---explanations of Freire's ideas and arguments which you will then use as a means of interpreting *Rushmore*. Imagine that your audience has not read Freire's essay. What ideas, arguments, and terms from Freire's essay will you need to carefully explain so that the audience will understand how they may be used to arrive at a new understanding of the film?
 
+You might alternatively consider how *Rushmore* might be used to perform a critique of Freire's thinking in his essay. 
+
 - For [more information](https://no-silo.com/resources/open-handbook/chapter-6/#theoretical-writing) on writing a theoretical argument.
 
 <!---
@@ -61,7 +63,7 @@ A key feature of this sort of theoretical analysis is that you will use the word
 
 ## Stills from *Rushmore*
 
-When we analyze a film we can do much more than merely discuss the narrative arc or the dialog. The movie is a visual medium, so how do the visual elements help to convey meaning? Costuming, gestures, body positioning, props, camera angles, lighting, framing, etc. help to construct a mood and signify meanings that we may interpret. In short, a film is a text. And when we write about film, we pay attention to how it is constructed to produce these effects by performing "close readings" in our analysis. We might practice by reading one or more of these stills:
+When we analyze a film we can do much more than merely discuss the narrative arc or the dialog. The movie is a visual medium, so how do the visual elements help to convey meaning? Costuming, gestures, body positioning, props, camera angles, lighting, framing, etc. help to construct a mood and signify meanings that we may interpret. In short, a film is a text. And when we write about film, we pay attention to how it is constructed to produce these effects by performing "close readings" in our analysis. We might practice by reading one or more of these stills in class:
 
 <div style="text-align:center">{{< figure src="/img/rushmore/bleacher.png" >}}</div>
 

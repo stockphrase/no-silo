@@ -27,11 +27,43 @@ What is education? What is its purpose? Write an essay exploring these questions
 
 ---
 
-## Special requirement
+## Special requirements
 
-*Perform **no** research for this essay*. No googling. No library visits. Don’t ask your uncle, friends, or roommate. Just use your head and write what you think (it will be ok).
+- **Perform no research for this essay**. Do not seek help: no googling; no library visits; don’t ask your uncle, friends, or roommate; no ChatGPT. Just use your head and write what you think in the best way you know how. 
 
- 
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Don't worry: you are going to do great! I really just want to know what you think.
+{{< /hint >}} 
+
+<!---
+{{< details "Essay 1 Revision" >}}
+
+#
+
+Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture, is so ordinary and pervasive that it has become thoroughly naturalized and seemingly self-evident, its powerful influence rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is the right and obvious thing to do---part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+
+Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. Let's attempt to do something like this now: take a step outside of your own experience of formal education and try to gain some distance on the practices and normalizing structures that have been such a large part of your life since before you can even remember. Try to set aside all you know. Defamiliarize these experiences. Hold them at a distance and try to look at them with a fresh perspective, as if for the first time. What do you see? This will require some effort: it is quite difficult to step outside of the automaticity that we fall into when we confront something that we think know well. Our knowledge and familiarity and comfort with a thing often blinds us to new insights and new knowledge about it; in an odd sense, knowledge can be a handicap. 
+
+---
+
+#### <p style="text-align: center;"><span style="color: var(--due)"><i class="fa-brands fa-reddit-alien"></i> Alien Ethnography</span></p>
+
+---
+
+It might be helpful to begin your thinking by adopting the objective, cold analysis of some alien sociologist from outer space who has traveled many light-years to study the ways of humans. 
+
+After cultivating this perspective, ask yourself: Are the purposes of education we commonly cite (perhaps even the ones you argued for in your first draft) actually reflected in how we construct systems of education? If not, what values does education truly seem to promote when we look at it in this new perspective? Does education has we have known it have some occulted or clandestine goals or purpose? Are there things that you see in this new light that seem odd or counterproductive or wrong in how we go about education? Why do we do the things we do? Why have we built the educational institutions that we have? Are these "educational" experiences and structures actually promoting what we claim they do?
+
+---
+
+- Write a `response` to your first draft at the conclusion of your current one exploring these (or related) questions. 
+
+- To help you in this work, gather the syllabi from your other two courses and closely examine these textual artifacts, like an archaeologist unearthing a shard of pottery in the desert. What do you make of these things? Since you are entering the new (and strange) culture of higher education, these textual artifacts may help you understand the values, ideas, preconceptions, and preoccupations that have authority there. 
+
+- Your final draft should be about 1,500 words in length.
+
+{{< /details >}}
+--->
 ---
 
 <!---

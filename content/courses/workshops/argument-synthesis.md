@@ -40,11 +40,11 @@ Walker Percy and Paulo Freire, each in their own way, ask us to consider the pro
 
 Much as you did in a previous workshop, map out all of these argumentative connections between the two texts, producing an organized list. Flag similar terms or language that can help you draw comparisons or make connections. Make sure to scrupulously cite each reference to the text so you won't waste time trying to find them again later. 
 
-  - <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
-  - <i class="fab fa-forumbee"></i> <sup>4</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>1</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1-K4aFfLLND3Vs5UOYZqheFkR6cAZ_tr8?usp=sharing)
+  - <i class="fab fa-forumbee"></i> <sup>2</sup> [Hive page for Synthesis Essay](https://drive.google.com/drive/folders/1BMPafMkU8r8jdp8hkSl_1fzig-p7HMwP?usp=sharing)
 
 ---
-
+<!---
 ## Advice on Structure
 
 Your focus in a synthesis essay is to explain to your audience the way(s) in which these two arguments relate to one another. However, you do not want to write a summary of Freire’s ideas followed by a summary of Percy’s ideas and then conclude. Instead, the idea is that you have meticulously discovered all the moments the arguments appear to be in dialogue with each other and then organize your essay in such a way as to emphasize those commonalities. For that reason, your essay should proceed **topically**. But how should you structure the synthesis essay?
@@ -69,7 +69,7 @@ V. **Conclusion**. Avoid the “summary” conclusion. Make some observations; 
 
 - A final note. At the end of your essay, your audience should have a *very* good understanding of the basic arguments and claims put forth by both Freire and Percy. Part of your job in a synthesis essay is to educate your audience about these two authors and their ideas. With luck, you will be able to present their arguments using our old friends paraphrase, summary, and quotation. We’ve been practicing them; now it’s game time.
 
-
+--->
 <!---
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 --->

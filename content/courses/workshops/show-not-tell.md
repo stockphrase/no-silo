@@ -75,10 +75,12 @@ Rewrite the following three `telling` sentences to make two separate `showing` o
 - <span style="color: var(--due)"><i class="far fa-dot-circle"></i> `Telling`</span>: Freire uses the metaphor of a bank to describe the relationship between teacher and student. The teacher deposits facts and information into the student like someone depositing money at a bank. The students are not allowed an active role; instead they just memorize the ideas and facts presented by their teachers (72).
 
 ---
-
+<!---
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span> Freire criticizes a model of education that he likens to banking, where "the students are the depositories and the teacher is the depositor" (72). Instead of dialogue and true communication, "the teacher issues communiqués and makes deposits which the students patiently receive, memorize, and repeat."
  
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> Freire described what he calls the "'banking' concept of education," where students are treated as "depositories" and are only permitted the actions of "receiving, filing, and storing the deposits" made by teachers. 
+
+--->
 
 {{< /details >}} 
 
@@ -97,11 +99,12 @@ Rewrite the following three `telling` sentences to make two separate `showing` o
 - <span style="color: var(--due)"><i class="far fa-dot-circle"></i> `Telling`</span>: Walker Percy argues that it is now extraordinarily difficult to see the Grand Canyon in an original way because of our prior exposure to images and descriptions of the place (47).
 
 ---
-
+<!---
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span> Percy argues that we no longer see the Grand Canyon authentically and without influence as its original discoverer could; instead, we must view the place through "approved circumstances," through a complex lens comprised of all the images, descriptions, and representations of the place that we have been exposed to in our lifetimes (72).  
 
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> For Percy, viewing the canyon as its original discoverer did is not virutually impossible, since our view is now conditioned by what he calls "preformulation," an exposure to symbolic representations such as a "picture postcard, geography book, tourist folders, and the words Grand Canyon" (47).
 
+--->
 {{< /details >}} 
 
 #
@@ -120,11 +123,12 @@ Rewrite the following three `telling` sentences to make two separate `showing` o
 - <span style="color: var(--due)"><i class="far fa-dot-circle"></i> `Telling`</span>: Baker warns us that the detection of a change of mind often sends us on an investigation into the past, where we make up false narratives to help explain why our opinions change (7).
 
 ---
-
+<!---
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 1`:</span> Baker argues that while we can't completely discount "sudden conversions and wrenching insights," for the most part we manufacture false narratives of this sort to explain how a change of mind occurred (7).
 
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> While Baker allows that we may sometimes experience a "sudden conversion" that changes our minds, most often we "we fasten on to these only in hindsight, and exaggerate them for the sake of narrative," giving us a false sense of control or comprehension (7). 
 
+--->
 {{< /details >}} 
 
 <!---

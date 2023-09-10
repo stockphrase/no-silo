@@ -215,7 +215,7 @@ Students will submit three formal essays and several smaller writing assignments
   your writing or discuss your ideas.
   
 ---
-    
+<!---    
 ## Grading
 
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. 
@@ -241,6 +241,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 
 
 ---
+--->
 
 ## Help With Your Writing
 
@@ -347,6 +348,7 @@ Please make me aware of anything that will hinder your success in this course.
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
 
 
+
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review
@@ -354,6 +356,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+- <i class="fa-solid fa-file"></i> Bring copies of the syllabi for your other two classes for class today.
 - <i class="fa fa-bullseye"></i> Essay 1 Draft
     - <i class="fas fa-print"></i> Bring a printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
