@@ -57,7 +57,7 @@ To retain your work and stay organized, you might use a simple paper
 system made up of manila folders or large 3-ring binders. Or you might use a hierarchical folder
 system on your computer organized by class, project, or term.
 Alternatively, you might embrace a powerful bibliographic manager like
-[Zotero](https://www.zotero.org/). Whatever you choose, create a system for
+[Zotero](https://www.zotero.org/) or make your own personal knowledge archive with something like [Obsidian](https://obsidian.md/). Whatever you choose, create a system for
 staying organized and stick with it.
 
 ## A poor file-saving strategy
@@ -155,12 +155,35 @@ open them. There is no right or wrong way to make a filing system, and
 one size will not fit all. You will have to determine for yourself what
 system makes sense.
 
-<!---
+
+## Back up all your data
+
+
+All of this hard work of organizing will be for nothing, however, if you
+don't take pains to back up your data. *Please, I beg of you, back up
+all your data regularly and keep a copy separate from your main working
+computer*. There are heartbreaking stories of people losing years of
+work in a hard drive failure, theft, or house fire/flood. Very few
+people are disciplined enough to back up their work regularly on their
+own initiative; instead, you should embrace some kind of [regular,
+automated system](https://www.jwz.org/blog/2007/09/psa-backups/) to
+ensure your work will survive any tragedy.
+
+> <i class="fas fa-bomb"></i> At some point in the future you will boot up your laptop and it will
+    begin smoking, or be infected by ransomware, or display the
+    [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death). You will
+    have no backups. As you cry salty tears you will remember reading
+    these words and not doing anything about it. **I told you so.**
+
+---
+---
+
+
 {{< hint note >}}
-<span style="color: var(--due)"><i class="fas fa-hand-paper"></i></i></span> If you don't plan to work with huge file systems or lots of data, you may stop reading now. <span style="color: var(--due)"><i class="fas fa-hand-paper"></i></i></span>
+<span style="color: var(--due)"><i class="fas fa-hand-paper"></i></i></span> *If you don't plan to work with huge file systems or lots of data, you may stop reading now*. <span style="color: var(--due)"><i class="fas fa-hand-paper"></i></i></span>
 
 {{< /hint >}}
---->
+
 
 ## Very large filing systems
 
@@ -350,23 +373,3 @@ human-readable.
 
 #
 
-## Back up all your data
-
-
-All of this hard work of organizing will be for nothing, however, if you
-don't take pains to back up your data. *Please, I beg of you, back up
-all your data regularly and keep a copy separate from your main working
-computer*. There are heartbreaking stories of people losing years of
-work in a hard drive failure, theft, or house fire/flood. Very few
-people are disciplined enough to back up their work regularly on their
-own initiative; instead, you should embrace some kind of [regular,
-automated system](https://www.jwz.org/blog/2007/09/psa-backups/) to
-ensure your work will survive any tragedy.
-
-> <i class="fas fa-bomb"></i> At some point in the future you will boot up your laptop and it will
-    begin smoking, or be infected by ransomware, or display the
-    [BSoD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death). You will
-    have no backups. As you cry salty tears you will remember reading
-    these words and not doing anything about it.
-    
-**I told you so.**

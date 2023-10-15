@@ -30,20 +30,20 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 *Can I use no quotations in a summary*? 
 
-- Sure, why not? You may choose to use your own words to explain the ideas of another writer. It is occasionally quite valuable to offer the exact words of another writer. But that is not necessarily the case here. The important thing is that you accurately communicate the thinking of another writer under the assigned word count. 
+- Sure, why not? You may choose to use nothing but your own words to explain the ideas you found in another piece of writing. It is occasionally quite valuable to offer the exact words of another writer. But that is not necessarily the case here. The important thing is that you accurately communicate the thinking of another writer under the assigned word count. 
 
 ---
 
-<!---
+
 ## My Summary
 
 {{< hint note >}} 
 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My attempt to summarize [Nicholson Baker's "Changes of Mind"](/docs/baker-summary.pdf)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My attempt to summarize [Nicholson Baker's "Changes of Mind"](/docs/baker-summary.pdf).
 
 
 {{< /hint >}}
---->
+
 
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 

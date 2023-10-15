@@ -56,7 +56,7 @@ insight into how best to present your thinking, reasoning, and evidence. You mig
 - What political views do they hold?
 - What ideas or commonalities do you share with them?
 - What does your audience already know about the topic you plan to present?
-- What form will your audience expect that your writing will take? (For example, if the writing occurs within a specific academic discipline, your writing will need to adopt to the preferred style for that discipline: [**MLA**](/resources/open-handbook/chapter-11-mla), [**Chicago**](/resources/open-handbook/chapter-11-chi), APA, etc.)
+- What form will your audience expect that your writing will take? (For example, if the writing occurs within a specific academic discipline, your writing will need to adopt to the preferred style for that discipline: [MLA](/resources/open-handbook/chapter-11-mla), [Chicago](/resources/open-handbook/chapter-11-chi), APA, etc.)
 
 
 Questions like these can help us imagine the audience we address in

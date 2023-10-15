@@ -146,7 +146,7 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 
 ### II. Critical Reading Notes
 
-Create an electronic document for composing critical notes dedicated to each reading. Take *detailed* notes on each of our course texts. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to:
+Create a document for composing critical notes dedicated to each reading. You may prefer to write by hand, although most students make notes using electronic means. (I presently use something called [Obsidian](https://obsidian.md/) to create my own personal knowledge base). Either way, take *detailed* notes on each of our course texts. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to:
 
 - **Reduce** the entire argument to its bare essentials using paraphrase, summary, and selective quotation---carefully documenting page numbers during this activity.
 
@@ -215,7 +215,7 @@ Students will submit three formal essays and several smaller writing assignments
   your writing or discuss your ideas.
   
 ---
-<!---    
+ 
 ## Grading
 
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. 
@@ -239,9 +239,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 <span style="color: var(--due)"><i class="fas fa-star-of-life"></i></span> To earn this right (and pass the course), all assignments must be completed and a solid attendance record must be kept. </span>
 {{< /hint >}}
 
-
 ---
---->
 
 ## Help With Your Writing
 
@@ -295,7 +293,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" open >}}
+{{< details "Week One" >}}
 
 
 {{< hint note >}} 
@@ -352,11 +350,12 @@ Please make me aware of anything that will hinder your success in this course.
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review
+- Discuss revision.
 
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-- <i class="fa-solid fa-file"></i> Bring copies of the syllabi for your other two classes for class today.
+- <i class="fa-solid fa-file"></i> Place a copy of the syllabi from your other two classes [in our shared folder](https://drive.google.com/drive/folders/1PLDwFI11qv7-8b0qxFd9EZ7UGfay-Me1?usp=drive_link).
 - <i class="fa fa-bullseye"></i> Essay 1 Draft
     - <i class="fas fa-print"></i> Bring a printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
@@ -659,7 +658,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 #
 
-{{< details "Week Six" >}}
+{{< details "Week Six" open >}}
 #
 
 

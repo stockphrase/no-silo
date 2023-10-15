@@ -17,8 +17,7 @@ bookToC: false
 
 ## Office hours
 
-- <i class="fas fa-clock"></i> TU 12:30--2
-- <i class="fas fa-clock"></i> TH 12:30--2
+- <i class="fas fa-clock"></i> MWF 2-3
 - Or by appointment
 
 <i class="fas fa-question-circle"></i> [What are office hours?](https://vimeo.com/270014784)

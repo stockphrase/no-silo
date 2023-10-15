@@ -448,7 +448,7 @@ If the source is only on a single page, use `p.` rather than `pp.` to indicate t
 
 
 {{< mla-ref >}}
-Grisham, Wyatt. "A Soccer Mom's Lament." *Sports and Parenting*, 28 Oct. 2017, <span class="highlight">www.sandp.org/soccermomslament</span>.
+Grisham, Wyatt. "A Soccer Mom's Lament." *Sports and Parenting*, 28 Oct. 2017, <span class="highlight">www.sportsandparenting.org/soccermomslament</span>.
 {{< /mla-ref >}}
 
 

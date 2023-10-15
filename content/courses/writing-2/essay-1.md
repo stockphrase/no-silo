@@ -40,9 +40,9 @@ What is education? What is its purpose? Write an essay exploring these questions
 
 #
 
-Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture, is so ordinary and pervasive that it has become thoroughly naturalized and seemingly self-evident, its powerful influence rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is the right and obvious thing to do---part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful influence rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do---part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
-Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. Let's attempt to do something like this now: take a step outside of your own experience of formal education and try to gain some distance on the practices and normalizing structures that have been such a large part of your life since before you can even remember. Try to set aside all you know. Defamiliarize these experiences. Hold them at a distance and try to look at them with a fresh perspective, as if for the first time. What do you see? This will require some effort: it is quite difficult to step outside of the automaticity that we fall into when we confront something that we think know well. Our knowledge and familiarity and comfort with a thing often blinds us to new insights and new knowledge about it; in an odd sense, knowledge can be a handicap. 
+Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. Let's attempt to do something like this now: take a step outside of your own experience of formal education and try to gain some distance on the practices and normalizing structures that have been such a large part of your life since before you can even remember. Try to set aside all you know. Defamiliarize these experiences: hold them at a distance and try to look at them with a fresh perspective, as if for the first time. What do you see? This will require some effort: it is quite difficult to step outside of the automaticity that we fall into when we confront something that we think know well. Our knowledge and familiarity and comfort with a thing often blinds us to new insights about it; in an odd sense, our knowledge can be a handicap. 
 
 ---
 
@@ -52,7 +52,7 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 
 It might be helpful to begin your thinking by adopting the objective, cold analysis of some alien sociologist from outer space who has traveled many light-years to study the ways of humans. 
 
-After cultivating this perspective, ask yourself: Are the purposes of education we commonly cite (perhaps even the ones you argued for in your first draft) actually reflected in how we construct systems of education? If not, what values does education truly seem to promote when we look at it in this new perspective? Does education has we have known it have some occulted or clandestine goals or purpose? Are there things that you see in this new light that seem odd or counterproductive or wrong in how we go about education? Why do we do the things we do? Why have we built the educational institutions that we have? Are these "educational" experiences and structures actually promoting what we claim they do?
+After cultivating this perspective, ask yourself: Are the purposes of education we commonly cite (perhaps even the ones you argued for in your first draft) actually reflected in how we construct systems of education? If not, what values does education truly seem to promote when we look at it in this new light? Does education as we have known it have some occulted or clandestine goals or purposes? Are there things that seem odd or counterproductive or wrong in how we go about education? Why do we do the things we do? Why have we built the educational institutions that we have? Are these "educational" experiences and structures actually promoting what we claim they do?
 
 ---
 
@@ -66,7 +66,7 @@ After cultivating this perspective, ask yourself: Are the purposes of education 
 --->
 ---
 
-<!---
+
 
 {{< hint note >}} 
 <span style="color: var(--readings)"><i class="fas fa-clipboard"></i></span> First Draft Notes
@@ -229,7 +229,6 @@ If we imagine that the reader has a good grasp on what you've just argued, how s
 
 {{< /details >}}
 
---->
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 
 
