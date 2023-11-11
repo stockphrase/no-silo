@@ -658,7 +658,7 @@ Please make me aware of anything that will hinder your success in this course.
 
 #
 
-{{< details "Week Six" open >}}
+{{< details "Week Six" >}}
 #
 
 
@@ -840,7 +840,7 @@ Please make me aware of anything that will hinder your success in this course.
 #
 
 
-{{< details "Week Nine" >}}
+{{< details "Week Nine" open >}}
 #
 
 {{< hint note >}} 

@@ -35,7 +35,7 @@ What is education? What is its purpose? Write an essay exploring these questions
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Don't worry: you are going to do great! I really just want to know what you think.
 {{< /hint >}} 
 
-<!---
+
 {{< details "Essay 1 Revision" >}}
 
 #
@@ -63,10 +63,8 @@ After cultivating this perspective, ask yourself: Are the purposes of education 
 - Your final draft should be about 1,500 words in length.
 
 {{< /details >}}
---->
+
 ---
-
-
 
 {{< hint note >}} 
 <span style="color: var(--readings)"><i class="fas fa-clipboard"></i></span> First Draft Notes

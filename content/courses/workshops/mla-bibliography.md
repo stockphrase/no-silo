@@ -50,7 +50,7 @@ Your assignment is to create a Works Cited page using several provided sources a
 
 ---
 
-<!---
+
 ## Answers
 
 {{< hint note >}} 
@@ -60,6 +60,6 @@ Your assignment is to create a Works Cited page using several provided sources a
 
 {{< /hint >}}
 
---->
+
 
 
