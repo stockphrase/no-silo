@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+
+     <!-- 
+    
+    1. Need to figure out how to alphabetize names: https://jsfiddle.net/stodolaj/De8Ku/
+    x. The logging works, but not the loading of the saved state.
+    x. Need the export to give columns of the current list state as .csv file.
+    4. Need to code something that will take .csv name data and transform it: <li class="sortable-item01">Jizzy Jizzington F001YT7</li>
+
+4: Use pandas to join the name + UID and place it inside <li class="sortable-item01">$name + $ID</li>
+  - something like for every item in Section 1, do x; for every item in Section 2, do y.
+-->
+
+
+
+<html>
+
+<head>
+    <title>DSP Sorting Tool</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <style>
+        .sortable-block {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .sortable-column {
+            flex: 1;
+            width: calc(25% - 20px);
+            /* Adjust the width as needed */
+            margin: 10px;
+            background-color: #f9f9f9;
+            border-radius: 10px;
+            /* Rounded corners */
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        .sortable-list {
+            list-style-type: none;
+            /* Remove default list style */
+            padding: 0;
+            min-height: 100px;
+            /* Ensure empty columns accept items */
+        }
+
+        .sortable-item01 {
+            background-color: #6D6050;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item02 {
+            background-color: #68829E;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item03 {
+            background-color: #267ABA;
+            /* Orange background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item04 {
+            background-color: #598234;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item05 {
+            background-color: #A61D7A;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item06 {
+            background-color: #FF8300;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item07 {
+            background-color: #666666;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-item08 {
+            background-color: #CB3652;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-itemW5 {
+            background-color: #353C4A;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+
+        .sortable-itemWAIT {
+            background-color: #9BAA38;
+            /*  background color for names */
+            color: white;
+            /* White text color */
+            padding: 5px;
+            margin: 5px;
+            border-radius: 5px;
+            /* Rounded corners for name cards */
+            cursor: pointer;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <!-- Include FileSaver.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+</head>
+
+<body>
+    <div class="sortable-container">
+        <div class="sortable-block">
+            <div class="sortable-column" id="WR2-3.01">
+                <h2>2-3.01</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item01">Alice Wonderlands F001YT7</li>
+                    <li class="sortable-item01">Bob Corker F001YT7</li>
+                    <li class="sortable-item01">Charlie Boons</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="WR2-3.02">
+                <h2>2-3.02</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item02">David Evans F001YT7</li>
+                    <li class="sortable-item02">Eve Seddy F001YT7</li>
+                    <li class="sortable-item02">Frank Lensers F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="WR2-3.03">
+                <h2>2-3.03</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item03">Jed Dobson F001YT7</li>
+                    <li class="sortable-item03">Brian O'Connor F001YT7</li>
+                    <li class="sortable-item03">Alan Taylor F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="WR2-3.04">
+                <h2>2-3.04</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item04">Fred Taylor F001YT7</li>
+                    <li class="sortable-item04">Scrod Brian F001YT7</li>
+                    <li class="sortable-item04">Golpher Taddy F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+        </div>
+
+        <div class="sortable-block">
+            <div class="sortable-column" id="WR2-3.05">
+                <h2>2-3.05</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item05">Buster Busterton F001YT7</li>
+                    <li class="sortable-item05">Nota Bene F001YT7</li>
+                    <li class="sortable-item05">Freak Freakenstein F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="WR2-3.06">
+                <h2>2-3.06</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item06">Gramps McCusker F001YT7</li>
+                    <li class="sortable-item06">Grand Quizzer F001YT7</li>
+                    <li class="sortable-item06">Loser Numbnu F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="WR2-3.07">
+                <h2>2-3.07</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item07">Buzzy Smiths F001YT7</li>
+                    <li class="sortable-item07">Fooe Telly F001YT7</li>
+                    <li class="sortable-item07">Foofer Rembo F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="WR2-3.08">
+                <h2>2-3.08</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-item08">Uz Chilipowder F001YT7</li>
+                    <li class="sortable-item08">Yellowstone Fortinbras-Smith F001YT7</li>
+                    <li class="sortable-item08">Texas Toledo F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+        </div>
+        <div class="sortable-block">
+            <div class="sortable-column" id="WR5">
+                <h2>WR5</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-itemW5">Slip Flippers F001YT7</li>
+                    <li class="sortable-itemW5">Grey Moron F001YT7 </li>
+                    <li class="sortable-itemW5">Shazzy Moon F001YT7</li>
+                    <li class="sortable-itemW5">Purin Prateepmanowong F006VGT</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+            <div class="sortable-column" id="2-3_Waitlist">
+                <h2>2-3 Waitlist</h2>
+                <ul class="sortable-list">
+                    <li class="sortable-itemWAIT">Jizzy Jizzington F001YT7</li>
+                    <li class="sortable-itemWAIT">Cranston Brofs F001YT7</li>
+                    <li class="sortable-itemWAIT">Jesse Livingston F001YT7</li>
+                    <!-- Add more names as needed -->
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <button id="save-button">Save Changes</button>
+    <button id="load-button">Load Log</button>
+    <button id="export-button">Export to CSV</button>
+    <textarea id="log" style="width: 100%; height: 200px;"></textarea>
+
+    <!-- Add a file input field to load log files -->
+    <input type="file" id="load-file-input" style="display: none;">
+
+    <script>
+        $(document).ready(function () {
+            var logContent = ''; // Initialize the log content
+
+            // Function to log changes
+            function logChanges(name, sourceColumn, targetColumn) {
+                var timestamp = new Date().toLocaleString();
+                var sourceColumnId = sourceColumn ? sourceColumn.attr("id") : 'unknown';
+                var targetColumnId = targetColumn ? targetColumn.attr("id") : 'unknown';
+
+                if (sourceColumnId === targetColumnId) {
+                    var logEntry = `${timestamp}: '${name}' remains in Column ${sourceColumnId}`;
+                } else {
+                    var logEntry = `${timestamp}: Move ${name} from ${sourceColumnId} to ${targetColumnId}`;
+                }
+
+                logContent += logEntry + "\n";
+
+                // Update the log display
+                $("#log").val(logContent);
+            }
+
+            // Initialize sortable lists for each block
+            $(".sortable-block .sortable-list").sortable({
+                connectWith: ".sortable-list",
+                update: function (event, ui) {
+                    // Use a setTimeout to ensure that the logContent is updated after the DOM changes
+                    setTimeout(function () {
+                        if (!ui.sender)
+                            return;
+                        logChanges(ui.item.text(), ui.sender.closest('.sortable-column'), $(event.target).closest('.sortable-column'));
+                    }, 0);
+                }
+            });
+
+            // Handle the save button click
+            $("#save-button").click(function () {
+                // Create a Blob containing the log content
+                var logBlob = new Blob([logContent], { type: "text/markdown" });
+
+                // Use FileSaver.js to save the log file
+                saveAs(logBlob, "log.md");
+            });
+
+            // Handle the load button click
+            $("#load-button").click(function () {
+                // Trigger a click on the hidden file input field
+                $("#load-file-input").click();
+            });
+
+            // Handle the file input change event
+            $("#load-file-input").change(function (event) {
+                var file = event.target.files[0];
+                if (file) {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        // Read the file content and update the log
+                        logContent = e.target.result;
+                        $("#log").val(logContent);
+
+                        // Parse log entries and update the lists
+                        parseAndApplyLog(logContent);
+                    };
+                    reader.readAsText(file);
+                }
+                // make the input value to empty so that selecting the same file again must trigger change event
+                event.target.value = '';
+            });
+
+            // Function to parse and apply log entries to the lists
+            function parseAndApplyLog(log) {
+                // Split the log into individual lines
+                var logEntries = log.split("\n");
+
+                // Loop through each log entry and apply changes to the lists
+                logEntries.forEach(function (logEntry) {
+                    // Check if the log entry is empty or invalid
+                    if (!logEntry.trim()) {
+                        return;
+                    }
+
+                    // Split the log entry to extract details
+                    var parts = logEntry.split(": ");
+                    if (parts.length === 2) {
+                        var timestamp = parts[0];
+                        var action = parts[1];
+
+                        // Extract details from the action
+                        var match = action.match(/Move (.+) from (.+) to (.+)/);
+                        if (match) {
+                            var name = match[1];
+                            var source = match[2];
+                            var target = match[3];
+
+                            // the ids of the elements may contain . which will cause unexptected behaviour during using the jquery selector so escap any . before
+                            name = name.replace(/\./g, '\\.');
+                            source = source.replace(/\./g, '\\.');
+                            target = target.replace(/\./g, '\\.');
+
+                            // Find the corresponding elements in the lists
+                            var $nameElement = $(".sortable-list li:contains(" + name + ")");
+                            var $sourceList = $("#" + source + " ul");
+                            var $targetList = $("#" + target + " ul");
+
+                            // Move the name element from source to target list
+                            $nameElement.detach().appendTo($targetList);
+                        }
+                    }
+                });
+            }
+
+            // Handle the export button click
+            $("#export-button").click(function () {
+                exportToCSV();
+            });
+
+            // Function to export data to CSV
+            function exportToCSV() {
+                var csvContent = '';
+
+                // Get all unique IDs of the columns
+                var columnIds = [];
+                $(".sortable-column").each(function () {
+                    var columnId = $(this).attr("id");
+                    if (!columnIds.includes(columnId)) {
+                        columnIds.push(columnId);
+                    }
+                });
+
+                // Create CSV header with column IDs
+                csvContent += columnIds.join(',') + '\n';
+
+                // Find the maximum number of names in any column
+                var maxRowCount = 0;
+                columnIds.forEach(function (columnId) {
+                    columnId = columnId.replace(/\./g, '\\.');
+                    var rowCount = $("#" + columnId + " .sortable-list li").length;
+                    maxRowCount = Math.max(maxRowCount, rowCount);
+                });
+
+                // Generate CSV rows
+                for (var i = 0; i < maxRowCount; i++) {
+                    var row = [];
+                    columnIds.forEach(function (columnId) {
+                        columnId = columnId.replace(/\./g, '\\.');
+                        var $item = $("#" + columnId + " .sortable-list li:eq(" + i + ")");
+                        row.push($item.text() || ''); // Add the name or an empty string if not available
+                    });
+                    console.log(row);
+                    csvContent += row.join(',') + '\n';
+                }
+
+                // Create a Blob containing the CSV data
+                var blob = new Blob([csvContent], { type: "text/csv" });
+
+                // Use FileSaver.js to save the CSV file
+                saveAs(blob, "exported_data.csv");
+            }
+        });
+    </script>
+</body>
+
+</html>

@@ -15,7 +15,7 @@ type: docs
 
 This workshop is designed to help you perform `keyword searches` of library catalogs and electronic databases with efficiency. While most students have some familiarity with keyword searching through the Google search engine, library catalogs and databases don't work in the same way. To query databases effectively and efficiently, you need to be familiar with `Boolean` searches.
 
-Keyword searches often produce too many results to examine in a reasonable amount of time. Keyword searches also suffer from large volumes of irrelevant results. Rather than page through hundreds or thousands of search results or sift through unwanted ones, you can use what are known as Boolean searches to make your searches much more precise. Boolean searches use what are known as ``logical operators`` to form search strings that help you zero in on the content you seek. 
+Keyword searches often produce too many results to examine in a reasonable amount of time. Keyword searches also suffer from large volumes of irrelevant results. Rather than page through hundreds or thousands of search results or sift through unwanted ones, you can perform what are known as Boolean searches to make your queries much more precise. Boolean searches use what are known as ``logical operators`` to form search strings that help you zero in on the content you seek. 
 
 The three most common logical operators are **AND**, **OR**, and **NOT**. However, you should also learn how to use `exact phrases`, `truncation`, and `wildcards` in search strings. 
 
