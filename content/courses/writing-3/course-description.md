@@ -139,7 +139,7 @@ How do you know if you can trust your sources? This workshop explains the proces
 
 {{< /tab >}}
 
-
+{{< /tabs >}}
 
 
 

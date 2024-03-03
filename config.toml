@@ -1,16 +1,11 @@
 
 baseURL = 'https://no-silo.com'
 title = ''
-theme = 'book'
+theme = 'book-old'
 
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
-
-# Google Analytics
-
-# googleAnalytics = ""
-
 
 # Needed for mermaid/katex shortcodes
 [markup]
@@ -34,8 +29,8 @@ enableGitInfo = true
 # [[menu.before]]
 #[[menu.after]]
 #  name = "Github"
-#  url = "https://github.com/alex-shpak/hugo-book"
-#  weight = 10
+ # url = "https://github.com/alex-shpak/hugo-book"
+ # weight = 10
 
 #[[menu.after]]
 # name = "Hugo Themes"
@@ -47,6 +42,10 @@ enableGitInfo = true
   # Start and end levels can be controlled with markup.tableOfContents setting.
   # You can also specify this parameter per page in front matter.
   BookToC = true
+  
+  # Update theme color theme:
+  
+ # BookTheme = 'light'
   
   # (Optional, default none) Set the path to a logo for the book. If the logo is
   # /static/logo.png then the path would be logo.png

@@ -101,7 +101,6 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 
 ---
 
-[^1]: A footnote in this document defines faculty to include contingent faculty at the Instructor rank (10).
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Considering audience
@@ -114,4 +113,4 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 
  {{< /tab >}}
 
-
+{{< /tabs >}}
