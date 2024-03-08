@@ -355,7 +355,6 @@ Please make me aware of anything that will hinder your success in this course.
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-- <i class="fa-solid fa-file"></i> Place a copy of the syllabi from your other two classes [in our shared folder](https://drive.google.com/drive/folders/1PLDwFI11qv7-8b0qxFd9EZ7UGfay-Me1?usp=drive_link).
 - <i class="fa fa-bullseye"></i> Essay 1 Draft
     - <i class="fas fa-print"></i> Bring a printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)

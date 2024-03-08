@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: false
-bookToc: true
+bookToc: false
 title: + Open Handbook
 type: docs
 ---

@@ -4,11 +4,10 @@ bookToc: true
 type: docs
 ---
 
-<div style="text-align:center">{{< figure src="/no-silo-small.gif" width=400 >}}</div> 
+<div style="text-align:center">{{< figure src="/no-silo.gif" width=300 >}}</div> 
 
 
 *No Silo* is the companion site to Alan C. Taylor's writing courses at Dartmouth College. The site contains syllabi, course materials, workshops, the [*Open Handbook*](/resources/open-handbook), and other related bits and pieces.
-
 
 The idea for this site came from a talk I gave to the faculty of the [Writing Program](https://writing-speech.dartmouth.edu) at Dartmouth College in 2020 about tearing down information silos and creating an open-source teaching culture among our faculty. 
 
