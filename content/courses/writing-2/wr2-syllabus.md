@@ -93,6 +93,13 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
+Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
+
+Before we consider using any new tool or technology, we should ask ourselves whether it contributes to the overall purpose of education. While Generative AI certainly has a place in many fields and disciplines in varying degrees, I believe that it is fundamentally in conflict with the goals of the writing classroom. These goals include the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, and research skills. These technologies are designed to give answers, not encourage us to develop understanding or skill. Please know that this is not the raving of some grumpy, out-of-touch old man. I have *reasons*. 
+
+If you have any questions about this policy or are not sure if a resource you have found will violate this policy, please ask me.
+
+
 ---
 
 ## Attendance Policy
