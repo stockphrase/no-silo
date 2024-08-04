@@ -2,7 +2,7 @@
 weight: 2
 bookFlatSection: true
 bookToc: true
-bookHidden: false
+bookHidden: true
 title: "+ Hive"
 ---
 

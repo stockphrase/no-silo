@@ -101,7 +101,7 @@ highlighting while reading:
 
 -   Secondly, highlighting works against critical thinking by casting
     the reader in the passive role of information consumer. As [Keith
-    Hjortshoj argues](http://libcat.dartmouth.edu/record=6773185),
+    Hjortshoj argues](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991025644539705706),
     highlighting merely "emphasizes the authority of the text: what its
     author says, believes, or knows. The practice therefore leads you
     toward memorization and repetition, not toward interpretation,

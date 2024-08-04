@@ -81,6 +81,8 @@ College should be a series of experiences through which you *gain ownership over
 
 - Has seeking a good grade ever made your relationship with a teacher less honest and sincere?
 
+> I wrote a longer explanation of my thinking over [on my other site](https://alan-taylor.org/posts/on-evaluating/).
+
 {{< /details >}}
 
 

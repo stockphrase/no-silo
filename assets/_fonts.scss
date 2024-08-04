@@ -49,18 +49,17 @@
   font-weight: 400;
   font-display: swap;
   src: local('Rock Salt'), local('RockSalt-Regular'),
-       url('fonts/RockSalt-Regular.ttf') /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/RockSalt-Regular.ttf'); /* Chrome 26+, Opera 23+, Firefox 39+ */
 
 }
 
-/* Rock Salt*/
+
+/* Trixie HDot */
 @font-face {
-  font-family: 'DK Face Your Fears';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local('DK Face Your Fears'), local('DK Face Your Fears'),
-       url('fonts/DK Face Your Fears.ttf') /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-family: 'TrixieHDOT-Heavy';
+  src: url('fonts/TrixieHDOT-Heavy.woff') format('woff'),
+       url('fonts/TrixieHDOT-Heavy.woff2') format('woff2');
+
 
 }
 
