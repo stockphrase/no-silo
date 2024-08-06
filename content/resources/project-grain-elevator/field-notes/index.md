@@ -16,22 +16,30 @@ Our field-records will be perhaps the most valuable of all our results; hence th
 
 --- [Joseph Grinnell](https://en.wikipedia.org/wiki/Joseph_Grinnell#Grinnell_Method_of_note_taking), 1908
 
+---
 
 Another value of field notebooks is their ability to serve as an incredibly fertile incubator for your ideas and observations. By jotting down interesting observations, questions, and miscellaneous ideas, your field notebook can serve as a powerful catalyst for new experiments and projects."  (258)
 
 
-"Through the process of assembling this list, two main guiding principles have emerged: First, you will forget things far faster than you expect—most people think they will
-remember details of their observations and studies for longer and better than they actually do; and second, you will not know at the beginning of a study all the things that might be important or interesting—for this reason, it is a great idea to record more information than you think you might need."
+Through the process of assembling this list, two main guiding principles have emerged: First, you will forget things far faster than you expect—most people think they will remember details of their observations and studies for longer and better than they actually do; and second, you will not know at the beginning of a study all the things that might be important or interesting—for this reason, it is a great idea to record more information than you think you might need.
 
 --- Erick Greene, "Why Keep a Field Notebook?"
 
-"Anyone concerned with working out ideas . . . must be a writer, because writing provides the readiest means of carrying out what I.A. Richards calls an audit of meaning."
+---
+
+I would claim that anybody concerned with working out ideas could, should, must be—willy-nilly—a writer, because writing provides the readiest means of carrying out what I.A. Richards calls an audit of meaning. Writing as a way of knowing lets us represent ideas so that we can return to them and assess them.
 
 --- Ann Berthoff, "Dialectical Notebooks and the Audit of Meaning"
 
-`Curiouser and curiouser!' cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); `now I'm opening out like the largest telescope that ever was! Good-bye, feet!' (for when she looked down at her feet, they seemed to be almost out of sight, they were getting so far off).
+---
+
+Our notes should, indeed, be useful for purposes of review; yet that usefulness is not their chief value. They should be full, yet contain only what the mind has accepted as significant. The practical value of our notes will take care of itself as a matter of secondary importance, if we devote ourselves wholly to their main purpose—to make us alert, clear-headed, and responsible as we listen to a lecture [or read a text], and to serve as a ready test of the firmness of our grasp. To take good notes is not preliminary to study, but study itself of the most vital kind; calling at once on all one's powers of concentration, judgment, and craftsmanship (6)
+
+--- S. S. Seward, *Note-Taking* 1910
 
 </small>
+
+---
 
 # Field Notes
 

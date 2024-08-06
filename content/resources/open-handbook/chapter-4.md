@@ -93,7 +93,7 @@ other important documents, a system with no hierarchically organized
 folders becomes a confusing and unhelpful jumble. Secondly, the choices
 for naming the files actively resist discovery and recognition. What,
 for example, is the subject of `Notes.docx`? What class was it from? What lecture? Of the many essays you wrote
-last term, which one is `Essay.docx`? And `Revision.docx` is a revision of what, precisely? A year from now you won't remember, but you may very well care at that time. Unfortunately, the folder into which you've dumped these files will have swelled to a debilitating size that will disrupt any attempt to make use of your hard work.
+last term, which one is `Essay.docx`? And `Revision.docx` is a revision of what, precisely? A year from now you won't remember, but you may very well care at that time. Unfortunately, the folder into which you've dumped these files will have swollen to a debilitating size that will disrupt any attempt to make use of your hard work.
 
 ## A better file-saving strategy
 

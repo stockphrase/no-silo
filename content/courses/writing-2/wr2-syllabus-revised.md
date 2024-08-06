@@ -101,10 +101,32 @@ All work submitted in this course must be your own and be written exclusively fo
 
 Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
 
-{{< hint note >}} 
-<span style="color: var(--due)"><i class="fa-solid fa-robot"></i></span> Before we consider using any new tool or technology, we should ask ourselves whether it contributes to the overall purpose of education. While Generative AI certainly has a place in many fields and disciplines in varying degrees, I believe that it is fundamentally in conflict with the goals of the writing classroom. These goals include the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, and research skills. These new technologies are designed to give answers, not encourage us to develop understanding or skill. Please know that these are not the ravings of some grumpy, out-of-touch old man. I have *reasons*. 
+{{< details "Some thoughts on Generative AI and Writing" >}}
 
-{{< /hint >}}
+Before we consider using any new tool or technology, we should ask ourselves whether it contributes to the overall purpose of education. While Generative AI certainly has a place in many fields and disciplines in varying degrees (and I’m genuinely excited about many aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
+
+My sense has always been that the writing classroom is the best place to develop a host of important skills, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies.
+
+An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or “expression,” will have a tremendously negative affect on our development as individuals. Used improperly, I fear these new technologies may actually result in a new form of disability. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
+
+In my own life, writing has be integral to this process of becoming and instrumental to gaining all of the skills and abilities listed above. As Joshua Thorpe argues,
+
+>“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.”
+
+Among the many problems I believe you should solve yourself if you are interested in being intelligent and, you know, a human being:
+
+    reading,
+    parsing the meaning of texts and other artifacts,
+    inventio (discovering your own arguments and ideas),
+    research,
+    evaluating sources of information,
+    planning and organizing writing, revising, and evaluating feedback from others on your writing.
+
+AI can disrupt or replace many or all of these processes; the consequences of doing so, however, are exceedingly grim.
+
+Writing (and the struggle to do so) is one of the best ways to discover ideas and thoughts. Many imagine that writing is about 1) getting a clear idea in our heads and then 2) articulating that clear idea using words on a page. As scholar David Galbraith argues, “The content that we write about is not pre-stored, waiting only on us to decide how best to deploy it, but is instead something that is constituted as we write. And the process of constituting this content is not straightforward but is instead a matter of trying to capture our understanding as it unfolds in the text. Writing, to use T. S. Eliot’s phrase, is a raid on the inarticulate, and it is integrating this process with the more strategic aspects of writing that is the work of writing.” (Galbraith, “Raiding,” 238). However, writing is often more magical than mechanical. The writing seemingly conjures these things out of nothing, often revealing surprising beliefs or ideas that we did not know we held. As the novelist E.M Forster once quipped: “How can I know what I think until I see what I say?” The common experience of this phenomenon points to there being something special about writing as a tool for discovery—a way of making sense of the world, and learning about ourselves, our values, and commitments. However, this all seems something that could very well be deeply compromised if we develop a reliance on GAI.
+
+{{< /details >}}
 
 If you have any questions about this policy or are not sure if a resource you have found will violate this policy, please ask me.
 
@@ -305,7 +327,9 @@ Please make me aware of anything that will hinder your success in this course.
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Consider these questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
-  questions in your provided [field notebooks](/resources/project-grain-elevator/field-notes/). **Note**: do not research this question; do not ask your roommate; do not request an AI bot to generate "ideas". I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
+  questions in your provided [field notebooks](/resources/project-grain-elevator/field-notes/). 
+  
+- <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google; don't ask your roommate or call your uncle Pete; do not request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
 
 
 {{< hint note >}} 
@@ -336,22 +360,21 @@ Please make me aware of anything that will hinder your success in this course.
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
+- <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://drive.google.com/drive/folders/1MZ-eZA-GcpbNE9WSstlfUryN6l6GEhMC?usp=sharing)
+
+
 
 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-- <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review
-- Discuss revision.
+- <i class="fa fa-box"></i> [Friday Soapbox](https://en.wikipedia.org/wiki/Soapbox)
+- <i class="fa fa-bullhorn"></i> Discuss readings
 
 
 
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-- <i class="fa fa-bullseye"></i> Essay 1 Draft
-    - <i class="fas fa-print"></i> Bring a printout of your essay to class
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 
-
+- <span style="color: var(--readings)"><i class="fa-solid fa-gear"></i></span> Thought Machine #1: Find all arguments
 
 {{< /details >}}
 

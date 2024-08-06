@@ -12,8 +12,6 @@ title: "+ FAQs"
 
 {{< details "1. May I email you my essay for extra comments?" >}}
 
-#
-
 > ### No.
 
 I always give each essay draft a full set of written comments. And I'm committed to meet with any student who would like to go over them as many times as necessary. However, I usually do not take requests for extra comments via email unless there is no other possible way a student can meet with me in an office hour or at some other scheduled time. Considering how easy it is to attach a file to an email, almost every student would seek this additional help. As a result, I would be deluged with requests for help, often at the very last minute, making it impossible for me to thoughtfully respond to them all.
@@ -22,9 +20,10 @@ I always give each essay draft a full set of written comments. And I'm committed
 
 {{< /details >}}
 
+<br>
+
 {{< details "2. May bring my laptop to our office meeting?" >}}
 
-#
 
 > ### Grumble, grumble...ok.
 
@@ -32,9 +31,9 @@ In the past I've said no to this question because I found that students who brin
     
 {{< /details >}}
 
-{{< details "3. I can't make office hours; can we meet another time?" >}}
+<br>
 
-#
+{{< details "3. I can't make office hours; can we meet another time?" >}}
 
 > ### Yes!
 
@@ -42,9 +41,9 @@ I will be happy to accommodate students whose schedules conflict with my office 
 
 {{< /details >}}
 
-{{< details "4. May I have an extension?" >}}
+<br>
 
-#
+{{< details "4. May I have an extension?" >}}
 
 > ### Sort of.
 
@@ -52,12 +51,13 @@ Sometimes life intervenes in our plans and rudely sets us back. If you get hit b
 
 {{< /details >}}
 
+<br>
+
 {{< details "5. How many times can I bring my paper to you?" >}}
 
-#
 > ### As many as you like. But...
 
-Your professors want to help you. Really, they do. *But at some point, seeking help becomes a form of dependence*. Taken to extremes, your help-seeking becomes an avoidance of your own responsibility as a writer, a thinker, a student, a human. 
+Your professors want to help you. Really, they do. *However, there is a point where seeking help becomes a form of dependence*. Taken to extremes, your help-seeking becomes an avoidance of your own responsibility as a writer, a thinker, a student, a human. 
 
 Over the years I have had many students who bring their work to me excessively and want my approval on every edit of their written work. The students who do this just want to do well, but consider what they lose in the bargain. At some point the essay or project ceases to be the work of the student, as the line between authorship and critique first blurs and then becomes indistinguishable. The student has completely surrendered their right to think and know and argue *on their own terms*, blithely giving away their freedom to an authority figure in the person of their teacher. 
 
@@ -65,10 +65,11 @@ College should be a series of experiences through which you *gain ownership over
 
 {{< /details >}}
 
+<br>
 
 {{< details "6. Why aren't you grading me? I want to know how well I'm doing." >}}
 
-#
+
 > ### Consider why you want this...
 
 - If I told you what I thought your work was worth, would that be the right answer?
@@ -85,11 +86,10 @@ College should be a series of experiences through which you *gain ownership over
 
 {{< /details >}}
 
-
+<br>
 
 {{< details "7. What should we call you?" >}}
 
-#
 > ### Honorifics and such...
 
 
@@ -123,13 +123,10 @@ Now, students, what does this mean for you? It means that unless you love to cou
 
 {{< /details >}}
 
-
-
-
+<br>
 
 {{< details "8. Do I need to print out and annotate this reading?" >}}
 
-#
 
 > ### Follow this flowchart.
 
@@ -138,10 +135,9 @@ Now, students, what does this mean for you? It means that unless you love to cou
 
 {{< /details >}}
 
+<br>
 
 {{< details "9. Will we use the X hours?" >}}
-
-#
 
 > ### Nope.
 
@@ -149,9 +145,10 @@ X hours are X-tra. They exist so that we can make up days that we miss or if we 
 
 {{< /details >}}
 
+<br>
+
 {{< details "10. Are you as grumpy as this FAQ suggests?" >}}
 
-#
 
 > ### Yes.
 

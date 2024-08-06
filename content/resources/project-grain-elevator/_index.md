@@ -8,7 +8,10 @@ title: "Project Grain Elevator"
 
 <div style="text-align:center">{{< figure src="/img/PGE-hex-cut.jpg" width=400 >}}</div> 
 
-{{< audio mp3="/audio/project-grain-elevator.mp3" >}}
+{{< audio mp3="/audio/pge-themesong.mp3" >}}
+
+
+---
 
 ---
 
