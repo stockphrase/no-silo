@@ -4,6 +4,7 @@ bookHidden: false
 bookToC: true
 title: "+ AI"
 type: docs
+draft: false
 ---
 
 <small>
@@ -23,13 +24,13 @@ type: docs
 
 ---
 
+# AI and Writing
 
 GAI is both a symptom and an acceleration of a cultural trend that considers education solely in transactional terms. I am struck by Cao and Dede’s thoughts on this point:
 
 > “An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others. Similarly, learning a new language is much more than being able to speak in that tongue; bilingualism is about learning another style of thinking, taking on a different cultural identity, and embodying an alternative way of being and living in the world” (3).
 
 It bears emphasizing that education is not merely the production of assignments submitted to authorities, or the collection of diplomas—it is instead the gaining of the ability to think clearly, to argue effectively, to discover one's own beliefs, to make connections, to communicate, to value, suspend judgment and allow ourselves to truly become vulnerable to new ideas through patient, genuine listening and study. We are talking about nothing less than the growth, the becoming, of a single, unique human life. 
-
 
 # Writing in the Age of Mechanical Production
 
@@ -39,7 +40,7 @@ My sense has always been that the writing classroom is the best place to develop
 
 An overreliance on AI tools to complete tasks that we would normally describe as "thinking" or "analysis" or "articulation," will have a tremendously negative affect on our development as individuals, on the process of becoming that is primarily driven by education. Used improperly, I fear these new technologies may actually result in a new form of disability. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
 
-In my own life, writing has be integral to this process of becoming and instrumental to gaining all of the skills and abilities listed above. As [Joshua Thorpe](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/) argues, 
+As [Joshua Thorpe](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/) argues, 
 
 > "\[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the *intrinsic value* of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.” 
 

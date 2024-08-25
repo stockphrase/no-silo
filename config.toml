@@ -3,6 +3,8 @@ baseURL = 'https://no-silo.com'
 title = ''
 theme = 'book-old'
 
+#theme = 'hugo-book'
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true

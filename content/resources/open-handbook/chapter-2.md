@@ -22,7 +22,14 @@ writer's work part of your work (12).
 --- Bartholomae and Petrosky, "Introduction." *Ways of Reading: An Anthology for Writers*
 
   </small>
+ 
+  <small> 
+"Our notes should, indeed, be useful for purposes of review; yet that usefulness is not their chief value. They should be full, yet contain only what the mind has accepted as significant. The practical value of our notes will take care of itself as a matter of secondary importance, if we devote ourselves wholly to their main purpose—to make us alert, clear-headed, and responsible as we listen to a lecture [or read a text], and to serve as a ready test of the firmness of our grasp. To take good notes is not preliminary to study, but study itself of the most vital kind; calling at once on all one's powers of concentration, judgment, and craftsmanship" (6)
 
+--- Samuel Seward, [*Note-Taking*](https://www.google.com/books/edition/Note_taking/PSiVLIcLVIoC?hl=en), 1910
+
+ </small>
+ 
 ---
 
 ## Taking critical notes
@@ -83,7 +90,7 @@ prior work and information.
 
 ## How to take in-class notes
 
-You might consider taking your notes on paper. [Some research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) suggests that taking notes by hand, [rather than using a computer](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/), aids memory and improves student performance:
+You might consider taking your notes on paper. [Some research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) suggests that taking notes by hand, [rather than using a computer](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/), [boosts brain activity](https://doi.org/10.3389/fpsyg.2023.1219945 ), aids memory, and improves student performance:
 
 >Obviously it is advantageous to draft more complete notes that precisely capture the course content and allow for a verbatim review of the material at a later date.  Only it isn’t.  New research by Pam Mueller and Daniel Oppenheimer demonstrates that students who write out their notes on paper actually learn more.  Across three experiments, Mueller and Oppenheimer had students take notes in a classroom setting and then tested students on their memory for factual detail, their conceptual understanding of the material, and their ability to synthesize and generalize the information.  Half of the students were instructed to take notes with a laptop, and the other half were instructed to write the notes out by hand.  As in other studies, students who used laptops took more notes.  In each study, however, those who wrote out their notes by hand had a stronger conceptual understanding and were more successful in applying and integrating the material than those who used took notes with their laptops.
 

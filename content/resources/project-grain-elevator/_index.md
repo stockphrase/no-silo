@@ -2,11 +2,12 @@
 weight: 0
 bookFlatSection: true
 title: "Project Grain Elevator"
+draft: true
 ---
 
 
 
-<div style="text-align:center">{{< figure src="/img/PGE-hex-cut.jpg" width=400 >}}</div> 
+<div style="text-align:center">{{< figure src="/img/pge2.jpg" width=500 >}}</div> 
 
 {{< audio mp3="/audio/pge-themesong.mp3" >}}
 

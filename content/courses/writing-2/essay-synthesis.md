@@ -3,10 +3,10 @@ weight: 1
 bookFlatSection: true
 bookToc: true
 bookHidden: true
-title: "Essay Two"
+title: "Synthesis"
 ---
 
-# Essay Two: Synthesis
+# Synthesis
 
 ---
 

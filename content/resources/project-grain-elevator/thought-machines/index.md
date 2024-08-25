@@ -13,7 +13,7 @@ type: docs
 
 # Thought Machines
 
-Thought machines are simple mechanisms designed to help us think. Some provoke our thinking by directing our attention to texts or artifacts in certain specific ways. This priming might function as a sort of lens by narrowing our focus on certain features that had previously escaped our view. In other cases, we might seek to broaden our understanding with a more systematic approach that tries to bring a wider, or comprehensive, scope to our analysis. And while these tools may be used on written texts, many of them are useful for examining other cultural artifacts such as film, music, or art.
+Thought machines are simple mechanisms designed to help us think. Some provoke our thinking by directing our attention to texts or artifacts in certain specific ways. This priming might function as a sort of lens by narrowing our focus on certain features that had previously escaped our view. In other cases, we might seek to broaden our understanding with a more systematic approach that tries to bring a wider, more comprehensive, scope to our analysis. And while these tools may be used on written texts, many of them are useful for examining other cultural artifacts such as film, music, or art.
 
 Each of these machines represent practices that are used by effective writers and researchers. More practiced writers make use of these tools routinely, in concernt, and without much conscious thought. However, breaking them into discrete tools for practice and experimentation is often a very helpful way to learn deeper forms of analysis and critical thinking.
 
@@ -32,7 +32,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> Identify the key arguments made in the reading. As I describe elsewhere, you should get into the habit of flagging arguments in the text during your reading as a process of critical <a href="https://no-silo.com/resources/open-handbook/chapter-1/">annotation</a>. You might choose a symbol to place in the margins of readings to identify arguments as you encounter them. I use a circle, like this: <span style="color: var(--readings)"><i class="fa-solid fa-circle"></i></span>. Sometimes I put a symbol in the circle like a question mark <span style="color: var(--readings)"><i class="fa-solid fa-circle-question"></i></span> or an exclamation point <span style="color: var(--readings)"><i class="fa-solid fa-circle-exclamation"></i></span> to indicate what I was thinking about the argument as I read it at the time. Do whatever works for you. One of the main skills required here is the ability to distinguish argumentative statements from the things that support them: like examples, metaphors, and evidence. In your field notebook, make a series of numbered statements that summarize each of the supporting arguments that you detect in the text. Essentially, construct a precise outline of the text's thesis and various supporting arguments.</p>
+<p style="font-family:TrixieHDOT-Heavy"> Identify the key arguments made in the reading. As I describe elsewhere, you should get into the habit of flagging arguments in texts as a process of critical <a href="https://no-silo.com/resources/open-handbook/chapter-1/">annotation</a>. You might choose a symbol to place in the margins of readings to identify arguments as you encounter them. I use a small circle or dot, like this: <span style="color: var(--readings)"><i class="fa-solid fa-circle"></i></span>. Sometimes I put a symbol in the circle like a question mark <span style="color: var(--readings)"><i class="fa-solid fa-circle-question"></i></span> or an exclamation point <span style="color: var(--readings)"><i class="fa-solid fa-circle-exclamation"></i></span> to indicate what I was thinking about the argument as I read it at the time. Do whatever works for you, but remember the idea is that this is a clue for your future self. Make life easy for future self. One of the main skills required here is the ability to distinguish argumentative statements from the things that support them: like examples, metaphors, and evidence. In your field notebook, make a series of numbered statements that summarize each of the supporting arguments that you detect in the text. Essentially, construct a brief and precise outline of the text's thesis and various supporting arguments.</p>
 
 ---
 
@@ -103,7 +103,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> Find a particular argument within the essay and make an argument of your own about it. Is the writer wrong about something? What is your reasoning for disagreeing? Perhaps you have an idea about how this idea could be extended to something else that the author doesn't discuss? If you agree with the author's thinking, should we do something concrete or change something particular in our lives based on the implications of the argument? </p>  
+<p style="font-family:TrixieHDOT-Heavy"> Find a particular argument within the essay and make an argument of your own about it. Is the writer wrong about something? What is your reasoning for disagreeing? Perhaps you have an idea about how this idea could be extended to something else that the author doesn't discuss? Or you might explore the implications of some idea or argument that the author does not pursue. If you agree with the author's thinking, should we do something concrete or change something particular in our lives based on the implications of the argument? </p>  
 
 ---
 
@@ -126,7 +126,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> A passage means what it says because the author arranged a series of words together in such a way as to produce that meaning. However, once the writing is complete and the text is out in the world, it becomes subject to interpretation by audiences. We sometimes call these interpretations ‘readings.’ A ‘close reading’ is a decoding exercise, a detailed explanation of exactly what a passage means (according to us) *using only the words in the text* as evidence. What do you think this passage from the text means? What evidence in the text supports your view? How far can you take the analysis? You might discover a deeper interpretation if you look up certain words in the dictionary and find less common senses of the word. You might notice the way a metaphor suggests a certain perspective on the passage or how it connects to some other theme or idea in the broader text. Write an explanation of all this thinking to your audience. A close reading should not be impressionistic (‘This writing sucks!’ or ‘I love it!’); or evaluative (‘This idea is important’); instead, it should focus on simply explaining to your audience what the passage means by meticulously pointing to how the text is constructed. </p>
+<p style="font-family:TrixieHDOT-Heavy"> A passage means what it says because the author arranged a series of words together in such a way as to produce that meaning. However, once the writing is complete and the text is out in the world, it becomes subject to interpretation by audiences. We sometimes call these interpretations ‘readings.’ A ‘close reading’ is a decoding exercise, a detailed explanation of exactly what a passage means (according to us) <b>using only the words in the text</b> as evidence. What do you think this passage from the text means? What evidence in the text supports your view? How far can you take the analysis? You might discover a deeper interpretation if you look up certain words in the dictionary and find less common senses of the word. You might notice the way a metaphor suggests a certain perspective on the passage or how it connects to some other theme or idea in the broader text. Write an explanation of all this thinking to your audience. A close reading should not be impressionistic (‘This writing sucks!’ or ‘I love it!’); or evaluative (‘This idea is important’); instead, it should focus on simply explaining to your audience what the passage means by meticulously pointing to how the text is constructed. </p>
 
 ---
 
@@ -206,7 +206,7 @@ Each of these machines represent practices that are used by effective writers an
 
 <br>
 
-{{< details "9. Key passages" >}}
+{{< details "9. Key Passages" >}}
 
 <div class="container">
         <div class="raised-edge">      
@@ -326,7 +326,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> Things have parts; these parts work together to form a broader system. A car engine, a laptop computer, a riparian ecosysem. When we take inventory, we try to take notice of all of the parts that make up a thing by first isolating them and then inquiring into their purpose within the broader complexity or system. Many of these things are not apparent upon first glance and require patience, effort, and imagination. Examine a paragraph, analyzing each word, each sentence, in the broader context of the paragraph. How do they function? What is their purpose? How do the contribute to the overal design? Look at an argument as a whole. Examine each paragraph. What is this part doing here? What purpose does it serve in the broader text or argument? How does it connect, mesh, complicate, engage, trouble, other aspects of the text? What are the complexities that it reaches for beyond itself? </p>
+<p style="font-family:TrixieHDOT-Heavy"> Things have parts; these parts work together to form a broader system. A car engine, a laptop computer, a riparian ecosysem. When we take inventory, we try to take notice of all of the parts that make up a thing by first isolating them and then inquiring into their purpose within the broader complexity or system. Many of these things are not apparent upon first glance and require patience, effort, and imagination. Examine a paragraph, analyzing each word, each sentence, in the broader context of the paragraph. How do they function? What is their purpose? How do the contribute to the overal design or meaning? Look at an argument as a whole. Examine each paragraph. What is this part doing here? What purpose does it serve in the broader text or argument? How does it connect, mesh, complicate, engage, or trouble other aspects of the text? Does the text emerge from a broader system, like an existing dialogue or conversation? </p>
 
 ---
 

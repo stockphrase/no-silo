@@ -33,16 +33,18 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 
 ### <span style="color: var(--in-class)"><i class="fas fa-plus-circle"></i></span> Major Assignments
 
+<!---
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 1: Argument](/courses/writing-2/essay-1)
 {{< /hint >}} 
 
+--->
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 2: Synthesis](/courses/writing-2/essay-2)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Synthesis](/courses/writing-2/essay-synthesis)
 {{< /hint >}} 
 
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 3: Theoretical Analysis](/courses/writing-2/essay-3)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Theoretical Analysis](/courses/writing-2/essay-3)
 {{< /hint >}} 
 
 ---
@@ -90,9 +92,6 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
 {{< /hint >}} 
 
-{{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Theoretical argument](/courses/workshops/theoretical-argument/)
-{{< /hint >}} 
 
 ---
 

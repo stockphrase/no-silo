@@ -3,13 +3,13 @@ weight: 1
 bookFlatSection: true
 bookToc: true
 bookHidden: true
-title: "Essay Three"
+title: "Theoretical Essay"
 ---
 
 <div style="text-align:center">{{< figure src="/img/rushmore.jpg" >}}</div>
 
 
-# Essay Three: Theoretical Analysis
+# Theoretical Analysis
 
 
 ## Prompt

@@ -8,11 +8,12 @@ type: docs
 {{< hint note >}} 
 #### <i class="fas fa-dot-circle"></i>  **WR2** | [**Workshops**](/courses/workshops/) 
 {{< /hint >}}
-# Argument Analysis 
+
+# Argument Analysis
 
 ---
 
-Analysis involves breaking an argument down into smaller parts so that you can understand how those parts work together to make the whole (or fail to do so). During this class we will try to train our minds to uncover the argumentative structure of all that we read.
+Analysis involves breaking an argument down into smaller parts so that you can understand how those parts work together to make the whole (or fail to do so). During this class we will try to train our minds to uncover the argumentative structure of all that we read. Again, the best tools for doing this work are [annotation](/resources/open-handbook/chapter-1) and [critical note-taking](/resources/open-handbook/chapter-2).
 
 ## Workshop 
 
