@@ -117,15 +117,15 @@ As [Joshua Thorpe argues](https://wonkhe.com/blogs/the-real-risk-of-generative-a
 
 >“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.”
 
-I would argue that Thorpe doesn't go quite far enough. Not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and, you know, a human being:
+I would argue that Thorpe doesn't go quite far enough. Not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and growing as a human being:
 
-- reading,
+- reading widely,
 - interpreting the meaning of texts and other artifacts,
 - *inventio* (discovering your own arguments and ideas),
 - research,
 - evaluating sources of information,
 - planning and organizing writing, 
-- drafting,
+- drafting writing,
 - revising your writing (and evaluating feedback from others on your writing).
 
 AI can disrupt or replace many or all of these processes; the consequences of doing so, however, are exceedingly grim.
@@ -147,6 +147,7 @@ Regular attendance is expected. Bracketing religious observance, severe illness,
 
 Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | Please note that I am not a monster, but a warm human. If you experience human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency prevents you from meaningful participation and commitment to the course. As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please don't be a hero by dragging yourself into class; I really would prefer that you consider the heath of the others in our class and stay home. 
 
 ---
 

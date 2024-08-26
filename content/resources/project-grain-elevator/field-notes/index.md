@@ -4,7 +4,7 @@ bookHidden: false
 bookToC: true
 title: "+ Field Notes"
 type: docs
-draft: true
+draft: false
 ---
 
 <a href="https://fieldnotesbrand.com/"><div style="text-align:center">{{< figure src="/img/field-notes.jpg" width=150 >}}</div></a>
@@ -52,9 +52,9 @@ draft: true
 
 ## What are field notes?
 
-In this class, *the field notes are the work* . . .
+### In this class, *the field notes are the work* . . .
 
-[Field notebooks](https://en.wikipedia.org/wiki/Fieldnotes) have been used by explorers and scientists for centuries to aid in observation, reflection, and preservation. They are records of human attempts to know and understand: chronicles of adventure and discovery in unexplored territories, descriptions of radical otherness and cultural difference, narratives of danger and fear, stories of deeply personal change and evolution. They are also jottings of the most mundane sort: ordinary facts, passing thoughts, offhanded queries, bits of data, placeholders for further study. We will use the conceit of entering the field as a way of understanding our work together in this class. I like how the metaphor of fieldwork conjures scenes of exploration, discovery, danger, and transformation—experiences that I have come to associate with education and the work of learning.
+[Field notebooks](https://en.wikipedia.org/wiki/Fieldnotes) have been used by explorers and scientists for centuries to aid in observation, reflection, and preservation. They are records of human attempts to know and understand: chronicles of adventure and discovery in unexplored territories, descriptions of radical otherness and cultural difference, narratives of danger and fear, stories of deeply personal change and evolution. They are also jottings of the most mundane sort: ordinary facts, passing thoughts, offhanded queries, bits of data, placeholders for further study. Sometimes, if you are like me, a field note might include a [weird fantasy about a little bird that keeps repeatedly building a nest on your house](/img/birdngun.jpg). We will use the conceit of entering the field as a way of understanding our work together in this class. I like how the metaphor of fieldwork conjures scenes of exploration, discovery, danger, and transformation—experiences that I have come to associate with education and the work of learning.
 
 ### Observation
 *The field notebook is a technology of observation and intentional curiosity.* Each time we enter the field of inquiry, we will record our findings. Much like a naturalist uses a field notebook to document the intricate details of her surroundings, we will use our notebooks to record our observations, ideas, and responses. By copying out bits of text that seem important to us, and by jotting down spontaneous thoughts, insights, and questions as we have them, we can harness our innate curiosity and transform it into a more structured exploration. 
@@ -66,7 +66,7 @@ In this class, *the field notes are the work* . . .
 *Field notes are an essential intermediary step in the process of writing.* Some compelling cognitive science research shows the critical importance of these sorts of records as preparation for future, more formal, writing. Notes such as these essentially accomplish the "freezing" of thoughts, ideas, or selected text passages which helps us deal with the central problem of writing: cognitive overload. Since our brains cannot hold the entirety of an argument or the full text of something we are working on, the encoding of these thoughts on the page frees up our brains to perform other, higher-level cognitive tasks. We can leave, return, connect, and reevaluate ideas and texts only once they are manifested on the page. 
 
 ### Staying in Touch
-*The field notebook is a way of staying in touch with who we used to be.* We may preserve an artifact merely because it was beautiful: a quotation, a memorable turn of phrase. Perhaps we save other things because we imagine that they will be useful to us later. Sometimes we are not even sure why we collect certain things in the moment, much as we might have the sudden urge to save a pebble from a stream and place it wet and glistening into our pocket. In her essay "On Keeping a Notebook," Joan Didion says that ultimately she keeps a notebook to "Remember what it was to be me: that is always the point." Years from now, you will have forgotten nearly all of your experiences in college; all that will remain is a blur of faces, some embellished stories, and perhaps a handful of regrets. Unless, of course, you take the time to save some pebbles now.
+*The field notebook is a way of staying in touch with who we used to be.* While field notebooks are a technology for exploring the external world, they may also be used to perform an archeology of the self. We may choose to preserve experiences or thoughts that are not strictly concerned with our intellectual growth. We may preserve an artifact merely because it was beautiful: a quotation, a memorable turn of phrase. We may choose to make entries on a personal struggle or record a feeling of sadness over a loss or disappointment. Sometimes we are not even sure why we collect certain things in the moment, much as we might have the sudden urge to save a pebble from a stream and place it wet and glistening into our pocket. Why might we do this sort of collecting? In her essay "On Keeping a Notebook," Joan Didion says that ultimately she keeps a notebook to "Remember what it was to be me: that is always the point." Years from now, you will have forgotten nearly all of your experiences in college; all that will remain is a blur of faces, some embellished stories, and perhaps a handful of regrets. Unless, of course, you take the time to save some pebbles now.
 
 
 
