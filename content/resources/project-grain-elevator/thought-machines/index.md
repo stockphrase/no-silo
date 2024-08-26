@@ -8,14 +8,14 @@ type: docs
 
 
 
-<div style="text-align:center">{{< figure src="/img/thought-pump2.png" width=400 >}}</div> 
+<div style="text-align:center">{{< figure src="/img/thought-pump.png" width=400 >}}</div> 
 
 
 # Thought Machines
 
 Thought machines are simple mechanisms designed to help us think. Some provoke our thinking by directing our attention to texts or artifacts in certain specific ways. This priming might function as a sort of lens by narrowing our focus on certain features that had previously escaped our view. In other cases, we might seek to broaden our understanding with a more systematic approach that tries to bring a wider, more comprehensive, scope to our analysis. And while these tools may be used on written texts, many of them are useful for examining other cultural artifacts such as film, music, or art.
 
-Each of these machines represent practices that are used by effective writers and researchers. More practiced writers make use of these tools routinely, in concernt, and without much conscious thought. However, breaking them into discrete tools for practice and experimentation is often a very helpful way to learn deeper forms of analysis and critical thinking.
+Each of these machines represent practices that are used by effective writers and researchers. More practiced writers make use of these tools routinely, in concert, and without much conscious thought. However, breaking them into discrete tools for practice and experimentation is often a very helpful way to learn deeper forms of analysis and critical thinking.
 
 
 ## Analysis Cards

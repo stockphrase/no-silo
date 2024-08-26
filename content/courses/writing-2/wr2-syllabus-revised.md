@@ -30,15 +30,11 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Course Theme
 
-Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful influence rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful affects rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and tray to gain some distance on the practices and normalizing structures that have been so much a part of our lives since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
-
-
 ## <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Health Information & Resources
-
-
 
 {{< details "Health Information" >}}
 
@@ -49,8 +45,8 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 
 {{< /hint >}}
 
-- <span style="color: var(--due)"><i class="fas fa-virus"></i> **Do not attend class**</span> if you have a fever, feel ill, or have *any* [symptoms](https://www.cdc.gov/covid/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
-- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you test positive for a respiratory illness: wear a mask, follow [CDC guidance](https://www.cdc.gov/respiratory-viruses/guidance/?CDC_AAref_Val=https://www.cdc.gov/respiratory-viruses/guidance/respiratory-virus-guidance.html), and notify close contacts.
+- <span style="color: var(--warning)"><i class="fas fa-virus"></i> **Do not attend class**</span> if you have a fever, feel ill, or have *any* [symptoms](https://www.cdc.gov/covid/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
+- <span style="color: var(--warning)"><i class="fas fa-virus"></i></span> If you succumb to a respiratory illness: please wear a mask and follow [CDC guidance](https://www.cdc.gov/respiratory-viruses/guidance/?CDC_AAref_Val=https://www.cdc.gov/respiratory-viruses/guidance/respiratory-virus-guidance.html).
 
 ---
 
@@ -59,18 +55,30 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
 {{< /hint >}} 
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
 {{< /hint >}}
 
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
-- <span style="color: var(--in-class)"><i class="fas fa-virus"></i></span> For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
+- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
 
 ---
  
-- <span style="color: var(--in-class)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
+- <span style="color: var(--due)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
+
+
+{{< hint note >}} 
+<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Mental Health & Wellbeing Resources**
+{{< /hint >}}
+
+
+The academic environment is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: 
+- Your [undergraduate dean](https://students.dartmouth.edu/undergraduate-deans/) 
+- The [Counseling Center](https://students.dartmouth.edu/health-service/counseling/about) 
+- The [Student Wellness Center](https://students.dartmouth.edu/wellness-center/) 
+- The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/presentations-trainings/sexual-assault-peer-alliance-sapas) 
 
 {{< /details >}}
 
@@ -94,7 +102,7 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 
 All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
-<span style="color: var(--in-class)"><i class="fa-solid fa-star"></i></span> | Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
+<span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
 
 
 {{< details "Some Thoughts on Generative AI and Writing" >}}
@@ -112,12 +120,13 @@ As [Joshua Thorpe argues](https://wonkhe.com/blogs/the-real-risk-of-generative-a
 I would argue that Thorpe doesn't go quite far enough. Not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and, you know, a human being:
 
 - reading,
-- parsing the meaning of texts and other artifacts,
+- interpreting the meaning of texts and other artifacts,
 - *inventio* (discovering your own arguments and ideas),
 - research,
 - evaluating sources of information,
 - planning and organizing writing, 
-- revising your writing and evaluating feedback from others on your writing.
+- drafting,
+- revising your writing (and evaluating feedback from others on your writing).
 
 AI can disrupt or replace many or all of these processes; the consequences of doing so, however, are exceedingly grim.
 {{< /details >}}
@@ -141,6 +150,7 @@ Four or more unexcused absences may result in repercussions ranging from signifi
 
 ---
 
+<!---
 ## New Habits
 
 
@@ -156,40 +166,42 @@ Four or more unexcused absences may result in repercussions ranging from signifi
 
 If you life is like my life, the strategies you used to succeed in high school will not be sufficient for success in college. If we liken the experience of learning in high school to a drink from a water fountain, then college is like trying to [drink from a firehose](https://www.youtube.com/watch?v=AuU7SDdngy4). 
 
-In college you will encounter a great deal of reading; most of these texts will be quite demanding and complicated. You will be asked to engage these texts critically and to challenge the thinking and conclusions that you find there. You will also have to retain an extraordinary amount of information and recall it later, or preserve it in some accessible way so that you may make use of it for study or your own writing. To thrive in this challenging environment you will need things that I cannot teach you—things like curiosity, desire, patience, openness. However, there are two tools that I can help you with that will take you very far:
+In college you will encounter a great deal of reading; most of these texts will be quite demanding and complicated. You will be asked to engage these texts critically and to challenge the thinking and conclusions that you find there. You will also have to retain an extraordinary amount of information and recall it later, or preserve it in some accessible way so that you may make use of it for study or your own writing. To thrive in this challenging environment you will need a number of things that I cannot teach you—things like curiosity, desire, patience, openness. However, there are two tools that I can help you with that will take you very far:
 
-- A formal procedure for the annotation of texts.
-- A rigorous approach to taking and preserving notes.
+1. A formal procedure for the annotation of texts.
+2. A rigorous approach to taking and preserving notes.
 
+We will practice these vital skills this term as we encounter our course readings. 
 
 ---
 
+--->
 ## Typical Weekly Workflow
 
 Here is a list of the typical assignments and activities that we will do each week:
 
-1. Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there.
+1. Before we meet to discuss a reading as a class, each of you should carefully read and critically engage the text on your own---interrogating, analyzing, and questioning the arguments, ideas, and assumptions you discover there. What do *you* see? What do *you* think? 
 
 2. As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
 3. After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in your [field notebook](/resources/project-grain-elevator/field-notes/). These notes will be valuable to you later, when you write your essays (and perhaps further off in the future). Bring your field notebook(s) to every class meeting. 
 
-Here are longer description of these three activities:
+Here are longer, more detailed, descriptions of these three activities:
 
 ### 1. Annotating Texts
 
-Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. These are flags to draw the attention of your future self to certain important features of a text at some later time. One objective during annotation is to notice a text's structure by flagging its key components---the `thesis,` argumentative `claims,` and pieces of `evidence.` As we try to understand these structural components of a piece of writing, we should also be evaluating and interrogating it. We can use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
+Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. These annotations are flags to draw the attention of your future self to certain important features of a text at some later time. One objective during annotation is to notice a text's structure by flagging its key components---the `thesis,` argumentative `claims,` and pieces of `evidence.` As we try to understand these structural components of a piece of writing, we should also be evaluating and interrogating it. We can use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
 
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fa-solid fa-star"></i></span> | Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | Further advice and caveats about annotation may be found in the ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1/) chapter of the *Open Handbook*.
 {{< /hint >}}
 
 ---
 
 ### 2. Critical Reading Notes
 
-After annotating a text, create an entry in your field notebook for composing critical notes. [Recent research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) reveals that [taking notes by hand](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) results in a significant boost to attention, [brain activity](https://doi.org/10.3389/fpsyg.2023.1219945 ), learning, and recall. Experiments show that students who take notes by hand are more successful than students who take notes on computers. 
+After annotating a text, create an entry in your field notebook for composing critical notes. [Recent research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) reveals that [taking notes by hand](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) results in a significant boost to attention, [brain activity](https://doi.org/10.3389/fpsyg.2023.1219945 ), learning, and recall. In short, experiments show that students who take notes by hand are more successful than students who do so on computers. 
 
 I'd like you to give this a try; you may later decide to memorialize these notes in electronic form, either by retyping or scanning to .pdf. Take *detailed* notes on each of our course texts. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to:
 
@@ -204,7 +216,7 @@ I'd like you to give this a try; you may later decide to memorialize these notes
 At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fa-solid fa-star"></i></span> | For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the [*Open Handbook*](/resources/open-handbook/).
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | For more detailed information on the creation and purpose of these notes, read the chapter on ["Critical Notes"](/resources/open-handbook/chapter-1/) in the [*Open Handbook*](/resources/open-handbook/).
 {{< /hint >}}
 
 ---
@@ -212,9 +224,11 @@ At the end of this rigorous process you should have a simplified version of the 
 ### 3. Field Notebook Entries
 
 
-Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. Keep a tight record of your mind's travels. 
+Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
 
-Our objective for the field notebooks is to explore meaning, discover the argumentative structure(s) of our readings, evaluate supporting evidence, ask probing questions, connect to other readings, take notes, plan revision, and think critically. With luck, your notebook will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. 
+*Keep a tight record of your mind's travels*. 
+
+Our objective for the field notebooks is to explore meaning, discover the argumentative structure(s) of our readings, evaluate supporting evidence, ask probing questions, connect to other readings, take notes, plan revision, and think critically. With luck, your notebook will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. I'm providing these notebooks to you; if you fill yours up, just ask for another one. 
 
 <!---
 You might do many, or all, of these sorts of activities in your field notes:
@@ -253,7 +267,7 @@ Students will submit two formal essays and several smaller writing assignments i
 
 {{< details "On Grading" >}}
 
-> The student . . . can only learn a difficult action insofar *as be can put the teacher inside himself*. He must be student and teacher at the same time. He must, more and more, grade his own tasks, get his own feedback, make his own corrections, and develop his own criteria, standards, for doing these things. Only as he is able to depend less and less on the teacher outside, and use more and more the teacher inside, will he be able to do well what he wants to do. A music student who never knows whether he is playing a note right or wrong except when his teacher tells him so, can't and won't improve from one lesson to the next). In fact, he will forget between lessons most of the few things he may learn there. And so it must always be the first and central task of any teacher to help the student become independent of him, to learn to be his own teacher. The true teacher must always be trying to work himself out of a job. Few understand this.
+> The student . . . can only learn a difficult action insofar *as he can put the teacher inside himself*. He must be student and teacher at the same time. He must, more and more, grade his own tasks, get his own feedback, make his own corrections, and develop his own criteria, standards, for doing these things. Only as he is able to depend less and less on the teacher outside, and use more and more the teacher inside, will he be able to do well what he wants to do. A music student who never knows whether he is playing a note right or wrong except when his teacher tells him so, can't and won't improve from one lesson to the next). In fact, he will forget between lessons most of the few things he may learn there. And so it must always be the first and central task of any teacher to help the student become independent of him, to learn to be his own teacher. The true teacher must always be trying to work himself out of a job. Few understand this.
 
 — Holt, John Caldwell, *Instead of Education : Ways to Help People Do Things Better*
 
@@ -267,7 +281,7 @@ Students will submit two formal essays and several smaller writing assignments i
 
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. I've [written a bit](https://alan-taylor.org/posts/on-evaluating/) about this myself. 
 
-For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback. I will ask a lot of questions and try to push you to grow as a writer. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
+For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback and encouragement. I will ask a lot of questions and try to push you to grow as a writer. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
 
 At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics:
 
@@ -278,7 +292,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Growth
 - Effort
 
-<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> <span class="highlight"> There is one important caveat. To earn this right (and to pass the course), all assignments must be completed and a solid attendance record must be kept. </span>
+<span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | <span class="highlight"> There is one important caveat. To earn this right (and to pass the course), all assignments must be completed and a solid attendance record must be kept. </span>
 
 
 ---
@@ -295,17 +309,7 @@ If you require further help, the [Dartmouth Writing Center](http://dartgo.org/wr
 
 Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
 
-
-## Mental Health & Wellbeing
-
-The academic environment is challenging, our terms are intensive, and classes are not the only demanding part of your life. There are a number of resources available to you on campus to support your wellness, including: 
-- Your [undergraduate dean](https://students.dartmouth.edu/undergraduate-deans/) 
-- The [Counseling Center](https://students.dartmouth.edu/health-service/counseling/about) 
-- The [Student Wellness Center](https://students.dartmouth.edu/wellness-center/) 
-- The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/presentations-trainings/sexual-assault-peer-alliance-sapas) 
-
-
-Please make me aware of anything that will hinder your success in this course. 
+- Please make me aware of anything that will hinder your success in this course. 
 
 ---
 

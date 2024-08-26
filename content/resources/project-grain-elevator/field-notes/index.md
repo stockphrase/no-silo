@@ -4,12 +4,10 @@ bookHidden: false
 bookToC: true
 title: "+ Field Notes"
 type: docs
+draft: true
 ---
 
-
-
-
-<a href="https://fieldnotesbrand.com/"><div style="text-align:center">{{< figure src="/img/field-notes.jpg" width=250 >}}</div></a>
+<a href="https://fieldnotesbrand.com/"><div style="text-align:center">{{< figure src="/img/field-notes.jpg" width=150 >}}</div></a>
 
 # Field Notes
 
@@ -46,24 +44,31 @@ type: docs
 
 > Thoughts one achieves in one’s final draft cannot be articulated at first. They are only reached via a series of intermediate externalized thoughts. Paper can be like a conversation partner, but with the enhancement that the words do not dissolve into the air. What is written can also be taken up by someone else who does, as it were, the backward translation of words into mental models within which he or she can think. In this way, thought can be passed from mind to mind. Also the writer can be the reader, can replay an externalized thought in language form back to himself or herself, and take part in the iterated movement by which thoughts can be improved.
 
-Keith Oatley and Maja Djikic, “Writing as Thinking.”
+--- Keith Oatley and Maja Djikic, “Writing as Thinking.”
 
 {{< /tab >}}
 {{< /tabs >}}
 
+
+## What are field notes?
+
+In this class, *the field notes are the work* . . .
+
 [Field notebooks](https://en.wikipedia.org/wiki/Fieldnotes) have been used by explorers and scientists for centuries to aid in observation, reflection, and preservation. They are records of human attempts to know and understand: chronicles of adventure and discovery in unexplored territories, descriptions of radical otherness and cultural difference, narratives of danger and fear, stories of deeply personal change and evolution. They are also jottings of the most mundane sort: ordinary facts, passing thoughts, offhanded queries, bits of data, placeholders for further study. We will use the conceit of entering the field as a way of understanding our work together in this class. I like how the metaphor of fieldwork conjures scenes of exploration, discovery, danger, and transformation—experiences that I have come to associate with education and the work of learning.
 
-*The field notebook is a technology of observation and intentional curiosity.* Each time we enter the field of inquiry, we will record our findings. Much like a naturalist uses a field notebook to document the intricate details of her surroundings, we will use our notebooks to record our observations, ideas, and responses. By copying out bits of text that seem important to us, and by jotting down spontaneous thoughts, insights, and questions as we have them, we can harness our innate curiosity and transform it into a more structured explorations. 
+### Observation
+*The field notebook is a technology of observation and intentional curiosity.* Each time we enter the field of inquiry, we will record our findings. Much like a naturalist uses a field notebook to document the intricate details of her surroundings, we will use our notebooks to record our observations, ideas, and responses. By copying out bits of text that seem important to us, and by jotting down spontaneous thoughts, insights, and questions as we have them, we can harness our innate curiosity and transform it into a more structured exploration. 
 
+### Reflection
 *The field notebook is a tool for reflection.* When we preserve an artifact, idea, or question in our field notes, it becomes available for future reflection, analysis, connection. Revisiting these notes allows us to engage in a continuous process of re-evaluation and refinement, incorporating new insights and information as they arise by entering into a dialogue with our previous entries. This iterative approach facilitates deeper understanding, allowing us to reassess our initial interpretations and adapt our ideas in light of new perspectives or evidence. The field notebook thus becomes a space for experimentation, for viewing matters different perspectives, for solving complex problems, and for slowly accreting ideas and evidence until they form arguments we believe in. By regularly returning to our field notes, we will engage in a systematic process of idea development, enhancing our ability to think critically and adapting our writing based on an ongoing process of discovery and reflection. 
 
-*Field notes are an essential intermediary step in the process of writing.* Some compelling cognitive science research shows the critical importance of these sorts of records as preparation for future, more formal, writing. Notes such as these essentially accomplish the "freezing" of thoughts or ideas or selected text passages which helps us deal with the central problem of writing: cognitive overload. Since our brains cannot hold the entirety of an argument or the full text of something we are working on, the encoding of these thoughts on the page frees up our brains to perform other, higher-level cognitive tasks. We can leave, return, connect, and reevaluate ideas and texts only once they are manifested on the page. 
+### Writing Process
+*Field notes are an essential intermediary step in the process of writing.* Some compelling cognitive science research shows the critical importance of these sorts of records as preparation for future, more formal, writing. Notes such as these essentially accomplish the "freezing" of thoughts, ideas, or selected text passages which helps us deal with the central problem of writing: cognitive overload. Since our brains cannot hold the entirety of an argument or the full text of something we are working on, the encoding of these thoughts on the page frees up our brains to perform other, higher-level cognitive tasks. We can leave, return, connect, and reevaluate ideas and texts only once they are manifested on the page. 
 
-*The field notebook is a way of staying in touch with who we used to be.* We may preserve an artifact merely because it was beautiful: a quotation, a sketch we made of a tiny bird, a memorable turn of phrase. Perhaps we save other things because we imagine that they will be useful to us later. Sometimes we are not even sure why we collect certain things in the moment, much as we might have the sudden urge to save a pebble from a stream and place it wet and glistening into our pocket. In her essay "On Keeping a Notebook," Joan Didion says that ultimately she keeps a notebook to "Remember what it was to be me: that is always the point." Years from now, you will have forgotten nearly all of your experiences in college; all that will remain is a blur of faces, some embellished stories, and perhaps a handful of regrets. Unless, of course, you take the time to save some pebbles now.
+### Staying in Touch
+*The field notebook is a way of staying in touch with who we used to be.* We may preserve an artifact merely because it was beautiful: a quotation, a memorable turn of phrase. Perhaps we save other things because we imagine that they will be useful to us later. Sometimes we are not even sure why we collect certain things in the moment, much as we might have the sudden urge to save a pebble from a stream and place it wet and glistening into our pocket. In her essay "On Keeping a Notebook," Joan Didion says that ultimately she keeps a notebook to "Remember what it was to be me: that is always the point." Years from now, you will have forgotten nearly all of your experiences in college; all that will remain is a blur of faces, some embellished stories, and perhaps a handful of regrets. Unless, of course, you take the time to save some pebbles now.
 
 
-
-In this class, *the field notes are the work*.
 
 <!---
 *The field notebook is a powerful technology of observation and intentional curiosity*. Much like a naturalist uses a field notebook to document the intricate details of their surroundings, we will use our notebooks to record our observations, ideas, and responses as we work in fields of inquiry. By copying out bits of text that seemed important to us, and by jotting down spontaneous thoughts, insights, and questions as we have them, we can harness our innate curiosity and transform it into a more structured exploration. In this class we will practice writing as tool for slow looking—as a form of meditation and close analysis.  
