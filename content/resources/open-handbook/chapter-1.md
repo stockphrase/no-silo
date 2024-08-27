@@ -26,17 +26,15 @@ consumers of a monologue but active participants in a dialogue.
 
 ---
 
-In college you will encounter demanding texts of great complexity. You
-will be asked to engage these texts critically and to challenge the
-thinking and conclusions of others. You will also have to retain an
-extraordinary amount of information and recall it later. To thrive in
-this environment you will need to develop some new habits and
-strategies. The most basic, and most important, of these are a formal
-procedure for the `annotation of texts` and the creation of `critical
-summary notes.`
+If you life is like my life, the strategies you used to succeed in high school will not be sufficient for success in college. If we liken the experience of learning in high school to a drink from a water fountain, then college is like trying to [drink from a firehose](https://www.youtube.com/watch?v=AuU7SDdngy4). 
 
-Annotating texts
-----------------
+In college you will encounter a great deal of reading; most of these texts will be quite demanding and complicated. You will be asked to engage these texts critically and to challenge the thinking and conclusions that you find there. You will also have to retain an extraordinary amount of information and recall it later, or preserve it in some accessible way so that you may make use of it for study or your own writing. To thrive in this challenging environment you will need a number of things that I cannot teach you—things like curiosity, desire, patience, openness. However, there are two tools that I can help you with that will take you very far:
+
+1. A formal procedure for the annotation of texts.
+2. A rigorous approach to taking and preserving notes.
+
+## Annotating texts
+
 
 `Analysis` involves breaking an `argument` down into smaller parts so that
 you can understand how those parts work together to make the whole. The

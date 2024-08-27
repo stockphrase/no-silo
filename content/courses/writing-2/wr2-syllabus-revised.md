@@ -45,7 +45,7 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 
 {{< /hint >}}
 
-- <span style="color: var(--warning)"><i class="fas fa-virus"></i> **Do not attend class**</span> if you have a fever, feel ill, or have *any* [symptoms](https://www.cdc.gov/covid/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
+- <span style="color: var(--warning)"><i class="fas fa-virus"></i> **Please do not attend class**</span> if you have a fever, feel ill, or have *any* [symptoms](https://www.cdc.gov/covid/signs-symptoms/?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19. 
 - <span style="color: var(--warning)"><i class="fas fa-virus"></i></span> If you succumb to a respiratory illness: please wear a mask and follow [CDC guidance](https://www.cdc.gov/respiratory-viruses/guidance/?CDC_AAref_Val=https://www.cdc.gov/respiratory-viruses/guidance/respiratory-virus-guidance.html).
 
 ---
@@ -100,9 +100,9 @@ The academic environment is challenging, our terms are intensive, and classes ar
 
 ## Academic Honesty
 
-All work submitted in this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
+All work submitted for this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
-<span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
+<span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. Similarly, students must read, summarize, and analyze our course readings without assistance from AI-derived technologies. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
 
 
 {{< details "Some Thoughts on Generative AI and Writing" >}}
@@ -111,13 +111,13 @@ Before we consider using any new tool or technology, we should ask ourselves whe
 
 My sense has always been that the writing classroom is the best place to develop a host of important skills, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies.
 
-An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or “expression” will have a tremendously negative affect on our development as individuals. Used improperly, I fear these new technologies may actually result in a new form of disability. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
+An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or “communication” will have a tremendously negative affect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
 
 As [Joshua Thorpe argues](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/),
 
 >“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.”
 
-I would argue that Thorpe doesn't go quite far enough. Not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and growing as a human being:
+I would argue that Thorpe doesn't go quite far enough: not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and growing as a human being:
 
 - reading widely,
 - interpreting the meaning of texts and other artifacts,
@@ -140,14 +140,15 @@ If you have any questions about this policy or are not sure if a resource you ha
 
 ## Attendance Policy
 
-Regular attendance is expected. Bracketing religious observance, severe illness, or personal tragedy, no more than three unexcused absences in a single term will be acceptable for this course. This policy applies to:
+Regular attendance is expected. Bracketing religious observance, serious illness, or personal tragedy, no more than three unexcused absences in a single term will be acceptable for this course. This policy applies to:
+
 - regular class meetings 
 - assigned X hours 
 - TA meetings
 
 Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
-<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | Please note that I am not a monster, but a warm human. If you experience human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency prevents you from meaningful participation and commitment to the course. As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please don't be a hero by dragging yourself into class; I really would prefer that you consider the heath of the others in our class and stay home. 
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please don't be a hero by dragging yourself into class to avoid an absence. I prefer that you consider the heath of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency prevents you from meaningful participation and commitment to the course. 
 
 ---
 

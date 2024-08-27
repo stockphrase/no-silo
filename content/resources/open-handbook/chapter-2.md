@@ -45,11 +45,9 @@ a real art to this, and you will become better and faster at this as you
 practice. Over time, you will train your mind to operate in such a way
 that you will perform these tasks almost unconsciously as you read.
 These critical notes will be indispensable study aids. They will also
-dramatically improve your writing since key information, important passages, and
-significant quotations from the text will be easily accessible to you with minimal recovery efforts.
+dramatically improve your writing since key information, important passages, and significant quotations from the text will be easily accessible to you with minimal recovery efforts.
 
-These critical summaries are comprised of nothing more than [summary](/resources/open-handbook/chapter-8), [paraphrase](/resources/open-handbook/chapter-8), [quotation](/resources/open-handbook/chapter-8), and your own observations and questions. Quote only the most important, memorable language.
-Summarize or paraphrase the rest in as objective a manner as possible.
+These critical summaries are comprised of nothing more than [summary](/resources/open-handbook/chapter-8), [paraphrase](/resources/open-handbook/chapter-8), [quotation](/resources/open-handbook/chapter-8), and your own observations and questions. Quote only the most important, memorable language. Summarize or paraphrase the rest in as objective a manner as possible.
 Take great care when summarizing or paraphrasing; if your work is too
 similar to the original text and is used later in your own writing, you
 may inadvertently commit [plagiarism](/resources/open-handbook/chapter-10), a serious academic offense.
