@@ -267,20 +267,6 @@ Students will submit two formal essays and several smaller writing assignments i
  
 ## Grading
 
-{{< details "On Grading" >}}
-
-> The student . . . can only learn a difficult action insofar *as he can put the teacher inside himself*. He must be student and teacher at the same time. He must, more and more, grade his own tasks, get his own feedback, make his own corrections, and develop his own criteria, standards, for doing these things. Only as he is able to depend less and less on the teacher outside, and use more and more the teacher inside, will he be able to do well what he wants to do. A music student who never knows whether he is playing a note right or wrong except when his teacher tells him so, can't and won't improve from one lesson to the next). In fact, he will forget between lessons most of the few things he may learn there. And so it must always be the first and central task of any teacher to help the student become independent of him, to learn to be his own teacher. The true teacher must always be trying to work himself out of a job. Few understand this.
-
-— Holt, John Caldwell, *Instead of Education : Ways to Help People Do Things Better*
-
----
-
-> Grades are not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers. We can’t entirely and immediately remove grades, because they are hard-coded into our educational systems, but teachers can (and should) furiously raise our collective eyebrows at grades. And we should do this work together with students.
-
-— Jesse Stommel, *Undoing the Grade*
-
-{{< /details >}}
-
 Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. As [Jesse Stommel writes](https://pressbooks.pub/thegrade/), grades are "not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers." If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. I've [written a bit](https://alan-taylor.org/posts/on-evaluating/) about this myself. 
 
 For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback and encouragement. I will ask a lot of questions and try to push you to grow as a writer. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
