@@ -121,7 +121,7 @@ I would argue that Thorpe doesn't go quite far enough: not only are many of thes
 
 - reading widely,
 - interpreting the meaning of texts and other artifacts,
-- *inventio* (discovering your own arguments and ideas),
+- *[inventio](https://en.wikipedia.org/wiki/Inventio)* (discovering your own arguments and ideas),
 - research,
 - evaluating sources of information,
 - planning and organizing writing, 
@@ -281,7 +281,7 @@ Students will submit two formal essays and several smaller writing assignments i
 
 {{< /details >}}
 
-Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. I've [written a bit](https://alan-taylor.org/posts/on-evaluating/) about this myself. 
+Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. As [Jesse Stommel writes](https://pressbooks.pub/thegrade/), grades are "not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers." If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. I've [written a bit](https://alan-taylor.org/posts/on-evaluating/) about this myself. 
 
 For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback and encouragement. I will ask a lot of questions and try to push you to grow as a writer. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
 
