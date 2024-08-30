@@ -267,9 +267,11 @@ Students will submit two formal essays and several smaller writing assignments i
  
 ## Grading
 
-Decades of research on grading concludes that it is counterproductive, even harmful, to the process of education. As [Jesse Stommel writes](https://pressbooks.pub/thegrade/), grades are "not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers." If you care to examine it for yourself, Alfie Kohn [has conveniently summarized](http://www.alfiekohn.org/article/case-grades/) the key findings of this scholarship. I've [written a bit](https://alan-taylor.org/posts/on-evaluating/) about this myself. 
+A few years ago I decided to quit grading, mostly as an emergency response to the realities of teaching during the COVID pandemic. Although I didn't know it at the time, a large body of research concludes that grading is not just counterproductive, but actively harmful to the process of education. As [Jesse Stommel writes](https://pressbooks.pub/thegrade/), grades are "not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers." Grading produces [three predicable effects](https://muse.jhu.edu/book/78367) in students: "less interest in learning, a preference for easier tasks, and shallower thinking" (xiv). 
 
-For the reasons described by Kohn (and other ones we will explore together), *this class will not feature traditional letter grades for evaluation*. To be sure, I will evaluate your writing and give you rigorous feedback and encouragement. I will ask a lot of questions and try to push you to grow as a writer. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluation of your writing and thinking. But at no point will this complex, important work be reduced to a percentage or letter grade. 
+*It doesn't have to be this way*. 
+
+For the reasons described above (and others we will explore together), **this class will not feature traditional letter grades for evaluation**. To be sure, I will give you feedback and encouragement and promise to assist you in any way that I can. I will ask a lot of questions and try to push you to experiment and grow as a writer. You will receive similar feedback from your colleagues in the class. And you will also perform reflective self-evaluations of your writing, thinking, and effort. But at no point will this complex and important work be reduced to a percentage or letter grade. 
 
 At the end of the term we will reflect together on your progress, effort, participation, and performance; we will decide together what final grade to enter into Banner. This discussion about your performance in the class will involve our mutual reflection on the following topics:
 
@@ -280,14 +282,17 @@ At the end of the term we will reflect together on your progress, effort, partic
 - Growth
 - Effort
 
+{{< hint note >}} 
 <span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | <span class="highlight"> There is one important caveat. To earn this right (and to pass the course), all assignments must be completed and a solid attendance record must be kept. </span>
+
+{{< /hint >}}
 
 
 ---
 
 ## Help With Your Writing
 
-There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes per week to go over your writing and plan revision. 
+There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes each week to go over your writing and plan revision. 
 
 If you require further help, the [Dartmouth Writing Center](http://dartgo.org/writingcenter) is a free support service that is dedicated to helping students through all stages of the writing process and at any point in their undergraduate careers. In one-on-one appointments, peer tutors use facilitative approaches to engage students in active dialogue about writing and help them grow as writers. Tutors can help students develop strategies for generating ideas, find and evaluate research sources, outline and organize information, and revise completed drafts. Students may schedule an appointment with a peer tutor by visiting [Dartmouth Writing Center website](http://dartgo.org/writingcenter).
 
@@ -297,7 +302,7 @@ If you require further help, the [Dartmouth Writing Center](http://dartgo.org/wr
 
 Students requesting disability-related accommodations and services for this course are required to register with Student Accessibility Services (SAS; [Getting Started with SAS webpage](https://students.dartmouth.edu/student-accessibility/students/working-sas/getting-started); student.accessibility.services@dartmouth.edu; 1-603-646-9900) and to request that an accommodation email be sent to me in advance of the need for an accommodation. Then, students should schedule a follow-up meeting with me to determine relevant details such as what role SAS or its [Testing Center](https://students.dartmouth.edu/student-accessibility/services/testing-center) may play in accommodation implementation. This process works best for everyone when completed as early in the quarter as possible. If students have questions about whether they are eligible for accommodations or have concerns about the implementation of their accommodations, they should contact the SAS office. All inquiries and discussions will remain confidential.
 
-- Please make me aware of anything that will hinder your success in this course. 
+- Please make me aware of anything that may hinder your success in this course. 
 
 ---
 
@@ -366,8 +371,6 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fas fa-code-branch"></i> [Annotation Workshop](/courses/workshops/annotation)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
 
-
-
 ---
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.20 
@@ -378,7 +381,8 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> [Friday Soapbox](https://en.wikipedia.org/wiki/Soapbox)
-- <i class="fa-solid fa-pen"></i> Short reponse. 
+- <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
+- <i class="fa-solid fa-pen"></i> Short essay response | TAs work on introductions, paragraphing, topic sentences.
 
 
 {{< /details >}}
@@ -410,7 +414,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< /hint >}} 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-regular fa-file-lines"></i> Return to the text: push for more understanding; map our your confusion; make further observations. Record your thoughts and ideas in your field notebooks.
+- <i class="fa-regular fa-file-lines"></i> Return to the text: push for more understanding; map our your confusion; make further observations. Record your thoughts and ideas in your [field notebooks](/resources/project-grain-elevator/field-notes/).
 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
