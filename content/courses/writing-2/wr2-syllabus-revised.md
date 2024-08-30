@@ -399,7 +399,7 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://canvas.dartmouth.edu)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-regular fa-square-check"></i> Print out, read, annotate, and take critical notes on the Baker reading in your field notebook.
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the Baker reading in your field notebook
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -451,7 +451,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-regular fa-square-check"></i> Print out, read, annotate, and take critical notes on the reading in your field notebook
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the Baker reading in your field notebook
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -515,7 +515,7 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://canvas.dartmouth.edu)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-regular fa-square-check"></i> Print out, read, annotate, and take critical notes on the reading in your field notebook
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the Baker reading in your field notebook
 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
@@ -655,7 +655,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 
-- View and take critical notes on the film in your field notebook. Note the timestamp for important or interesting scenes.  
+- <i class="fa-solid fa-list-check"></i> View and take critical notes on the film in your field notebook. Note the timestamp for important or interesting scenes.  
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
@@ -711,7 +711,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://canvas.dartmouth.edu)
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). 
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998) 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 - <i class="fa-solid fa-person-walking-arrow-loop-left"></i> **Return to the texts**: Attempt to discover the ways that these two texts seem to be in dialogue with each other. How might we use Freire's ideas and arguments and terminology to interpret *Rushmore*? If we used Freire's thinking as a sort of lens, what sorts of things would it bring into focus in the film? Write down your observations and ideas in your field notebooks.
@@ -730,7 +730,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://canvas.dartmouth.edu)
-- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998). 
+- <i class="fa fa-video"></i>  Wes Anderson, [*Rushmore*](https://canvas.dartmouth.edu) (1998) 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> **Independent work**
 - <i class="fa-solid fa-person-walking-arrow-loop-left"></i> **Return to the texts**: Attempt to discover the ways that these two texts seem to be in dialogue with each other. How might we use Freire's ideas and arguments and terminology to interpret *Rushmore*? If we used Freire's thinking as a sort of lens, what sorts of things would it bring into focus in the film? Write down your observations and ideas in your field notebooks.
@@ -900,7 +900,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
-- <i class="fa fa-bullseye"></i> Essay 3 Final
+- <i class="fa fa-bullseye"></i> Essay 2 Final
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 
