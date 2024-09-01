@@ -111,7 +111,7 @@ Before we consider using any new tool or technology, we should ask ourselves whe
 
 My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
-An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or “communication” will have a tremendously negative affect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
+An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” will have a tremendously negative affect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
 
 As [Joshua Thorpe argues](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/),
 
@@ -132,9 +132,7 @@ AI can disrupt or replace many or all of these processes; the consequences of do
 {{< /details >}}
 
 
-
 If you have any questions about this policy or are not sure if a resource you have found will violate this policy, please ask me.
-
 
 ---
 
@@ -152,32 +150,6 @@ Four or more unexcused absences may result in repercussions ranging from signifi
 
 ---
 
-<!---
-## New Habits
-
-
-
-<small>
-
-"Your outcomes are a lagging measure of your habits."
-
-— James Clear, *Atomic Habits*
-
-</small>
-
-
-If you life is like my life, the strategies you used to succeed in high school will not be sufficient for success in college. If we liken the experience of learning in high school to a drink from a water fountain, then college is like trying to [drink from a firehose](https://www.youtube.com/watch?v=AuU7SDdngy4). 
-
-In college you will encounter a great deal of reading; most of these texts will be quite demanding and complicated. You will be asked to engage these texts critically and to challenge the thinking and conclusions that you find there. You will also have to retain an extraordinary amount of information and recall it later, or preserve it in some accessible way so that you may make use of it for study or your own writing. To thrive in this challenging environment you will need a number of things that I cannot teach you—things like curiosity, desire, patience, openness. However, there are two tools that I can help you with that will take you very far:
-
-1. A formal procedure for the annotation of texts.
-2. A rigorous approach to taking and preserving notes.
-
-We will practice these vital skills this term as we encounter our course readings. 
-
----
-
---->
 ## Typical Weekly Workflow
 
 Here is a list of the typical assignments and activities that we will do each week:
@@ -232,24 +204,8 @@ Your [field notebook](/resources/project-grain-elevator/field-notes/) is a recor
 
 Our objective for the field notebooks is to explore meaning, discover the argumentative structure(s) of our readings, evaluate supporting evidence, ask probing questions, connect to other readings, take notes, plan revision, and think critically. With luck, your notebook will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. I'm providing these notebooks to you; if you fill yours up, just ask for another one. 
 
-<!---
-You might do many, or all, of these sorts of activities in your field notes:
 
-- Create a simplified version of the text’s argumentative structure by presenting an ordered list of claims, reasons, and evidence. In other words: an outline. 
-
-- Ask a question about a difficult passage in the text or offer an answer to one posed by another student.
-
-- Define difficult vocabulary.
-
-- Flag a key portion of the essay that seems worthy of discussion or analysis and explain why it seems significant.
-
-- Make a connection between an idea found in one text with others we have read in class (or elsewhere).
-
-- Constructively question, respond, or correct the ideas or work of another member of the class.
-
---->
 ---
-
 
 ## Formal Papers
 
