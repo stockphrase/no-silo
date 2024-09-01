@@ -55,11 +55,9 @@ draft: false
 
 [Field notebooks](https://en.wikipedia.org/wiki/Fieldnotes) have been used by explorers and scientists for centuries to aid in observation, reflection, and preservation. They are records of human attempts to know and understand: chronicles of adventure and discovery in unexplored territories, descriptions of radical otherness and cultural difference, narratives of danger and fear, stories of deeply personal change and evolution. They are also jottings of the most mundane sort: ordinary facts, passing thoughts, offhanded queries, bits of data, placeholders for further study—even a [weird fantasy about a little bird that keeps repeatedly building a nest on your house](/img/birdngun.jpg). We will use the conceit of entering the field as a way of understanding our work together in this class. I like how the metaphor of fieldwork conjures scenes of exploration, discovery, danger, and transformation—experiences that I have come to associate with education and the work of learning.
 
-This term we'll be keeping all of our course notes, thinking, inquiry, and planning ideas inside a notebook—likely a series of them. When you think of this class, of the work of this class, I want you to think of your field notes. 
+This term we'll be keeping all of our course notes, thinking, inquiry, and planning ideas inside a notebook—likely a series of them. When you have an idea, a passing thought, when you discover an interesting quotation from a reading, when you detect a connection between our class and something outside of it, when you create an outline for your upcoming draft or receive some good advice from our teaching assistant, I want you to put it in this book. When you think of this class, of the work of this class, I want you to think of your field notes. 
 
-*In this class, the field notes are the work*. 
-
-When you have an idea, a passing thought, when you discover an interesting quotation from a reading, when you detect a connection between our class and something outside of it, when you create an outline for your upcoming draft or receive some good advice from our teaching assistant, I want you to put it in this book. 
+#### *In this class, the field notes are the work*. 
 
 ---
 
@@ -75,7 +73,7 @@ When you have an idea, a passing thought, when you discover an interesting quota
 ### Staying in Touch
 *The field notebook is a way of staying in touch with who we used to be.* While field notebooks aid our explorations of the external world, they may also be used to perform an archeology of the self. We may choose to preserve experiences or thoughts that are not strictly concerned with our coursework—recordings of everyday events and facts about our lives. We might preserve a song lyric, a dream, an observation about a close friend. Or we may choose to make entries on a personal struggle or record a feeling of loss or disappointment that shattered us. Sometimes we may have no idea why we decide to preserve certain things, much as we might have the sudden urge to save a pebble from a stream and place it wet and glistening into our pocket. Why might we do this sort of collecting?  In her essay "[On Keeping a Notebook](https://en.wikipedia.org/wiki/Slouching_Towards_Bethlehem)," Joan Didion says that ultimately she keeps a notebook to "Remember what it was to be me: that is always the point." Years from now, you will have forgotten nearly all of your experiences in college; all that will remain is a blur of faces, some embellished stories, and perhaps a handful of regrets. Unless, of course, you take the time to save some pebbles now. 
 
-- Relatedly, there is also [decades of compelling research](https://doi.org/10.1093/oxfordhb/9780195342819.013.0018) showing that personal journal writing helps relieve anxiety, [depression](https://doi.org/10.1016/j.beth.2006.01.004), and other [stress-related disorders](https://doi.org/10.1093/oxfordhb/9780190681777.013.34). Obviously, for the sake of privacy, you might choose to put more personal thoughts in a separate notebook.
+- Possibly related: there is also [several decades of compelling research](https://doi.org/10.1093/oxfordhb/9780195342819.013.0018) showing that personal journal writing helps relieve anxiety, [depression](https://doi.org/10.1016/j.beth.2006.01.004), and other [stress-related disorders](https://doi.org/10.1093/oxfordhb/9780190681777.013.34). Obviously, for the sake of privacy, you might choose to put more personal thoughts in a separate notebook. 
 
 {{< details "How to Set up your Field Notebook" >}}
 

@@ -30,9 +30,9 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Course Theme
 
-Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful affects rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful affects rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
-Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and tray to gain some distance on the practices and normalizing structures that have been so much a part of our lives since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
+Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and try to gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
 ## <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Health Information & Resources
 
@@ -107,9 +107,9 @@ All work submitted for this course must be your own and be written exclusively f
 
 {{< details "Some Thoughts on Generative AI and Writing" >}}
 
-Before we consider using any new tool or technology, we should ask ourselves whether it contributes to the overall purpose of education. While Generative AI certainly has a place in many fields and disciplines in varying degrees (and I’m genuinely excited about many aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
+Before we consider using any new tool or technology, we should ask ourselves whether it contributes to the overall purpose of education. While Generative AI certainly has a place in many fields and disciplines (and I’m genuinely excited about many aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
 
-My sense has always been that the writing classroom is the best place to develop a host of important skills, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies.
+My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
 An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or “communication” will have a tremendously negative affect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
 
@@ -331,7 +331,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week One" >}}
+{{< details "Week 1" open >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> | Monday, 9.16
@@ -389,7 +389,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Two" >}}
+{{< details "Week 2" >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.23 
@@ -399,7 +399,7 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://canvas.dartmouth.edu)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the Baker reading in your field notebook
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your field notebook
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -439,7 +439,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Three" >}}
+{{< details "Week 3" >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.30
@@ -451,7 +451,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the Baker reading in your field notebook
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your field notebook
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -503,7 +503,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Four" >}}
+{{< details "Week 4" >}}
 #
 
 {{< hint note >}} 
@@ -515,7 +515,7 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-download"></i>  Paulo Freire, ["The Banking Concept of Education"](https://canvas.dartmouth.edu)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the Baker reading in your field notebook
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your field notebook
 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
@@ -566,7 +566,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Five" >}}
+{{< details "Week 5" >}}
 
 
 {{< hint note >}} 
@@ -640,7 +640,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Six"  >}}
+{{< details "Week 6"  >}}
 #
 
 
@@ -702,7 +702,7 @@ Students requesting disability-related accommodations and services for this cour
 <br>
 
 
-{{< details "Week Seven" open >}}
+{{< details "Week 7" >}}
 
 
 {{< hint note >}} 
@@ -765,7 +765,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Eight" open >}}
+{{< details "Week 8" >}}
 
 
 {{< hint note >}} 
@@ -836,7 +836,7 @@ Students requesting disability-related accommodations and services for this cour
 <br>
 
 
-{{< details "Week Nine" open >}}
+{{< details "Week 9" >}}
 #
 
 {{< hint note >}} 
@@ -879,7 +879,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week Ten" open >}}
+{{< details "Week 10" >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.17
