@@ -19,12 +19,10 @@ title: "Writing 2: Syllabus"
 #### <span style="color: var(--due)"><i class="fa-solid fa-person-falling-burst"></i></span>  |  Weapons of Mass Instruction: Authority, Education, Pedagogy
 {{< /hint >}} 
 
-## 
 
 ## Course Description
 
-
-Writing 2-3 is an introduction to academic writing and research. The course prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
+Writing 2-3 is an introduction to academic writing and research. The course sequence prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
@@ -38,8 +36,6 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 
 {{< details "Health Information" >}}
 
-#
-
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
 
@@ -49,7 +45,6 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 - <span style="color: var(--warning)"><i class="fas fa-virus"></i></span> If you succumb to a respiratory illness: please wear a mask and follow [CDC guidance](https://www.cdc.gov/respiratory-viruses/guidance/?CDC_AAref_Val=https://www.cdc.gov/respiratory-viruses/guidance/respiratory-virus-guidance.html).
 
 ---
-
 
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
@@ -68,7 +63,6 @@ Although it is quite difficult to escape the naturalizing trance that comes from
  
 - <span style="color: var(--due)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
 
-
 {{< hint note >}} 
 <span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Mental Health & Wellbeing Resources**
 {{< /hint >}}
@@ -81,8 +75,6 @@ The academic environment is challenging, our terms are intensive, and classes ar
 - The student-led [Sexual Assault Peer Alliance (SAPAs)](https://students.dartmouth.edu/health-service/counseling/presentations-trainings/sexual-assault-peer-alliance-sapas) 
 
 {{< /details >}}
-
-
 
 ## Required Texts
 
@@ -146,7 +138,7 @@ Regular attendance is expected. Bracketing religious observance, serious illness
 
 Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
-<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please don't be a hero by dragging yourself into class to avoid an absence. I prefer that you consider the heath of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency prevents you from meaningful participation and commitment to the course. 
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the heath of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency prevents you from meaningful participation and commitment to the course. 
 
 ---
 
