@@ -22,13 +22,13 @@ title: "Writing 2: Syllabus"
 
 ## Course Description
 
-Writing 2-3 is an introduction to academic writing and research. The course sequence prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
+Writing 2-3 is an introduction to academic writing and research. This course sequence prepares you for work in a scholarly environment where you will be expected to engage in inquiry, perform analysis, and communicate clearly. We will cultivate these critical practices by reading and analyzing a series of demanding texts, discussing them together, and composing responses to them in the form of essays. Shorter writing assignments will focus on a number of skills that are important for taking part in academic conversations. 
 
 During the winter term we will turn our focus to academic research. Our libraries hold an impressive array of traditional and electronic search tools as well as millions of books, journal articles, and assorted media. Although navigating this vast sea of information is intimidating, it is important that you find your way: excellent research skills are fundamental to your undergraduate training, regardless of your chosen field of study. In consideration of its importance, we will spend a significant amount of time learning how to use our library effectively.
 
 ## Course Theme
 
-Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful affects rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and try to gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
@@ -94,9 +94,9 @@ The academic environment is challenging, our terms are intensive, and classes ar
 
 All work submitted for this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
 
-<span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to outline, write, or edit assignments of any kind is an academic integrity violation. Similarly, students must read, summarize, and analyze our course readings without assistance from AI-derived technologies. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
+<span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | Since all work submitted for this course must be your own, the use of any artificial intelligence is not allowed. Any use of a [LLM-based AI](https://en.wikipedia.org/wiki/Large_language_model) to brainstorm, outline, write, or edit assignments of any kind is an academic integrity violation. Similarly, students must read, summarize, and analyze our course readings without assistance from AI-derived technologies. These AI programs include, but are not limited to, bots like ChatGPT, Bard, and Claude or AI-based writing assistant tools like Grammarly, Quillbot, and WordTune.
 
-
+<!---
 {{< details "Some Thoughts on Generative AI and Writing" >}}
 
 Before we consider using any new tool or technology, we should ask ourselves whether it contributes to the overall purpose of education. While Generative AI certainly has a place in many fields and disciplines (and I’m genuinely excited about many aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
@@ -104,6 +104,11 @@ Before we consider using any new tool or technology, we should ask ourselves whe
 My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
 An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” will have a tremendously negative affect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us?
+
+Given our culture's current approach to education, using an AI tool to cut corners makes perfect sense. The reigning model of education imagines education in economic terms, as a series of transactions between students and teachers that centers on the production of educational artifacts. Products are submitted to teachers and then compensated by a grade and the right to move to another level of the game. If the goal is merely to receive a good grade and level up, then it makes perfect sense to cut corners and save the time and effort in the manufacture of educational artifacts. But is that the purpose of education? I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
+
+> “An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others. Similarly, learning a new language is much more than being able to speak in that tongue; bilingualism is about learning another style of thinking, taking on a different cultural identity, and embodying an alternative way of being and living in the world” (3).
+
 
 As [Joshua Thorpe argues](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/),
 
@@ -126,6 +131,7 @@ AI can disrupt or replace many or all of these processes; the consequences of do
 
 If you have any questions about this policy or are not sure if a resource you have found will violate this policy, please ask me.
 
+--->
 ---
 
 ## Attendance Policy
@@ -138,7 +144,7 @@ Regular attendance is expected. Bracketing religious observance, serious illness
 
 Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
-<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the heath of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency prevents you from meaningful participation and commitment to the course. 
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span>  As I [mention in the health information above](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources): if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the heath of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problems of the sort that run up against this policy, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency is so prolonged that it prevents meaningful participation and commitment to the course. 
 
 ---
 
@@ -156,7 +162,7 @@ Here are longer, more detailed, descriptions of these three activities:
 
 ### 1. Annotating Texts
 
-Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. These annotations are flags to draw the attention of your future self to certain important features of a text at some later time. One objective during annotation is to notice a text's structure by flagging its key components---the `thesis,` argumentative `claims,` and pieces of `evidence.` As we try to understand these structural components of a piece of writing, we should also be evaluating and interrogating it. We can use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
+Rather than use a laptop or tablet to read our course readings, *I ask that you print them out and annotate them as part of your preparations for class*. Annotation refers to the process of marking up a text by adding your own words and symbols to the document itself. There is no right or wrong way to mark up a text, but you should develop a system that you are comfortable with and try to stick with it. These annotations are flags to draw the attention of your future self to certain important features of a text at some later time. One key objective during annotation is to notice a text's structure by flagging its main components---the `thesis,` argumentative `claims,` and pieces of `evidence.` As we try to understand these structural components of a piece of writing, we should also be evaluating and interrogating it. We can use the margins of the text to ask questions, make brief notes, indicate confusion, define unfamiliar terms, and make connections to other texts. This work serves two purposes: first, it helps you maintain a critical focus as you read; second, it helps you later if the text must be used for study or your own writing. If you plan on being successful in college, the ability to rigorously annotate texts is perhaps the most helpful and important skill you can develop.
 
 
 {{< hint note >}}
@@ -190,12 +196,11 @@ At the end of this rigorous process you should have a simplified version of the 
 ### 3. Field Notebook Entries
 
 
-Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
+Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering as you explore various fields of inquiry. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
 
 *Keep a tight record of your mind's travels*. 
 
 Our objective for the field notebooks is to explore meaning, discover the argumentative structure(s) of our readings, evaluate supporting evidence, ask probing questions, connect to other readings, take notes, plan revision, and think critically. With luck, your notebook will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. I'm providing these notebooks to you; if you fill yours up, just ask for another one. 
-
 
 ---
 
