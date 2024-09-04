@@ -333,8 +333,37 @@ Each of these machines represent practices that are used by effective writers an
 
  <div class="edge-shadow"></div>
         </div>
+      </div>  
+      
+ {{< /details >}}   
+
+<br>     
+   
+   
+{{< details "15. Indagate" >}}
+
+<div class="container">
+        <div class="raised-edge">      
+<p style="font-family:TrixieHDOT-Heavy"><span style="color: var(--readings)"><i class="fa-solid fa-circle-half-stroke"></i></span> NO SILO > PROJECT GRAIN ELEVATOR > ANALYSIS CARDS 1.0</p>
+      
+<p style="font-family:TrixieHDOT-Heavy"></font></i> 15) INDAGATE:</p>
+
+---
+
+<p style="font-family:TrixieHDOT-Heavy"> <a href="https://www.merriam-webster.com/dictionary/indagate">Indigate</a> is an uncommon term that comes into English from the Latin verb <i>indagare</i>, which suggests a hunter tracking game. I like this word better than the more common "investigate," since it suggests work in the field and encounters with wildness, the unknown, danger. Find some small reference in the text that you are unfamilliar with. Perhaps it is a reference to a person, some place, a group of people, or some other thing that is unexplained in the text. Find something that you are curious about. Track down the reference and write a paragraph or two about what you find after you have captured your prey. How does this thing relate to the broader text or argument? How does this new knowledge relate to the text? What meaning(s) does it unlock? </p>
+
+---
+
+ <div class="edge-shadow"></div>
+        </div>
       </div>   
+
+{{< /details >}}      
+ 
+<br>      
+      
+       
           
-{{< /details >}}         
+
 
 
