@@ -28,7 +28,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Course Theme
 
-Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and try to gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
@@ -360,7 +360,7 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://canvas.dartmouth.edu)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your field notebook
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/)
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -444,7 +444,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla) (skim, as needed)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["MLA Style"](/resources/open-handbook/chapter-11-mla)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Working with Sources"](/resources/open-handbook/chapter-8/)
 
 
