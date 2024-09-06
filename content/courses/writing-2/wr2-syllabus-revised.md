@@ -337,6 +337,8 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
+- <i class="fa fa-book-open"></i> ["What are field notes?"](/resources/project-grain-elevator/field-notes/)
+
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> [Friday Soapbox](https://en.wikipedia.org/wiki/Soapbox)

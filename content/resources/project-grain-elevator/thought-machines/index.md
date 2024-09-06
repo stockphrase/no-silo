@@ -67,7 +67,7 @@ Each of these machines represent practices that are used by effective writers an
 
 <br>
 
-{{< details "3. Response" >}}
+{{< details "3. Quick Response" >}}
 
 <br>
 
@@ -350,7 +350,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> <a href="https://www.merriam-webster.com/dictionary/indagate">Indagate</a> is an unusual verb that comes into English from the Latin <i>indagare</i>, which suggests a hunter tracking game. Find some small reference in the text that you are unfamiliar with. Perhaps it is a reference to a person, a place, a group of people, or some other thing that is left unexplained in the text. Find something that you are curious about. Hunt down the reference and write a paragraph or two about what you find once you've captured your prey. How does this thing relate to the broader text or argument? Why is this reference here? Now that you know this, what meaning(s) does it unlock for you in the text? </p>
+<p style="font-family:TrixieHDOT-Heavy"> <a href="https://www.merriam-webster.com/dictionary/indagate">Indagate</a> is an unusual verb that comes into English from the Latin <i>indagare</i>, which suggests a hunter tracking game. Find some small reference in the text that you are unfamiliar with. Perhaps it is a reference to a person, a place, a group of people, or some other thing that is left unexplained in the text. Find something that you are curious about. Indagate by hunting down the reference and writing a paragraph or two about what you find once you've captured your prey. How does this thing relate to the broader text or argument? Why is this reference here? Now that you know this, what meaning(s) does it unlock for you in the text? </p>
 
 ---
 
