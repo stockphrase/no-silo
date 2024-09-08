@@ -3,26 +3,30 @@ weight: 1
 bookFlatSection: true
 bookToc: true
 bookHidden: true
-title: "Synthesis"
+title: "Essay 2"
 ---
+
+
+{{< hint info >}}
+### <i class="fas fa-exclamation-triangle"></i> DRAFT
+
+{{< /hint >}}
 
 # Essay 2
 
 
 ## Prompt
 
-Percy and Freire, each in their own way, ask us to consider the problem of authority within educational systems and the experience of learning. Write an essay that `synthesizes` their thinking, explaining how they both investigate the nature of this problem, examine its consequences, and offer solutions.
+Percy and Freire, each in their own way, ask us to consider the problem of authority within systems or experiences of education. Write an essay that `synthesizes` their thinking, explaining how they both investigate the nature of this problem, examine its consequences, and offer solutions.
 
-## Plan of attack
+To begin, review your `close reading` exercises, annotations, and other field note entries for Percy and Freire's essays. Using these items as resources—and by returning to the full texts again—discover a problem or issue in both essays that you would like to work on. If we imagine that these texts are broadly in dialogue with each other, what is the main concern or problem that is their focus? And what are the positions, arguments, ideas, and terminology that the two sources seem to share? Do the authors articulate identical concerns? Or do they differ in important ways? What reasoning supports their arguments? Do they offer similar conclusions or are there significant differences? And how do those differences matter? 
 
-Review your `close reading` exercises, annotations, and other field note entries for Percy and Freire's essays. Using these items as resources, and by returning to the texts again, discover a problem or issue in both essays that you would like to work on. If we imagine that these texts are broadly in dialogue with each other, what is the main concern or problem that is their focus? And what are the positions, arguments, ideas, and terminology that the two sources have in common? Do the authors articulate identical concerns? Or do they differ in important ways? What reasoning supports their arguments? Do they offer similar conclusions or are there significant differences? 
-
-Throughout this essay we should hear *your* voice; it should be clear that there is a thinking mind orchestrating this deeply comparative analysis for a purpose of his/her own design. Why is all of this important? Why do the ideas in these essays matter? Is there a key difference in the thinking of the two authors that carries great significance to your mind? What are the consequences for failing to have the right view on these concerns or take the appropriate action? In short, it should be clear what *you* think.
+Throughout this essay we should hear *your* voice; it should be clear that there is a thinking mind orchestrating this deeply comparative analysis for a purpose of his/her own design. Why is all of this important? Why do the ideas in these essays matter? What are the consequences for failing to have the right view on these concerns or take the appropriate action? In short, it should be clear what *you* think.
 
 {{< hint info >}}
 ### <i class="fas fa-exclamation-triangle"></i> Special Note
 
-Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Like our `close reading` in class, your job here is to clearly explain the ideas and arguments of the authors, using their words and terms as evidence. Using summary, paraphrase, and quotation, compare and contrast the authors’ positions. Make sure to cite each of these appropriately. Use clear [signal phrases](/resources/open-handbook/chapter-8/#working-with-sources) to transition between your presentations of the various author’s ideas or works.
+Synthesis is very textual in nature: you must show explicit textual evidence for each of the claims you attribute to the authors. Like our `close reading` work in class, your job here is to clearly explain the ideas and arguments of these thinkers, using their words and terms as evidence. Using summary, paraphrase, and quotation, explain the two arguments to your audience, comparing and contrasting the authors’ viewpoints. Make sure to cite any reference to the text appropriately. Use clear [signal phrases](/resources/open-handbook/chapter-8/#working-with-sources) to transition between your presentations of the various author’s ideas or works.
 {{< /hint >}}
 
 {{< hint note >}} 
