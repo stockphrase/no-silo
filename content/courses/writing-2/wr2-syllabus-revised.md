@@ -303,9 +303,9 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Consider these questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions in your provided [field notebooks](/resources/project-grain-elevator/field-notes/). 
-- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
+    - <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; do not request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
 
-- <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; do not request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
+- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
 
 
 {{< hint note >}} 
@@ -718,7 +718,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
-- <i class="fa fa-bullseye"></i> Essay 1 Final
+- <i class="fa fa-bullseye"></i> Essay 2 Final
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 - <i class="fa fa-wrench"></i> [Bibliography | Works Cited](/courses/workshops/mla-bibliography) workshop
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
@@ -779,7 +779,7 @@ Students requesting disability-related accommodations and services for this cour
 
 - <i class="fa fa-box"></i> Friday Soapbox
 - <i class="fa fa-wrench"></i> [Show, don't tell](/courses/workshops/show-not-tell/) workshop
-- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 3
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
