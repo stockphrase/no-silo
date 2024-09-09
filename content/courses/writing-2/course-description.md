@@ -33,12 +33,11 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 
 ### <span style="color: var(--in-class)"><i class="fas fa-plus-circle"></i></span> Major Assignments
 
-<!---
+
 {{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 1: Argument](/courses/writing-2/essay-1)
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 1](/courses/writing-2/essay-1)
 {{< /hint >}} 
 
---->
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [Essay 2](/courses/writing-2/essay-synthesis)
 {{< /hint >}} 

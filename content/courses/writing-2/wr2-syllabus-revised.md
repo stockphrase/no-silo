@@ -32,12 +32,12 @@ Formal education is one of the central features of our early life---a deep, orga
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and try to gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
-## <span style="color: var(--due)"><i class="fas fa-virus"></i></span> Health Information & Resources
+## <span style="color: var(--health)"><i class="fas fa-virus"></i></span> Health Information & Resources
 
 {{< details "Health Information" >}}
 
 {{< hint note >}} 
-<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
+<span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Classroom Safety**
 
 {{< /hint >}}
 
@@ -47,24 +47,24 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 ---
 
 {{< hint note >}} 
-<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
+<span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
 {{< /hint >}} 
 
-- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
 
 {{< hint note >}} 
-<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
+<span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
 {{< /hint >}}
 
-- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
-- <span style="color: var(--due)"><i class="fas fa-virus"></i></span> For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
+- The [Dartmouth College Health Service](https://students.dartmouth.edu/health-service/department/dartmouth-college-health-service) (primary care, counseling, wellness).
+- For general information on Dartmouth's COVID policies, visit [Dartmouth Together](https://covid.dartmouth.edu/home).
 
 ---
  
-- <span style="color: var(--due)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
+- <span style="color: var(--health)"><i class="fas fa-syringe"></i> </span> If you would like to get vaccinated, [find a shot near you](https://www.vaccines.gov/).
 
 {{< hint note >}} 
-<span style="color: var(--due)"><i class="far fa-dot-circle"></i></span>  **Mental Health & Wellbeing Resources**
+<span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Mental Health & Wellbeing Resources**
 {{< /hint >}}
 
 
@@ -85,9 +85,9 @@ The academic environment is challenging, our terms are intensive, and classes ar
 
 | Link                                   | Purpose                                                                                                              |
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
-| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook).  |
-| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                       |                                                                   |
-| [FAQs](/resources/FAQs)                | Frequently asked questions about the course.
+| [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook)  |
+| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media                                                                       |                                                                   |
+| [FAQs](/resources/FAQs)                | Frequently asked questions about the course
  
 
 ## Academic Honesty
@@ -132,7 +132,6 @@ AI can disrupt or replace many or all of these processes; the consequences of do
 
 
 If you have any questions about this policy or are not sure if a resource you have found will violate this policy, please ask me.
-
 
 ---
 
@@ -200,7 +199,6 @@ At the end of this rigorous process you should have a simplified version of the 
 
 ### 3. Field Notebook Entries
 
-
 Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering as you explore various fields of inquiry. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
 
 *Keep a tight record of your mind's travels*. 
@@ -244,7 +242,6 @@ At the end of the term we will reflect together on your progress, effort, partic
 <span style="color: var(--warning)"><i class="fa-solid fa-star"></i></span> | <span class="highlight"> There is one important caveat. To earn this right (and to pass the course), all assignments must be completed and a solid attendance record must be kept. </span>
 
 {{< /hint >}}
-
 
 ---
 
@@ -306,8 +303,9 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Consider these questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions in your provided [field notebooks](/resources/project-grain-elevator/field-notes/). 
-  
-- <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google; don't ask your roommate or call your uncle Pete; do not request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
+- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
+
+- <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; do not request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
 
 
 {{< hint note >}} 
@@ -320,8 +318,6 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
   
-
-
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1jp5ZFBZzS3mzM10OmV_UAMmNv6jL2qM1IldHVJHcji0/edit?usp=sharing)
@@ -342,8 +338,15 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> [Friday Soapbox](https://en.wikipedia.org/wiki/Soapbox)
 - <i class="fa fa-bullhorn"></i> Discussion: *What is education? What is its purpose?*
-- <i class="fa-solid fa-pen"></i> Short essay response | TAs work on introductions, paragraphing, topic sentences.
 
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+- <i class="fa fa-bullseye"></i> Essay 1 Draft
+    - <i class="fas fa-print"></i> Bring a printout of your essay to class
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
+    
+---
+- <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> [TA Zone](https://docs.google.com/document/d/1tGlGUkdBVWD47E63y93mOkhHME4X4UHmKbJqc3BS-Mc/edit?usp=drive_link) 
 
 {{< /details >}}
 
@@ -364,8 +367,6 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss Baker reading and field notes
-
-
 
 ---
 
@@ -392,7 +393,9 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
+- <i class="fa-solid fa-magnifying-glass"></i>  Close reading exercise  
 - <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
+
 
 
 {{< /details >}}

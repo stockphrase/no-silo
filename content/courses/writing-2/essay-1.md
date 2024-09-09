@@ -6,13 +6,15 @@ bookHidden: true
 title: "Essay One"
 ---
 
-# Essay 1: Argument
+# Essay 1
 
 ---
 
 ## Prompt
 
-What is education? What is its purpose? Write an essay exploring these questions.
+What is education? What is its purpose? Write an essay exploring these questions. 
+
+I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek out no help for this essay**. No googling; no library visits; don’t ask your uncle, friends, or roommate; no ChatGPT. Just use your head and write what you think in the best way you know how. 
 
 {{< hint note >}} 
 
@@ -27,13 +29,9 @@ What is education? What is its purpose? Write an essay exploring these questions
 
 ---
 
-## Special requirements
+## Revising with Close Readings
 
-- **Perform no research for this essay**. Do not seek help: no googling; no library visits; don’t ask your uncle, friends, or roommate; no ChatGPT. Just use your head and write what you think in the best way you know how. 
-
-{{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Don't worry: you are going to do great! I really just want to know what you think.
-{{< /hint >}} 
+This essay will be revised at several points during the term. After each of our course readings, I will ask that you revise your argument by incorporating a series of [close readings](/resources/project-grain-elevator/thought-machines/) drawn from our course texts. Don't worry if you've never heard the term close reading before; we will learn about and practice close reading in the coming weeks together. The objective for each revision is that you choose a passage that seems to speak in some way to your prior thinking. In some cases the passage may be used to bolster your initial argument or claims about education; in other cases the passage may deeply challenge or problematize your early thought about the purpose(s) of education. In this way, each draft will be unique, and perhaps incomensurate with each other. Your new take on the question will be inspired by the passage that you choose for the text. Each revision should seek to You will submit it on the last day of classes. I expect that as a result of our conversations, the readings, and your own thinking, that you will experience a change of mind. 
 
 <!---
 
