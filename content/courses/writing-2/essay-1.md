@@ -14,7 +14,7 @@ title: "Essay One"
 
 What is education? What is its purpose? Write an essay exploring these questions. 
 
-I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek out no help for this essay**. No googling; no library visits; don’t ask your uncle, friends, or roommate; no ChatGPT. Just use your head and write what you think in the best way you know how. 
+I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek no help for this assignment**. No googling; no library visits; don’t ask your uncle, friends, or roommate; no ChatGPT. Just use your head and write what you think in the best way you know how. Don't worry: it will be fine!
 
 {{< hint note >}} 
 
@@ -31,7 +31,11 @@ I am interested in *your* views, your understanding, your argument. So I ask tha
 
 ## Revising with Close Readings
 
-This essay will be revised at several points during the term. After each of our course readings, I will ask that you revise your argument by incorporating a series of [close readings](/resources/project-grain-elevator/thought-machines/) drawn from our course texts. Don't worry if you've never heard the term close reading before; we will learn about and practice close reading in the coming weeks together. The objective for each revision is that you choose a passage that seems to speak in some way to your prior thinking. In some cases the passage may be used to bolster your initial argument or claims about education; in other cases the passage may deeply challenge or problematize your early thought about the purpose(s) of education. In this way, each draft will be unique, and perhaps incomensurate with each other. Your new take on the question will be inspired by the passage that you choose for the text. Each revision should seek to You will submit it on the last day of classes. I expect that as a result of our conversations, the readings, and your own thinking, that you will experience a change of mind. 
+This short essay will be revised at several points during the term. After we complete each of our course readings, I will ask that you revise your argument by incorporating a [close reading](/resources/project-grain-elevator/thought-machines/) drawn from the course text. Don't worry if you've never heard the term `close reading` before; we will learn about and practice close reading in the coming weeks together using our [field notebooks](/resources/project-grain-elevator/field-notes/). 
+
+The objective for each revision is that you choose a passage from the reading that seems to speak in some way to your prior thinking. In some cases the passage may be used to bolster your initial argument or claims about education; more likely, though, the passage will fundamentally challenge or problematize your earlier thinking. In this way, each draft will be unique, and perhaps incommensurable with each other. In short, the essay should register how you've changed your mind based on new evidence. Your essay drafts will essentially become artifacts memorializing these transformations of your thinking. 
+
+An important feature of these essays is that *the main claim or stance that you took in your first draft should be preserved in each subsequent one*. For example, if you argued that the purpose of education is to help us learn important values, then each subsequent essay should also take that idea as its subject. However, in the new draft your future self may end up arguing vociferously against your past self because of the new evidence you've discovered through the close reading. You will submit a ~~final~~ last draft of your thinking on the last day of classes and discuss your intellectual journey with the class. 
 
 <!---
 

@@ -341,7 +341,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-- <i class="fa fa-bullseye"></i> Essay 1 Draft
+- <i class="fa fa-bullseye"></i> Essay 1 draft
     - <i class="fas fa-print"></i> Bring a printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
     
@@ -459,7 +459,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-bullseye"></i> Argument Summary Workshop 
     - <i class="fas fa-print"></i> Bring a printed copy of your workshop to class
-
+- <i class="fa fa-bullseye"></i> [Essay 1.1 revision](/courses/writing-2/essay-1/) `#sovereignty` 
  
 
 {{< /details >}}
@@ -517,13 +517,13 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 
-- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-synthesis)
+- <i class="fa fa-calendar-alt"></i> [Essay 2](/courses/writing-2/essay-synthesis)
 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
-
+- <i class="fa fa-bullseye"></i> [Essay 1.2 revision](/courses/writing-2/essay-1/) `#banking` 
 
 {{< /details >}}
 
@@ -586,14 +586,14 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 1.
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review) of Essay 2.
 
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - <i class="fa fa-wrench"></i> [Altering Sources Workshop](/courses/workshops/altering-sources/)
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
-- <i class="fa fa-bullseye"></i> Essay 1 Draft
+- <i class="fa fa-bullseye"></i> Essay 2 Draft
     - <i class="fas fa-print"></i> Bring printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu/)
 
@@ -639,7 +639,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 
-- <i class="fa fa-calendar-alt"></i> [Essay 2](/courses/writing-2/essay-3)
+- <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
 
 ---
@@ -784,7 +784,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
-- <i class="fa fa-bullseye"></i> Essay 2 Draft
+- <i class="fa fa-bullseye"></i> Essay 3 Draft
     - <i class="fas fa-print"></i> Bring printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
@@ -855,6 +855,10 @@ Students requesting disability-related accommodations and services for this cour
 - Winter Meetings
 - Introduction to Writing 3
 
+<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
+- <i class="fa fa-bullseye"></i> [Essay 1.3 final revision](/courses/writing-2/essay-1/) `#final` 
+
+
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.19
@@ -863,7 +867,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
-- <i class="fa fa-bullseye"></i> Essay 2 Final
+- <i class="fa fa-bullseye"></i> Essay 3 Final
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
 
 
