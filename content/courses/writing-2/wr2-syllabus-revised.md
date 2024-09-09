@@ -303,9 +303,9 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Consider these questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
   questions in your provided [field notebooks](/resources/project-grain-elevator/field-notes/). 
-    - <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; do not request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
+    - <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; don't request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
 
-- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1) assignment
+- <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1)
 
 
 {{< hint note >}} 

@@ -5,6 +5,7 @@ bookToc: true
 bookHidden: true
 title: "Writing 2: Syllabus"
 draft: true
+term: F23
 ---
 {{< hint note >}} 
 #### <i class="fas fa-dot-circle"></i>  **WR2** | **Syllabus**
