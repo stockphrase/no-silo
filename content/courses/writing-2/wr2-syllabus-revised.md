@@ -625,6 +625,11 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss film and field notes
 
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+
+- <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
+
+
 ---
 
 {{< hint note >}} 
@@ -636,10 +641,6 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
 - <i class="fas fa-code-branch"></i> Theoretical analysis & visual rhetoric workshop
 
-
-<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
-
-- <i class="fa fa-calendar-alt"></i> [Essay 3](/courses/writing-2/essay-3)
 
 
 ---
@@ -852,7 +853,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™ 
 - <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
-- Winter Meetings
+- <i class="fa fa-bullhorn"></i> Discuss ~~final~~ last drafts of Essay 1
 - Introduction to Writing 3
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
