@@ -14,7 +14,7 @@ title: "Essay One"
 
 What is education? What is its purpose? Write an essay exploring these questions. 
 
-I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek no help for this assignment**. No googling. No library visits. Don’t ask your uncle, friends, or roommate. No ChatGPT. Just use your head and write what you think in the best way you know how. Don't worry: it will be fine!
+I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek no help for this assignment**. No googling. No library visits. Don’t ask your friends. No ChatGPT. Just use your head and write what you think in the best way you know how. Don't worry: it will be fine!
 
 {{< hint note >}} 
 

@@ -86,10 +86,10 @@ The academic environment is challenging, our terms are intensive, and classes ar
 | Link                                   | Purpose                                                                                                              |
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook)  |
-| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media                                                                       |                                                                   |
-| [FAQs](/resources/FAQs)                | Frequently asked questions about the course
+| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media                                                                       | 
+| [TA Zone](https://drive.google.com/drive/folders/1WSN5D4M_goUsj5ybb7LeIBDP_llNLXvs?usp=drive_link) <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> | Resources for the TA |
+| [FAQs](/resources/FAQs)                | Frequently asked questions about the course |
  
-
 ## Academic Honesty
 
 All work submitted for this course must be your own and be written exclusively for this course. The use of sources (ideas, quotations, paraphrase) must be properly documented. Please read the [Academic Honor Principle](https://students.dartmouth.edu/judicial-affairs/policy/academic-honor-principle) for more information about the dire consequences of [plagiarism](/resources/open-handbook/chapter-10/). If you are confused about when or how to cite information, please consult the course handbook or ask me about it before submitting your work.
@@ -106,15 +106,15 @@ While Generative AI certainly has a place in many fields and disciplines (and I�
 
 My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
-An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” will have a tremendously negative affect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be?
+An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be?
 
 If we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades, then it makes perfect sense to use an AI tool to cut corners. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
 
-> “[W]hy shouldn’t students use ChatGPT to write their essays if writing is solely about producing a text? Why would we need to learn a second language if there is translation software? If the goal of education is to solely produce these products, why would students not take a shortcut? An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. *Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others*. Similarly, learning a new language is much more than being able to speak in that tongue; bilingualism is about learning another style of thinking, taking on a different cultural identity, and embodying an alternative way of being and living in the world” (emphasis added).
+> “[W]hy shouldn’t students use ChatGPT to write their essays if writing is solely about producing a text? Why would we need to learn a second language if there is translation software? If the goal of education is to solely produce these products, why would students not take a shortcut? An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. <span class="highlight">Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others.</span> Similarly, learning a new language is much more than being able to speak in that tongue; bilingualism is about learning another style of thinking, taking on a different cultural identity, and embodying an alternative way of being and living in the world.” 
 
 Some of the problems and struggles that come with education are actually things that we shouldn't try to get rid of. [Joshua Thorpe](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/) explains:
 
->“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. *AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human*. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves” (emphasis added).
+>“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. <span class="highlight">AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human.</span> Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.” 
 
 I would argue that Thorpe doesn't go quite far enough: not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and growing as a human being:
 
@@ -345,9 +345,6 @@ Students requesting disability-related accommodations and services for this cour
     - <i class="fas fa-print"></i> Bring a printout of your essay to class
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by 10pm](https://canvas.dartmouth.edu)
     
----
-- <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> [TA Zone](https://docs.google.com/document/d/1tGlGUkdBVWD47E63y93mOkhHME4X4UHmKbJqc3BS-Mc/edit?usp=drive_link) 
-
 {{< /details >}}
 
 <br>
