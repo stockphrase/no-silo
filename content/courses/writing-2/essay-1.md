@@ -28,14 +28,22 @@ I am interested in *your* views, your understanding, your argument. So I ask tha
 {{< /hint >}} 
 
 ---
-
+{{< details "Revising with Close Reading" >}}
 ## Revising with Close Readings
 
-This short essay will be revised at several points during the term. After we complete each of our course readings, I will ask that you revise your initial argument by incorporating a [close reading](/resources/project-grain-elevator/thought-machines/) drawn from the course text. Don't worry if you've never heard the term `close reading` before; we will learn about and practice close reading in the coming weeks together using our [field notebooks](/resources/project-grain-elevator/field-notes/). 
+This short essay will be revised at several points during the term. After we complete each of our course readings, I ask that you revise your initial argument by incorporating a [close reading](/resources/project-grain-elevator/thought-machines/) drawn from the course text. Don't worry if you've never heard the term `close reading` before; we will practice close reading in the coming weeks together using our [field notebooks](/resources/project-grain-elevator/field-notes/). 
 
-The objective for each revision is that you choose a passage from the reading that seems to speak in some way to your prior thinking and writing. In some cases the passage may be used to bolster your initial argument or claims about education; however, it is far more likely that the passage will fundamentally challenge or problematize your earlier thinking, requiring a radical re-vision of your writing. Each draft will be a unique, perhaps utterly incommensurable, argument. In short, the each revision should register how you've changed your mind on the topic based on new evidence; your essay drafts will essentially become artifacts memorializing the transformation of your thinking. 
+The objective for each revision is that you choose a passage from the new reading that seems to speak in some way to your prior thinking and writing. In some cases the passage may be used to augment your initial claims about education; however, it is far more likely that the passage will fundamentally challenge or problematize your earlier thought, requiring a radical re-vision of your writing. Thus, each draft will be a unique, perhaps utterly incommensurable, argument. In short, the each revision should register how you've changed your mind on the topic based on new evidence; your essay drafts will essentially become artifacts memorializing the transformation of your thinking. 
 
-An important requirement of these essays is that *the main claim or stance that you took in your first draft should be preserved in each subsequent one*, so that there is a thread that connects each of the versions of the essay throughout the course. For example, if you argued that the purpose of education is to help us learn important values, then each subsequent essay should also take that idea as its main focus and concern. However, in the new draft your future self may end up arguing vociferously against your past self's thinking because of the new evidence you've discovered through the close reading. You will submit a ~~final~~ last draft of your thinking on the final day of classes and discuss your intellectual journey with the class.
+An important requirement of these essays is that *the main claim or stance that you took as your focus in in the first draft should be preserved in each subsequent one*, ensuring that there is a thread connecting each of the versions of the essay throughout the course. For example, if you argued that the purpose of education is to help us learn important skills, then each subsequent essay should also take that idea as its main focus and concern. However, in each new draft your future self may end up arguing vociferously against your past self's thinking because of the new evidence you've discovered through the close reading. Your last draft on the subject is due on the day of our final class meeting. The subject of discussion that day will be the intellectual journey these drafts signify. 
+
+{{< hint note >}} 
+
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Your final draft at the end of the term should be around 1,200 words.
+
+{{< /hint >}} 
+
+{{< /details >}}
 
 <!---
 
