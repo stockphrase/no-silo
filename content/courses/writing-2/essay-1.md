@@ -14,7 +14,7 @@ title: "Essay One"
 
 What is education? What is its purpose? Write an essay exploring these questions. 
 
-I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek no help for this assignment**. No googling. No library visits. Don’t ask your friends. No ChatGPT. Just use your head and write what you think in the best way you know how. Don't worry: it will be fine!
+I am interested in *your* views, your understanding, your argument. So I ask that you **perform no research and seek no help for this assignment**. No googling. No library visits. No ChatGPT. Just use your head and write what you think in the best way you know how. Don't worry: it will be fine!
 
 {{< hint note >}} 
 
@@ -27,15 +27,17 @@ I am interested in *your* views, your understanding, your argument. So I ask tha
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
-{{< details "Revising with Close Reading" >}}
+{{< details "Revising with Close Reading" open >}}
 
 ## Revising with Close Readings
 
-This short essay will be revised at several points during the term. After we complete each of our course readings, I ask that you revise your initial argument by incorporating a [close reading](/resources/project-grain-elevator/thought-machines/) drawn from the course text. Don't worry if you've never heard the term `close reading` before; we will practice this form of textual analysis in the coming weeks together using our [field notebooks](/resources/project-grain-elevator/field-notes/). 
+This short essay will be revised at several points during the term. After we complete each of our course readings, I ask that you revise your initial argument by incorporating what is known as a [close reading](/resources/project-grain-elevator/thought-machines/). Don't worry if you've never heard the term `close reading` before; we will practice this form of deep textual analysis in the coming weeks using our [field notebooks](/resources/project-grain-elevator/field-notes/). 
 
-The objective for each revision is that you choose a passage from the new reading that seems to speak in some way to your prior thinking and writing. In some cases the passage may be used to augment and support your initial claims about education; however, it is far more likely that the passage will fundamentally challenge or problematize your earlier thinking, requiring a radical re-vision of your writing. Thus, each draft will be a unique, perhaps utterly incommensurable, argument. In short, each revision should register how you've changed your mind on the topic based on new evidence; your essay drafts will essentially become artifacts memorializing the transformation of your thinking. 
+The objective for each revision is that you choose a passage from the new reading that seems to speak in some way to the thinking and writing in your previous draft. In some cases the passage may be used to augment and support your initial claims about education; however, it is far more likely that the passage will fundamentally challenge or problematize your earlier thinking, requiring a radical re-vision of your essay. Thus, each draft will be a unique, perhaps utterly incommensurable, argument. In short, each revision should register how you've changed your mind on the topic based on new evidence; your essay drafts will essentially become artifacts memorializing the transformations of your thought. 
 
-An important requirement for these essays is that *the main claim or stance you took as your focus in the first draft should be preserved in each subsequent one*, ensuring that there is a thread connecting each version of the essay throughout the course. For example, if you argued that the purpose of education is to help us learn important skills, then each subsequent essay should also take that idea as its main focus and concern. However, in each new draft your future self may end up arguing vociferously against your past self's thinking because of the new evidence you've discovered through the close reading. Your last draft is due on our final class meeting. The subject of discussion that day will be the intellectual journey these drafts signify. 
+An important requirement for these revisions is that *the main claim or stance you took as your focus in the first draft should be preserved in each subsequent one*, ensuring that there is a thread connecting each version of the essay throughout the course. For example, if you argued that the purpose of education is to help us learn important skills, then each subsequent essay should also take that idea as its main focus and concern. As a result, in each new draft your future self may end up arguing vociferously against your past self's thinking because of the new evidence you've discovered through the close reading. 
+
+Your last draft is due on our final class meeting. The subject of discussion that day will be the intellectual journey these drafts signify. 
 
 {{< hint note >}} 
 
