@@ -76,6 +76,10 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 {{< /hint >}} 
 
 {{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Close Reading
+{{< /hint >}} 
+
+{{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Peer review](/courses/workshops/peer-review)
 {{< /hint >}} 
 
@@ -89,18 +93,6 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
-{{< /hint >}} 
-
-
----
-
-
-{{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Considering audience
-{{< /hint >}} 
-
-{{< hint note >}} 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  Rhetorical analysis 
 {{< /hint >}} 
 
 
