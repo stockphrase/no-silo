@@ -57,6 +57,8 @@ Your last draft is due on our final class meeting. The subject of discussion tha
 
 #
 
+Sigh...
+
 Formal education is one of the central features of our lives---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful influence rendered virtually invisible to us. Education, in short, is just something that we've always done, something that has always been with us, something that is self-evidently the right and obvious thing to do---part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. Let's attempt to do something like this now: take a step outside of your own experience of formal education and try to gain some distance on the practices and normalizing structures that have been such a large part of your life since before you can even remember. Try to set aside all you know. Defamiliarize these experiences: hold them at a distance and try to look at them with a fresh perspective, as if for the first time. What do you see? This will require some effort: it is quite difficult to step outside of the automaticity that we fall into when we confront something that we think know well. Our knowledge and familiarity and comfort with a thing often blinds us to new insights about it; in an odd sense, our knowledge can be a handicap. 
