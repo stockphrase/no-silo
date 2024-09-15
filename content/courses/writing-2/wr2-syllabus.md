@@ -456,9 +456,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-bullseye"></i> Argument Summary Workshop 
     - <i class="fas fa-print"></i> Bring a printed copy of your workshop to class
-- <i class="fa fa-bullseye"></i> [Essay 1.1 revision](/courses/writing-2/essay-1/) `#sovereignty` 
  
-
 {{< /details >}}
 
 <br>
@@ -520,7 +518,6 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-wrench"></i> [Working with Sources Workshop](/courses/workshops/working-sources/)
     - <i class="fas fa-print"></i> Bring printout of your workshop to class
-- <i class="fa fa-bullseye"></i> [Essay 1.2 revision](/courses/writing-2/essay-1/) `#banking` 
 
 {{< /details >}}
 
@@ -854,7 +851,7 @@ Students requesting disability-related accommodations and services for this cour
 - Introduction to Writing 3
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
-- <i class="fa fa-bullseye"></i> [Essay 1.3 final revision](/courses/writing-2/essay-1/) `#final` 
+- <i class="fa fa-bullseye"></i> [Essay 1 final revision](/courses/writing-2/essay-1/) 
 
 
 

@@ -4,6 +4,7 @@ bookFlatSection: true
 bookToc: true
 bookHidden: true
 title: "Essay One"
+draft: true
 ---
 
 # Essay 1
