@@ -31,6 +31,48 @@ I am interested in *your* views, your understanding, your argument. So I ask tha
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
+
+
+{{< details "Revising With Close Reading" open >}}
+
+## Changes of Mind
+
+In our first course reading by Nicholson Baker, we encountered an inquiry into an everyday human phenomenon: the changing of our minds. Since changes of mind are such common and universal human experiences, we tend to write them off as easily explicable events that do not invite or merit critical analysis, skepticism, or wonder. However, Baker's analysis utterly defamiliarizes these tiny mental revisions, revealing that beneath this ordinary and seemingly banal experience lies something unexpected, strange, unsettling, and complex. While it is not the explicit focus of his piece, Baker's argument exposes how our habitual experience often produces a false sense of certainty that actively prevents us from discovery. In an odd way, our positive knowledge, our understanding, our experience, may become a kind of handicap that prevents us from seeing with clarity.
+
+Baker's knack of finding the odd in the familiar is a good model of the analytic skills that we want you to develop in this writing course and beyond. When we unthinkingly utter buzzwords like "critical thinking," this is certainly part of what we mean to suggest. We are developing a capacity to momentarily set aside the conceptual shortcuts and cognitive categories that our brains use to quickly assign meaning so that they do not interfere with our attempts to notice and understand. While our views are always partial and conditioned by powerful social forces that are difficult to escape, it is possible to train ourselves to approach the world with what [James Clerk Maxwell](https://doi.org/10.1007/s12124-020-09538-z) called a "thoroughly conscious ignorance."
+
+During the term I would like you to keep on the lookout for passages in our course readings that seem difficult to square with your understanding of education—moments in the text that make you pause and rethink what you formerly believed to be true. These passages should present an interpretive difficulty or be problematic in the sense that their meaning is a challenge to decode; however, they should also present a difficulty for you in the sense that their properly decoded meaning represents a challenge to your prior views on education, especially as you described them in your first draft. How does the passage unsettle your understanding or cause you to see something new about your experience of education? 
+
+Your revised essay should take the form of a deep textual analysis of one of these passages, a practice we often refer to as ``close reading.`` A close reading is an effort to explain to your audience what a passage means *using only the words in the text as evidence*. If you've never heard of this term before, don't worry. We'll gain practice in close reading during our term together, in class and in our [field notebooks](/resources/project-grain-elevator/field-notes/). 
+
+While I suppose it is possible that no passage in our reading presents you with a moment's doubt or uncertainty, it is highly improbable. It is far more likely that our readings and your analysis of your chosen passage will serve to fundamentally challenge or problematize your earlier thinking, requiring a radical reworking of your original ideas. Thus, your final draft will be a unique, perhaps utterly incommensurable, argument that emerges or becomes necessary as a result of the discoveries you make during the close reading. In short, the revision should register how you've changed your mind on the topic based on new evidence. Your two essay drafts will essentially become artifacts memorializing the transformation of your thinking—a way of measuring the distance you've traveled between your earlier idea and the change of mind you've experienced. 
+
+Your last draft is due on our final class meeting. The subject of discussion that day will be the intellectual journey these two drafts signify.
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Final draft: 1200 words
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
+{{< /hint >}} 
+
+
+{{< hint note >}} 
+
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Your final draft at the end of the term should be around 1,200 words.
+
+{{< /hint >}} 
+
+{{< /details >}}
+
+
+
+
+
+
+<!---
+
 {{< details "Revising with Close Reading" >}}
 
 ## Revising with Close Readings
@@ -50,6 +92,8 @@ Your last draft is due on our final class meeting. The subject of discussion tha
 {{< /hint >}} 
 
 {{< /details >}}
+
+--->
 
 <!---
 
