@@ -22,18 +22,68 @@ I am interested in *your* views, your understanding, your argument. So I ask tha
 
 {{< hint note >}} 
 
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> No more than 3 pages
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> First draft: No more than 3 pages
 
 {{< /hint >}} 
-
 {{< hint note >}} 
 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
-{{< details "Changes of Mind" open >}}
+{{< details "Revising With Close Reading" open >}}
 
-In our first course reading we encountered Nicholson Baker's idea that changes of mind are largely goverend by an unconscious process that we cannot control. He does, however, allow that perhaps 12-15% of the changes we experience are due to reason, logic, debate that we may consciously control. 
+## Changes of Mind
+
+In our first course reading by Nicholson Baker, we encountered an inquiry into the everyday human phenomenon that is changing our mind. Since changes of mind are such common and universal human experiences, we tend to think of them as easily explicable events that do not invite or merit critical analysis, skepticism, or wonder. As you'll recall however, Baker's analysis utterly defamiliarizes such revisions of our thinking; and in doing so, he uncovers something unexpected, unsettling, and complex lurking within within the seemingly obvious and banal. While it is not the subject of his piece, Baker's argument reveals the extent to which our positive knowledge or certainty about things may actually become a kind of handicap that prevents us from seeing with clarity or making new discoveries. 
+
+During the term I would like you to keep on the lookout for passages in our course readings that seem difficult to square with your understanding of education—moments in the text that make you pause and rethink what you formerly believed to be true. These passages should present an interpretive difficulty or be problematic in the sense that their meaning is a challenge to decode. But they should also present a difficulty for you in the sense that their properly decoded meaning represents a challenge to your prior thinking about education, especially as you described it in your first draft. 
+
+Your revised essay should take the form of a deep textual analysis of one of these passages, a practice we often refer to as ``close reading.`` A close reading is an effort to explain to your audience what a passage means *using only the words in the text as evidence*. 
+
+While it is possible that the passage you choose may be used to augment and further develop your initial claims about education, it is *far* more likely that your analysis of the passage will serve to fundamentally challenge or problematize your earlier thinking, requiring a radical reworking of your ideas. Thus, your final draft will be unique, perhaps utterly incommensurable, argument that emerges or becomes necessary as a result of the discoveries you make during the close reading. In short, the revision should register how you've changed your mind on the topic based on new evidence; your two essay drafts will essentially become artifacts memorializing the transformations of your thinking—a way of measuring the distance you've traveled between your earlier idea and the change of mind you've discovered. 
+
+Your last draft is due on our final class meeting. The subject of discussion that day will be the intellectual journey these two drafts signify.
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Final draft: 4 pages
+{{< /hint >}} 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
+{{< /hint >}} 
+
+
+
+
+---
+If we dig deeply into the passage, examining the language very closely and generously, what does it allow you to see or understand about education that you'd failed to see before? Your last draft is due on our final class meeting. The subject of discussion that day will be the intellectual journey these two drafts signify. How did you get from there to here? What did you learn? How did your mind change? 
+ 
+ ---  
+
+result in a challenge to your understanding of education, likely We might say these passages present an "interpretive difficulty" or a "problematic," something that resists easy interpretation and calls for a deeper form of analysis. If we dig deeply into the passage, examining the language very closely and generously, what does it allow you to see or understand about education that you'd failed to see before? 
+
+This form of textual inquiry is often called "close reading," an effort to explain to your audience what a passage means using only the words in the text as evidence. As you explain the meaning of the passage, we should gain a sense of how this idea presents an opportunity to reflect on your prior thinking and understanding, a way of measuring the distance you've traveled between your earlier idea and the change of mind you've experienced. 
+
+
+A passage that presents a challenge to you perspective, something that does not easily square with your prior understanding about education. If you read this passage closely, and interpret it with a skeptical and searching mind, what does the passage mean? And how does it give you a new and different understanding?
+
+In the first draft of this essay, you articulated an idea about the purpose of education. Unless you used ChatGPT, to construct this statement your mind somehow mysteriously distilled 12 years of formal education and a truly staggering volume of experiences, conversations, and encounters that have shaped your mind in profound and unaccountable ways—all in three pages or less. 
+
+But if we look more closely, perhaps for the first time, what else do we see when we look more closely at education? 
+
+During the term I would like you to take note of moments in our course readings when you encounter something that seems difficult to square with your understanding of education. A passage that presents a challenge to your perspective, something that does not easily square with your prior understanding about education. If you read this passage closely, and interpret it with a skeptical and searching mind, what does the passage mean? And how does it give you a new and different understanding?
+
+
+seem to experience a shift in thinking away from the ideas you first essay.  
+ 
+To revise your essay, I would like you to choose a passage from one of our readings that changed your mind in some way about the purpose of education. 
+
+Since this phenomenon is such an ordinary and universal human experience, we imagine that it is somehow beneath our notice and so fail to consider it critically. However, Baker utterly defamiliarizes these changes in our views by uncovering how, upon scrutiny, they seem to be governed by an opaque, unsettling process that is beyond our control. Baker contends that how we commonly think of these shifts in our ideas and convictions is entirely mistaken and misleading.
+
+During the term I would like you to take note of moments in our course reading when you seem to experience a shift in thinking away from the original draft you make for this essay. 
+
+
+uncovers the deep, unsettling strangeness   His analysis of how his mind alters idea that changes of mind are largely governend by an unconscious process that we cannot control. He does, however, allow that perhaps 12-15% of the changes we experience are due to reason, logic, debate that we may consciously control. 
 
 Revise, or perhaps the better term is "reimagine" your first essay
 
