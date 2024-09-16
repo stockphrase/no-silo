@@ -209,7 +209,7 @@ Our objective for the field notebooks is to explore meaning, discover the argume
 
 ## Formal Papers
 
-Students will submit two formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `analysis`. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
+Students will submit three formal essays and several smaller writing assignments in response to our readings and class discussions. The formal essays focus on core features of academic writing: `argumentation,` `synthesis,` `close reading,` and `analysis`. The exact nature and objective of each assignment will be explained in greater detail throughout the course of the term.
 
 - **Formatting**: During the fall term papers must be submitted in the [MLA style](/resources/open-handbook/chapter-11-mla); in the winter term we will transition to the [Chicago style](/resources/open-handbook/chapter-11-chi). Information on these styles may be found in the [*Open Handbook*](/resources/open-handbook/).
 
