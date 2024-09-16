@@ -825,7 +825,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.14
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.15
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -840,7 +840,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Week 10" >}}
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.17
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.18
 {{< /hint >}} 
 
 
@@ -856,7 +856,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.19
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.22
 {{< /hint >}} 
 
 
@@ -873,7 +873,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Exam Week" >}}
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.20
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.25
 {{< /hint >}} 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
