@@ -88,18 +88,10 @@ how your views relate to the views of the other writers you present in your writ
 Here is an example of a student properly using signal phrases and
 citations to indicate borrowings from other sources:
 
-##
+<br>
 
 <div class="container">
         <div class="raised-edge">
-
-Joe Student 
-
-English 120
-
-Prof. Taylor
-
-Oct. 28, 2012
 
 <div style="text-align:center"> Origins of Taoism: A Fake Essay </div>
 
@@ -123,7 +115,7 @@ both views are problematic . . .
         </div>
       </div>
 
-##
+<br>
 
 Notice here how the author of this paragraph uses `signal phrases` and `citations` to distinguish his voice from the two source texts he is using. The student announces
 that he is borrowing words or ideas (in the form of quotations, summary,

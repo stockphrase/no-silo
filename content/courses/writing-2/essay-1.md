@@ -31,7 +31,7 @@ I am interested in *your* views, your understanding, your argument. So I ask tha
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
-
+<!---
 
 {{< details "Revising With Close Reading" open >}}
 
@@ -57,17 +57,10 @@ Your last draft is due on our final class meeting. The subject of discussion tha
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Use the [MLA](/resources/open-handbook/chapter-11-mla/) format
 {{< /hint >}} 
 
-
-{{< hint note >}} 
-
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> Your final draft at the end of the term should be around 1,200 words.
-
-{{< /hint >}} 
-
 {{< /details >}}
 
 
-
+--->
 
 
 
@@ -128,7 +121,7 @@ After cultivating this perspective, ask yourself: Are the purposes of education 
 {{< /details >}}
 
 ---
-
+--->
 {{< hint note >}} 
 <span style="color: var(--readings)"><i class="fas fa-clipboard"></i></span> First Draft Notes
 {{< /hint >}} 
@@ -290,7 +283,7 @@ If we imagine that the reader has a good grasp on what you've just argued, how s
 
 {{< /details >}}
 
---->
+
 
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 

@@ -48,7 +48,7 @@ putting it into your own words through `annotation,` `summary,` `paraphrase,` an
 
 Your objective in annotation is to flag the key elements of a piece of
 writing---such as the `thesis,` `claims,` `reasons,` and key pieces of
-`evidence.` This kind of work serves two purposes. First, it helps you
+`evidence.` You are identifying the main building blocks of the reasoning within the text. This kind of work serves two purposes. First, it helps you
 maintain a critical focus as you read. Second, it helps you later if the
 text must be used for study or your own writing.
 

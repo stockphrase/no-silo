@@ -34,7 +34,6 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 ---
 
-<!---
 
 ## My Summary
 
@@ -42,10 +41,8 @@ We will practice [**summary**](/resources/open-handbook/chapter-8) by writing on
 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My attempt to summarize [Nicholson Baker's "Changes of Mind"](/docs/baker-summary.pdf).
 
-
 {{< /hint >}}
 
---->
 
 <i class="fa fa-cloud-upload-alt"></i> [Submit this assignment to Canvas](https://canvas.dartmouth.edu)
 

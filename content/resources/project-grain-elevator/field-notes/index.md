@@ -27,7 +27,7 @@ draft: false
 
 > Our notes should, indeed, be useful for purposes of review; yet that usefulness is not their chief value. . . . The practical value of our notes will take care of itself as a matter of secondary importance, if we devote ourselves wholly to their main purpose—to make us alert, clear-headed, and responsible . . . . To take good notes is not preliminary to study, but study itself of the most vital kind; calling at once on all one's powers of concentration, judgment, and craftsmanship.
 
---- [S. S. Seward, *Note-Taking](https://archive.org/details/cu31924012997627)*
+--- [S. S. Seward, *Note-Taking*](https://archive.org/details/cu31924012997627)
 
 
 {{< /tab >}}

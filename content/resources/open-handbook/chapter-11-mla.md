@@ -60,6 +60,20 @@ Works Cited page, use the following rules:
 
 {{< figure src="/img/mla-works-cited.png" >}}
 
+{{< mla-ref >}}
+
+San, Rathanak. <span class="highlight">*Escaping Vietnam*</span>. Peach Publishing, 1988.
+
+Taylor, James. <span class="highlight">"The Indian Matter of Charles Brockden Brown's Writings."</span> *American Literature*, vol. 45, no. 6, 1998, pp. 432-45.
+
+<span class="highlight">"Say My Name."</span> *Breaking Bad*, created by Vince Gilligan, performance by Brian Cranston, season 5, episode 7, AMC, 2012.
+
+{{< /mla-ref >}}
+
+
+
+
+
 {{< /details >}}
 
 

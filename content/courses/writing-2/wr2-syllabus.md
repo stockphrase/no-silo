@@ -30,7 +30,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
-Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will attempt to step outside of our experiences with formal education and try to gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
+Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will try to step outside of our experiences with formal education and gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
 ## <span style="color: var(--health)"><i class="fas fa-virus"></i></span> Health Information & Resources
 
@@ -50,7 +50,7 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 <span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
 {{< /hint >}} 
 
-- If you miss class or a TA session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- If you miss class or a tutoring session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
 
 {{< hint note >}} 
 <span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
@@ -87,7 +87,7 @@ The academic environment is challenging, our terms are intensive, and classes ar
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook)  |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media                                                                       | 
-| [TA Zone](https://drive.google.com/drive/folders/1WSN5D4M_goUsj5ybb7LeIBDP_llNLXvs?usp=drive_link) <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> | Resources for the TA |
+| [Tutor Zone](https://drive.google.com/drive/folders/1WSN5D4M_goUsj5ybb7LeIBDP_llNLXvs?usp=drive_link) <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> | Resources for the 2-3 Tutor |
 | [FAQs](/resources/FAQs)                | Frequently asked questions about the course |
  
 ## Academic Honesty
@@ -141,12 +141,12 @@ Regular attendance is expected. Bracketing religious observance, serious illness
 
 - regular class meetings 
 - assigned X hours 
-- TA meetings
+- Tutor meetings
 
 Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
 {{< hint note >}} 
-<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I mention in the [Health Information & Resources](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources) section above: if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the heath of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problems of the sort that exceeds three absences, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency is so prolonged that it prevents meaningful participation and commitment to the course. 
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I mention in the [Health Information & Resources](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources) section above: if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the health of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problem of the sort that exceeds three absences, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency is so prolonged that it prevents meaningful participation and commitment to the course. 
 
 {{< /hint  >}} 
 
@@ -177,7 +177,7 @@ Rather than use a laptop or tablet to read our course readings, *I ask that you 
 
 ### 2. Critical Reading Notes
 
-After annotating a text, create an entry in your field notebook for composing critical notes. [Recent research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) reveals that [taking notes by hand](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) results in a significant boost to attention, [brain activity](https://doi.org/10.3389/fpsyg.2023.1219945 ), learning, and recall. In short, experiments show that students who take notes by hand are more successful than students who do so on computers. 
+After annotating a text, create an entry in your field notebook and take critical notes. [Recent research](https://sites.udel.edu/victorp/files/2010/11/Psychological-Science-2014-Mueller-0956797614524581-1u0h0yu.pdf) reveals that [taking notes by hand](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) results in a significant boost to attention, [brain activity](https://doi.org/10.3389/fpsyg.2023.1219945 ), learning, and recall. In short, experiments show that students who take notes by hand are more successful than students who do so on computers. 
 
 I'd like you to give this a try; you may later decide to memorialize these notes in electronic form, either by retyping or scanning to .pdf. Take *detailed* notes on each of our course texts. Since you will write essays about these texts, these notes will be of significant help to you later. Your aims here should be to:
 
@@ -187,7 +187,9 @@ I'd like you to give this a try; you may later decide to memorialize these notes
 
 - **Connect and compare** the reading to other readings or ideas.
 
-- **Define** any unfamiliar terms and link the text to any outside research you perform.
+- **Define** any unfamiliar terms or references.
+
+- **Link** the text to any outside research you perform.
 
 At the end of this rigorous process you should have a simplified version of the essay as well as a number of critical observations, questions, and ideas that emerged in the process of reading.
 
@@ -220,10 +222,10 @@ Students will submit three formal essays and several smaller writing assignments
   your writing or discuss your ideas.
   
 ---
- 
+
 ## Grading
 
-A few years ago I decided to quit grading, mostly as an emergency response to the realities of teaching during the COVID pandemic. Although I didn't know it at the time, a large body of research concludes that grading is not just counterproductive, but actively harmful to the process of education. As [Jesse Stommel writes](https://pressbooks.pub/thegrade/), grades are "not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers." Grading produces [three predicable effects](https://muse.jhu.edu/book/78367) in students: "less interest in learning, a preference for easier tasks, and shallower thinking" (xiv). 
+A few years ago I decided to quit grading, mostly as an emergency response to the realities of teaching during the COVID pandemic. Although I didn't know it at the time, a large body of research concludes that grading is not just counterproductive, but actively harmful to the process of education. As [Jesse Stommel writes](https://pressbooks.pub/thegrade/), grades are "not a good measure of learning, they inhibit intrinsic motivation, and they create a competitive environment between students and hostile relationships between students and teachers." Perhaps the foremost scholar on grading, Alfie Kohn, argues that grading produces [three predicable effects](https://muse.jhu.edu/book/78367) in students: "less interest in learning, a preference for easier tasks, and shallower thinking" (xiv). 
 
 *It doesn't have to be this way*. 
 
@@ -247,7 +249,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 
 ## Help With Your Writing
 
-There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our TA for 45 minutes each week to go over your writing and plan revision. 
+There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our tutor for 45 minutes each week to go over your writing and plan revision. 
 
 If you require further help, the [Dartmouth Writing Center](http://dartgo.org/writingcenter) is a free support service that is dedicated to helping students through all stages of the writing process and at any point in their undergraduate careers. In one-on-one appointments, peer tutors use facilitative approaches to engage students in active dialogue about writing and help them grow as writers. Tutors can help students develop strategies for generating ideas, find and evaluate research sources, outline and organize information, and revise completed drafts. Students may schedule an appointment with a peer tutor by visiting [Dartmouth Writing Center website](http://dartgo.org/writingcenter).
 
@@ -286,7 +288,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ## Schedule of Readings and Assignments
 
-{{< details "Week 1" open >}}
+{{< details "Week 1" >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> | Monday, 9.16
@@ -315,9 +317,9 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; note any questions or needs for clarification
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1) 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
-  
+    - <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> You do not need to print out readings from the *Open Handbook* unless you want to. Only the course readings from Canvas. 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1jp5ZFBZzS3mzM10OmV_UAMmNv6jL2qM1IldHVJHcji0/edit?usp=sharing)
@@ -331,7 +333,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
-- <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4)
+- <i class="fa fa-book-open"></i> *Open Handbook*, ["The Joy of Reuse"](/resources/open-handbook/chapter-4) 
 - <i class="fa fa-book-open"></i> ["What are field notes?"](/resources/project-grain-elevator/field-notes/)
 
 
@@ -399,7 +401,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week 3" >}}
+{{< details "Week 3" open >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.30
@@ -456,6 +458,10 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> `Due`
 - <i class="fa fa-bullseye"></i> Argument Summary Workshop 
     - <i class="fas fa-print"></i> Bring a printed copy of your workshop to class
+    
+- <i class="fas fa-microphone-alt"></i> Going for the ultimate form of irony with an AI-generated podcast episode based on Percy's essay:
+
+{{< audio mp3="/audio/loss-of-the-creature.wav" >}}
  
 {{< /details >}}
 
