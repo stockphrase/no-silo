@@ -50,14 +50,14 @@ Your assignment is to create a Works Cited page using several provided sources a
 
 ---
 
-<!---
+
 ## Answers
 
 {{< hint note >}} 
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My [attempt to complete this workshop](/docs/works-cited-answers.pdf).
 {{< /hint >}}
 
---->
+
 
 
 

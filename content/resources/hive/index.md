@@ -7,7 +7,14 @@ title: "+ Hive"
 ---
 
 <div style="text-align:center">{{< figure src="/img/hive-7.png" width=180 >}}</div>
- 
+
+<small>
+"[O]ur treasure is where the hives of our knowledge are."
+
+—Friedrich Nietzsche, *On the Genealogy of Morality*
+
+</small>
+
 # What is Hive?
 
 [**Hive**](https://google.dartmouth.edu) is an open-source repository containing notes, ideas, and questions about our course readings and class discussions. We will build this resource together as a class---sharing the work of interpreting, analyzing, and questioning the complex course readings we encounter. The "[hive mind](https://www.merriam-webster.com/dictionary/hive%20mind)" is capable of discovering far more than any one individual. With luck, Hive will become a central resource in our class discussions and an indispensable aid to you as you craft your essays.

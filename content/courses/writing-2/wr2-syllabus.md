@@ -19,6 +19,15 @@ title: "Writing 2: Syllabus"
 #### <span style="color: var(--due)"><i class="fa-solid fa-person-falling-burst"></i></span>  |  Weapons of Mass Instruction: Authority, Education, Pedagogy
 {{< /hint >}} 
 
+<!---
+{{< hint note >}} 
+Education! Which of the various me's do you propose to educate, and which do you propose to suppress? Anyhow I defy you. I defy you, oh society, to educate me or to suppress me, according to your dummy standards. . . . Who are you? How many selves have you? And which of these selves do you want to be? Is Yale College going to educate the self that is in the dark of you, or Harvard College? The ideal self! Oh, but I have a strange and fugitive self shut out and howling like a wolf or a coyote under the ideal windows. See his red eyes in the dark? This is the self who is coming into his own.
+
+— D.H. Lawrence, *Studies in American Fiction*
+
+{{< /hint >}} 
+
+--->
 
 ## Course Description
 
@@ -401,7 +410,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week 3" open >}}
+{{< details "Week 3" >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.30
@@ -603,7 +612,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <br>
 
-{{< details "Week 6"  >}}
+{{< details "Week 6" >}}
 #
 
 
@@ -638,7 +647,7 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Discuss film and field notes
 - <i class="fas fa-code-branch"></i> Theoretical analysis & visual rhetoric workshop
 
 
@@ -800,7 +809,7 @@ Students requesting disability-related accommodations and services for this cour
 <br>
 
 
-{{< details "Week 9" >}}
+{{< details "Week 9" open >}}
 #
 
 {{< hint note >}} 
@@ -810,6 +819,14 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 
 - [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
+
+- <i class="fa fa-bullseye"></i> Essay 3 Draft
+    - <i class="fas fa-print"></i> Bring printout of your essay to class
+
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
+- <i class="fa fa-wrench"></i> [Show, don't tell](/courses/workshops/show-not-tell) workshop
+
+
 
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
@@ -853,12 +870,8 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
 - <i class="fa fa-question-circle"></i> Question of the Day™ 
 - <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
-- <i class="fa fa-bullhorn"></i> Discuss ~~final~~ last drafts of Essay 1
+- <i class="fa fa-bullhorn"></i> Discuss reflections on Essay 1
 - Introduction to Writing 3
-
-<span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
-- <i class="fa fa-bullseye"></i> [Essay 1 final revision](/courses/writing-2/essay-1/) 
-
 
 
 {{< hint note >}} 
@@ -885,7 +898,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 
 - <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
-    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.20](https://canvas.dartmouth.edu/)
+    - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.25](https://canvas.dartmouth.edu/)
 
 {{< /details >}}
 

@@ -7,11 +7,6 @@ title: "Essay 2"
 ---
 
 
-{{< hint info >}}
-### <i class="fas fa-exclamation-triangle"></i> DRAFT
-
-{{< /hint >}}
-
 # Essay 2
 
 

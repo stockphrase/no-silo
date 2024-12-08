@@ -64,7 +64,7 @@ Works Cited page, use the following rules:
 
 San, Rathanak. <span class="highlight">*Escaping Vietnam*</span>. Peach Publishing, 1988.
 
-Taylor, James. <span class="highlight">"The Indian Matter of Charles Brockden Brown's Writings."</span> *American Literature*, vol. 45, no. 6, 1998, pp. 432-45.
+Lewis, Paul. <span class="highlight">“Charles Brockden Brown and the Gendered Canon of Early American Fiction.”</span> *Early American Literature*, vol. 31, no. 2, 1996, pp. 167-88.
 
 <span class="highlight">"Say My Name."</span> *Breaking Bad*, created by Vince Gilligan, performance by Brian Cranston, season 5, episode 7, AMC, 2012.
 
@@ -639,7 +639,7 @@ Graves, Johanna. *Ronald Reagan and the Iran-Contra Affair*. Vol. 7, Greenstalk 
 Smith, Rod. *American Economic Expansion in the Nineteenth Century*. Edited by Andrew Stills, Alfred A. Knopf, 1988. History of American Economic Development.
 {{< /mla-ref >}}
 
-- Occasionally, a press will publish a series of books about a single topic. If your source is a book in a published series, indicate the name of the series at the conclusion of the citation. 
+- Occasionally a press will publish a series of books about a single topic. If your source is a book in a published series, indicate the name of the series at the conclusion of the citation. 
 
 ---
 
@@ -718,8 +718,14 @@ Glastonbery, Wes. "On Teaching *Blood Meridian*." *The Journal of College Writin
 McKinley, Robert. "Cat Saved from Dog." *The New York Times*, 7 Oct. 2011, p. B2.
 {{< /mla-ref >}}
 
+{{< mla-ref >}}
+Fafenboofer, Bernard. "Philip Larkin's Gods." *The New York Times*, 10 Oct. 2011, p. B2+.
+{{< /mla-ref >}} 
+
+
 - When an article appears on nonconsecutive pages, indicate the page where article begins 
-then use a "+" sign. 
+then use a "+" sign.
+
 
 ---
 
@@ -925,7 +931,42 @@ Gibson, Liesl. "How to Sew a Button with Liesl Gibson." *YouTube*, uploaded by C
 {{< /details >}} 
 
 
+## Miscellany
 
+
+
+{{< details "Punctuating a quotation" >}}
+ 
+
+I recently had a question in class that was a bit of a stumper. If I understand correctly, the student was asking how you properly punctuate and cite a sentence that ends with some quoted words that you are using to ask your *own* question. In other words, the original text does not have the question mark—that is something you are adding yourself so as to ask a question.
+
+I'll propose the following sentence as an example:
+
+> - <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span> Why does Percy describe a viewer's "satisfaction" being measured "*by the degree to which the canyon conforms to the preformed complex*"? 
+
+As long as the reader knows from the surrounding context that this quote happens on page 47 then this is correct.
+
+However, what happens when I need to provide the page citation for the sentence? The new 9th edition of the *MLA Handbook* does not contemplate this scenario explicitly. The closest example comes from section [6.51](https://www.mla.org/Publications/Bookstore/) ("Marking the end of a quotation") where they explain what to do with the question mark after a *paraphrase*. Their example:
+
+> - <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span> Why did Karl Marx say that a commodity is a strange object (47)?
+
+However, in a [follow-up post in the MLA "Style Center"](https://style.mla.org/punctuation-with-paraphrases/) they remark that it might be better to just revise the sentence to avoid the problem altogether. They suggest the following:
+
+> - <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span> Karl Marx said that a commodity is a strange object (47). Why? 
+
+I think this is recommended because we can imagine it becoming difficult for readers to recognize a sentence as a question if the question mark gets too distant from the text of the sentence, especially if the sentence doesn't begin with an [interrogative word](https://en.wikipedia.org/wiki/Interrogative_word). For example, the reader is likely to be completely surprised by the following sentence:
+
+> - <span style="color: var(--due)"><i class="fas fa-times-circle"></i></span> We are supposed to believe that the viewer's "satisfaction" is determined "*by the degree to which the canyon conforms to the preformed complex*" (Percy 47)? 
+
+I think the solution is probably to use a signal phrase to avoid having the last name in the citation, like this:
+
+> - <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span> Why would Percy claim that a viewer's "satisfaction" is measured "*by the degree to which the canyon conforms to the preformed complex*" (47)? 
+
+Or we could follow the lead of the MLA in their paraphrase example:
+
+> - <span style="color: var(--in-class)"><i class="fas fa-check-circle"></i></span> Percy argues that the viewer's "satisfaction" is measured "*by the degree to which the canyon conforms to the preformed complex*" (47). But how can this be true? 
+
+{{< /details >}}
 
 
 

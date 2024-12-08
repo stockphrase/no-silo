@@ -95,6 +95,9 @@ Writing 2 is an introduction to academic writing. The course prepares you for wo
 <span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  [Working with sources](/courses/workshops/working-sources)
 {{< /hint >}} 
 
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span> [On Style](/courses/workshops/style)
+{{< /hint >}} 
 
  {{< /tab >}}
 

@@ -49,20 +49,18 @@ containing information about when the book must be returned to avoid punishing f
 {{< /hint >}}
 
 
-### DartDoc
+### Interlibrary Loan
 
 If there is a book or article you would like to read that is not
 available through Borrow Direct, you may request it from Dartmouth's
-interlibrary loan program, known as [DartDoc](https://library.dartmouth.edu/tools/ezProxy/lspLogin/DartDoc/debug).[^1] To request an item, visit
-the DartDoc webpage, select the appropriate form (article, book, book chapter,
+[Interlibrary Loan](https://library.dartmouth.edu/tools/ezProxy/lspLogin/DartDoc/debug) service. To request an item, log into the service using your NetID, select the appropriate form (article, book, book chapter,
 etc.), and send your request electronically to the office. Staff will
 request your item from another library, who will ship the book to our
 library through the mail. If you are requesting a book chapter or
-article, the donor library will send you a .pdf free of charge to your
-DartDoc account. Make sure to download the .pdf to your computer as they disappear after a period of time. 
+article, the donor library will send you a .pdf free of charge to your account. Make sure to download the .pdf to your computer as they disappear after a period of time. 
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() If you are ordering a *physical* book, DartDoc is often the slowest option. Requests may take up to two weeks to be fulfilled.
+[<i class="fas fa-circle"></i>]() If you are ordering a *physical* book, Interlibrary Loan is often the slowest option. Requests may take up to two weeks to be fulfilled.
 
 {{< /hint >}}
 
@@ -71,19 +69,17 @@ DartDoc account. Make sure to download the .pdf to your computer as they disappe
 
 If a book is owned by our library, but checked out by another patron, you have one final option: a recall request. If a book is currently on loan, its catalog entry will contain a link that you may use to request a recall of the book. After you initiate a recall, the patron who has borrowed the book will receive a notice that they must return it. 
 
-I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^2] These are the petty games academics play, *and we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. A very devious person would wait the full two weeks, return it to circulation, then immediately recall it back from you.[^3] That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
+I don't recommend using recall requests for two reasons. First, it is considered something of a researcher's *faux pas* to do so. Some researchers, angered by a recall, have been known to counter by returning the book and then *immediately recalling it right back from you*.[^1] These are the petty games academics play, *and we play for keeps*. Secondly, the patron will have *up to two weeks* to return the book in question. A very devious person would wait the full two weeks, return it to circulation, then immediately recall it back from you.[^2] That is likely far too long for you to wait. Using Borrow Direct will almost always be a quicker path to your prized tome.   
 
 
 ## Workshop
 
 1. Visit [Borrow Direct](https://www.library.dartmouth.edu/borrow-renew/borrowing-requesting#borrowdirect) and familiarize yourself with the service. 
 
-2. Create a login for [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/illiad.dll?Action=10&Form=79) and explore the service. 
+2. Visit [Interlibrary Loan](https://library.dartmouth.edu/tools/ezProxy/lspLogin/DartDoc/debug) and explore the service. 
 
 
-[^1]: One of my biggest pet peeves about Dartmouth is our absurd need to re-brand everything to make it "Dartmouthy." Hence, "interlibrary loan"---a term comprehensible to everyone who has ever been to a library---is replaced with something completely alienating, like "Dart-Doc." It is madness. It is Dartmouth. They are the same. 
+[^1]: Ok, this was me. But it was some time ago and I have since sought professional help for research rage. 
 
-[^2]: This was (allegedly) me. But it was some time ago and I have since sought professional help for research rage. 
-
-[^3]: Yes, this was also me. 
+[^2]: Yes, this was also me. 
 

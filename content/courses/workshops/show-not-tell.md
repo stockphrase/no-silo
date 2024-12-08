@@ -81,7 +81,6 @@ Rewrite the following three `telling` sentences to make two separate `showing` o
 - <span style="color: var(--in-class)"><i class="fa-solid fa-pen"></i> `Showing 2`:</span> Freire described what he calls the "'banking' concept of education," where students are treated as "depositories" and are only permitted the actions of "receiving, filing, and storing the deposits" made by teachers. 
 
 
-
 {{< /details >}} 
 
 #

@@ -3,7 +3,7 @@ weight: 1
 bookFlatSection: true
 bookToc: true
 bookHidden: true
-draft: true
+draft: false
 title: "Writing 3: Syllabus"
 ---
 {{< hint note >}} 

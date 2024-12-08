@@ -9,7 +9,7 @@ title: "End-of-term Reflection and Review"
 # Fall Reflection and Review
 
 {{< hint note >}}
-This assignment takes the place of a final exam and asks you to reflect on all of your work this term. **The reflections and self-evaluations you perform here will largely determine your final grade**. Please write down your responses and keep them in a safe place---they will be used in a conference during the first week of classes this winter term. 
+This assignment takes the place of a final exam and asks you to reflect on all of your work this term. **The reflections and self-evaluations you perform here will largely determine your final grade**. 
 
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> My rationale for this assignment is explained somewhat in question #6 in the [FAQ](/resources/FAQs).
 
@@ -54,8 +54,9 @@ After submitting all of your work for the term, gather together all of the draft
 4. Were all the assignments turned in on time?
 5. Did you give your best effort on each assignment?
 6. Expressed as a percentage, how much of the reading did you do?
-7. How much did you contribute to Hive? Was this your best effort at sharing/helping others?
+7. How much did you contribute to peer review? Was this your best effort at sharing/helping others?
 8. How often did you contribute on discussion days? Could you have contributed more to the conversation?
+
 
 {{< hint note >}}
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></i></span> **Step 4**: Final grade
@@ -64,11 +65,22 @@ After submitting all of your work for the term, gather together all of the draft
 
 Taking into account all of these reflections and self-evaluations, *what final grade would you suggest for yourself*?
 
+
+{{< hint note >}}
+<span style="color: var(--readings)"><i class="fas fa-circle"></i></i></span> **Step 5**: Changes of Mind
+{{< /hint >}}
+
+In our first course reading by Nicholson Baker, we encountered an inquiry into an everyday human phenomenon: the changing of our minds. Since changes of mind are such common and universal human experiences, we tend to write them off as easily explicable events that neither invite nor merit critical analysis, skepticism, or wonder. However, Baker's analysis utterly defamiliarizes these mental revisions, revealing that beneath this ordinary and seemingly banal experience lies something unexpected, strange, unsettling, and complex. While it is not the explicit focus of his piece, Baker's argument exposes how our habitual experience often produces a false sense of certainty that actively prevents us from discovery. In an odd way, our positive knowledge and understanding may become a kind of handicap that prevents us from seeing with clarity.
+
+With this idea as a backdrop, I would like you to write a short response to the argument and ideas that your previous self wrote in the first draft of Essay 1. Ten weeks later, and after all our course readings and discussions, have you changed your mind about the purpose of education? 
+
+
 {{< hint note >}}
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**
 {{< /hint >}}
 
 - <i class="fa fa-bullseye"></i> [End-of-term Reflection and Review](/courses/writing-2/quarterly-review/)
     - <i class="fas fa-cloud-upload-alt"></i> [Submit to Canvas by Monday 11.22](https://canvas.dartmouth.edu/)
+
 
 

@@ -13,7 +13,7 @@ type: docs
 
 ## What is synthesis?
 
-As the name suggests, synthesis involves *combining* and *connecting*. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments relate to each another. 
+As the name suggests, synthesis involves *combining* and *connecting*. Your focus in a synthesis essay is to explain to your audience the ways in which two or more arguments relate to each another. However, like a synthesis in chemistry, our objective is to create something new, something useful, from two or more simpler elements. A synthesis always has a purpose in mind: a reason, an argument, a controlling idea, that serves some interest of our own. Why does it make sense to put these texts together? What conclusions do these writers lead us toward? Your synthesis should emerge from and serve this thinking.
 
 To begin a synthesis, ask yourself these (and similar) questions about the readings you plan to synthesize:
 
@@ -22,11 +22,11 @@ To begin a synthesis, ask yourself these (and similar) questions about the readi
 >3. What reasoning supports the arguments? Are there differences or similarities there?  
 >4. Do the texts offer similar conclusions or are there significant differences?
 
-The work of synthesis will go much more smoothly (and with much less frustration) if you first answer these questions and perform an *exhaustive comparative analysis* of the texts' attributes and relationships. Just like you did earlier with the Baker essay, make a list of every argument in both essays and then notice the shared concerns, ideas, terms, reasoning.  
+The work of synthesis will go much more smoothly (and with much less frustration) if you first answer these questions and perform an *exhaustive comparative analysis* of the texts' attributes and relationships. Just like you did earlier with the Baker essay, make a list of every argument in both essays and then notice the shared concerns, ideas, terms, reasoning, language.  
 
 Students attempting synthesis for the first time often make the mistake of organizing their essays by *source*. For example, they will introduce two authors in their introduction, summarize Author A for a few paragraphs, summarize Author B for a few paragraphs, then conclude the essay by noting the broad similarities and differences in the two authors’ thinking. This is *not* synthesis.
 
-In a synthesis essay you should try to organize your essay by *topic* or *questions at issue* rather than by source. Instead of summarizing the essays separately, a synthesis will attempt to discover the various things that the authors discuss---the questions, ideas, and arguments they have in common---then present those things in an organized and meaningful way to an audience who is unfamiliar with the texts. Thus, your objective in a synthesis is to bring two or more distinct sources into a relationship by explaining to your reader the various ways in which the sources are in *dialogue*.
+In a synthesis essay you should try to organize your essay by *topic* or *questions at issue* rather than by source. Your objective in a synthesis is to bring two or more distinct sources into a relationship by explaining to your reader the various ways in which the sources are in *dialogue* on some important issue or problem. Instead of summarizing the essays separately, a synthesis will attempt to discover the various things that the authors discuss---the questions, ideas, and arguments they have in common---then present those things in an organized and meaningful way to an audience who is unfamiliar with the texts. So you are imposing a structure of your own design onto the texts, presenting their thinking in some meaningful way that you control, with a view to making some original point(s) of your own. 
 
 {{< hint info >}}
 <i class="fas fa-exclamation-circle"></i> Synthesis is very *textual* in nature: you must show explicit textual evidence for each of the claims you attribute to the other authors. Using [summary](/resources/open-handbook/chapter-8/), [paraphrase](/resources/open-handbook/chapter-8/), and [quotation](/resources/open-handbook/chapter-8/), compare and contrast the authors’ positions; make sure to cite each reference a text appropriately. Use clear [signal phrases](/resources/open-handbook/chapter-8/) to alert the reader when you transition between your presentations of the various author’s ideas or works.
@@ -39,6 +39,11 @@ In a synthesis essay you should try to organize your essay by *topic* or *questi
 Walker Percy and Paulo Freire, each in their own way, ask us to consider the problem of authority within particular educational systems or pedagogical practices. Map out the various ways in which these two authors examine the same problem or set of issues. How do they describe the problem? What terms to do they use? Are these terms used to communicate a similar issue or concern? What are the effects of these problems on the human beings who "experience" them? What further consequences befall those who are trained in these improper forms of education? What solutions do Percy and Freire offer to this problem? Are these views compatible?
 
 Much as you did in a previous workshop, map out all of these argumentative connections between the two texts, producing an organized list. Flag similar terms or language that can help you draw comparisons or make connections. Make sure to scrupulously cite each reference to the text so you won't waste time trying to find them again later. 
+
+{{< hint note >}} 
+<span style="color: var(--circle-dots)"><i class="fas fa-code-branch"></i> </span> Use this [Google doc to dialogue and problem-solve](https://docs.google.com/document/d/1JvB9JJ7MtRuqAssOAxKnyqafkx9b_sf5SvDlJNqCNHY/edit?usp=drive_link).
+
+{{< /hint >}} 
 
 
 ---

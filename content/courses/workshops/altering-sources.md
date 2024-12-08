@@ -49,7 +49,7 @@ Using the source text provided above, write the sentences or paragraphs assigned
 3. Write a sentence with a quotation that uses `brackets` to give the reader clarifying information, then cite according to MLA. 
 4. Write a sentence with a quotation using `brackets` in a quotation to alter capitalization.
 
-<!---
+
 ## My Attempt
 
 1. **Write a sentence involving a quotation from the passage, use ellipsis to show an omission, then cite according to MLA. The ellipsis must be for an omission within a single sentence**.
@@ -76,16 +76,6 @@ Using the source text provided above, write the sentences or paragraphs assigned
 
 > “[T]he Grand Canyon, the thing as it is, has been appropriated by the symbolic complex which has already been formed in the sightseer’s mind” (Percy 47).
    
-<!---
-## Example Sentences
 
-{{< hint note >}} 
-
-<span style="color: var(--circle-dots)"><i class="far fa-dot-circle"></i></span>  My [attempt to complete this workshop](/docs/altering-sources-answers.pdf).
-
-
-{{< /hint >}}
-
---->
 
 

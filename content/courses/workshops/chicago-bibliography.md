@@ -56,11 +56,11 @@ To begin, download the essay to your own computer. Before you make any alteratio
 - As you construct your [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page you must determine what *type* of source is being cited in the MLA paper. Is this a `book by one author`? A `scholarly journal`? A `work in an anthology`? Something else? Once you identify the type of source being referenced in the MLA paper, you can use the *Open Handbook* chapter on the [Chicago Style](https://no-silo.com/resources/open-handbook/chapter-11-chi/) to figure out how to present this type of source in the Chicago style's note form.
 
 [^1]: This student essay uses section headings to organize the essay. This is a personal choice, not a strict element of the Chicago style.
-[^2]: You are **not** required to make a `Bibliography` page, just a [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page for this assignment.
+[^2]: You are *not* required to make a `Bibliography` page, just a [`Notes`](/resources/open-handbook/chapter-11-chi/#chicago-notes-page-formatting) page for this assignment.
 
-
+<!---
 ## Answers
 
 - <i class="far fa-check-circle"></i> Check your work with [the answer key](/docs/workshop-4-answers.pdf).
-
+--->
 
