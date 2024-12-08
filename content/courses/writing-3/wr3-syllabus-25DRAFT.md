@@ -336,7 +336,7 @@ Students requesting disability-related accommodations and services for this cour
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Wednesday, 1.4
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Monday, 1.6
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> `In-class work` </span>
@@ -345,10 +345,27 @@ Students requesting disability-related accommodations and services for this cour
 - Class reunion, course overview, syllabus tour, housekeeping matters.
 
 
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Wednesday, 1.8
+{{< /hint >}} 
+
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
+
+- <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)| A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
+
+---
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> `In-class work` </span>
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- Review the Introduction to Academic Research reading.
+
+
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.6
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Friday, 1.10
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
