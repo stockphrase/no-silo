@@ -43,7 +43,7 @@ Deaths from opioid overdose have reached a five-year high in the state of New Ha
 
 {{< details "Opioid deaths 2" >}}
 
-Pema clutched her stuffed animal while her mother OD'd on the cold hotel bathroom floor.
+Pema clutched her stuffed animal while her mother convulsed on the cold hotel bathroom floor.
 
 {{< /details >}}
 

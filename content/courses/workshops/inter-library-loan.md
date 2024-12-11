@@ -15,37 +15,33 @@ type: docs
 
 A common problem in academic research is discovering that a book or
 article you require for a project is checked out, missing, or not owned
-by the library. Less commonly, you may find yourself in a global pandemic and be unable
-to physically visit a library to borrow books. There are a number of free services available to you
+by the library. There are a number of free services available to you
 when you encounter this problem.
 
 ### Borrow Direct consortium
 
 A number of the best libraries in the world have formed a consortium
 designed to share resources and expand research opportunities for the
-entire academic community. As students at Dartmouth you may
-obtain borrowing privileges at any of the other participating libraries
+entire academic community. As students at Dartmouth you have borrowing privileges at any of the other participating libraries
 including Brown, Columbia, Cornell, Harvard, MIT, University of Chicago, University of Pennsylvania,
 Princeton, Yale, and the Center for Research Libraries. 
 
-To see if a book is available at another library, use a service called
-[Borrow Direct](http://www.dartmouth.edu/~library/res-share/borrowdirect/). With
+If a book you would like to view is unavailable, you may order a copy free of charge from a service called [Borrow Direct](https://dartmouth-borrowdirect.reshare.indexdata.com/). With
 this service you may search every library in the consortium
 simultaneously to see if the book you require is available at another
 institution. If the book is owned by another school and is not checked
 out at the time, you may request that the item be sent to our library.
 These requests usually arrive in 4 working days or less. When they arrive, you will
-receive an email that it is being held for you at the circulation desk. Just tell the
+receive an email that your book is being held for you at the circulation desk. Just tell the
 person behind the desk that you have a "hold" while giving them your ID. They will get
 the book for you. 
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() These texts have shorter borrowing periods. The book will arrive wrapped with a special sleeve
-containing information about when the book must be returned to avoid punishing fines. 
+[<i class="fas fa-circle"></i>]() These texts have shorter borrowing periods. The book will arrive wrapped with a special sleeve containing information about when the book must be returned to avoid fines. Do not remove the sleeve. 
 {{< /hint >}}
 
 {{< hint note >}}
-[<i class="fas fa-circle"></i>]() Borrow Direct only works for books. If you need a scholarly article, use DartDoc.
+[<i class="fas fa-circle"></i>]() Borrow Direct only works for books. If you need a scholarly article, use the Interlibrary Loan service.
 {{< /hint >}}
 
 

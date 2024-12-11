@@ -37,7 +37,7 @@ Let's consider that films function like the [dreamwork](https://en.wikipedia.org
 
 Let's look at our example text at closer range. *The Dark Knight* emerged in the post-9/11 era as the US and its allies arrayed themselves against a perceived existential threat from a shadowy international terrorist organization. This period of history is often described as the [War on Terror](https://en.wikipedia.org/wiki/War_on_terror#:~:text=The%20phrase%20war%20on%20terror,those%20by%20Russia%20and%20India.). The years immediately before the film's release were some of the bloodiest in terms of casualties in the Iraq theater and there were explosive revelations about the Bush administration's use of secret executive orders to conduct [warrantless electronic surveillance](https://en.wikipedia.org/wiki/NSA_warrantless_surveillance_(2001%E2%80%932007)) of American citizens. We see evidence of this in the film as Bruce Wayne constructs a giant computer that essentially hacks every cellphone in Gotham to try and catch the Joker, a nihilistic terrorist bent on destroying the city. Lucius Fox and Batman's conversation[^1] about the electronic eavesdropping is symptomatic of the broader cultural conversation:  
 
-{{< youtube Kr7AONv3FSg >}}
+{{< youtube IRELLH86Edo >}}
 
 <!---
 

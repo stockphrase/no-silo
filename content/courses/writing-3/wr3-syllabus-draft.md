@@ -68,8 +68,7 @@ The academic environment is challenging, our terms are intensive, and classes ar
 
 ## Course Objectives
 
-Writing 3 continues our focus on inquiry, critical thinking,
-and argumentation. The course additionally involves an introduction to academic research. Our libraries hold an
+Writing 3 continues our focus on inquiry, critical thinking, and argumentation. The course additionally involves an introduction to academic research. Our libraries hold an
 impressive collection of traditional and electronic research tools as well as hundreds of thousands of books, journal
 articles, and assorted media. Navigating this ocean of information can be intimidating; however, excellent research
 skills are fundamental to your training. Therefore, we will spend a significant amount of time learning how to perform academic research and use our library resources effectively. By the end of this course, you should be able to do
@@ -100,7 +99,7 @@ the following:
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
 | [Tutor Zone](https://drive.google.com/drive/folders/1WSN5D4M_goUsj5ybb7LeIBDP_llNLXvs?usp=drive_link) <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> | Resources for the 2-3 Tutor |
-| [Author Pages](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) | A research archive built by our class.          |
+| [Author Pages]() | A research archive built by our class.          |
 |[The End](/courses/writing-3/post-apocalyptic-thoughts) |Random aphorisms on the (post)apocalyptic |
 | [FAQs](/resources/FAQs)                | Frequently asked questions about the course |
  
@@ -251,7 +250,7 @@ At the end of the term we will reflect together on your progress, effort, partic
 
 ### 1. Formal Research Essay
 
-You will write one formal research essay. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. For example, you might choose to write your essay on [ruin porn](https://en.wikipedia.org/wiki/Ruins_photography), but not on [CTE](https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921) in American football. The former is clearly relevant to the theme of apocalypticism; the latter is really concerning but has no relevance to our course focus.   Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
+You will write one formal research essay. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. For example, you may write a paper on [ruin porn](https://en.wikipedia.org/wiki/Ruins_photography), but not on [CTE](https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921) in American football. The former is clearly relevant to the theme of apocalypticism; the latter is really concerning but has no relevance to our course focus.   Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i> Essay requirements:</span> 
@@ -333,8 +332,6 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< details "1 - Course Introduction" >}}
 
-#
-
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i></span> Monday, 1.6
 {{< /hint >}} 
@@ -381,10 +378,10 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< /details >}}
 
-##
+<br>
 
 {{< details "2 - Introduction to Library Research" >}}
-#
+
 
 This week we will continue our overview of library research, learning some basic skills for querying catalogs and databases. We will also learn about a form of analysis known as `cultural studies` (much of our course and its readings are inspired by this breed of criticism). 
 
@@ -392,7 +389,7 @@ This week we will continue our overview of library research, learning some basic
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.9
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.13
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -409,8 +406,7 @@ This week we will continue our overview of library research, learning some basic
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.11
-{{< /hint >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.15{{< /hint >}} 
 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -426,7 +422,7 @@ This week we will continue our overview of library research, learning some basic
 ---
 
 {{< hint note >}} 
-####  <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.13
+####  <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.17
 {{< /hint >}} 
 
 
@@ -451,22 +447,16 @@ This week we will continue our overview of library research, learning some basic
 
 {{< /details >}}
 
-##
+<br>
 
 {{< details "3 - Disaster, Apocalypse, & the State of Nature" >}}
 
-#
-
 Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
 
-- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 3](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 3](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
-<!---
-- <i class="far fa-clipboard"></i> [Reading Notes](/courses/writing-3/reading-notes)
---->
+
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Monday, 1.16 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Monday, 1.20 
 {{< /hint >}} 
 
 - [<i class="fas fa-fist-raised"></i>](https://youtu.be/DKWCxKq0i1k?t=351) *Martin Luther King Day*. No classes. We will use the X-hour this week.
@@ -474,11 +464,11 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.17 (X-hour session)
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Tuesday, 1.21 (X-hour session)
 {{< /hint >}} 
 
-- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 3 @ 12:15-1:05
-- [<i class="far fa-clock"></i>]() Tuesday, 1.18 | X-hour | Section 4 @ 1:20-2:10
+- [<i class="far fa-clock"></i>]() Tuesday, 1.21 | X-hour | Section 1 @ 12:15-1:05
+- [<i class="far fa-clock"></i>]() Tuesday, 1.21 | X-hour | Section 2 @ 1:20-2:10
 
 ---
 
@@ -499,7 +489,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Wednesday, 1.18
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span>  Wednesday, 1.22
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -516,15 +506,13 @@ Philosophers and social scientists have attempted to explain the origins of civi
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.20
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.24
 {{< /hint >}} 
 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-file-pdf"></i>  [Mathias Nilges, “The Aesthetics of Destruction: Contemporary US Cinema and TV Culture.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
-- [Reading Notes](/courses/writing-3/reading-notes/)
+- <i class="fa-solid fa-file-pdf"></i>  [Something on Elite Panic? Solnit?](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -542,21 +530,18 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 {{< /details >}}
 
-##
+<br>
 
 {{< details "4 - The Apocalypse & the Other I" >}}
-#
 
+---
 
 Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
-
-- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 4](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 4](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.23
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.27
 {{< /hint >}} 
 
 
@@ -576,7 +561,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 1.29
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -591,7 +576,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.27
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 1.31
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -609,19 +594,14 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 {{< /details >}}
 
-##
+<br>
 
 {{< details "5 - The Apocalypse & the Other II" >}}
-#
-
-
-- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 5](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 5](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.30
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.3
 {{< /hint >}} 
 
 
@@ -639,7 +619,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.1
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.5
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -655,7 +635,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.3
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.7
 {{< /hint >}} 
 
 
@@ -674,11 +654,11 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 {{< /details >}}
 
-##
+<br>
 
 {{< details "6 - The Zombie, Civil Rights, & Race" >}}
-#
 
+---
 
 >"[T]he true subject of the horror genre is the struggle for recognition of all that our civilization represses or oppresses."
 >
@@ -687,13 +667,10 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 Vampires, werewolves, and Frankenstein are all monsters of European extraction; the zombie, however, was made in America. This prompts several questions: Why was the zombie born here rather than someplace else? What is it about the Americas and their history that made the figure of the zombie possible and popular? What does it say about us and our culture that we have created precisely *this* type of monster? In this section we will attempt to answer these questions by tracing the evolution of the zombie—from its origins in the slave-based plantation cultures of the Americas through modern interpretations of the figure in contemporary literature and film. Significantly, the zombie of today differs markedly from its precursors in the cinema of the 30s, 40s, and 50s. In these earlier films the zombie was a figure within an imperialist discourse that expressed racist ideologies and the anxieties of post-slavery cultures throughout the Americas. However, just as the figure of the zombie had nearly been forgotten, a new form of the creature appeared in 1968 in George Romero’s *Night of the Living Dead*. No longer was the zombie a folkloric figure born of the struggle between master and slave; now it was a cannibalistic creature that stalked the countryside in swarms, mindlessly searching for human flesh. How do we account for this sudden transformation of the zombie? What cultural “work” did the zombie perform?
 
-- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 6](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 6](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
-
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.6
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.10
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -710,7 +687,7 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.8
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.12
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -725,12 +702,10 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 - <i class="fa fa-bullhorn"></i> Discuss film and reading.
 - <i class="fas fa-wrench"></i> [`Workshop 7: Bibliographic Software / Research Journal`](/courses/workshops/bibliographic-management/) | Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
 
-
-
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.10
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.14
 {{< /hint >}} 
 
 
@@ -755,95 +730,152 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 {{< /details >}}
 
-##
+<br>
 
-{{< details "7 - Imagining the End: Cormac McCarthy" >}}
-#
+{{< details "7 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 
+---
 
-- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 7](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 7](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
+We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence," a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of global warming, poisoned groundwater, toxic waste, chemical exposure, deforestation, and species extinction. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to recognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.13
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.17
 {{< /hint >}} 
+
 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- ~~<i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 1-96. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.~~ 
+- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Panopto Video" section of Canvas.
+
+
+- <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/)
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
+- <i class="fa fa-bullhorn"></i> Discuss film.
 
 
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.15
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.21
 {{< /hint >}} 
-
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- ~~<i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 96-190. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.~~ 
+
+- <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
+- <i class="fa fa-download"></i> Natalia Cecire, "Environmental Innocence and Slow Violence."
+- <i class="fa fa-download"></i> Ali Brox, "The Monster of Representation: Climate Change and Magical Realism in 'Beasts of the Southern Wild'”
+
+- Print out, read, annotate, and take critical notes on the readings, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
+
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.17
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
 {{< /hint >}} 
 
-<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- ~~<i class="fa-solid fa-book"></i> Cormac McCarthy, *The Road*, 190-287. | Annotate and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.~~ 
-
-
-
-<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
-
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss the film, reading.
 - <i class="fa-solid fa-person-chalkboard"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
-<span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
 
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-
-
 
 
 {{< /details >}}
 
 
+{{< details "7 - Post-apocalyptic Masculinities" >}}
 
-##
+---
 
+Recent post-apocalyptic cinema revels in neo-primativist fantasies of male empowerment based in dominance, gun culture, adventure, and the subordination and control of others, particularly women. Such imaginings articulate a perceived crisis in modern masculinity: cowed by feminism, political correctness, economic humiliation, and the social sanctions against supposed masculine traits such as competition, aggression, sexuality, and violence, the modern man experiences an unsustainable (and potentially explosive) repression of his animal nature. We might view texts of this kind as a conservative backlash against recent progressive transformations in our society, particularly the political gains of women and minorities. Many of these films express an incipient or perhaps secret desire to totally destroy modern civilization, which is seen as enervating and effeminate. *Fight Club* might be considered a symptomatic text in this regard. In its critique of the emasculated office cubicle drone we see a nostalgic desire to return to the hard masculinity of the past paired with powerful neo-primitivist fantasies of returning to nature. However, the the film's critique of masculinity is more complicated than many of its early critics allowed.
+
+
+---
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
+{{< /hint >}} 
+
+
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
+
+- <i class="fa fa-video"></i> [*Fight Club*](https://canvas.dartmouth.edu)  (1999) | Film is in the "Panopto Video" section of Canvas
+
+- <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/)
+
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film
+
+
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
+{{< /hint >}} 
+
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
+
+- <i class="fa fa-download"></i> John McCullough, "Tedium and Torture: Fight Club, Globalization and Professionals in Crisis" 
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss film and reading.
+
+---
+
+{{< hint note >}} 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
+{{< /hint >}} 
+
+<span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
+- Meditate. 
+
+<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
+
+
+- <i class="fa fa-question-circle"></i> Question of the Day™
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+- <i class="fa-solid fa-person-chalkboard"></i>  `Lecture: Managing Large Research Projects` | How do you begin when you've collected a large pile of books and articles that will be parts of your research project? Often, a large collection of sources leaves you feeling paralyzed. This lecture gives you some ideas about how to process your research and start writing.
+
+<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
+
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+
+{{< /details >}}
+
+<br>
 
 {{< details "8 - TEOTWAWKI: Prepping for the End" >}}
-
-#
 
 ---
 
 Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
-- <i class="fab fa-forumbee"></i> <sup>3</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>4</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.20
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.24
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -857,31 +889,31 @@ Recent years have seen an explosion of “reality” television programming base
 
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and reading.
+- <i class="fa fa-bullhorn"></i> Discuss film and reading
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.22
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.26
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and reading.
+- <i class="fa fa-bullhorn"></i> Discuss film and reading
 
 
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.24
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.28
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review.
+- <i class="fa fa-code-branch"></i> [Peer Review](/courses/workshops/peer-review/): During class time today you will meet with two of your colleagues to perform peer review
 - <i class="fa fa-code-branch"></i> [On Introductions](/courses/workshops/introductions/).
-- <i class="fa fa-bullhorn"></i> Discuss research proposals.
+- <i class="fa fa-bullhorn"></i> Discuss research proposals
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
@@ -892,22 +924,18 @@ Recent years have seen an explosion of “reality” television programming base
 
 {{< /details >}}
 
-##
 
 <!---
 
 ##
 
-{{< details "8 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
+{{< details "7 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
 #
 We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to recognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
 
-- <i class="fab fa-forumbee"></i> <sup>6</sup> [Hive page for Week 8](https://drive.google.com/drive/folders/1kBry3ADp55ZdwdTyIIXocLT0QuWu2bEe?usp=sharing)
-- <i class="fab fa-forumbee"></i> <sup>7</sup>  [Hive page for Week 8](https://drive.google.com/drive/folders/1GxPC642vpAcqx1hcMguNDtTG5fCKkCbr?usp=sharing)    
-
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.17
 {{< /hint >}} 
 
 
@@ -929,7 +957,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.23
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.21
 {{< /hint >}} 
 
 
@@ -970,14 +998,15 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 ##
 
 {{< details "9 - Drafting, Revising, Presenting" >}}
-#
+
+---
 
 This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. Feel free to use a visual aid, such as PowerPoint slides or handouts.  
 
-- *Each of you should be prepared to present on Monday*. I will have my son Abel randomly number you from 1-15 to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
+- *Each of you should be prepared to present on Monday*. I will have my son Hayden randomly number you to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.27
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.3
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -987,7 +1016,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 3.1
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 3.5
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -997,12 +1026,19 @@ This week is dedicated to our presentations. Each of you will make a short prese
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.3
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.7
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - [<i class="fas fa-comment-alt"></i>](https://www.youtube.com/watch?v=y8Kyi0WNg40)  Presentation Group 3.
+
+---
+
+- <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
+- <span style="color: var(--tears)"><i class="fas fa-tint"></i></span> Tearful goodbyes.
+- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
+
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
@@ -1014,30 +1050,17 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 {{< /details >}}
 
-##
+<br>
 
-{{< details "10 - The End" open >}}
-#
+{{< details "10 - The End" >}}
 
+---
 <div style="text-align:center">{{< figure src="/img/nuke-test4.jpg" >}}</div>
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.6
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.10
 {{< /hint >}} 
 
-<span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
-
-- <i class="fa fa-question-circle"></i> Final Question of the Day™
-- <span style="color: var(--donuts)"><i class="fas fa-dot-circle"></i></span> Eat celebratory donuts!
-- <span style="color: var(--tears)"><i class="fas fa-tint"></i></span> Tearful goodbyes.
-- <i class="fa fa-calendar-alt"></i> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
-
-
----
-
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 3.10
-{{< /hint >}} 
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
@@ -1045,7 +1068,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Final draft of Author Page Due. 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.13
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 3.12
 {{< /hint >}} 
 
 ---
