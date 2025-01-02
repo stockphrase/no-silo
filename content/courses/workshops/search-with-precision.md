@@ -144,7 +144,7 @@ parenthetical constructions:
 
 Such parenthetical searches follow the [order of operations](https://en.wikipedia.org/wiki/Order_of_operations), like in math
 equations. In the first example, the search will first combine all the
-articles with the keyword of **Ohio** to all the articles with the keyword **Virginia**, creating a large collection of search results. Afterward, the keyword **unemployment** will be applied to that collection using the `AND` operator, yielding the final search results that look for sources dealing with unemployment in either Virginia and Ohio. Similarly, the second example creates a large collection of results that share the subjects **cognitive** and **linguistics**, then all the items having the term **childhood** are removed from the results.
+articles with the keyword of **Ohio** to all the articles with the keyword **Virginia**, creating a large collection of search results. Afterward, the keyword **unemployment** will be applied to that collection using the `AND` operator, yielding the final search results that look for sources dealing with unemployment in either Virginia and Ohio. Similarly, the second example creates a large collection of results that share the subjects **cognitive** and **linguistics**, then all the items having the term **childhood** are removed from the results using the NOT operator.
 
 {{< /details >}} 
 
@@ -200,9 +200,9 @@ relevant results. *The question mark wild card should be used to replace a singl
 
  To illustrate, look at these two searches on the JSTOR database:
 
-- [Iraq AND manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (14,863 results)
+- [Iraq AND manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doBasicSearch?Query=Iraq+and+manufacturing&so=rel) (19,188 results)
 
-- [Iraq AND manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (30,868 results) 👀️
+- [Iraq AND manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doBasicSearch?Query=Iraq+and+manufact*&so=rel) (39,444 results) 👀️
 
 {{< /details >}} 
 

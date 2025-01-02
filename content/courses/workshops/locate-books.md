@@ -102,7 +102,7 @@ Maps of the library's floorplans are affixed to the walls on each floor. Free pa
 
 <span style="color: var(--due)"><i class="fas fa-lock"></i></span> Method B is top secret. (I will reveal it at the appropriate time). 
 
-
+<!---
 A new update to Dartmouth's catalog as of 2014 allows you to simply click the "map it" button next to the item's [listing in the catalog](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991031290259705706). 
 
 <div style="text-align:center">{{< figure src="/img/mapit.png" >}}</div>
@@ -111,7 +111,7 @@ Clicking this button will summon a map that shows you the approximate location o
 library stacks. 
 
 <div style="text-align:center">{{< figure src="/img/map.png" >}}</div>
-
+--->
 
 {{< /details >}}
 

@@ -10,7 +10,7 @@ bookToc: true
 
 {{< hint note >}} 
 
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This is a mockup of an Author Page for a research project. Use this as a template for your own project. Create your own Author Page as a Google doc; or, if you prefer, you may use the [Journeys](https://journeys.dartmouth.edu/) WordPress platform. Put a link to your project on our course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> This is a mockup of an Author Page for a research project. Use this as a template for your own project. Create your own Author Page as a Google doc; or, if you prefer, you may use the [Journeys](https://journeys.dartmouth.edu/) WordPress platform. Put a link to your project on our course [research projects page](https://docs.google.com/document/d/1mRHkolo3oVGlIApBqNlCrA0qXQtbigpnkLi2xLuD6OU/edit?usp=drive_link).
 
 {{< /hint >}} 
 
@@ -20,7 +20,7 @@ bookToc: true
 
 ## Revanchist Masculinity in Recent Post-Apocalyptic Cinema
 
-This paper examines a strain of post-apocalyptic narrative featuring what we may call “revanchist masculinity.” This term references an increasingly strident cultural discourse that addresses a perceived crisis of modern masculinity and demands a return to patriarchal authority and so-called "masculine values." Narratives of this sort revel in neo-primitivist fantasies of male empowerment based in dominance, gun culture, adventure, hyper-masculine performances, and the subordination and control of others (particularly women). Many of these films express an incipient or perhaps secret desire to totally destroy modern civilization, which is seen as enervating and effeminate, thus returning to a "natural" order.
+This paper examines a strain of post-apocalyptic narrative that generate a profound sensibility of imperiled masculine sovereignty. These texts authorize what I call “revanchist masculinity": an increasingly strident cultural discourse that demands a return to patriarchal authority and so-called "masculine values." Narratives of this sort revel in neo-primitivist fantasies of male empowerment based in dominance, gun culture, adventure, hyper-masculine performances, and the subordination and control of others (particularly women). Many of these films express an incipient or perhaps secret desire to totally destroy modern civilization, which is seen as enervating and effeminate, thus returning to a "natural" order.
 
 ## Current Research
 

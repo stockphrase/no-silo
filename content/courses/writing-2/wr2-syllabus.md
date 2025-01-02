@@ -19,15 +19,11 @@ title: "Writing 2: Syllabus"
 #### <span style="color: var(--due)"><i class="fa-solid fa-person-falling-burst"></i></span>  |  Weapons of Mass Instruction: Authority, Education, Pedagogy
 {{< /hint >}} 
 
-<!---
-{{< hint note >}} 
-Education! Which of the various me's do you propose to educate, and which do you propose to suppress? Anyhow I defy you. I defy you, oh society, to educate me or to suppress me, according to your dummy standards. . . . Who are you? How many selves have you? And which of these selves do you want to be? Is Yale College going to educate the self that is in the dark of you, or Harvard College? The ideal self! Oh, but I have a strange and fugitive self shut out and howling like a wolf or a coyote under the ideal windows. See his red eyes in the dark? This is the self who is coming into his own.
 
-— D.H. Lawrence, *Studies in American Fiction*
+> <small>Education! Which of the various me's do you propose to educate, and which do you propose to suppress? Anyhow I defy you. I defy you, oh society, to educate me or to suppress me, according to your dummy standards. . . . Who are you? How many selves have you? And which of these selves do you want to be? Is Yale College going to educate the self that is in the dark of you, or Harvard College? The ideal self! Oh, but I have a strange and fugitive self shut out and howling like a wolf or a coyote under the ideal windows. See his red eyes in the dark? This is the self who is coming into his own.
+>
+> — D.H. Lawrence, *[Studies in Classic American Literature](https://gutenberg.org/ebooks/60547)*</small>
 
-{{< /hint >}} 
-
---->
 
 ## Course Description
 
@@ -37,7 +33,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Course Theme
 
-Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is something that has always been with us, something that is self-evidently the right and obvious thing to do: part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is something that has always been with us, something that is self-evidently the right and obvious thing to do—part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will try to step outside of our experiences with formal education and gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
@@ -59,7 +55,7 @@ Although it is quite difficult to escape the naturalizing trance that comes from
 <span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
 {{< /hint >}} 
 
-- If you miss class or a tutoring session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- If you miss class or a tutoring session due to illness, please email me to receive makeup information.
 
 {{< hint note >}} 
 <span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
@@ -113,7 +109,7 @@ All work submitted for this course must be your own and be written exclusively f
 
 While Generative AI certainly has a place in many fields and disciplines (and I’m genuinely excited about aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
 
-My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
+My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
 An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or "research" will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be? 
 

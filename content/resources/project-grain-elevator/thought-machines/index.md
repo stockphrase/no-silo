@@ -15,7 +15,7 @@ type: docs
 
 Thought machines are simple mechanisms designed to help us think. Some provoke our thinking by directing our attention to texts or artifacts in certain specific ways. This priming might function as a sort of lens by narrowing our focus on certain features that had previously escaped our view. In other cases, we might seek to broaden our understanding with a more systematic approach that tries to bring a wider, more comprehensive, scope to our analysis. And while these tools may be used on written texts, many of them are useful for examining other cultural artifacts such as film, music, or art.
 
-Each of these machines represent practices that are used by effective writers and researchers. More practiced writers make use of these tools routinely, in concert, and without much conscious thought. However, breaking them into discrete tools for practice and experimentation is often a very helpful way to learn deeper forms of analysis and critical thinking.
+Each of these machines represent practices that are used by effective writers and researchers. More practiced writers make routine and concerted use of these tools without much conscious thought. However, breaking them into discrete tools for practice and experimentation is often a very helpful way to learn deeper forms of analysis and critical thinking.
 
 
 ## Analysis Cards
@@ -79,7 +79,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> What part(s) of this essay gave you pause? Made you curious about something? Did it inspire some thought related or adjacent to its arguments? Were there references to persons or texts or ideas that you are unfamiliar with? Pick something particular and explain what the esssay inspired for you personally. Dig into these things: do some research or some writing about this. While the response genre will be personal in nature, it should not be without substance. For example, it isn't enough to say "I liked it" or "This was no good."</p>  
+<p style="font-family:TrixieHDOT-Heavy"> What part(s) of this text or film gave you pause? Made you curious about something? Did it inspire some thinking related (or adjacent) to its arguments? Pick something particular and explain what the essay inspired for you personally. Dig into these things a bit more deeply and do some thinking. Fee free to do some light research. While the response genre will be personal in nature, it should not be without substance. For example, it isn't enough to say "I liked it" or "This was no good."</p>  
 
 ---
 
@@ -103,7 +103,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> Find a particular argument within the essay and make an argument of your own about it. Is the writer wrong about something? What is your reasoning for disagreeing? Perhaps you have an idea about how this idea could be extended to something else that the author doesn't discuss? Or you might explore the implications of some idea or argument that the author does not pursue. If you agree with the author's thinking, should we do something concrete or change something particular in our lives based on the implications of the argument? </p>  
+<p style="font-family:TrixieHDOT-Heavy"> Find something particular in this text or film and make a short argument about it. Make a claim and support it with evidence. Did you find yourself having a strong response to something that was articulated in the text? Perhaps you disagree with argumentative reasoning of a text or want to make a critique of the politics of a film. Or perhaps the text you are contemplating will give rise to an idea about making some concrete change that we should make as a society. Feel free to discuss anything that seems notable or important to you. </p>  
 
 ---
 
@@ -172,7 +172,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> Sketch out the ways two texts seem to be in conversation with each other on some issue, problem, or argument. Are they talking about the same issue but using different vocabulary or rhetorical strategies? Do they seem to differ on key areas of this shared concern? </p>  
+<p style="font-family:TrixieHDOT-Heavy"> Sketch out the ways two texts seem to be in conversation with each other on some issue, problem, or argument. While this may involve two pieces of writing, it may also involve two films or a film and a written text. What connections do you see? What relationship may be detected? </p>  
 
 ---
 
@@ -216,7 +216,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> What are the key moments in the text? These will no doubt include moments where key arguments are made; however, it may also just include certain terms, turns of phrase, or memorable language that seems to invite quotation in our own writing. Imagine that you are stripping the argument for parts so that you can use them for something you are building. What are the essential, necessary items that you need to extract?</p>  
+<p style="font-family:TrixieHDOT-Heavy"> What are the key moments in the text? These moments will no doubt include the central claims and arguments of the text; however, it may also just include certain terms, turns of phrase, or memorable language that seems to invite memorialization in our own writing. Imagine that you are stripping the text for parts so that you can use them for something you are building. What are the essential, necessary items that you need to extract? We might imagine a similar operation for various artforms, like a film.</p>  
 
 ---
 
@@ -350,7 +350,7 @@ Each of these machines represent practices that are used by effective writers an
 
 ---
 
-<p style="font-family:TrixieHDOT-Heavy"> <a href="https://www.merriam-webster.com/dictionary/indagate">Indagate</a> is an unusual verb that comes into English from the Latin <i>indagare</i>, which suggests a hunter tracking game. Find some small reference in the text that you are unfamiliar with. Perhaps it is a reference to a person, a place, a group of people, or some other thing that is left unexplained in the text. Find something that you are curious about. Indagate by hunting down the reference and writing a paragraph or two about what you find once you've captured your prey. How does this thing relate to the broader text or argument? Why is this reference here? Now that you know this, what meaning(s) does it unlock for you in the text? </p>
+<p style="font-family:TrixieHDOT-Heavy"> <a href="https://www.merriam-webster.com/dictionary/indagate">Indagate</a> is an unusual verb that comes into English from the Latin word <i>indagare</i>, which suggests a hunter tracking game. Find some small reference in the text that you are unfamiliar with or curious about. Perhaps it is a reference to a person, a place, a group of people, or some other thing that is left unexplained in the text. Find something that you would like to know more about. Perform your indigation by hunting down the reference and writing a paragraph or two about what you find once you've captured your prey. How does this thing relate to the broader text or argument? Why is this reference here? Now that you know this, what meaning(s) does it unlock for you in the text? </p>
 
 ---
 

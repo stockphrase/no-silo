@@ -13,13 +13,17 @@ title: "Writing 3: Syllabus"
 
 {{< figure src="/img/the-end-header.png" >}}
 
+
 # Post-apocalyptic Fiction, Film, and Art
 
+> "Apocalypse, we propose, is never a locatable event but rather an imaginative practice that forms and deforms history for specific purposes: an aesthetic that does as much as it represents. Apocalyptic art may represent an imagined future, but it acts in and upon the present" (451).
+>
+> — Hessica Hurley and Dan Sinykin, ["Apocalypse: Introduction"](https://muse.jhu.edu/article/711828)
 
 ## Course Description
-
 Why do we feel such an attraction to disaster? Why do we produce novels, films, and other forms of art that contemplate the end of humanity? Scholars from many disciplines have offered theories about the appeal and meaning of such spectacles of apocalyptic destruction. We will read some of this critical literature, examining views from disciplines such as psychology, sociology, cultural studies, and religion. In addition to these assigned readings, each of you will engage in your own original process of inquiry on a related topic of your choosing. You will present your findings frequently to the community of scholars in our class, sharing and discussing your research discoveries and insights. Ultimately, you will produce a lengthy work of original scholarship that will contribute to this field of inquiry.
 
+---
 
 ## <span style="color: var(--health)"><i class="fas fa-virus"></i></span> Health Information & Resources
 
@@ -35,11 +39,12 @@ Why do we feel such an attraction to disaster? Why do we produce novels, films, 
 
 ---
 
+
 {{< hint note >}} 
 <span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Course Policies**
 {{< /hint >}} 
 
-- If you miss class or a tutoring session due to illness, please [email me](mailto:alan@no-silo.com) to receive makeup information.
+- If you miss class or a tutoring session due to illness, please email me to receive makeup information.
 
 {{< hint note >}} 
 <span style="color: var(--health)"><i class="far fa-dot-circle"></i></span>  **Health & Wellness Resources**
@@ -65,13 +70,75 @@ The academic environment is challenging, our terms are intensive, and classes ar
 
 {{< /details >}}
 
+<br>
+
+{{< details "Tips on Surviving the NH Winter" >}}
+
+If you hail from a more temperate climate, then you are in for something completely different this term in [Climate Zone 5a](https://planthardiness.ars.usda.gov/). Here's my hard-won advice on some things that will make your time here more enjoyable and safe:
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> A good coat
+
+You probably think you have a solid winter coat. But if you are from a climate like California or Texas, you probably don't. You need something *serious*—a coat insulated with goose down or its synthetic equivalent. Find something that is rated to negative temperatures. The coat should also be windproof or you are just wasting your time. A good rule of thumb: if the coat is [puffy](/img/puffy3.jpeg) and [ugly](/img/puffy4.png), then it's warm. 
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Mittens
+Gloves are for rookies and chumps. What you need are a really good pair of *mittens*. Your fingers need to stay close together like a happy family to keep warm. Get something insulated and waterproof.
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Insulating layers
+If you plan to stay outside for an extended length of time, you should look into some insulating layers (aka: thermal underwear). This stuff will make you bulletproof.
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Face covering
+When it is 10°F and the wind is howling, your uncovered face will get utterly destroyed. Get a neck gaiter that you can pull up over your mouth and nose to keep your face from getting lashed by the winds on these brutal days. 
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Snow boots
+
+You are going to have to walk though snow and slush during winter and sloppy mud in the spring. Sometimes it is pretty deep. You need some waterproof muck boots that are at least mid length for bad days. Look, there's no way to avoid this: these are ugly and utilitarian. But if you try to remain a fashion plate, you are going to really pay for it by ruining your good shoes and getting frozen toes. These boots also need to have a really aggressive tread on them. Otherwise, you are going to slip and fall down a lot. Everyone seems to think that the iconic [Bean Boot](https://www.llbean.com/llb/shop/506697?page=llbean-boots) is the answer. These people are very wrong. 
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Spikes / Crampons
+
+Often we get an ice storm or ice-forming conditions in Hanover. On these occasions it is not just dangerous but *impossible* to walk around on the sidewalks and streets. Even the best snow boots won't save you in these conditions. On these days you need a pair of spikes. I've tried most of the products on the market; the best by far are made by Khtoola. This company makes serious mountaineering gear. But for everyday use, their [EXOspikes](https://kahtoola.com/traction/exospikes-footwear-traction/) will take excellent care of you. I've waked on solid ice for miles with these and never even slipped. These fit over your boots or shoes and provide four-wheel drive for your feet. Get a size up from your normal shoe size if you plan to wear these on big snow boots.
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Vitamin D3
+
+Your body [synthesizes vitamin D when sunlight is absorbed by your skin](https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional). However, during the dark winter months we mostly stay indoors, which can lead to low levels of this important hormone. Without enough vitamin D you may experience a medical condition called SAD, or [Seasonal Affective Disorder](https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder#:~:text=the%20FDA%20website%20.-,Vitamin%20D,can%20interact%20with%20some%20medications), which gives you symptoms indistinguishable from depression: hopelessness, sadness, loss of interest in activities, difficulty concentrating, etc. Buy a big bottle of vitamin D3 and take it daily during the winter months. There's a lot of snake oil out there in the world of supplements, so buy a name-brand product. I use [Nature Made D3](https://www.naturemade.com/products/vitamin-d3-50-mcg-2000-iu-softgels).
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Light Therapy
+Consider purchasing a [light therapy lamp](https://www.amazon.com/s?k=Light+Therapy+Lamp) to regulate your circadian rhythm and boost mood during the darker months. Use the lamp *during the early daytime hours* only and follow this advice from the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/in-depth/seasonal-affective-disorder-treatment/art-20048298). You can get a decent light box for around $20. 
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Skin Care
+You are going to experience really dry skin. Especially your hands. I have tried everything and have found the greatest product of all time: [CeraVe Healing Ointment](https://www.cerave.com/skincare/moisturizers/healing-ointment). This stuff is the ~~bomb~~ balm. Winter laughs at Jergens. 
+
+---
+
+#### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Humidifier
+The winter air is extremely dry. In extreme cases you will start getting nosebleeds. Get a cheap humidifier for your room and run it at night to get some moisture back in your life. Or you could fill shallow pans with water and put them on top of your radiator for a similar effect.  
+ 
+
+{{< /details >}} 
 
 ## Course Objectives
 
 Writing 3 continues our focus on inquiry, critical thinking, and argumentation. The course additionally involves an introduction to academic research. Our libraries hold an
 impressive collection of traditional and electronic research tools as well as hundreds of thousands of books, journal
 articles, and assorted media. Navigating this ocean of information can be intimidating; however, excellent research
-skills are fundamental to your training. Therefore, we will spend a significant amount of time learning how to perform academic research and use our library resources effectively. By the end of this course, you should be able to do
+skills are fundamental to your academic training. Therefore, we will spend a significant amount of time learning how to perform academic research and use our library resources effectively. By the end of this course, you should be able to do
 the following:
 
 1. Formulate research questions that may be used to guide a research process.
@@ -88,7 +155,7 @@ the following:
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
-- [Winter readings](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing) (.pdf)
+- [Winter course readings](https://drive.google.com/drive/folders/15KWg-kGwN5ivDx1bkVCyGIcUsKGuc3qI?usp=drive_link) (.pdf)
 
 ---
 
@@ -97,12 +164,14 @@ the following:
 | Link                                   | Purpose                                                                                                              |
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
-| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.                                                                      |
+| [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.
+| [Course Readings](https://drive.google.com/drive/folders/15KWg-kGwN5ivDx1bkVCyGIcUsKGuc3qI?usp=drive_link) | A Google Drive with our course readings.
+| [Author Pages](https://docs.google.com/document/d/1mRHkolo3oVGlIApBqNlCrA0qXQtbigpnkLi2xLuD6OU/edit?usp=drive_link) | A research archive built by our class.   |       
 | [Tutor Zone](https://drive.google.com/drive/folders/1WSN5D4M_goUsj5ybb7LeIBDP_llNLXvs?usp=drive_link) <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> | Resources for the 2-3 Tutor |
-| [Author Pages]() | A research archive built by our class.          |
 |[The End](/courses/writing-3/post-apocalyptic-thoughts) |Random aphorisms on the (post)apocalyptic |
 | [FAQs](/resources/FAQs)                | Frequently asked questions about the course |
- 
+
+
 
 ## Academic Honesty
 
@@ -118,11 +187,11 @@ All work submitted for this course must be your own and be written exclusively f
 
 While Generative AI certainly has a place in many fields and disciplines (and I’m genuinely excited about aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
 
-My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including the development of critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
+My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
 An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or "research" will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be? 
 
-If we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades, then it makes perfect sense to use an AI tool to cut corners. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
+It only makes sense to cut corners with an AI tool if we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
 
 > “An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others.” 
 
@@ -151,7 +220,7 @@ If you have any questions about this policy or are not sure if a resource you ha
 
 ## Attendance Policy
 
-Regular attendance is expected. Bracketing religious observance, serious illness, or personal tragedy, no more than three unexcused absences in a single term will be acceptable for this course. This policy applies to:
+Regular attendance is expected. Bracketing religious observance, serious illness, or personal tragedy, **no more than three unexcused absences in a single term will be acceptable for this course**. This policy applies to:
 
 - regular class meetings 
 - assigned X hours 
@@ -160,7 +229,7 @@ Regular attendance is expected. Bracketing religious observance, serious illness
 Four or more unexcused absences may result in repercussions ranging from significant reduction in GPA to failure of the course. If you have a religious observance that conflicts with your participation in the course, please meet with me beforehand to discuss appropriate accommodations.
 
 {{< hint note >}} 
-<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I mention in the [Health Information & Resources](/courses/writing-2/wr2-syllabus-revised/#span-stylecolor-var--duei-classfas-fa-virusispan-health-information--resources) section above: if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the health of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problem of the sort that exceeds three absences, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency is so prolonged that it prevents meaningful participation and commitment to the course. 
+<span style="color: var(--due)"><i class="fa-solid fa-star"></i></span> | As I mention in the [Health Information & Resources](/courses/writing-3/wr3-syllabus/#span-stylecolor-var--healthi-classfas-fa-virusispan-health-information--resources) section above: if you are very ill, please [don't be a hero](https://www.youtube.com/watch?v=Pe9JVLEBgcc) by dragging yourself into class to avoid an absence. I prefer that you consider the health of the others in our class and stay home if you have a fever or are possibly contagious. If you experience an illness or other human problem of the sort that exceeds three absences, I will definitely listen and try to work out something with you. Of course, this may not be possible if your emergency is so prolonged that it prevents meaningful participation and commitment to the course. 
 
 {{< /hint  >}} 
 
@@ -217,7 +286,8 @@ Your [field notebook](/resources/project-grain-elevator/field-notes/) is a recor
 
 *Keep a tight record of your mind's travels*. 
 
-Our objective for the field notebooks is to explore meaning, discover the argumentative structure(s) of our readings, evaluate supporting evidence, ask probing questions, connect to other readings, take notes, plan revision, and think critically. With luck, your notebook will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. I'm providing these notebooks to you; if you fill yours up, just ask for another one. 
+Our objective for the field notebooks is to explore meaning, discover the argumentative structure(s) of our readings, evaluate supporting evidence, ask probing questions, connect to other readings, take notes, plan revision, and think critically. With luck, your notebook will become a central resource in our class discussions and an indispensable aid to you as you craft your essays. I'm providing these notebooks to you; if you fill yours up, just ask for another one.
+ 
 
 ---
 
@@ -250,23 +320,23 @@ At the end of the term we will reflect together on your progress, effort, partic
 
 ### 1. Formal Research Essay
 
-You will write one formal research essay. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. For example, you may write a paper on [ruin porn](https://en.wikipedia.org/wiki/Ruins_photography), but not on [CTE](https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921) in American football. The former is clearly relevant to the theme of apocalypticism; the latter is really concerning but has no relevance to our course focus.   Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
+You will write one formal research essay. The project will involve many of the core competencies we developed in the previous term including argumentation, critical thinking, close reading, synthesis, and theoretical analysis. You may write on any topic you wish, so long as it is a contribution to our course conversation and theme. Please discuss your ideas with me before you get too far along. I am happy to meet with each of you to discuss ideas and help formulate a research plan.
 
 {{< hint note >}}
 <span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i> Essay requirements:</span> 
 
-- The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi). You may choose to use either footnotes or endnotes for your citations; no bibliography page is required. 
+- The essay must be submitted in the [Chicago format](/resources/open-handbook/chapter-11-chi). 
 
 - It must contain a minimum of 15 [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources. 
 
 - Sources that are not peer-reviewed may also be used. However, be judicious if you do so. 
  
-- Your essay should be 3,700 words, or about 15 pages in length.
+- Your essay should be at least 3,700 words, or about 15 pages in length.
 {{< /hint >}}
 
 ### 2. Research Workshops
 
-Several workshop assignments will help you gain confidence with using library resources, constructing bibliographies, and managing a large research project.
+Several workshop assignments will help you gain confidence with using library resources, constructing bibliographies, and managing large research projects.
 
 ### 3. Presentations
 
@@ -274,27 +344,27 @@ You will make one formal presentation at the conclusion of the term to explain y
 
 ### 4. Author Page
 
-Each of you will curate a webpage dedicated to your research project. We will call this site your `Author Page`. You may create this page as a shared [Google Doc](https://google.dartmouth.edu/) or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. After creating your page, link to it on the course [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing) so that we may locate it. We will use these Author Pages to view your project as it evolves over time. One of your most important responsibilities this term is to keep this page updated. Your author page should contain the following:
+Each of you will curate a webpage dedicated to your research project. We will call this site your `Author Page`. You may create this page as a shared [Google Doc](https://google.dartmouth.edu/) or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. After creating your page, link to it on the course [research projects page](https://docs.google.com/document/d/1mRHkolo3oVGlIApBqNlCrA0qXQtbigpnkLi2xLuD6OU/edit?usp=drive_link) so that we may locate it. We will use these Author Pages to view your project as it evolves over time. One of your most important responsibilities this term is to keep this page updated. Your author page should contain the following:
 
 - a short research proposal/statement of no more than 250 words.
 - an `annotated bibliography` of all the sources used to construct your research project. 
-    - *Use `permalinks` to link to the book or article within the library system*.
+    - *Use [permalinks](https://en.wikipedia.org/wiki/Permalink) to link your sources to their location online in the library system*.
 - a current draft of your research essay.
-- a weekly reflective blog post about the progress of your research project (see #7 below).
+- a weekly reflective "blog" post about the progress of your research project (see below).
 
 {{< hint note >}}
-<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> I have created a [model author page](/courses/writing-3/author-page) on the course website that you may use as a template.
+<span style="color: var(--in-class)"><i class="fas fa-star-of-life"></i></span> I have created a [model author page](/courses/writing-3/author-page) here that you may use as a template.
 {{< /hint >}}
 
-### 5. End-of-Week Journal Reflection
+### 5. End-of-Week Reflection
 
-Compose a weekly reflective "blog" post on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) that details your efforts that week to further your research project. At the beginning, these posts will likely be searching, inarticulate musings as you think through possible ideas for a research project. However, as your research intensifies and comes into focus, these posts should begin to include the steps that you took that week to further the project in some way. What kind of research problems or difficulties did you encounter? What sources did you locate? How is the project evolving as you read and think more deeply on your subject? In essence, I would like you to blog your experiences as a novice researcher engaged in your first big research project. Significantly: the things you say in your posts will help me, the teaching assistant, and your colleagues assist you with your project.
+Compose a weekly reflective "blog" post on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) that details your efforts that week to further your research project. At first these posts will likely be searching, inarticulate musings as you fumble through possible ideas for a research project. However, as your research intensifies and comes into sharper focus, these posts should begin to include the specific steps that you took that week to further the project in some way. What kind of research problems or difficulties did you encounter? What sources did you locate? How is the project evolving as you read and think more deeply on your subject? In essence, I would like you to blog your experiences as a novice researcher engaged in your first big research project. Significantly: the things you say in your posts will help me, the tutor, and your colleagues as we try to assist you with your project.
 
 ---
 
 ## Help With Your Writing
 
-There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our tutor for 45 minutes per week to go over your writing and plan revision. If you require further help, the [RWIT](https://students.dartmouth.edu/rwit/) program offers excellent peer tutoring on all phases of the writing process---from generating ideas to formal citation.
+There are many sources of help for your writing assignments. I am happy to meet with you all term during my office hours or by appointment. Each of you will meet with our tutor for 45 minutes per week to go over your writing and plan revision. If you require further help, the [Writing Center](https://writing.dartmouth.edu/support/writing-center) offers excellent peer tutoring on all phases of the writing process—from generating ideas to formal citation.
 
 ---
 
@@ -350,13 +420,15 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)| A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
-
+- <i class="fa-solid fa-file-pdf"></i> [Susan Sontag, "The Imagination of Disaster" (1956)](/courses/writing-3/wr3-syllabus/#required-texts) 
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
 ---
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> `In-class work` </span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - Review the Introduction to Academic Research reading.
+- <i class="fa fa-bullhorn"></i> Discuss reading
 
 
 ---
@@ -367,13 +439,14 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)| A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
+- In your field notebook, make a list of any film, television show, or work of literature in the [post-apocalyptic genre](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) that you find interesting or memorable. 
+- Also make a list of any actual fears that you have about the end of the world. 
 
 ---
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa-solid fa-person-chalkboard"></i> Introduction to academic research
+- Review the Introduction to Academic Research reading.
 - <i class="fa fa-bullhorn"></i> Discuss possible research ideas
 
 {{< /details >}}
@@ -451,7 +524,7 @@ This week we will continue our overview of library research, learning some basic
 
 {{< details "3 - Disaster, Apocalypse, & the State of Nature" >}}
 
-Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes, Rousseau, and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
+Philosophers and social scientists have attempted to explain the origins of civilization and the rise of the modern state for centuries. A key concept in this conversation is the “state of nature,” a hypothetical condition where human beings lived without government. In this primitive state there is no law or authority, only anarchy and the pervasive threat of violence. Thinkers of the past such as Hobbes and Locke used this hypothetical condition to explain why the state of nature no longer exists and how civilized orders came to be. Today, however, many writers, filmmakers, and social scientists imagine apocalyptic scenarios of disaster wherein society regresses again to chaotic states of nature. Why do we produce such imaginings? What purpose(s) do they serve? And why have these narratives become so prominent of late?
 
 
 ---
@@ -476,15 +549,16 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 
 
-- <i class="fa-solid fa-file-pdf"></i> [Thomas Hobbes, selection from *Leviathan* (1651)](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- <i class="fa-solid fa-file-pdf"></i> [Thomas Hobbes, selection from *Leviathan* (1651)](/courses/writing-3/wr3-syllabus/#required-texts) 
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #15 Indigation](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
 
-- <i class="fa-solid fa-code-pull-request"></i> [`Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | Study the portion about finding books and other items in the library stacks; we will complete the workshop portion in class.
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading
-- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | This workshop will help you learn how to locate physical items in the library's stacks.
+- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
 
 ---
 
@@ -494,14 +568,16 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-file-pdf"></i> [Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-- <i class="fas fa-wrench"></i> [`What is Peer Review?`](/courses/workshops/peer-reviews) | Complete the reading to understand the purpose of peer review and how to recognize peer-reviewed articles and books; we will do the workshop portion in class.
+- <i class="fa-solid fa-file-pdf"></i> [Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](/courses/writing-3/wr3-syllabus/#required-texts) 
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+- <i class="fa-solid fa-code-pull-request"></i> [`Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | Study the portion about finding books and other items in the library stacks; we will complete the workshop portion in class.
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fas fa-wrench"></i> [`Workshop 9: What is Peer Review?`](/courses/workshops/peer-reviews) | This workshop helps you understand the purpose of peer review and how to recognize peer-reviewed articles and books.
-- <i class="fa fa-bullhorn"></i> Discuss reading and workshop.
+- <i class="fa fa-bullhorn"></i> Discuss reading.
+- <i class="fas fa-wrench"></i>   [`Workshop 3: Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | This workshop will help you learn how to locate physical items in the library's stacks.
 
 ---
 
@@ -512,8 +588,9 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-file-pdf"></i>  [Something on Elite Panic? Solnit?](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
+- <i class="fa-solid fa-file-pdf"></i>  [Rebecca Solnitt, excerpts from *A Paradise Built in Hell*.](/courses/writing-3/wr3-syllabus/#required-texts)
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #4 Quick Argument](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text. 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -522,7 +599,6 @@ Philosophers and social scientists have attempted to explain the origins of civi
 - <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> Research progress checkup.
 
 <span style="color: var(--due)"><i class="fa fa-bullseye"></i> `Due`</span> 
-
 
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> Submit work for [Workshop 3](/courses/workshops/locate-books).
@@ -536,7 +612,7 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 ---
 
-Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
+Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
 ---
 
@@ -547,16 +623,17 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.  
 
-  - <i class="fas fa-camera-retro"></i>  [Stills from *The Last Man on Earth*](/courses/writing-3/last-man-stills). 
-
-- <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s) | Skim this reading to gain an overview of the important historical/cultural events in this decade.
+- <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.
+    - <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s) | Skim this reading to gain an overview of the important historical/cultural events in this decade.
+    - <i class="fa-solid fa-list-check"></i> [View and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the film in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    - <i class="fas fa-camera-retro"></i>  [Stills from *The Last Man on Earth*](/courses/writing-3/last-man-stills). 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
+- <i class="fa fa-bullhorn"></i> Discuss film.
 
 ---
 
@@ -566,12 +643,14 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-file-pdf"></i> [Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
-
+- <i class="fa-solid fa-file-pdf"></i> [Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”](/courses/writing-3/wr3-syllabus/#required-texts)
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text. 
+    
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading and Hive submissions.
+- <i class="fa fa-bullhorn"></i> Discuss reading.
 
 ---
 
@@ -582,7 +661,7 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-bullhorn"></i> Discuss film, reading, and Hive submissions.                                   
+- <i class="fa fa-bullhorn"></i> Discuss film, reading.                                   
 - <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span>  Research progress checkup.
 - <i class="fas fa-wrench"></i> [`Workshop 4: Works Cited or Bibliography`](/courses/workshops/chicago-bibliography/) | This workshop will help you gain familiarity with constructing a Chicago style bibliography for a research paper or project.
 
@@ -607,14 +686,15 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) | Film is in the "Panopto Video" section of Canvas. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-- <i class="fas fa-video"></i> [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
-  
+- <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) 
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fas fa-video"></i> [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
+    - <span style="color: var(--due)"><i class="fa-solid fa-gear"></i></span> [Thought Machine #7 Comparison](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
+- <i class="fa fa-bullhorn"></i> Discuss film.
 
 ---
 
@@ -624,10 +704,12 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
+- Nope!
+
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions
+- <i class="fa fa-bullhorn"></i> Discuss film 
 - <i class="fas fa-wrench"></i>  [`Workshop 5: Cutting Corners in Research`](/courses/workshops/cutting-corners/) | The best researchers know how to cut corners and work efficiently. This lecture presents you with some tips that will save you time.
 - <i class="fas fa-wrench"></i> [`Workshop 6: "Getting Sh*t the Library Doesn't Have"`](/courses/workshops/inter-library-loan) | As a researcher you will encounter many problems, but one of the most annoying is discovering that some other person has rudely checked out *your* book. Sometimes our library doesn't own a book or article that you want to read. What do you do when these things happen? You have many options that won't cost you a dime.
 
@@ -641,12 +723,12 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa fa-bullhorn"></i> Discuss film and Hive submissions.
+- <i class="fa fa-bullhorn"></i> Discuss film.
 - <span style="color: var(--due)"><i class="fas fa-heartbeat"></i></span> Research progress checkup.
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Update research proposal and annotated bibliography on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
 
@@ -675,9 +757,10 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968) | Film is in the "Panopto Video" section of Canvas. View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968)
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/).
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
-    
+    - <span style="color: var(--due)"><i class="fa-solid fa-gear"></i></span> [Thought Machine #4 Quick Argument](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.      
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -692,8 +775,11 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa-solid fa-file-pdf"></i> [Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*.
+- <i class="fa-solid fa-file-pdf"></i> [Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”](/courses/writing-3/wr3-syllabus/#required-texts) 
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
     - <i class="fas fa-video"></i> [Scene from *White Zombie* (1932) at Murder Legendere's plantation](https://youtu.be/NV3B2z0HkKA?t=741).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #4 Quick Argument](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -748,9 +834,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Panopto Video" section of Canvas.
-
-
-- <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/)
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/).
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -767,11 +851,14 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 
-- <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
-- <i class="fa fa-download"></i> Natalia Cecire, "Environmental Innocence and Slow Violence."
-- <i class="fa fa-download"></i> Ali Brox, "The Monster of Representation: Climate Change and Magical Realism in 'Beasts of the Southern Wild'”
+- <i class="fa-solid fa-file-pdf"></i> [Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”](/courses/writing-3/wr3-syllabus/#required-texts)
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    
+<!---   
+- <i class="fa-solid fa-file-pdf"></i> Natalia Cecire, "Environmental Innocence and Slow Violence."
+- <i class="fa-solid fa-file-pdf"></i> Ali Brox, "The Monster of Representation: Climate Change and Magical Realism in 'Beasts of the Southern Wild'”
+--->
 
-- Print out, read, annotate, and take critical notes on the readings, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -799,15 +886,13 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 {{< /details >}}
 
-
-{{< details "7 - Post-apocalyptic Masculinities" >}}
-
----
-
-Recent post-apocalyptic cinema revels in neo-primativist fantasies of male empowerment based in dominance, gun culture, adventure, and the subordination and control of others, particularly women. Such imaginings articulate a perceived crisis in modern masculinity: cowed by feminism, political correctness, economic humiliation, and the social sanctions against supposed masculine traits such as competition, aggression, sexuality, and violence, the modern man experiences an unsustainable (and potentially explosive) repression of his animal nature. We might view texts of this kind as a conservative backlash against recent progressive transformations in our society, particularly the political gains of women and minorities. Many of these films express an incipient or perhaps secret desire to totally destroy modern civilization, which is seen as enervating and effeminate. *Fight Club* might be considered a symptomatic text in this regard. In its critique of the emasculated office cubicle drone we see a nostalgic desire to return to the hard masculinity of the past paired with powerful neo-primitivist fantasies of returning to nature. However, the the film's critique of masculinity is more complicated than many of its early critics allowed.
-
+<!---
+{{< details "7 - Apocalyptic Masculinities" >}}
 
 ---
+
+Recent post-apocalyptic narratives depict cults of hypermasculinity that redress the “malaise” of the modern male—cowed by feminism, political correctness, and the social sanctions against putative masculine traits of competition, aggression, sexuality, and violence, the modern man experiences an unsustainable (and potentially explosive) repression of his animal nature. These narratives revel in neo-primativist fantasies of male empowerment based in dominance, gun culture, adventure, and the subordination and control of others, particularly women. Many of these films express an incipient or perhaps secret desire to totally destroy modern civilization, which is seen as enervating and effeminate. David Fincher's 1999 film *Fight Club* might be considered a symptomatic text in many ways. In its representation of the emasculated office cubicle drone we see a pointed critique of consumerism linked to a nostalgic desire to return to nature and the hard masculinity of the past. However, the the film's critique of capitalism and masculinity is complex and multilayered, perhaps even schizophrenic. 
+
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.21
 {{< /hint >}} 
@@ -816,8 +901,7 @@ Recent post-apocalyptic cinema revels in neo-primativist fantasies of male empow
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa fa-video"></i> [*Fight Club*](https://canvas.dartmouth.edu)  (1999) | Film is in the "Panopto Video" section of Canvas
-
-- <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/)
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/).
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -834,7 +918,7 @@ Recent post-apocalyptic cinema revels in neo-primativist fantasies of male empow
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fa fa-download"></i> John McCullough, "Tedium and Torture: Fight Club, Globalization and Professionals in Crisis" 
+- <i class="fa-solid fa-file-pdf"></i> [John McCullough, "Tedium and Torture: Fight Club, Globalization and Professionals in Crisis"](/courses/writing-3/wr3-syllabus/#required-texts) 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -864,13 +948,15 @@ Recent post-apocalyptic cinema revels in neo-primativist fantasies of male empow
 
 {{< /details >}}
 
+--->
+
 <br>
 
 {{< details "8 - TEOTWAWKI: Prepping for the End" >}}
 
 ---
 
-Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in real survivalist culture, known as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of shows have emerged in response: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
+Recent years have seen an explosion of “reality” television programming based in survival skills or challenges. Popular shows in this regard include game shows like *Survivor* and adventure shows like *Man vs. Wild* and *Survivorman*. Newer programming includes the Discovery Channel’s *Dude, You’re Screwed*, *Alaska Bush People*, *Dual Survival*, and the rather prurient *Naked and Afraid*. While these shows give viewers the vicarious thrill of braving the wilderness from the comfort of their armchairs, there has recently been an explosion in survivalist subcultures, known collectively as “prepping.” Preppers build bomb shelters and other fortifications where they stockpile food, supplies, firearms, and ammunition in preparation for TEOTWAWKI: The end of the world as we know it. A number of "reality" television shows have emerged in response to these cultural phenomena: *Doomsday Preppers*, *Doomsday Castle*, and *Doomsday Bunker*. The list of prepper fears is long: generalized civil unrest, total social collapse, global weather catastrophes, the return of Christ, peak oil, attacks using EMPs, solar flares, and, of course, zombies. Are these views largely fueled by paranoia or a desire for self-reliance? Do these fears and anxieties signify some larger, unarticulated criticism or anxiety about modernity or capitalism?
 
 
 ---
@@ -880,9 +966,9 @@ Recent years have seen an explosion of “reality” television programming base
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=sharing).
-- <i class="fa-solid fa-file-pdf"></i> [Gwendolyn Audrey Foster, “Consuming the Apocalypse, Marketing Bunker Materiality.”](https://drive.google.com/drive/folders/1az1EOfzRZxYAcUUWAtmT99nzS5Ln47_A?usp=share_link) | Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
+- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/15KWg-kGwN5ivDx1bkVCyGIcUsKGuc3qI?usp=drive_link).
+- <i class="fa fa-download"></i> ["The super-rich ‘preppers’ planning to save themselves from the apocalypse"](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff).
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -925,76 +1011,6 @@ Recent years have seen an explosion of “reality” television programming base
 {{< /details >}}
 
 
-<!---
-
-##
-
-{{< details "7 - Slow Violence, Eco-pocalypse, and Poverty"  >}}
-#
-We tend to think of violence as an explosive event that erupts in a singular moment in time and space; however, scholar Rob Nixon argues that we must sensitize ourselves to what he calls “slow violence”---a form of violence “that occurs gradually and out of sight, a violence of delayed destruction that is dispersed across time and space, an attritional violence that is typically not viewed as violence at all” (2). In particular, Nixon’s focus in his influential work *Slow Violence* is on climate disaster: the slow-moving catastrophes of rising sea levels, mounting greenhouse gasses, toxic waste, nuclear accidents, deforestation, and acidifying oceans. These catastrophes, Nixon argues, are difficult to apprehend or represent in narrative form because they take place over years, decades, lifetimes, generations; as “spectacle deficient” events, they struggle for representation in a media environment that is biased toward more sensational forms of violence. Yet, these forms of ecocide are forms of violence surely, ones that remain invisible to many of us because they principally affect the impoverished and forgotten global poor. How can we recalibrate our perceptions to recognize these forms of slow violence? How do we convert “slow violence” into narrative form so that we can communicate its dangers, raise public awareness, and mobilize efforts for change?
-
----
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 2.17
-{{< /hint >}} 
-
-
-
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fa fa-download"></i> Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- Print out, read, annotate, and take critical notes on the reading, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss reading.
-
-
----
-
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.21
-{{< /hint >}} 
-
-
-<span style="color: var(--readings)"><i class="fas fa-circle"></i></span>  `Texts`
-
-- <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Panopto Video" section of Canvas.
-
-<span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-
-- View and take critical notes on the film, then post your contributions to the week's Hive page. *Read and engage the work of your peers there as well*. 
-
-<span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss film and reading.
----
-
-{{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
-{{< /hint >}} 
-
-
-- <i class="fa fa-question-circle"></i> Question of the Day™
-- <i class="fa fa-bullhorn"></i> Discuss the film, reading, and Hive submissions.
-
-
-<span style="color: var(--due)"><i class="fas fa-circle"></i></span> `Due`
-
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Update research proposal, annotated bibliography, paper draft on your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>   Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [Research Essay Draft II Due](https://canvas.dartmouth.edu/) (7-10 pages).
-
-
-{{< /details >}}
-
---->
-
 ##
 
 {{< details "9 - Drafting, Revising, Presenting" >}}
@@ -1003,7 +1019,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 This week is dedicated to our presentations. Each of you will make a short presentation around 5 minutes in length. Your presentation may take any form you like, but consider your audience. Your fellow classmates have not read your essay or researched your topic. How can you help them understand your ideas and arguments? What context will they need to know? What terms or historical details do you need to unpack? Make sure to practice and time your talk so that you don't go over the allotted time. Feel free to use a visual aid, such as PowerPoint slides or handouts.  
 
-- *Each of you should be prepared to present on Monday*. I will have my son Hayden randomly number you to avoid any appearance of favoritism or ill will. He will get to practice his numbers as a result! 
+- *Each of you should be prepared to present on Monday*. I will have my son Hayden randomly number you to avoid any appearance of favoritism. He will get to practice his numbers as a result! 
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 3.3

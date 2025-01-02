@@ -43,14 +43,6 @@ First, let's stipulate that nothing can replace carefully reading a book or arti
 
 ---
 
-# Workshop
-
-1. Choose an upcoming reading from this or any other class that you choose. 
-2. Start a stopwatch timer on your phone. Proceed through strategies 1-4 with the text.
-3. After finishing, write a short summary of the text or any notes that seem important to you. Then stop the timer and note the time.
-4. Start the timer again and read the entire work very carefully, as you would normally. Annotate and take notes---whatever your normal practice is for course readings. Once complete, stop the stopwatch. 
-
-Now, compare the results. What do you think?
 
 ---
 

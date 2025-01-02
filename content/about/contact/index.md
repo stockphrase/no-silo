@@ -5,13 +5,24 @@ bookToC: false
 
 ## Contact
 
-{{< button href="mailto:alan@no-silo.com" >}}<i class="fas fa-envelope"></i> Write me{{< /button >}}
 
- <i class="fas fa-key"></i> [PGP](/pgp/Alan.c.Taylor.asc) | <i class="fas fa-fingerprint"></i> PGP Fingerprint:
+<SCRIPT TYPE="text/javascript">
+<!-- 
+// protected email script by Joe Maller
+// JavaScripts available at http://www.joemaller.com
+// this script is free to use and distribute
+// but please credit me and/or link to my site
 
-`A14D 400A 810B CB92 F903`
+emailE='no-silo.com'
+emailE=('mail' + '@' + emailE)
+document.write('<A href="mailto:' + emailE + '">' + emailE + '</a>')
 
-`8773 035F 719F 2B4C 40F0`
+ //-->
+</script>
+
+<NOSCRIPT>
+  <img src='mail.png' height="20" width="40">
+</NOSCRIPT>
 
 ---
 
