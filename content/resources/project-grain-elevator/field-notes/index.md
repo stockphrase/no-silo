@@ -94,7 +94,7 @@ This term we'll be keeping all of our course notes, thinking, inquiry, and plann
 - Follow the index with a two-page spread for new vocabulary and concepts.
 - Number each page for ease of reference.
 - Update your index after making entries.
-- Begin each entry with a timestamp of some kind, such as this `YYYYMMDD`, or **20141023**.
+- Begin each entry with a timestamp of some kind, such as this `YYYYMMDD`, or **20241028**.
 
 
 {{< /details >}}

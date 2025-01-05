@@ -10,14 +10,14 @@ title: "End-of-term Reflection and Review"
 
 ## I. Review your participation
 
-1. How many classes or TA sessions did you miss?
+1. How many classes or tutoring sessions did you miss?
 2. How engaged were you in the class? 
-3. Did you complete each of the 8 assigned lectures/workshops?
+3. Did you complete each of the assigned lectures and workshops?
 4. Were your drafts completed and turned in on time?
 5. Did you give your best effort on each assignment?
 6. How much of the reading did you complete?
 7. Did you watch all of the films and prepare for discussion?
-8. How much did you contribute to Hive? Was this your best effort at sharing/helping others?
+8. How much did you contribute to our peer-review process? Was this your best effort at sharing/helping others?
 9. How often did you contribute on discussion days? Could you have contributed more to the conversation?
 
 ## II. Review your work

@@ -101,13 +101,13 @@ When it is 10°F and the wind is howling, your uncovered face will get utterly d
 
 #### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Snow boots
 
-You are going to have to walk though snow and slush during winter and sloppy mud in the spring. Sometimes it is pretty deep. You need some waterproof muck boots that are at least mid length for bad days. Look, there's no way to avoid this: these are ugly and utilitarian. But if you try to remain a fashion plate, you are going to really pay for it by ruining your good shoes and getting frozen toes. These boots also need to have a really aggressive tread on them. Otherwise, you are going to slip and fall down a lot. Everyone seems to think that the iconic [Bean Boot](https://www.llbean.com/llb/shop/506697?page=llbean-boots) is the answer. These people are very wrong. 
+You are going to have to walk though snow and slush during winter and sloppy mud in the spring. Sometimes it is pretty deep. You need some waterproof muck boots that are at least mid length for bad days. Look, there's no way to avoid this: these are ugly and utilitarian. But if you try to remain a fashion plate, you are going to really pay for it by ruining your good shoes and getting frozen toes. These boots also need to have a really aggressive tread on them. Otherwise, you are going to slip and fall down a lot. Everyone seems to think that the iconic [Bean Boot <i class="fa-solid fa-shoe-prints"></i>](https://www.llbean.com/llb/shop/506697?page=llbean-boots) is the answer. These people are very wrong. 
 
 ---
 
 #### <span style="color: var(--tears)"><i class="fa-solid fa-snowflake"></i></span> Spikes / Crampons
 
-Often we get an ice storm or ice-forming conditions in Hanover. On these occasions it is not just dangerous but *impossible* to walk around on the sidewalks and streets. Even the best snow boots won't save you in these conditions. On these days you need a pair of spikes. I've tried most of the products on the market; the best by far are made by Khtoola. This company makes serious mountaineering gear. But for everyday use, their [EXOspikes](https://kahtoola.com/traction/exospikes-footwear-traction/) will take excellent care of you. I've waked on solid ice for miles with these and never even slipped. These fit over your boots or shoes and provide four-wheel drive for your feet. Get a size up from your normal shoe size if you plan to wear these on big snow boots.
+Often we get an ice storm or ice-forming conditions in Hanover. On these occasions it is not just dangerous but *impossible* to walk around on the sidewalks and streets. Even the best snow boots won't save you in these conditions. On these days you need a pair of spikes. I've tried most of the products on the market. The best by far are made by Khtoola. This company makes serious mountaineering gear, but for everyday use, their [EXOspikes](https://kahtoola.com/traction/exospikes-footwear-traction/) will take excellent care of you. I've waked on solid ice for miles with these and never even slipped. These fit over your boots or shoes and provide four-wheel drive for your feet. Get a size up from your normal shoe size if you plan to wear these on big snow boots.
 
 ---
 
@@ -141,7 +141,7 @@ articles, and assorted media. Navigating this ocean of information can be intimi
 skills are fundamental to your academic training. Therefore, we will spend a significant amount of time learning how to perform academic research and use our library resources effectively. By the end of this course, you should be able to do
 the following:
 
-1. Formulate research questions that may be used to guide a research process.
+1. Formulate research questions and keywords that may be used to guide a research process.
 2. Discover background information on a topic using reference materials.
 3. Locate books, periodicals, and other physical media within library collections.
 4. Locate electronic databases and query them with precision.
@@ -1091,7 +1091,7 @@ This week is dedicated to our presentations. Each of you will make a short prese
 
 <span style="color: var(--due)"><i class="fas fa-bullseye"></i> `Due`</span>
 
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [End-of-term Reflection and Self-Assessment](https://canvas.dartmouth.edu). 
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span> [End-of-term Reflection and Self-Assessment](/courses/writing-3/quarterly-review). 
 
 
 {{< /details >}}
