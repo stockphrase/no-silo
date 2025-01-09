@@ -113,7 +113,7 @@ from an existing conversation.
 
 ### Step 1: Find a research question you would like to investigate
 
-Discovering your own research topic can be an overwhelming experience. With so many things to choose from, finding a narrow focus is often difficult. However, before you can truly begin your library research you need to find a way to narrow your field of inquiry to a small set of research questions or problems. 
+Discovering your own research topic can be an overwhelming experience. With so many things to choose from, finding a narrow focus is often difficult. However, before you can truly begin your library research you need to find a way to narrow your field of inquiry to a small set of research questions or problems. Ironically, you may not be able to do this until you've already perfomed quite a bit of research. 
 
 <!---
 Let's examine three attempts to forge a research agenda:
@@ -162,7 +162,7 @@ Inventing good keywords often requires some metacritical thinking (thinking abou
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> To put things bluntly, if your keywords suck you will not find good sources.  
 {{< /hint >}}
 
-Significantly, you may not be able to determine the best keywords for searching until you've stumbled into some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing the population's social media accounts. Using the word "spy" turns out not to be the best keyword; the keyword "surveillance" was far more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Thus, research is an iterative, accretive process---not a linear one**.  
+Significantly, you may not be able to determine the best keywords for searching until you've stumbled onto some good sources and use them to help you refine your search keywords. For example, a student may search the catalog to find out how nations spy on their citizens by analyzing the population's social media accounts. Using the word "spy" turns out not to be the best keyword; the keyword "surveillance" was far more productive. And as her knowledge grew, the student began using the names of specific countries and the names of their security agencies as keywords. So, as your knowledge deepens and you gain more insight into your chosen topic, you will constantly refine your keywords to cast more light into the darker regions of the library's holdings. **Thus, research is an iterative, accretive process---not a linear one**.  
 
 
 ---
@@ -208,7 +208,7 @@ Perhaps the most helpful thing about subject headings is they are an easy means 
 
 {{< /hint >}} 
 
-In most library catalogs these subject headings are hyperlinked; clicking on any of them leads you to a list of *every* other book in the library that shares that particular subject heading. Thus, if your research interest is the social aspects of the War of 1812, you can quickly find every other book the library owns on that subject by merely clicking on the hyperlinked subject heading in the catalog. Note, however, that clicking on the subject heading will only give you the books that your library owns, not the full universe of books. For that, you must do a subject heading search at the Library of Congress or a service like [WorldCat](https://www.worldcat.org/).
+In most library catalogs these subject headings are hyperlinked; clicking on any of them leads you to a list of *every* other book in the library that shares that particular subject heading. Thus, if your research interest is the social aspects of the War of 1812, you can quickly find every other book the library owns on that subject by merely clicking on the hyperlinked subject heading in the catalog. Note, however, that clicking on the subject heading will only give you the books that your library owns, not the full universe of books. For that, you must do a subject heading search at the Library of Congress or a service like [WorldCat](http://dartmouth.idm.oclc.org/login?url=http://firstsearch.oclc.org/fsip?dbname=worldcat).
 
 <!---
 Though Dartmouth's library holdings are not nearly as large as the Library of Congress, you can also perform subject searches by selecting the [advanced search](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&mode=advanced) feature of the [library catalog](https://search.library.dartmouth.edu/). However, Primo really sucks in this regard; you are better off searching in the Library of Congress using this method.
@@ -227,13 +227,12 @@ Baker-Berry library has a number of helpful reference resources in this regard. 
 digitized and do not even require a trip to the library. Always start your research project with reference works and gain a basic grounding of your topic before developing your research question or thesis. For
 example, before you begin an essay on Iraqi feminism in the 1960s, you should read the Wikipedia article on the modern history of Iraq to get a broad sense of the context you are entering with your writing. Other helpful background information aids of note:
 
--   [Wikipedia](http://www.wikipedia.org), [CIA World
-    Factbook](https://www.cia.gov/library/publications/the-world-factbook/),
-    [Oxford Reference Online](http://www.oxfordreference.com/),
-    [Britannica Online](http://www.search.eb.com/).
+- [Wikipedia](http://www.wikipedia.org)
+- [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+- [Oxford Reference Online](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991033277653605706)
 
-A word of warning about Wikipedia (and internet sources in general): it has not been through a process of scholarly [peer-review](/courses/workshops/peer-reviews). For that reason, it
-is unwise to rely on Wikipedia as a source for a research project. Use Wikipedia to gain background information on your topic and lead you to other authoritative sources, but when it comes time to write your essay, use a peer-reviewed source.
+
+A word of warning about Wikipedia (and internet sources in general): it has not been through a process of scholarly [peer-review](/courses/workshops/peer-reviews). For that reason, it is unwise to rely on Wikipedia as a source for a research project. Use Wikipedia to gain background information on your topic and lead you to other authoritative sources, but when it comes time to write your essay, use a peer-reviewed source.
 
 ### Step 6: Perform citation chases [^2] 
 
@@ -241,7 +240,7 @@ Many students will find a book or article that is perfect for their research pro
 
 When you discover books and articles that are relevant to your project, perform what is known as a "citation chase." This involves examining the bibliography of the book, article, or chapter, looking for other relevant items. Find these related sources in the library and then repeat the process again. Performing a citation chase *is often the best way of discovering other sources connected to your research focus---far better than using keyword searches*.
 
-- Some databases, such as the multidisciplinary [Web of Science](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991016888559705706), perform these citation chases automatically. 
+- Some databases, such as the multidisciplinary [Web of Science](https://www-webofscience-com.dartmouth.idm.oclc.org/wos/woscc/basic-search), perform these citation chases automatically. 
 
 ---
 

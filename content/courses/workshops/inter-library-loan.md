@@ -26,7 +26,7 @@ entire academic community. As students at Dartmouth you have borrowing privilege
 including Brown, Columbia, Cornell, Harvard, MIT, University of Chicago, University of Pennsylvania,
 Princeton, Yale, and the Center for Research Libraries. 
 
-If a book you would like to view is unavailable, you may order a copy free of charge from a service called [Borrow Direct](https://dartmouth-borrowdirect.reshare.indexdata.com/). With
+If a book you would like to view is unavailable, you may order a copy free of charge from a service called [Borrow Direct](https://www.library.dartmouth.edu/find/borrow-request/borrowing-from-other-libraries). With
 this service you may search every library in the consortium
 simultaneously to see if the book you require is available at another
 institution. If the book is owned by another school and is not checked
@@ -49,7 +49,7 @@ the book for you.
 
 If there is a book or article you would like to read that is not
 available through Borrow Direct, you may request it from Dartmouth's
-[Interlibrary Loan](https://library.dartmouth.edu/tools/ezProxy/lspLogin/DartDoc/debug) service. To request an item, log into the service using your NetID, select the appropriate form (article, book, book chapter,
+[Interlibrary Loan](https://www.library.dartmouth.edu/find/borrow-request/borrowing-from-other-libraries) service. To request an item, log into the service using your NetID, select the appropriate form (article, book, book chapter,
 etc.), and send your request electronically to the office. Staff will
 request your item from another library, who will ship the book to our
 library through the mail. If you are requesting a book chapter or
@@ -70,9 +70,9 @@ I don't recommend using recall requests for two reasons. First, it is considered
 
 ## Workshop
 
-1. Visit [Borrow Direct](https://www.library.dartmouth.edu/borrow-renew/borrowing-requesting#borrowdirect) and familiarize yourself with the service. 
+1. Visit [Borrow Direct](https://www.library.dartmouth.edu/find/borrow-request/borrowing-from-other-libraries) and familiarize yourself with the service. 
 
-2. Visit [Interlibrary Loan](https://library.dartmouth.edu/tools/ezProxy/lspLogin/DartDoc/debug) and explore the service. 
+2. Visit [Interlibrary Loan](https://www.library.dartmouth.edu/find/borrow-request/borrowing-from-other-libraries) and explore the service. 
 
 
 [^1]: Ok, this was me. But it was some time ago and I have since sought professional help for research rage. 

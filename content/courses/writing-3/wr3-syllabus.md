@@ -347,6 +347,7 @@ You will make one formal presentation at the conclusion of the term to explain y
 Each of you will curate a webpage dedicated to your research project. We will call this site your `Author Page`. You may create this page as a shared [Google Doc](https://google.dartmouth.edu/) or use the Dartmouth [Journeys](https://journeys.dartmouth.edu/) platform. After creating your page, link to it on the course [research projects page](https://docs.google.com/document/d/1mRHkolo3oVGlIApBqNlCrA0qXQtbigpnkLi2xLuD6OU/edit?usp=drive_link) so that we may locate it. We will use these Author Pages to view your project as it evolves over time. One of your most important responsibilities this term is to keep this page updated. Your author page should contain the following:
 
 - a short research proposal/statement of no more than 250 words.
+- a running list of the keywords and subject headings you are using to search for sources.
 - an `annotated bibliography` of all the sources used to construct your research project. 
     - *Use [permalinks](https://en.wikipedia.org/wiki/Permalink) to link your sources to their location online in the library system*.
 - a current draft of your research essay.
@@ -420,7 +421,7 @@ Students requesting disability-related accommodations and services for this cour
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)| A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
-- <i class="fa-solid fa-file-pdf"></i> [Susan Sontag, "The Imagination of Disaster" (1956)](/courses/writing-3/wr3-syllabus/#required-texts) 
+- <i class="fa-solid fa-file-pdf"></i> [Sontag, Susan. “The Imagination of Disaster.” *Commentary*, vol. 40, 1965, pp. 42–48.](/courses/writing-3/wr3-syllabus/#required-texts) 
     - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
 ---
 

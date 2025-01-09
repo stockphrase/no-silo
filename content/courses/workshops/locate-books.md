@@ -61,7 +61,7 @@ Use the **letter line** to determine the floor of the library where the book is 
 
 Once on the appropriate floor, use the **whole number line** to find the
 row where the book is shelved in the stacks. Using the example call
-number, we will look through the stacks for the number `24`. Each library floor has a [floormaps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) to help guide you; they are available in .pdf form or are posted on the wall of each floor, near the entrance. 
+number, we will look through the stacks for the number `24`. Each library floor has a [floormaps](https://dartmouth.stackmap.com/explore/?lib=1) to help guide you; they are available in .pdf form or are posted on the wall of each floor, near the entrance. 
 
 As you walk through the stacks, look on the ends of each row for signs describing the range of books held within the row such as the one below:
 <div style="text-align:center">{{< figure src="/img/stacks.jpg" >}}
@@ -89,7 +89,7 @@ Finally, using the `Cutter line,` proceed alphabetically until you hit the Ts. T
 As you can see, the call number should be read from left to right using alphabetical and numerical orders. Thus, a book with a Subject line `F` would be shelved *before* a book with a Subject line `FA.`
 Similarly, a Cutter line that reads `.T39` is shelved *after* `.T21`.
 
-Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) online with your computer or smartphone.
+Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](https://dartmouth.stackmap.com/explore/?lib=1) online with your computer or smartphone.
 
 
 

@@ -158,7 +158,7 @@ to "shop" for a subject that interests you.
 Subject searches are also a helpful means of finding additional sources
 on your topic once you have acquired one or more. For example, if you
 discover that historian Alan Taylor's book *[The Civil War of
-1812](http://libcat.dartmouth.edu/record=b4878766)* is an important
+1812](https://search.library.dartmouth.edu/permalink/01DCL_INST/16rgcn8/alma991022941679705706)* is an important
 source for your research project, you can use the book's subject
 headings to find *all* of the other books written on those topics. As
 you may see from this example, the Library of Congress
@@ -201,11 +201,9 @@ such as encyclopedias, dictionaries, and other forms of **reference
 material**.
 
 Baker-Berry library has a number of helpful reference resources in this
-regard. If you visit the [Library Reference
-Resources](http://researchguides.dartmouth.edu/reference) link in the
-Library's [Research Guides](http://researchguides.dartmouth.edu/), you
+regard. If you visit the Library's [Research Guides](http://researchguides.dartmouth.edu/), you
 will find an impressive array of organized reference materials like
-bibliographies, encyclopedias, and dictionaries. Most of them are fully
+bibliographies, encyclopedias, and dictionaries organized by subject. Most of them are fully
 digitized and do not even require a trip to the library. Always start
 your research project with reference works and gain a basic grounding of
 your topic before developing your research question or thesis. For
@@ -214,13 +212,13 @@ should read the wikipedia article on the modern history of Iraq to get a
 broad sense of the context you are entering with your writing. Other
 helpful background information aids of note:
 
--   [Wikipedia](http://www.wikipedia.org), [CIA World
-    Factbook](https://www.cia.gov/library/publications/the-world-factbook/),
-    [Oxford Reference Online](http://www.oxfordreference.com/),
-    [Britannica Online](http://www.search.eb.com/).
+- [Wikipedia](http://www.wikipedia.org)
+- [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+- [Oxford Reference Online](http://www.oxfordreference.com/)
+
 
 A word of warning about Wikipedia (and internet sources in general): it
-has not been through a process of [peer-review](#peer-revew). For that reason, it
+has not been through a process of [peer-review](/resources/open-handbook/chapter-12/#peer-review). For that reason, it
 is unwise to rely on Wikipedia as a source for a research project. Use
 Wikipedia to gain background information on your topic and lead you to
 other authoritative sources, but when it comes time to write your essay,
@@ -242,11 +240,9 @@ excellent; others are rather skimpy.
 ## Searching for Books
 
 
-When you want to search for books that Dartmouth library owns or can
-access electronically, use the [Library
-Catalog](http://libcat.dartmouth.edu/). Dartmouth also offers a more
-robust search tool known as
-[Primo](https://search.library.dartmouth.edu/). Primo provides you with
+When you want to search for books that Dartmouth library owns or can access electronically, use the [Library
+Catalog](https://www.library.dartmouth.edu/). Note that you can limit your search to the physical holdings in our library by selecting "Library Catalog" in the [Advanced Search](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&mode=advanced). Dartmouth's libraries offer a robust search tool, or "discovery layer," called
+[Primo](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&lang=en). Primo provides you with
 an experience similar to Google; search terms are applied not only to
 physical holdings, like books and media, but to electronic databases and
 journals as well.
@@ -265,7 +261,7 @@ or ensure that you only see content accessible through our library.
 
 #
 
-A word of caution about [Primo](https://search.library.dartmouth.edu/): while it searches the library catalog it its entirety, it *does not search all of the
+A word of caution about [Primo](https://search.library.dartmouth.edu/discovery/search?vid=01DCL_INST:01DCL&lang=en): while it searches the library catalog it its entirety, it *does not search all of the
 electronic databases to which Dartmouth has a subscription*. This means
 that if you exclusively use Primo for your searches, you will miss out
 on potentially vast amounts of possible sources that could be discovered
@@ -493,9 +489,9 @@ relevant results. *The question mark wild card should be used to replace a singl
 
  To illustrate, look at these two searches on the JSTOR database:
 
-- [Iraq and manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (14,863 results)
+- [Iraq and manufacturing](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (19,493 results)
 
-- [Iraq and manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doAdvancedSearch?q0=Iraq+and+manufacturing&f0=all&c1=AND&q1=&f1=all&c2=AND&q2=&f2=all&c3=AND&q3=&f3=all&c4=AND&q4=&f4=all&c5=AND&q5=&f5=all&c6=AND&q6=&f6=all&acc=on&la=&sd=&ed=&pt=&isbn=&group=none) (30,868 results) 👀️
+- [Iraq and manufact*](https://www-jstor-org.dartmouth.idm.oclc.org/action/doBasicSearch?Query=Iraq+and+manufact*&so=rel) (39,944 results) 👀️
 
 {{< /details >}} 
 
@@ -541,7 +537,7 @@ Using the **letter line**, determine the floor of the library where the book is 
 
 Once on the appropriate floor, use the **whole number line** to find the
 row where the book is shelved in the stacks. Using the example call
-number, we will look through the stacks for the number `24`. Each library floor has a [floormaps](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) to help guide you; they are available in .pdf form or are posted on the wall of each floor, near the entrance. 
+number, we will look through the stacks for the number `24`. Each library floor has a [floormaps](https://dartmouth.stackmap.com/explore/?lib=1) to help guide you; they are available in .pdf form or are posted on the wall of each floor, near the entrance. 
 
 As you walk through the stacks, look on the ends of each row for signs describing the range of books held within the row such as the one below:
 <div style="text-align:center">{{< figure src="/img/stacks.jpg" >}}
@@ -567,7 +563,7 @@ Finally, using the `Cutter line,` proceed alphabetically until you hit the Ts. T
 As you can see, the call number should be read from left to right using alphabetical and numerical orders. Thus, a book with a Subject line `F` would be shelved *before* a book with a Subject line `FA.`
 Similarly, a Cutter line that reads `.T39` is shelved *after* `.T21`.
 
-Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](http://www.dartmouth.edu/~library/bakerberry/circ/stacksguides/) online with your computer or smartphone.
+Maps of the library's floorplans are affixed to the walls on each floor. Free paper maps of the library are available at the circulation desk of the library. You may also consult the [maps and floorplans](https://dartmouth.stackmap.com/explore/?lib=1) online with your computer or smartphone.
 
 
 ### Or, just forget all of that
@@ -590,42 +586,48 @@ article you require for a project is checked out, missing, or not owned
 by the library. There are a number of free services available to you
 when you encounter this problem.
 
-### Borrow Direct consortium
+
+## Borrow Direct consortium
 
 A number of the best libraries in the world have formed a consortium
 designed to share resources and expand research opportunities for the
-entire academic community. As students of Dartmouth College, you may
-obtain borrowing privileges at any of the other participating libraries
-including Brown, Columbia, Cornell, Harvard, Massachusetts Institute of
-Technology, University of Chicago, University of Pennsylvania,
-Princeton, Yale and the Center for Research Libraries. The combined
-resources total a staggering 50 million volumes.
+entire academic community. As students at Dartmouth you have borrowing privileges at any of the other participating libraries
+including Brown, Columbia, Cornell, Harvard, MIT, University of Chicago, University of Pennsylvania,
+Princeton, Yale, and the Center for Research Libraries. 
 
-To see if a book is available at another library, use a service called
-[Borrow Direct](http://www.dartmouth.edu/~library/res-share/borrowdirect/). With
+If a book you would like to view is unavailable, you may order a copy free of charge from a service called [Borrow Direct](https://www.library.dartmouth.edu/find/borrow-request/borrowing-from-other-libraries). With
 this service you may search every library in the consortium
 simultaneously to see if the book you require is available at another
 institution. If the book is owned by another school and is not checked
 out at the time, you may request that the item be sent to our library.
-These requests usually arrive in 4 working days or less.
+These requests usually arrive in 4 working days or less. When they arrive, you will
+receive an email that your book is being held for you at the circulation desk. Just tell the
+person behind the desk that you have a "hold" while giving them your ID. They will get
+the book for you. 
+
+{{< hint note >}}
+[<i class="fas fa-circle"></i>]() These texts have shorter borrowing periods. The book will arrive wrapped with a special sleeve containing information about when the book must be returned to avoid fines. Do not remove the sleeve. 
+{{< /hint >}}
+
+{{< hint note >}}
+[<i class="fas fa-circle"></i>]() Borrow Direct only works for books. If you need a scholarly article, use the Interlibrary Loan service.
+{{< /hint >}}
 
 
-### DartDoc
+## Interlibrary Loan
 
 If there is a book or article you would like to read that is not
 available through Borrow Direct, you may request it from Dartmouth's
-interlibrary loan program, known as DartDoc. To request an item, visit
-the [DartDoc](https://dartmouth.illiad.oclc.org/illiad/berry/logon.html)
-webpage, select the appropriate form (article, book, book chapter,
+[Interlibrary Loan](https://www.library.dartmouth.edu/find/borrow-request/borrowing-from-other-libraries) service. To request an item, log into the service using your NetID, select the appropriate form (article, book, book chapter,
 etc.), and send your request electronically to the office. Staff will
 request your item from another library, who will ship the book to our
 library through the mail. If you are requesting a book chapter or
-article, the donor library will send you a .pdf free of charge to your
-DartDoc account.
+article, the donor library will send you a .pdf free of charge to your account. Make sure to download the .pdf to your computer as they disappear after a period of time. 
 
-If you are ordering a book, DartDoc is the *slowest* of all the
-available options for requesting research materials. Requests may take
-up to two weeks to be fulfilled.
+{{< hint note >}}
+[<i class="fas fa-circle"></i>]() If you are ordering a *physical* book, Interlibrary Loan is often the slowest option. Requests may take up to two weeks to be fulfilled.
+
+{{< /hint >}}
 
 ## Research guides
 
@@ -662,7 +664,7 @@ Many periodical databases *only* contain peer-reviewed academic articles. A good
 
 ## The Oxford English Dictionary
 
-The [OED](https://search.library.dartmouth.edu/view/action/uresolver.do?operation=resolveService&package_service_id=4424727860005706&institutionId=5706&customerId=5705) is, without question, the greatest and
+The [OED](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991033277624705706) is, without question, the greatest and
 most complete dictionary ever created. As an historical dictionary, the
 OED systematically traces the etymology of words in the English
 language. [Etymology](http://en.wikipedia.org/wiki/Etymology) is "the
@@ -737,7 +739,7 @@ routinely following up on sources cited in bibliographies, you can
 generate a surprisingly large number of books and articles on your topic
 in a relatively short time.
 
-- Some databases, such as **Web of Science**, offer the ability to browse references automatically. 
+- Some databases, such as [Web of Science](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991033541175005706), offer the ability to browse references automatically. 
 
 ### Research journal & bibliographic software
 

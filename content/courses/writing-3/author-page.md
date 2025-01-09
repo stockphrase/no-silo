@@ -22,6 +22,14 @@ bookToc: true
 
 This paper examines a strain of post-apocalyptic narrative that generate a profound sensibility of imperiled masculine sovereignty. These texts authorize what I call “revanchist masculinity": an increasingly strident cultural discourse that demands a return to patriarchal authority and so-called "masculine values." Narratives of this sort revel in neo-primitivist fantasies of male empowerment based in dominance, gun culture, adventure, hyper-masculine performances, and the subordination and control of others (particularly women). Many of these films express an incipient or perhaps secret desire to totally destroy modern civilization, which is seen as enervating and effeminate, thus returning to a "natural" order.
 
+## Keywords / Subject Headings
+
+- post-apocalyptic
+- masculinity
+- "hegemonic masculinity"
+- gender
+- dominance
+
 ## Current Research
 
 [Abrams, Robert E. *Masculinity and Violence*. Cambridge UP, 2004.](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
