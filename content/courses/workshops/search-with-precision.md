@@ -122,7 +122,7 @@ for example.
 
 {{< hint note >}}
 
-This search uses quotation marks to form an `exact phrase` search, described below.
+<i class="fa-solid fa-circle-exclamation"></i> Note the use of quotation marks around "alternative energy" above. To see why this is important, see the description of an `exact phrase` search, described below.
 
 {{< /hint >}}
 
@@ -211,9 +211,9 @@ relevant results. *The question mark wild card should be used to replace a singl
 
 1. You want to examine *fictional portrayals* of Arab-Israeli conflict. Create a Boolean search string to search the library catalog with.
 
-2. Narrow the previous search by examining only fictional portrayals involving Israelis and Palestinians *available in our library*.
+2. Narrow the previous search(es) by examining only fictional portrayals involving Israelis and Palestinians *available in our library*.
 
-<!---
+
 {{< details "Answer" closed >}} 
 
 #
@@ -265,11 +265,11 @@ And since these subject searches are only going to return books (and some physic
 
 {{< /details >}} 
 
---->
+
 
 3. Find peer-reviewed sources that examine Herman Melville's novel *Moby Dick* and the Cold War that were written between 1990 and 2000. 
 
-<!---
+
 
 {{< details "Answer" closed >}} 
 #
@@ -288,12 +288,10 @@ Here I used two `exact phrase` searches in a keyword search and then used the li
 
 {{< /details >}} 
 
---->
+
 
 4. You are curious if there is any scholarship on fictional portrayals of pandemic disease.
 
-
-<!---
 
 {{< details "Answer" closed >}} 
 #
@@ -310,11 +308,11 @@ This problem is also one that we should tackle though the use of [`controlled vo
 
 {{< /details >}} 
 
---->
 
-5. You want to know if certain governments are using the COVID-19 pandemic as an excuse to spy on their citizens. 
 
-<!---
+5. You want to know if certain governments used the COVID-19 pandemic as an excuse to spy on their citizens. 
+
+
 {{< details "Answer" closed >}} 
 #
 
@@ -343,11 +341,11 @@ I reproduced this search string in our library and found several peer-reviewed a
 
 {{< /details >}} 
 
---->
+
 
 6. You are interested in female MMA fighters and want to know if there is any scholarship on this.
 
-<!---
+
 {{< details "Answer" closed >}} 
 #
 
@@ -364,4 +362,4 @@ This search gave us an opportunity to use a wildcard. By using "Wom?n" we can en
 
 {{< /details >}} 
 
---->
+

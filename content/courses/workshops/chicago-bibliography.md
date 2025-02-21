@@ -41,7 +41,12 @@ Take a few moments to scan though this [student essay in the Chicago style](/doc
 
 The *Open Handbook* has detailed information on formatting of both the [MLA](https://no-silo.com/resources/open-handbook/chapter-11-mla/) and [Chicago](https://no-silo.com/resources/open-handbook/chapter-11-chi/) bibliography to guide you. 
 
+[^1]: This student essay uses section headings to organize the essay. This is a personal choice, not a strict element of the Chicago style.
+
+<!---
 ## Directions
+
+
 
 Your assignment is to “translate” this [student essay](/docs/egoist-mla-student.doc) from the MLA style into the Chicago style. Convert the document's formatting, page numbering, in-text citations, bibliographical entries, etc.[^2] 
 

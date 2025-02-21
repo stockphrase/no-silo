@@ -30,12 +30,14 @@ When you search for periodicals, it is best to choose a database that has good c
 - **Web of Science**
 - **ProQuest Central**
 
-Locate these databases at the [library website](https://www.library.dartmouth.edu/) with the top-level navigation: `Home > Research Support > Databases`. Alternatively, you may use the [Database Finder](https://researchguides.dartmouth.edu/az.php). Open a tab in your browser for each database for testing purposes.
+Navigate to these databases from the [library website](https://www.library.dartmouth.edu/) home page by selecting `Databases` beneath the search field. Alternatively, you may navigate to the [Database Finder](https://researchguides.dartmouth.edu/az.php) by following `Home > Find > Search and Browse > Databases`. 
+
+Open a tab in your browser for each database for testing purposes.
 
 - Each database is unique, so you will have to familiarize yourself with how it works. Poke around a bit and get the lay of the land. Get to know these databases by using a keyword [search string](/courses/workshops/search-with-precision/) that you associate with your research project. Use the same search strings in each of the databases and see how the results differ.
 
 - Although it is very important to use [Boolean searches](/courses/workshops/search-with-precision/) within the databases, many databases offer additional `search limiters` (generally located in the left pane as a series of check boxes) that allow you to further refine your searches. For example, I highly recommend that you check the limiter that ensures you only receive [peer-reviewed](/resources/open-handbook/chapter-12/#peer-review) sources. You may also select to receive only full-text sources or just books and articles, not newspapers or reviews. There are many options to play with to massage your search results. Try to refine your search terms with this feature in each of the databases and see what happens. 
 
-- The [Web of Science](https://www-webofscience-com.dartmouth.idm.oclc.org/wos/woscc/basic-search) database offers the ability to perform what is sometimes called a "citation chase," where you may systematically examine all of an article's citations as well as all of the articles that cite it---a critical research skill that I reference in the [Introduction to Academic Research](/courses/workshops/academic-research-intro/#step-6-perform-citation-chases-2). This sort of labor can *rapidly* increase your collection of relevant sources. 
+- The [Web of Science](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033541175005706) database offers the ability to perform what is sometimes called a "citation chase," where you may systematically examine all of an article's citations as well as all of the articles that cite it---a critical research skill that I reference in the [Introduction to Academic Research](/courses/workshops/academic-research-intro/#step-6-perform-citation-chases-2). This sort of labor can *rapidly* increase your collection of relevant sources. 
 
 

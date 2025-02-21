@@ -12,6 +12,11 @@ title: "Chicago Documentation Style"
 
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> Our library has access to an online copy of the newest [Chicago Style Manual](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991034082046205706). 
+{{< /hint >}}
+
+
 ## Chicago document formatting
 
 When setting up your word processor for an Chicago-formatted document, use

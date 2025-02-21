@@ -11,6 +11,12 @@ title: "MLA Documentation Style"
 
 ---
 
+{{< hint note >}} 
+#### <i class="fas fa-dot-circle"></i> Our library has access to an online copy of the newest [MLA Handbook](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033618172305706). 
+{{< /hint >}}
+
+
+
 ## MLA document formatting
 
 When setting up your word processor for an MLA-formatted document, use

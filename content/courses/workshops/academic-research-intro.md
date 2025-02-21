@@ -169,7 +169,7 @@ Significantly, you may not be able to determine the best keywords for searching 
 
 ### Step 3: Search for Books and Periodicals
 
-The library uses special software known as a "[discovery layer](https://en.wikipedia.org/wiki/Discovery_layer)" to aid in the searching of the its holdings. Dartmouth's main library [search engine](https://search.library.dartmouth.edu/) currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
+The library uses special software known as a "[discovery layer](https://en.wikipedia.org/wiki/Discovery_layer)" to aid in the searching of the holdings. Dartmouth's main library [search engine](https://search.library.dartmouth.edu/) currently uses a discovery layer product known as Primo. While Primo will apply your keywords to the catalog to show the physical holdings the library has on site, it will simultaneously search subscription electronic databases containing journal articles, newspapers, magazines, and other media. 
 
 After you submit your search terms in the field, these items are organized by relevance, as determined by an algorithm (which may, or may not, be a good thing). After entering your keywords, you will notice ways to further refine your search by clicking on several options within the left pane of the window. To limit your search to books only, select `Format > Books` on the left side of the page. Or limit the search to [peer-reviewed](/courses/workshops/peer-reviews) articles by selecting `Show Only > Peer-Reviewed Content` and `Format > Articles`. There are many further ways to refine your searches, if desired. It is usually worth your time to further limit your searches in this way.
 
@@ -223,11 +223,12 @@ Since your research process will cause you to encounter a variety of unfamiliar 
 Thus, a research project should always involve the reading of general `reference materials` about the topic. Before you can ask an
 intelligent question about your topic or contribute to an ongoing scholarly conversation, you need to develop a working knowledge of basic facts to serve as a foundation for your project. The best way to develop this basic understanding is to examine [peer-reviewed](/courses/workshops/peer-reviews) reference works such as encyclopedias, biographies, dictionaries, and other forms of `reference material`.
 
-Baker-Berry library has a number of helpful reference resources in this regard. If you visit the [Library Reference Resources](https://researchguides.dartmouth.edu/c.php?g=59451&p=9491778) link in the Library's [Research Guides](http://researchguides.dartmouth.edu/), you will find an impressive array of organized reference materials like bibliographies, encyclopedias, and dictionaries. Most of them are fully
+Baker-Berry library has a number of helpful reference resources in this regard. If you visit the [Library Reference Resources](https://researchguides.dartmouth.edu/sb.php?subject_id=30223#!s-lg-sb-databases) link in the Library's [Research Guides](http://researchguides.dartmouth.edu/), you will find an impressive array of organized reference materials like bibliographies, encyclopedias, and dictionaries. Most of them are fully
 digitized and do not even require a trip to the library. Always start your research project with reference works and gain a basic grounding of your topic before developing your research question or thesis. For
 example, before you begin an essay on Iraqi feminism in the 1960s, you should read the Wikipedia article on the modern history of Iraq to get a broad sense of the context you are entering with your writing. Other helpful background information aids of note:
 
 - [Wikipedia](http://www.wikipedia.org)
+- [Encyclopædia Britannica](https://www.britannica.com/?cameFromBol=true)
 - [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
 - [Oxford Reference Online](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991033277653605706)
 
@@ -240,7 +241,7 @@ Many students will find a book or article that is perfect for their research pro
 
 When you discover books and articles that are relevant to your project, perform what is known as a "citation chase." This involves examining the bibliography of the book, article, or chapter, looking for other relevant items. Find these related sources in the library and then repeat the process again. Performing a citation chase *is often the best way of discovering other sources connected to your research focus---far better than using keyword searches*.
 
-- Some databases, such as the multidisciplinary [Web of Science](https://www-webofscience-com.dartmouth.idm.oclc.org/wos/woscc/basic-search), perform these citation chases automatically. 
+- Some databases, such as the multidisciplinary [Web of Science](https://search.library.dartmouth.edu/permalink/01DCL_INST/b81o46/alma991033541175005706), perform these citation chases automatically. 
 
 ---
 

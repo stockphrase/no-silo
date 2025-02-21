@@ -213,9 +213,9 @@ broad sense of the context you are entering with your writing. Other
 helpful background information aids of note:
 
 - [Wikipedia](http://www.wikipedia.org)
+- [Encyclopædia Britannica](https://www.britannica.com/?cameFromBol=true)
 - [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
-- [Oxford Reference Online](http://www.oxfordreference.com/)
-
+- [Oxford Reference Online](https://search.library.dartmouth.edu/permalink/01DCL_INST/1sdhg0c/alma991033277653605706)
 
 A word of warning about Wikipedia (and internet sources in general): it
 has not been through a process of [peer-review](/resources/open-handbook/chapter-12/#peer-review). For that reason, it
@@ -727,13 +727,13 @@ avoid [**plagiarism**](/resources/open-handbook/chapter-10/).
 
 ### Citation Chasing; Or, Raiding the Bibliography
 
-Students find one or two sources on a topic and then
+Students often find one or two sources on a topic and then
 despair of finding any more. However, with just one excellent article or
 book, you can easily generate additional research leads. When you find a
 book or article that relates to your project, scour the bibliography to
 see what books and articles the author used to produce his or her work.
 Make lists of the most promising sources by writing down all the
-bibliographic information in a research journal. Locate these sources in
+bibliographic information in your research journal. Locate these sources in
 the library and then repeat the process. By using this technique of
 routinely following up on sources cited in bibliographies, you can
 generate a surprisingly large number of books and articles on your topic

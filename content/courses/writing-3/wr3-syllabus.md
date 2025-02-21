@@ -155,7 +155,7 @@ the following:
 ## Required Texts
 
 - [*Open Handbook*](/resources/open-handbook), by Alan C. Taylor
-- [Winter course readings](https://drive.google.com/drive/folders/15KWg-kGwN5ivDx1bkVCyGIcUsKGuc3qI?usp=drive_link) (.pdf)
+- [Winter course readings](https://drive.google.com/drive/folders/1ykMSt6JaLigViRvLgWN_8o8T9DG6TOJG?usp=drive_link) (.pdf)
 
 ---
 
@@ -165,7 +165,7 @@ the following:
 |:-------------------------------------- |:-------------------------------------------------------------------------------------------------------------------- |
 | [No Silo](https://no-silo.com)         | Course website, syllabus, readings, assignments, the [*Open Handbook*](https://no-silo.com/resources/open-handbook). |
 | [Canvas](https://canvas.dartmouth.edu) | Submit assignments, contact others, view media.
-| [Course Readings](https://drive.google.com/drive/folders/15KWg-kGwN5ivDx1bkVCyGIcUsKGuc3qI?usp=drive_link) | A Google Drive with our course readings.
+| [Course Readings](https://drive.google.com/drive/folders/1ykMSt6JaLigViRvLgWN_8o8T9DG6TOJG?usp=drive_link) | A Google Drive with our course readings.
 | [Author Pages](https://docs.google.com/document/d/1mRHkolo3oVGlIApBqNlCrA0qXQtbigpnkLi2xLuD6OU/edit?usp=drive_link) | A research archive built by our class.   |       
 | [Tutor Zone](https://drive.google.com/drive/folders/1WSN5D4M_goUsj5ybb7LeIBDP_llNLXvs?usp=drive_link) <span style="color: var(--nuke)"><i class="fa-solid fa-bolt"></span></i> | Resources for the 2-3 Tutor |
 |[The End](/courses/writing-3/post-apocalyptic-thoughts) |Random aphorisms on the (post)apocalyptic |
@@ -189,13 +189,19 @@ While Generative AI certainly has a place in many fields and disciplines (and I�
 
 My sense has always been that the writing classroom is the best place to develop a host of important skills and abilities, including critical thinking, metacritical analysis (thinking about our thinking), information literacy, creativity, communication skills, and various research competencies. 
 
-An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or "research" will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be? 
+An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or "research" will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be?
+
+As you will understand the more you get to know me, I view learning to write as a fundamental tool of liberty. I share this view with one of the foundational scholars of composition studies, I. A. Richards, who thought that the writing teacher's purpose was to place the "process of composing, of forming, in the control of the meaning-maker," the student. As scholar [Ann Berthoff explains](https://www.jstor.org/stable/3885439), Richards believed that reading and writing "were moral concerns and that we we do in teaching them . . . has important political dimensions. Control means the ability to exercize choice. Just as interpretation in the classroom is a model for all acts of mind, so learning to choose words and deciding the way we want them to work 'can become an introduction to the theory of all choices.' Gains in literacy are therefore gains in human freedom." Or, of course, we could just give all that up.  
 
 It only makes sense to cut corners with an AI tool if we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
 
 > “An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others.” 
 
-Some of the problems and struggles that come with education are actually things that we shouldn't try to get rid of. [Joshua Thorpe](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/) explains:
+Echoing this point about the process of education, Ted Chiang [offers a perfect metaphor](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) to explain the problems with relying on GAI:
+
+> “[T]eachers don’t ask students to write essays because the world needs more student essays. The point of writing essays is to strengthen students’ critical-thinking skills; in the same way that lifting weights is useful no matter what sport an athlete plays, writing essays develops skills necessary for whatever job a college student will eventually get. Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.”
+
+Some of the problems and struggles that come with education are actually things that we shouldn't try to get rid of. Side-stepping these difficulties renders the entire enterprise of education pointless. [Joshua Thorpe](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/) explains:
 
 >“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.” 
 
@@ -515,7 +521,7 @@ This week we will continue our overview of library research, learning some basic
 
 <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  `Due`
 
-- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Create a barebones [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) and link to it on our [research projects page](https://docs.google.com/document/d/1Zh_gf5hGLVN1i-i18WikOR6ILsa6cYwHpqAf40SwEp0/edit?usp=sharing).
+- <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Create a barebones [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page) and link to it on our [research projects page](https://docs.google.com/document/d/1mRHkolo3oVGlIApBqNlCrA0qXQtbigpnkLi2xLuD6OU/edit?usp=sharing).
 - <span style="color: var(--due)"><i class="fa fa-bullseye"></i></span>  Submit an end-of-week reflection to your [Author Page](/courses/writing-3/wr3-syllabus/#4-author-page).
 
 
@@ -615,12 +621,12 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 Cultural Studies scholars argue that post-apocalyptic narratives proliferate during periods of social crisis. During these moments of extreme social stress, cultures transmute fear, anxiety, or dread into popular art forms such as novels or films. Thus, by examining popular media produced during these particular historical moments we are afforded a glimpse of how a culture worked through difficult social problems, reacted to challenges to its foundational values, and related to its various “Others.” In this section we will examine two films, *The Last Man on Earth* (1964) and *I Am Legend* (2007), both adaptations of Richard Mattheson’s 1954 novel *I Am Legend*. What cultural anxieties or problems do these films articulate? What social solutions do they seem to offer? Significantly, how do the differences between these two films provide a metric for measuring the evolving concerns of America from the 1960s to today?
 
+
 ---
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 1.27
 {{< /hint >}} 
-
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
@@ -652,6 +658,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 - <i class="fa fa-question-circle"></i> Question of the Day™
 - <i class="fa fa-bullhorn"></i> Discuss reading.
+- <i class="fas fa-wrench"></i> [`Workshop 7: Bibliographic Software / Research Journal`](/courses/workshops/bibliographic-management/) | Over your career as a student and a professional you will encounter and make use of thousands of books and articles and assorted media. Many of these texts will be very useful to you later, if you take the time to save and organize them now. There is an app for that. 
+
 
 ---
 
@@ -846,7 +854,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 2.19
 {{< /hint >}} 
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
@@ -869,7 +877,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 2.21
 {{< /hint >}} 
 
 

@@ -77,7 +77,8 @@ during periods when distinct cultures encounter each other for the first time---
 {{< figure src="/img/night/birmingham-dogs1.jpg" caption="Birmingham, 1963" >}}
 {{< figure src="/img/night/birmingham-dogs2.jpg" caption="Birmingham, 1963" >}}
 
-{{< youtube j9kT1yO4MGg >}}
+- <i class="fas fa-video"></i> [Short documentary on "Bull" Connor and the Civil Rights Movement](https://youtu.be/j9kT1yO4MGg?si=te0AAR5_8hMfrn55)
+
 
 {{< /details >}}
 
