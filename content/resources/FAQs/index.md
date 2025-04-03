@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 4
 bookFlatSection: true
 bookToc: true
 bookHidden: false
@@ -37,7 +37,7 @@ In the past I've said no to this question because I found that students who brin
 
 > ### Yes!
 
-I will be happy to accommodate students whose schedules conflict with my office hours. Contact me and we can work out the details. If we are unable to find a time that works for both of us, [RWIT](https://students.dartmouth.edu/rwit/) is another excellent option.
+I will be happy to accommodate students whose schedules conflict with my office hours. Contact me and we can work out the details. If we are unable to find a time that works for both of us, the Dartmouth [Writing Center](https://writing.dartmouth.edu/support/writing-center) is another excellent option.
 
 {{< /details >}}
 

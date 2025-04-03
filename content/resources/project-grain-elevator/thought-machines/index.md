@@ -4,6 +4,7 @@ bookHidden: false
 bookToC: true
 title: "+ Thought Machines"
 type: docs
+draft: true
 ---
 
 

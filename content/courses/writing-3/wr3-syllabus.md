@@ -183,7 +183,9 @@ All work submitted for this course must be your own and be written exclusively f
 {{< /hint >}} 
 
 
-{{< details "Some Thoughts on Generative AI and Writing" >}}
+{{< details "Some Further Thoughts on Generative AI and Writing" >}}
+
+---
 
 While Generative AI certainly has a place in many fields and disciplines (and I’m genuinely excited about aspects of it myself), I believe that it is fundamentally in conflict with the goals of the writing classroom.
 
@@ -191,19 +193,25 @@ My sense has always been that the writing classroom is the best place to develop
 
 An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or "research" will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be?
 
-As you will understand the more you get to know me, I view learning to write as a fundamental tool of liberty. I share this view with one of the foundational scholars of composition studies, I. A. Richards, who thought that the writing teacher's purpose was to place the "process of composing, of forming, in the control of the meaning-maker," the student. As scholar [Ann Berthoff explains](https://www.jstor.org/stable/3885439), Richards believed that reading and writing "were moral concerns and that we we do in teaching them . . . has important political dimensions. Control means the ability to exercize choice. Just as interpretation in the classroom is a model for all acts of mind, so learning to choose words and deciding the way we want them to work 'can become an introduction to the theory of all choices.' Gains in literacy are therefore gains in human freedom." Or, of course, we could just give all that up.  
+<!---
+As you will understand the more you get to know me, I view learning to write as a fundamental tool of liberty. I share this view with one of the foundational scholars of composition studies, I. A. Richards, who thought that the writing teacher's purpose was to place the "process of composing, of forming, in the control of the meaning-maker [the student]
+. As scholar [Ann Berthoff explains](https://www.jstor.org/stable/3885439):
 
-It only makes sense to cut corners with an AI tool if we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
+> [I. A. Richard's] pedagogical inventions are all conceived of as ways and means of placing the process of composing, of forming, in the control of the meaning-maker [the student]. By their means, IAR gave form to his passionate conviction that reading and writing are moral concerns and that what we do in teaching them . . . has important political dimensions. Control means the ability to exercise choice. Just as interpretation in the classroom is a model for all acts of mind, so learning to choose words and deciding the way we want them to work "can become an introduction to the theory of all choices." Gains in literacy are therefore gains in human freedom (197).
 
-> “An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others.” 
+In short, learning to write is fundamentally about learning how to be free. I find this idea inspiring and persuasive. And it is a stark warning about the possible outcomes of misusing this new technology. 
+--->
+It only makes sense to cut corners with an AI tool if we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades. You write me some thoughts that conform to my specifications, I give you a good grade. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
+
+> An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others. 
 
 Echoing this point about the process of education, Ted Chiang [offers a perfect metaphor](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) to explain the problems with relying on GAI:
 
-> “[T]eachers don’t ask students to write essays because the world needs more student essays. The point of writing essays is to strengthen students’ critical-thinking skills; in the same way that lifting weights is useful no matter what sport an athlete plays, writing essays develops skills necessary for whatever job a college student will eventually get. Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.”
+> [T]eachers don’t ask students to write essays because the world needs more student essays. The point of writing essays is to strengthen students’ critical-thinking skills; in the same way that lifting weights is useful no matter what sport an athlete plays, writing essays develops skills necessary for whatever job a college student will eventually get. Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.
 
 Some of the problems and struggles that come with education are actually things that we shouldn't try to get rid of. Side-stepping these difficulties renders the entire enterprise of education pointless. [Joshua Thorpe](https://wonkhe.com/blogs/the-real-risk-of-generative-ai-is-a-crisis-of-knowledge/) explains:
 
->“[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.” 
+>[AI] tools suddenly make it really easy to do all kinds of things, very quickly, that used to be hard and slow. Many of these things used to be essential to the intrinsic value of university work—planning, decision-making, struggling, searching, assessing sources, grappling with difficult texts, and learning to accept the discomfort of uncertainty. AI tools remove problems. But some of the problems they remove are useful to have and to solve as a human. Students will find it really difficult to distinguish between what problems are good to solve quickly with AI, and which problems are more valuable to solve themselves.
 
 I would argue that Thorpe doesn't go quite far enough: not only are many of these problems and difficulties "useful to have and to solve as a human," these struggles are *precisely the things that make us human and allow us to become more humane*. Among the many problems I believe you should solve yourself if you are interested in being intelligent and growing as a human being:
 
@@ -247,7 +255,7 @@ Here is a list of the typical assignments and activities that we will do each we
 
 2. As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
-3. After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in your [field notebook](/resources/project-grain-elevator/field-notes/). These notes will be valuable to you later, when you write your essays (and perhaps further off in the future). Bring your field notebook(s) to every class meeting. 
+3. After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in your [field notebook](/resources/field-notes/). These notes will be valuable to you later, when you write your essays (and perhaps further off in the future). Bring your field notebook(s) to every class meeting. 
 
 Here are longer, more detailed, descriptions of these three activities:
 
@@ -288,7 +296,7 @@ At the end of this rigorous process you should have a simplified version of the 
 
 ### 3. Field Notebook Entries
 
-Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering as you explore various fields of inquiry. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
+Your [field notebook](/resources/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering as you explore various fields of inquiry. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
 
 *Keep a tight record of your mind's travels*. 
 
@@ -428,7 +436,7 @@ Students requesting disability-related accommodations and services for this cour
 
 - <i class="fa-solid fa-code-pull-request"></i> [`Introduction to Academic Research`](/courses/workshops/academic-research-intro)| A brief introduction to the processes involved in a research project. The lectures and workshops that follow build on this initial description.
 - <i class="fa-solid fa-file-pdf"></i> [Sontag, Susan. “The Imagination of Disaster.” *Commentary*, vol. 40, 1965, pp. 42–48.](/courses/writing-3/wr3-syllabus/#required-texts) 
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
 ---
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i> `In-class work` </span>
@@ -557,8 +565,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 
 
 - <i class="fa-solid fa-file-pdf"></i> [Thomas Hobbes, selection from *Leviathan* (1651)](/courses/writing-3/wr3-syllabus/#required-texts) 
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
-    - <i class="fa-solid fa-gear"></i> [Thought Machine #15 Indigation](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #15 Indigation](/resources/thought-machines/): Use the thought machine to write up a short response to this text.  
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -576,8 +584,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa-solid fa-file-pdf"></i> [Claire Curtis, *Post-Apocalyptic Fiction and the Social Contract*, “Introduction.”](/courses/writing-3/wr3-syllabus/#required-texts) 
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
-    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/thought-machines/): Use the thought machine to write up a short response to this text.  
 - <i class="fa-solid fa-code-pull-request"></i> [`Finding Books and other Physical Holdings in the Library`](/courses/workshops/locate-books) | Study the portion about finding books and other items in the library stacks; we will complete the workshop portion in class.
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -596,8 +604,8 @@ Philosophers and social scientists have attempted to explain the origins of civi
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa-solid fa-file-pdf"></i>  [Rebecca Solnitt, excerpts from *A Paradise Built in Hell*.](/courses/writing-3/wr3-syllabus/#required-texts)
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
-    - <i class="fa-solid fa-gear"></i> [Thought Machine #4 Quick Argument](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text. 
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #4 Quick Argument](/resources/thought-machines/): Use the thought machine to write up a short response to this text. 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -633,8 +641,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 
 - <i class="fas fa-video"></i>  Film, [*The Last Man on Earth*](https://canvas.dartmouth.edu/) (1964) | Film is in the "Panopto Video" section of Canvas. *Resist the urge to watch the film at faster than 1x speed*.
     - <i class="fas fa-external-link-alt"></i> [Wikipedia page on the 1960s](https://en.wikipedia.org/wiki/1960s) | Skim this reading to gain an overview of the important historical/cultural events in this decade.
-    - <i class="fa-solid fa-list-check"></i> [View and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the film in your [field notebook](/resources/project-grain-elevator/field-notes/).
-    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    - <i class="fa-solid fa-list-check"></i> [View and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the film in your [field notebook](/resources/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/thought-machines/): Use the thought machine to write up a short response to this text.  
     - <i class="fas fa-camera-retro"></i>  [Stills from *The Last Man on Earth*](/courses/writing-3/last-man-stills). 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -651,8 +659,8 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa-solid fa-file-pdf"></i> [Deborah Christie, “A Dead New World: Richard Matheson and the Modern Zombie.”](/courses/writing-3/wr3-syllabus/#required-texts)
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
-    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text. 
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #3 Quick Response](/resources/thought-machines/): Use the thought machine to write up a short response to this text. 
     
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -696,9 +704,9 @@ Cultural Studies scholars argue that post-apocalyptic narratives proliferate dur
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fas fa-video"></i>  Film, [*I Am Legend*](https://canvas.dartmouth.edu/) (2007) 
-    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on in your [field notebook](/resources/field-notes/).
     - <i class="fas fa-video"></i> [Alternate ending](https://www.youtube.com/watch?v=kPSk30qzgFs) of *I Am Legend* (only watch after completing the original film).
-    - <span style="color: var(--due)"><i class="fa-solid fa-gear"></i></span> [Thought Machine #7 Comparison](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    - <span style="color: var(--due)"><i class="fa-solid fa-gear"></i></span> [Thought Machine #7 Comparison](/resources/thought-machines/): Use the thought machine to write up a short response to this text.  
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -767,9 +775,9 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fas fa-video"></i>  Film, [*Night of the Living Dead*](https://canvas.dartmouth.edu/) (1968)
-    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/field-notes/).
     - <i class="fas fa-camera-retro"></i>  [Stills from *Night of the Living Dead*](/courses/writing-3/night-stills). 
-    - <span style="color: var(--due)"><i class="fa-solid fa-gear"></i></span> [Thought Machine #4 Quick Argument](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.      
+    - <span style="color: var(--due)"><i class="fa-solid fa-gear"></i></span> [Thought Machine #4 Quick Argument](/resources/thought-machines/): Use the thought machine to write up a short response to this text.      
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -785,9 +793,9 @@ Vampires, werewolves, and Frankenstein are all monsters of European extraction; 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa-solid fa-file-pdf"></i> [Peter Dendle, “The Zombie as Barometer of Cultural Anxiety.”](/courses/writing-3/wr3-syllabus/#required-texts) 
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
     - <i class="fas fa-video"></i> [Scene from *White Zombie* (1932) at Murder Legendere's plantation](https://youtu.be/NV3B2z0HkKA?t=741).
-    - <i class="fa-solid fa-gear"></i> [Thought Machine #4 Quick Argument](/resources/project-grain-elevator/thought-machines/): Use the thought machine to write up a short response to this text.  
+    - <i class="fa-solid fa-gear"></i> [Thought Machine #4 Quick Argument](/resources/thought-machines/): Use the thought machine to write up a short response to this text.  
     
 
 
@@ -843,7 +851,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa fa-video"></i> [*Beasts of the Southern Wild*](https://canvas.dartmouth.edu)  (2012) | Film is in the "Panopto Video" section of Canvas.
-    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/field-notes/).
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
 
@@ -861,7 +869,7 @@ We tend to think of violence as an explosive event that erupts in a singular mom
 
 
 - <i class="fa-solid fa-file-pdf"></i> [Rob Nixon, *Slow Violence and the Environmentalism of the Poor*, “Introduction.”](/courses/writing-3/wr3-syllabus/#required-texts)
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
     
 <!---   
 - <i class="fa-solid fa-file-pdf"></i> Natalia Cecire, "Environmental Innocence and Slow Violence."
@@ -910,7 +918,7 @@ Recent post-apocalyptic narratives depict cults of hypermasculinity that redress
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
 - <i class="fa fa-video"></i> [*Fight Club*](https://canvas.dartmouth.edu)  (1999) | Film is in the "Panopto Video" section of Canvas
-    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [View the film and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) in your [field notebook](/resources/field-notes/).
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>
@@ -975,9 +983,9 @@ Recent years have seen an explosion of “reality” television programming base
 
 <span style="color: var(--night)"><i class="fa-solid fa-moon"></i>`Homework`</span>
 
-- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/15KWg-kGwN5ivDx1bkVCyGIcUsKGuc3qI?usp=drive_link).
+- <i class="fas fa-video"></i> [*Doomsday Preppers*](https://drive.google.com/drive/folders/1ykMSt6JaLigViRvLgWN_8o8T9DG6TOJG?usp=drive_link). 
 - <i class="fa fa-download"></i> ["The super-rich ‘preppers’ planning to save themselves from the apocalypse"](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff).
-    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/).
+    - <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-3/wr3-syllabus/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/).
 
 
 <span style="color: var(--readings)"><i class="fa-solid fa-sun"></i>`In-class work`</span>

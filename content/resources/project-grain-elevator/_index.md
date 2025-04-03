@@ -2,7 +2,7 @@
 weight: 0
 bookFlatSection: true
 title: "Project Grain Elevator"
-draft: false
+draft: true
 ---
 
 

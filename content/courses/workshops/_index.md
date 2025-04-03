@@ -1,7 +1,7 @@
 ---
 weight: 3
-title: Workshops
-bookFlatSection: true
+title: + Workshops
+bookFlatSection: false
 bookToc: true
 type: docs
 ---

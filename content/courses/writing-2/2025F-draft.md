@@ -33,7 +33,7 @@ During the winter term we will turn our focus to academic research. Our librarie
 
 ## Course Theme
 
-Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is something that has always been with us, something that is self-evidently the right and obvious thing to do—part of the everyday backdrop of life that we take for granted and rarely consider critically. 
+Formal education is one of the central features of our early life---a deep, organizing structure that has shaped and influenced us in profound and unaccountable ways. Education, like culture more broadly, is so ordinary and pervasive that it has become thoroughly naturalized, its powerful effects rendered virtually invisible to us. Education, in short, is part of the everyday backdrop of life that we take for granted and rarely consider critically. 
 
 Although it is quite difficult to escape the naturalizing trance that comes from our habitual exposure to such common features of our lifeworld, it is important to develop a capacity for this form of analysis---to see more clearly the weird within the familiar. In this term we will try to step outside of our experiences with formal education and gain some distance on the practices and normalizing structures that have formed and shaped us since before we can even remember. If we defamiliarize these experiences by holding them at a distance and trying to see them as if for the first time, what do we see? 
 
@@ -165,7 +165,7 @@ Here is a list of the typical assignments and activities that we will do each we
 
 2. As you read, I ask that you [annotate](/resources/open-handbook/chapter-1/) the text---that is, mark up the text by adding meaningful symbols, marginal notes, and questions on the document itself. <span class="highlight">***Note***: this requires that you print out the text before you begin reading it.</span> Bring this annotated copy of the reading with you to class to help you engage in the group discussion and analysis. 
 
-3. After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in your [field notebook](/resources/field-notes/). These notes will be valuable to you later, when you write your essays (and perhaps further off in the future). Bring your field notebook(s) to every class meeting. 
+3. After making your annotations, take [critical notes](/resources/open-handbook/chapter-2/) on the text in your [field notebook](/resources/project-grain-elevator/field-notes/). These notes will be valuable to you later, when you write your essays (and perhaps further off in the future). Bring your field notebook(s) to every class meeting. 
 
 Here are longer, more detailed, descriptions of these three activities:
 
@@ -206,7 +206,7 @@ At the end of this rigorous process you should have a simplified version of the 
 
 ### 3. Field Notebook Entries
 
-Your [field notebook](/resources/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering as you explore various fields of inquiry. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
+Your [field notebook](/resources/project-grain-elevator/field-notes/) is a record of your thinking and observations, a chronicle of your attempts to know and understand. It should contain notes, ideas, and questions about our course readings, class discussions, and anything else that seems worth noting and remembering as you explore various fields of inquiry. I like the metaphor of the field notebook as it conjures scenes of exploration, discovery, encounter, excitement, danger. 
 
 *Keep a tight record of your mind's travels*. 
 
@@ -293,10 +293,15 @@ Students requesting disability-related accommodations and services for this cour
 
 ## Schedule of Readings and Assignments
 
+
+
 {{< details "Week 1" >}}
 
+{{< button >}}Critical Thinking{{< /button >}}
+
+
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> | Monday, 9.16
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> | Monday, 9.15
 {{< /hint >}} 
 
 
@@ -309,14 +314,16 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
 - Consider these questions: *What is education? What is its purpose?* Do some thinking and note-taking on these
-  questions in your provided [field notebooks](/resources/field-notes/). 
-    - <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; don't request an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
+  questions in your provided [field notebooks](/resources/project-grain-elevator/field-notes/). 
 
+{{< hint note >}}   
+<span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> *Please do not research these questions*: don't google them; don't ask your roommate or call your uncle Pete; don't prompt an AI bot to generate some "thoughts." I want to know what *you* think. Arrive to class on Wednesday with some ideas that you can express and defend.
+{{< /hint >}} 
 - <i class="fa fa-calendar-alt"></i> [Essay 1](/courses/writing-2/essay-1)
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.18 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.17 
 {{< /hint >}} 
 
 
@@ -334,7 +341,7 @@ Students requesting disability-related accommodations and services for this cour
 
 ---
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.20 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.19 
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
@@ -358,15 +365,18 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< details "Week 2" >}}
 
+{{< button >}}Close Reading{{< /button >}}
+{{< button >}}Critical Thinking{{< /button >}}
+
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.23 
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.22 
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
 - <i class="fa fa-download"></i> Nicholson Baker, ["Changes of Mind"](https://canvas.dartmouth.edu)
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your [field notebook](/resources/field-notes/)
+- <i class="fa-solid fa-list-check"></i> [Print out, read, annotate, and take critical notes](/courses/writing-2/wr2-syllabus-revised/#typical-weekly-workflow) on the reading in your [field notebook](/resources/project-grain-elevator/field-notes/)
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> Question of the Day™
@@ -375,11 +385,11 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 9.24
 {{< /hint >}} 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
-- <i class="fa-regular fa-file-lines"></i> Return to the text: push for more understanding; map our your confusion; make further observations. Record your thoughts and ideas in your [field notebooks](/resources/field-notes/).
+- <i class="fa-regular fa-file-lines"></i> Return to the text: push for more understanding; map our your confusion; make further observations. Record your thoughts and ideas in your [field notebooks](/resources/project-grain-elevator/field-notes/).
 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
@@ -390,7 +400,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.27
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 9.26
 {{< /hint >}} 
 
 
@@ -409,7 +419,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Week 3" >}}
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.30
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.29
 {{< /hint >}} 
 
 
@@ -427,7 +437,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.02
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.01
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
@@ -445,7 +455,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.04
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.03
 {{< /hint >}} 
 
 
@@ -476,7 +486,7 @@ Students requesting disability-related accommodations and services for this cour
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.7
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.06
 {{< /hint >}} 
 
 
@@ -494,7 +504,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.9
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.08
 {{< /hint >}} 
 
 <span style="color: var(--independent)"><i class="fas fa-circle"></i></span> `Independent work`
@@ -509,7 +519,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.11
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.10
 {{< /hint >}} 
 
 
@@ -538,7 +548,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.14
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.13
 {{< /hint >}} 
 
 
@@ -558,7 +568,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.16
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.15
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
@@ -577,7 +587,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.18
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.17
 {{< /hint >}} 
 
 
@@ -613,7 +623,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.21
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.20
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> **Readings**
@@ -638,7 +648,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.23
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.22
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -651,7 +661,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.24
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -675,7 +685,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.28
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 10.27
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
@@ -694,7 +704,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.30
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 10.29
 {{< /hint >}} 
 
 <span style="color: var(--readings)"><i class="fas fa-circle"></i></span> `Readings`
@@ -713,7 +723,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.01
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 10.31
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -738,7 +748,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.04
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.03
 {{< /hint >}} 
 
 
@@ -762,7 +772,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.06
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.05
 {{< /hint >}} 
 
 - <i class="fa fa-comments"></i> Conferences
@@ -778,7 +788,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.08
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.07
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -809,7 +819,7 @@ Students requesting disability-related accommodations and services for this cour
 #
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.11
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.10
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -833,7 +843,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.13
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Wednesday, 11.12
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -844,7 +854,7 @@ Students requesting disability-related accommodations and services for this cour
 ---
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.15
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.14
 {{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> **In-class work**
@@ -859,7 +869,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Week 10" >}}
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.18
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.17
 {{< /hint >}} 
 
 
@@ -871,7 +881,7 @@ Students requesting disability-related accommodations and services for this cour
 
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.22
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Friday, 11.21
 {{< /hint >}} 
 
 
@@ -888,7 +898,7 @@ Students requesting disability-related accommodations and services for this cour
 {{< details "Exam Week" >}}
 
 {{< hint note >}} 
-#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.25
+#### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 11.24
 {{< /hint >}} 
 
 <span style="color: var(--due)"><i class="fas fa-circle"></i></i></span> **Due**

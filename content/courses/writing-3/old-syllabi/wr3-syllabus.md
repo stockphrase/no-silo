@@ -4,6 +4,7 @@ bookFlatSection: true
 bookToc: true
 bookHidden: true
 title: "Writing 3: Syllabus"
+draft: true
 ---
 {{< hint note >}} 
 #### <i class="fas fa-dot-circle"></i> **WR3** | **Syllabus**
