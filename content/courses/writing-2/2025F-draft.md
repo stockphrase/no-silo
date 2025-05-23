@@ -297,9 +297,6 @@ Students requesting disability-related accommodations and services for this cour
 
 {{< details "Week 1" >}}
 
-{{< button >}}Critical Thinking{{< /button >}}
-
-
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> | Monday, 9.15
 {{< /hint >}} 
@@ -331,7 +328,10 @@ Students requesting disability-related accommodations and services for this cour
 - Read the [entire syllabus](/courses/writing-2/wr2-syllabus) very carefully; note any questions or needs for clarification
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Annotation and Critical Reading"](/resources/open-handbook/chapter-1) 
 - <i class="fa fa-book-open"></i> *Open Handbook*, ["Critical Notes"](/resources/open-handbook/chapter-2)
-    - <span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> You do not need to print out readings from the *Open Handbook* unless you want to. Only the course readings from Canvas. 
+
+{{< hint note >}}   
+<span style="color: var(--due)"><i class="fa-solid fa-triangle-exclamation"></i></span> You do not need to print out readings from the *Open Handbook* unless you want to. 
+{{< /hint >}} 
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-question-circle"></i> [Question of the day™](https://docs.google.com/document/d/1jp5ZFBZzS3mzM10OmV_UAMmNv6jL2qM1IldHVJHcji0/edit?usp=sharing)
@@ -364,9 +364,6 @@ Students requesting disability-related accommodations and services for this cour
 <br>
 
 {{< details "Week 2" >}}
-
-{{< button >}}Close Reading{{< /button >}}
-{{< button >}}Critical Thinking{{< /button >}}
 
 {{< hint note >}} 
 #### <span style="color: var(--in-class)"><i class="fas fa-calendar-day"></i> </span> Monday, 9.22 
@@ -407,10 +404,11 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--in-class)"><i class="fas fa-circle"></i></span> `In-class work`
 - <i class="fa fa-box"></i> Friday Soapbox
-- <i class="fa-solid fa-magnifying-glass"></i>  Close reading exercise  
 - <i class="fa fa-wrench"></i> [Argument Summary Workshop](/courses/workshops/argument-summary/)
+- <i class="fa-solid fa-magnifying-glass"></i>  Close Reading: Showing the work of reading. 
 
-
+<span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> `Assignments`
+> <i class="fa-solid fa-magnifying-glass"></i>  Essay 2: Close Reading 
 
 {{< /details >}}
 
@@ -474,9 +472,6 @@ Students requesting disability-related accommodations and services for this cour
 - <i class="fa fa-bullseye"></i> Argument Summary Workshop 
     - <i class="fas fa-print"></i> Bring a printed copy of your workshop to class
     
-- <i class="fas fa-microphone-alt"></i> Going for the ultimate form of irony with an AI-generated podcast episode based on Percy's essay:
-
-{{< audio mp3="/audio/loss-of-the-creature.wav" >}}
  
 {{< /details >}}
 
@@ -831,8 +826,6 @@ Students requesting disability-related accommodations and services for this cour
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**
 - <i class="fa fa-wrench"></i> [Show, don't tell](/courses/workshops/show-not-tell) workshop
-
-
 
 
 <span style="color: var(--assignments)"><i class="fas fa-circle"></i></span> **Assignments**

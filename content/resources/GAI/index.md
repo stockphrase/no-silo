@@ -1,7 +1,7 @@
 ---
 bookFlatSection: false
 bookHidden: false
-bookToC: false
+bookToC: true
 title: "+ On Generative AI"
 type: docs
 draft: false
@@ -18,15 +18,13 @@ My sense has always been that the writing classroom is the best place to develop
 
 An overreliance on AI tools to complete tasks that we would normally describe as “thinking” or “analysis” or "research" will have a tremendously negative effect on our development as individuals. If we use these tools merely to get answers, not encourage us to develop understanding or skill; or if we allow them to generate a mere appearance of thought and expression, rather than its substance, then what will become of us? I mean this literally: what will we be?
 
-<!---
-As you will understand the more you get to know me, I view learning to write as a fundamental tool of liberty. I share this view with one of the foundational scholars of composition studies, I. A. Richards, who thought that the writing teacher's purpose was to place the "process of composing, of forming, in the control of the meaning-maker [the student]
-. As scholar [Ann Berthoff explains](https://www.jstor.org/stable/3885439):
+As you will understand the more you get to know me, I view learning to write as a fundamental tool of liberty. In fact, the liberal arts (*artes liberales*) literally mean the arts or tools of freedom. Learning to articulate your ideas, to shape your reasoning, to analyze, to question, to research, to use evidence—to learn to write, in other words, is the foundational experience of education. I share this view with one of the founding scholars of composition studies, I. A. Richards. As [Ann Berthoff explains](https://www.jstor.org/stable/3885439):
 
-> [I. A. Richard's] pedagogical inventions are all conceived of as ways and means of placing the process of composing, of forming, in the control of the meaning-maker [the student]. By their means, IAR gave form to his passionate conviction that reading and writing are moral concerns and that what we do in teaching them . . . has important political dimensions. Control means the ability to exercise choice. Just as interpretation in the classroom is a model for all acts of mind, so learning to choose words and deciding the way we want them to work "can become an introduction to the theory of all choices." Gains in literacy are therefore gains in human freedom (197).
+> [Richard's] pedagogical inventions are all conceived of as ways and means of placing the process of composing, of forming, in the control of the meaning-maker [the student]. By their means, IAR gave form to his passionate conviction that reading and writing are moral concerns and that what we do in teaching them . . . has important political dimensions. Control means the ability to exercise choice. Just as interpretation in the classroom is a model for all acts of mind, so learning to choose words and deciding the way we want them to work "can become an introduction to the theory of all choices." Gains in literacy are therefore gains in human freedom (197).
 
-In short, learning to write is fundamentally about learning how to be free. I find this idea inspiring and persuasive. And it is a stark warning about the possible outcomes of misusing this new technology. 
---->
-It only makes sense to cut corners with an AI tool if we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
+I find this idea inspiring and persuasive. And it is a stark warning about the possible outcomes from misusing this new technology. 
+
+Consider that it only makes sense to cut corners with an AI tool so long as we imagine education as a kind of economy rooted in the exchange of educational products that receive compensation in the form of grades. However, this is an impoverished vision of the purpose of education. I am struck by [Lydia Cao and Chris Dede's](https://bpb-us-e1.wpmucdn.com/websites.harvard.edu/dist/a/108/files/2023/08/Cao_Dede_final_8.4.23.pdf) thoughts on this point:
 
 > An education that is heavily focused on products reduces learning to a transaction, exchanging a product for a grade, rather than providing a transformative human experience. Learning is much more than generating a product; in fact, the essence of learning is in the process – the journey rather than the destination. Learning to write is not primarily about producing a well-structured piece of text but about developing the capacity to organize one’s ideas, connect these to others’ ideas, analyze claims, synthesize insights, and fulfill our fundamental need to communicate with and learn from others. 
 
